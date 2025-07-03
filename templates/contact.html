@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+{% block title %}Contact Us - {{ config.site.name }}{% endblock %}
+{% block meta_description %}Contact {{ config.site.name }} to share story ideas or inquire about our blog.{% endblock %}
+{% block meta_keywords %}{{ config.site.keywords|join(', ') }}{% endblock %}
+{% block og_title %}Contact {{ config.site.name }}{% endblock %}
+{% block og_description %}Get in touch to share story ideas or learn more about our blog at {{ config.site.name }}.{% endblock %}
+{% block og_image %}{{ config.seo.og_image }}{% endblock %}
+{% block twitter_title %}Contact {{ config.site.name }}{% endblock %}
+{% block twitter_description %}Get in touch to share story ideas or learn more about our blog at {{ config.site.name }}.{% endblock %}
+{% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
+{% block canonical_url %}{{ url_for('contact', _external=True) }}{% endblock %}
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="{{ url_for('index') }}">Home</a>
+  <span>Contact Us</span>
+</nav>
+{% endblock %}
+{% block page_class %}contact-page{% endblock %}
+{% block content %}
+<section class="hero">
+  <img src="/content/assets/contact-hero.jpg" alt="Contact {{ config.site.name }}" loading="lazy" width="1200" height="600">
+  <div class="hero-content">
+    <h1>Contact Us</h1>
+    <p>Have questions or want to share a story idea? We're here to help!</p>
+  </div>
+</section>
+
+<section class="search-section">
+  <form class="search-bar" action="{{ url_for('search') }}" method="GET">
+    <input type="text" name="q" placeholder="Search articles..." required>
+    <button type="submit" aria-label="Search"></button>
+  </form>
+</section>
+
+<div class="form-container">
+  <form method="POST" action="{{ url_for('contact') }}">
+    <label for="name">Name: <input type="text" id="name" name="name" required></label>
+    <label for="email">Email: <input type="email" id="email" name="email" required></label>
+    <label for="message">Message: <textarea id="message" name="message" required></textarea></label>
+    <button type="submit" class="button">Send</button>
+  </form>
+</div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact {{ config.site.name }}",
+  "url": "{{ url_for('contact', _external=True) }}",
+  "description": "Contact {{ config.site.name }} to share story ideas or inquire about our blog."
+}
+</script>
+{% endblock %}

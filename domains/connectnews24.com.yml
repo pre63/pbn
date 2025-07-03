@@ -5,13 +5,7 @@ site:
   logo: /content/assets/logo-connectnews24.jpg
   favicon: /content/assets/favicon-connectnews24.png
   email: info@connectnews24.com
-  phone: "+1-604-555-0101"
-  address:
-    street: 123 Tech Lane
-    city: Vancouver
-    region: BC
-    postal_code: V6B 1A1
-    country: CA
+
 
 social_media:
   twitter: https://twitter.com/connectnews24
@@ -20,8 +14,6 @@ social_media:
 
 navigation:
   - name: Home
-    url: index
-  - name: Blog
     url: index
   - name: Contact
     url: contact
@@ -36,7 +28,7 @@ footer:
       url: contact
     - name: Privacy Policy
       url: privacy
-  copyright: © 2025 Connect News LLC. All rights reserved.
+  copyright: © 2025 Product Led LLC. All rights reserved.
 
 content:
   topics: [artificial intelligence, cybersecurity, tech startups, gadgets, software development]

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}{% endblock %} - {{ config.site.name }}</title>
+
+  <meta name="description" content="{% block meta_description %}{{ config.site.description }}{% endblock %}">
+  <meta name="keywords" content="{% block meta_keywords %}{{ config.site.keywords|join(', ') }}{% endblock %}">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="{{ config.site.name }}">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/content/assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ config.site.favicon|default('/content/assets/favicon-32x32.png') }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="/content/assets/favicon-16x16.png">
+  <link rel="manifest" href="/static/site.webmanifest">
+  <link rel="canonical" href="{% block canonical_url %}{{ request.url_root.rstrip('/') + request.path }}{% endblock %}">
+  
+  <meta property="og:site_name" content="{{ config.site.name }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% block og_title %}{% endblock %}">
+  <meta property="og:description" content="{% block og_description %}{% endblock %}">
+  {% set og_image = '' %}
+  <meta property="og:image" content="{% if og_image.startswith('http://') or og_image.startswith('https://') %}{{ og_image }}{% else %}{{ request.url_root.rstrip('/') + og_image if og_image else request.url_root.rstrip('/') + config.seo.og_image }}{% endif %}">
+  <meta property="og:url" content="{{ request.url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% block twitter_title %}{{ og_title|default('') }}{% endblock %}">
+  <meta name="twitter:description" content="{% block twitter_description %}{{ og_description|default('') }}{% endblock %}">
+  <meta name="twitter:image" content="{% if og_image.startswith('http://') or og_image.startswith('https://') %}{{ og_image }}{% else %}{{ request.url_root.rstrip('/') + og_image if og_image else request.url_root.rstrip('/') + config.seo.twitter_image }}{% endif %}">
+
+  <link rel="sitemap" type="application/xml" href="{{ url_for('sitemap') }}">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Lora:wght@400;500;700&display=swap">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "{{ config.site.name }}",
+      "url": "{{ url_for('index', _external=True) }}",
+    }
+  </script>
+  {% if config.analytics.google_analytics_id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ config.analytics.google_analytics_id }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', '{{ config.analytics.google_analytics_id }}');
+  </script>
+  {% endif %}
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a href="{{ url_for('index') }}">
+        <img src="{{ config.site.logo }}" alt="{{ config.site.name }} Logo" loading="lazy">
+      </a>
+    </div>
+    <button class="menu-toggle" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="nav-menu">
+      <a href="{{ url_for('index') }}">Home</a>
+      <a href="{{ url_for('contact') }}">Contact</a>
+      <a href="{{ url_for('guest_poster') }}">Write for Us</a>
+    </nav>
+  </header>
+  <main class="{% block page_class %}{% endblock %}">
+    {% block breadcrumbs %}
+    <nav class="breadcrumbs">
+      <a href="{{ url_for('index') }}">Home</a>
+    </nav>
+    {% endblock %}
+    {% block content %}{% endblock %}
+  </main>
+  <footer>
+    <div class="footer-content">
+      <div class="contact-info">
+        <p><strong>Contact Us</strong></p>
+        <p><a href="mailto:{{ config.site.email }}">{{ config.site.email }}</a></p>
+      </div>
+      <div class="social-links">
+        <p><strong>Social</strong></p>
+        {% for platform, url in config.social_media.items() %}
+        <a href="{{ url }}"><img class="social-icon" src="/content/assets/{{ platform }}.png" alt="{{ platform|capitalize }}" loading="lazy">{{ platform|capitalize }}</a>
+        {% endfor %}
+      </div>
+      <div class="newsletter">
+        <p><strong>Get Updates</strong></p>
+        <form action="{{ url_for('subscribe') }}" method="POST">
+          <input type="email" name="email" placeholder="Email address" required>
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+      <div class="footer-links">
+        <p><strong>More</strong></p>
+        {% for link in config.footer.links %}
+        <a href="{{ url_for(link.url) }}">{{ link.name }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    <p>{{ config.footer.copyright }}</p>
+  </footer>
+</body>
+</html>

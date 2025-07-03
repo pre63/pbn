@@ -1,0 +1,42 @@
+site:
+  name: Spot News 24
+  description: Hard-hitting news on Canada-US trade, BC politics, and energy infrastructure, with a sharp eye on cultural shifts.
+  keywords: [Canada-US trade, BC politics, energy infrastructure, Pacific Northwest, culture]
+  logo: /content/assets/logo-spotnews24.jpg
+  favicon: /content/assets/favicon-spotnews24.png
+  email: newsroom@spotnews24.com
+
+social_media:
+  twitter: https://twitter.com/spotnews24
+  facebook: https://facebook.com/spotnews24
+  instagram: https://instagram.com/spotnews24
+
+navigation:
+  - name: Home
+    url: index
+  - name: Contact
+    url: contact
+  - name: Guest Poster
+    url: guest_poster
+
+footer:
+  links:
+    - name: Guest Poster
+      url: guest_poster
+    - name: Contact Us
+      url: contact
+    - name: Privacy Policy
+      url: privacy
+  copyright: © 2025 Product Led LLC. All rights reserved. Breaking news, not your patience.
+
+content:
+  topics: [Canada-US trade, BC politics, energy infrastructure, Pacific Northwest culture, Indigenous rights]
+  articles_path: content/spotnews24.com/articles
+  default_image: /content/assets/news-bg.jpg
+
+analytics:
+  google_analytics_id: G-SPOTNEWS24
+
+seo:
+  og_image: /content/assets/news-bg.jpg
+  twitter_image: /content/assets/news-bg.jpg

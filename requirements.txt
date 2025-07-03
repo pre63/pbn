@@ -8,3 +8,6 @@ python-frontmatter
 markdown
 bs4
 python-slugify
+numpy
+pygments
+python-dateutil

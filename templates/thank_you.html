@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block title %}Thank You - {{ config.site.name }}{% endblock %}
+{% block meta_description %}Thank you for subscribing to {{ config.site.name }}’s newsletter for updates on {{ config.content.topics|join(', ') }}.{% endblock %}
+{% block meta_keywords %}{{ config.site.keywords|join(', ') }}{% endblock %}
+{% block og_title %}Thank You for Subscribing - {{ config.site.name }}{% endblock %}
+{% block og_description %}You’re now subscribed to {{ config.site.name }}’s newsletter for the latest updates on {{ config.content.topics|join(', ') }}.{% endblock %}
+{% block og_image %}{{ config.seo.og_image }}{% endblock %}
+{% block twitter_title %}Thank You for Subscribing - {{ config.site.name }}{% endblock %}
+{% block twitter_description %}You’re now subscribed to {{ config.site.name }}’s newsletter for the latest updates on {{ config.content.topics|join(', ') }}.{% endblock %}
+{% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
+{% block canonical_url %}{{ url_for('thank_you', _external=True) }}{% endblock %}
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="{{ url_for('index') }}">Home</a>
+  <span>Thank You</span>
+</nav>
+{% endblock %}
+{% block page_class %}thank-you-page{% endblock %}
+{% block content %}
+<section class="hero">
+  <img src="/content/assets/thank-you-hero.jpg" alt="Thank You for Subscribing" loading="lazy" width="1200" height="600">
+  <div class="hero-content">
+    <h1>Thank You for Subscribing!</h1>
+    <p>You’re now part of the {{ config.site.name }} community. Expect the latest updates on {{ config.content.topics|join(', ') }} straight to your inbox.</p>
+  </div>
+</section>
+
+<section class="search-section">
+  <form class="search-bar" action="{{ url_for('search') }}" method="GET">
+    <input type="text" name="q" placeholder="Search articles..." required>
+    <button type="submit" aria-label="Search"></button>
+  </form>
+</section>
+
+<p><a href="{{ url_for('index') }}" class="button">Return to Home</a></p>
+{% endblock %}

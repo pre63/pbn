@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+{% block title %}Explore Articles - {{ config.site.name }}{% endblock %}
+{% block meta_description %}Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
+{% block meta_keywords %}{{ config.site.keywords|join(', ') }}{% endblock %}
+{% block og_title %}Explore Articles - {{ config.site.name }}{% endblock %}
+{% block og_description %}Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
+{% block og_image %}{{ config.seo.og_image }}{% endblock %}
+{% block twitter_title %}Explore Articles - {{ config.site.name }}{% endblock %}
+{% block twitter_description %}Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
+{% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="{{ url_for('index') }}">Home</a>
+  <span>Explore Articles</span>
+</nav>
+{% endblock %}
+{% block page_class %}not-found-page{% endblock %}
+{% block content %}
+<section class="hero">
+  <img src="/content/assets/404.jpg" alt="Page Not Found" loading="lazy" width="1200" height="600">
+  <div class="hero-content">
+    <h1>Page Not Found</h1>
+    <p>Lost? Explore our latest articles or return home.</p>
+  </div>
+</section>
+
+<section class="search-section">
+  <form class="search-bar" action="{{ url_for('search') }}" method="GET">
+    <input type="text" name="q" placeholder="Search for articles..." required>
+    <button type="submit" aria-label="Search"></button>
+  </form>
+  <p><a href="{{ url_for('index') }}" class="button">Go to Homepage</a></p>
+</section>
+
+{% if related_articles %}
+<section class="related-articles">
+  <h2>Suggested Articles</h2>
+  <div class="article-list">
+    {% for article in related_articles %}
+    <div class="article-preview">
+      <a href="{{ url_for('article', slug=article.slug) }}">
+        <picture>
+          <source srcset="{{ article.og_image|default(config.content.default_image) }}" type="image/webp">
+          <img src="{{ article.og_image|default(config.content.default_image) }}" alt="{{ article.title }}" loading="lazy" width="1200" height="600">
+        </picture>
+        <h3>{{ article.title }}</h3>
+        <p>{{ article.meta_description }}</p>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Explore Articles",
+  "description": "Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ config.site.name }}",
+    "url": "{{ url_for('index', _external=True) }}"
+  }
+}
+</script>
+{% endblock %}

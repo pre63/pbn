@@ -1,7 +1,7 @@
 .PHONY: dev test deploy install clean local
 
 dev: fix
-	@. .venv/bin/activate && DEV=True python -m src.app
+	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && DEV=True python -m main
 
 fix:
 	@. .venv/bin/activate && isort .
@@ -15,7 +15,7 @@ test:
 install:
 	@python3 -m venv .venv
 	@. .venv/bin/activate && pip install -r requirements.txt
-	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git openai
+	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git xai_sdk
 
 build: fix
 	@docker build -t pbn-app .
@@ -27,7 +27,13 @@ deploy: fix
 	fly deploy
 
 generate:
-	@. .venv/bin/activate && . .env && python3 -m scripts.article
+	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.article
+
+dates:
+	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.dates
+
+cross_post:
+	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.cross_post
 
 clean:
 	@rm -rf .venv

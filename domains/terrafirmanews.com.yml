@@ -1,0 +1,42 @@
+site:
+  name: Terra Firma News
+  description: Your source for Hollywood’s latest movies, TV shows, and celebrity buzz, grounded in entertainment excellence.
+  keywords: [Hollywood, movies, TV shows, celebrities, entertainment]
+  logo: /content/assets/logo-terrafirma.jpg
+  favicon: /content/assets/favicon-terrafirma.png
+  email: editor@terrafirmanews.com
+
+social_media:
+  twitter: https://twitter.com/terrafirmanews
+  facebook: https://facebook.com/terrafirmanews
+  instagram: https://instagram.com/terrafirmanews
+
+navigation:
+  - name: Home
+    url: index
+  - name: Contact
+    url: contact
+  - name: Guest Poster
+    url: guest_poster
+
+footer:
+  links:
+    - name: Guest Poster
+      url: guest_poster
+    - name: Contact Us
+      url: contact
+    - name: Privacy Policy
+      url: privacy
+  copyright: © 2025 Product Led LLC. All rights reserved. Lights, camera, snark!
+
+content:
+  topics: [Hollywood blockbusters, TV shows, celebrity milestones, indie films, streaming media]
+  articles_path: content/terrafirmanews.com/articles
+  default_image: /content/assets/hollywood-bg.jpg
+
+analytics:
+  google_analytics_id: G-TERRAFIRMA
+
+seo:
+  og_image: /content/assets/hollywood-bg.jpg
+  twitter_image: /content/assets/hollywood-bg.jpg

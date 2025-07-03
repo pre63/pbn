@@ -1,0 +1,85 @@
+{% extends 'base.html' %}
+{% block title %}Privacy Policy - {{ config.site.name }}{% endblock %}
+{% block meta_description %}Learn how {{ config.site.name }} handles your personal information, cookies, and data in our privacy policy.{% endblock %}
+{% block meta_keywords %}{{ config.site.keywords|join(', ') }}{% endblock %}
+{% block og_title %}Privacy Policy - {{ config.site.name }}{% endblock %}
+{% block og_description %}Understand our commitment to protecting your privacy and data at {{ config.site.name }}.{% endblock %}
+{% block og_image %}{{ config.seo.og_image }}{% endblock %}
+{% block twitter_title %}Privacy Policy - {{ config.site.name }}{% endblock %}
+{% block twitter_description %}Understand our commitment to protecting your privacy and data at {{ config.site.name }}.{% endblock %}
+{% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
+{% block canonical_url %}{{ url_for('privacy', _external=True) }}{% endblock %}
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="{{ url_for('index') }}">Home</a>
+  <span>Privacy Policy</span>
+</nav>
+{% endblock %}
+{% block page_class %}privacy-page{% endblock %}
+{% block content %}
+<section class="hero">
+  <img src="{{ config.seo.og_image }}" alt="Privacy Policy" loading="lazy" width="1200" height="600">
+  <div class="hero-content">
+    <h1>Privacy Policy</h1>
+    <p>Learn how we protect your data at {{ config.site.name }}.</p>
+  </div>
+</section>
+
+<section class="search-section">
+  <form class="search-bar" action="{{ url_for('search') }}" method="GET">
+    <input type="text" name="q" placeholder="Search articles..." required>
+    <button type="submit" aria-label="Search"></button>
+  </form>
+</section>
+
+<div class="content-container">
+  <h1>Privacy Policy</h1>
+  <p>Last updated: July 3, 2025</p>
+  <p>At {{ config.site.name }}, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website or interact with our services.</p>
+  
+  <h2>Information We Collect</h2>
+  <p>We may collect the following types of information:</p>
+  <ul>
+    <li><strong>Personal Information:</strong> When you submit a contact form or newsletter signup, we collect your name, email address, and other provided details.</li>
+    <li><strong>Usage Data:</strong> We collect anonymized data about your interactions with our website via Google Analytics, including page views and click events.</li>
+    <li><strong>Cookies:</strong> We use cookies to store preferences and enhance your experience. You can manage cookie settings in your browser.</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <p>We use collected information to:</p>
+  <ul>
+    <li>Process contact form submissions and newsletter signups.</li>
+    <li>Send newsletter updates to subscribers.</li>
+    <li>Improve our website through analytics and user behavior insights.</li>
+    <li>Comply with legal obligations.</li>
+  </ul>
+
+  <h2>Third-Party Services</h2>
+  <p>We use third-party services, including:</p>
+  <ul>
+    <li><strong>Google Analytics:</strong> For usage data and analytics.</li>
+    <li><strong>Amazon SES:</strong> For sending emails.</li>
+  </ul>
+  <p>These services may collect data according to their privacy policies.</p>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell or share your personal information with third parties, except as required by law or with your consent (e.g., guest post attribution).</p>
+
+  <h2>Data Security</h2>
+  <p>We use industry-standard measures to protect your data, including secure database storage and HTTPS encryption. However, no system is completely secure, and we cannot guarantee absolute security.</p>
+
+  <h2>Your Rights</h2>
+  <p>You have the right to:</p>
+  <ul>
+    <li>Request access to or deletion of your personal data.</li>
+    <li>Opt out of newsletters by unsubscribing.</li>
+    <li>Disable cookies in your browser settings.</li>
+  </ul>
+  <p>Contact us at <a href="mailto:{{ config.site.email }}">{{ config.site.email }}</a> to exercise these rights.</p>
+
+  <h2>Contact Us</h2>
+  <p>For questions about this Privacy Policy, contact us:</p>
+  <p>{{ config.site.name }}</p>
+  <p>Email: <a href="mailto:{{ config.site.email }}">{{ config.site.email }}</a></p>
+</div>
+{% endblock %}

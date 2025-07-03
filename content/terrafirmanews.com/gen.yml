@@ -1,0 +1,481 @@
+articles:
+  - title: "Olivia Munn’s Battle: Navigating Hollywood’s Power Plays"
+    topic: Hollywood Drama
+    keywords: [Olivia Munn, The Newsroom, Hollywood, career, industry]
+    description: "Exploring Olivia Munn’s claims of a Newsroom director sabotaging her career, highlighting the challenges actors face in Hollywood’s power dynamics.[](https://www.hollywoodreporter.com/tv/tv-news/olivia-munn-claims-a-newsroom-director-tried-to-ruin-career-1236305061/)"
+    author: Joanna Aucton
+    og_image: /content/assets/hollywood-drama.jpg
+  - title: "Brad Pitt’s F1 Triumph: Redefining Hollywood Blockbusters"
+    topic: Movie Success
+    keywords: [Brad Pitt, F1 movie, Hollywood, blockbusters, success]
+    description: "How Brad Pitt’s F1 movie, with its $144 million opening, redefines Hollywood blockbusters, blending star power with high-octane storytelling.[](https://www.timesnownews.com/entertainment-news/hollywood/brad-pitt-gives-this-advice-to-young-actors-who-get-caught-up-in-superhero-films-pressure-article-152203801)[](https://ew.com/movies)"
+    author: Jonah Stynebeck
+    og_image: /content/assets/f1-premiere.jpg
+  - title: "Hollywood Walk of Fame 2026: Celebrating New Icons"
+    topic: Celebrity Honors
+    keywords: [Hollywood Walk of Fame, Miley Cyrus, Timothée Chalamet, 2026, celebrities]
+    description: "Celebrating the 2026 Hollywood Walk of Fame class, including Miley Cyrus and Timothée Chalamet, and their impact on entertainment culture.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Silas Twaine
+    og_image: /content/assets/walk-of-fame.jpg
+  - title: "Deepika Padukone’s Star: Bollywood Meets Hollywood Glory"
+    topic: Celebrity Milestones
+    keywords: [Deepika Padukone, Hollywood Walk of Fame, Bollywood, 2026, global cinema]
+    description: "How Deepika Padukone’s 2026 Hollywood Walk of Fame star marks a milestone for Indian cinema, bridging Bollywood and Hollywood.[](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-receive-hollywood-walk-of-fame-star-in-2026-deets-inside/articleshow/122216004.cms)"
+    author: Emmeline Dickenson
+    og_image: /content/assets/deepika-star.jpg
+  - title: "The Death of Robin Hood: True Brit’s Bold New Venture"
+    topic: Indie Films
+    keywords: [True Brit Entertainment, The Death of Robin Hood, indie films, Hollywood, UK]
+    description: "Exploring True Brit Entertainment’s $125 million bet on The Death of Robin Hood, a fresh take on a classic tale for modern audiences.[](https://www.hollywoodreporter.com/movies/movie-news/true-brit-slate-the-death-of-robin-hood-christmas-karma-1236304636/)"
+    author: Alec Dumass
+    og_image: /content/assets/robin-hood-set.jpg
+  - title: "Charlize Theron’s Grit: The Old Guard 2’s Action Star"
+    topic: Movie Stars
+    keywords: [Charlize Theron, The Old Guard 2, Hollywood, action films, Henry Golding]
+    description: "How Charlize Theron’s commitment in The Old Guard 2, praised by Henry Golding, cements her as Hollywood’s action icon.[](https://www.soapcentral.com/entertainment/news-female-counterpart-tom-cruise-henry-golding-calls-charlize-theron-rare-commodity-hollywood)"
+    author: Eliza Alcotte
+    og_image: /content/assets/old-guard-premiere.jpg
+  - title: "Scarlett Johansson on Hollywood’s Evolution: Beyond the Male Gaze"
+    topic: Industry Trends
+    keywords: [Scarlett Johansson, Hollywood, women in film, roles, evolution]
+    description: "Scarlett Johansson reflects on the shift in women’s roles in Hollywood, from male-driven scripts to empowered narratives.[](https://www.hindustantimes.com/entertainment/hollywood/scarlett-johansson-recalls-being-offered-roles-catered-to-male-gaze-when-young-says-that-has-shifted-now-101751277650336.html)"
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/scarlett-interview.jpg
+  - title: "AI in Chinese Cinema: Reviving Bruce Lee’s Legacy"
+    topic: Global Cinema
+    keywords: [AI, Chinese cinema, Bruce Lee, Hollywood, technology]
+    description: "How China’s use of AI to remaster martial arts classics like Bruce Lee’s films contrasts with Hollywood’s cautious approach to AI.[](https://www.latimes.com/entertainment-arts/business/story/2025-06-30/china-reviving-martial-arts-classics-with-ai-as-controversial-tech-surges-overseas)"
+    author: Marcus Twyne
+    og_image: /content/assets/bruce-lee-ai.jpg
+  - title: "Fast and Furious Finale: Paul Walker’s Character Returns?"
+    topic: Movie Franchises
+    keywords: [Fast and Furious, Paul Walker, Vin Diesel, Hollywood, finale]
+    description: "Vin Diesel’s tease of Paul Walker’s character returning in the Fast and Furious finale, set for 2027, sparks fan excitement.[](https://www.41nbc.com/hollywood-minute-big-reveals-and-finales-ahead-in-film-and-anime/)"
+    author: Lara Wylde
+    og_image: /content/assets/fast-furious-set.jpg
+  - title: "Jurassic World Rebirth: Hollywood’s Dino-Sized Comeback"
+    topic: Movie Premieres
+    keywords: [Jurassic World Rebirth, Hollywood, blockbusters, premieres, dinosaurs]
+    description: "How Jurassic World Rebirth’s premiere signals Hollywood’s enduring love for dinosaur epics, blending nostalgia with modern thrills.[](https://x.com/THR/status/1938688878078034011)"
+    author: Davin Thorow
+    og_image: /content/assets/jurassic-premiere.jpg
+  - title: "M3GAN 2.0: The Future of Horror in Hollywood"
+    topic: Horror Films
+    keywords: [M3GAN 2.0, horror, Hollywood, technology, sequels]
+    description: "Exploring M3GAN 2.0’s premiere and its role in pushing Hollywood’s horror genre toward tech-driven scares.[](https://x.com/THR/status/1938688878078034011)"
+    author: Marian Shelleigh
+    og_image: /content/assets/m3gan-poster.jpg
+  - title: "Sanaa Kelley’s Sound Effects: The Unsung Art of Movies"
+    topic: Behind the Scenes
+    keywords: [Sanaa Kelley, sound effects, Hollywood, movies, craftsmanship]
+    description: "How Sanaa Kelley’s sound effects work brings movies to life, showcasing the artistry behind Hollywood’s blockbusters.[](https://www.cbsnews.com/)"
+    author: Sara Brontee
+    og_image: /content/assets/sound-studio.jpg
+  - title: "Nuked: Justin Bartha’s Comedy Comeback"
+    topic: Comedy Films
+    keywords: [Justin Bartha, Nuked, Hollywood, comedy, new releases]
+    description: "Justin Bartha’s role in Nuked highlights Hollywood’s appetite for fresh, cannabis-themed comedies with heart.[](https://www.cbsnews.com/)"
+    author: Joanna Aucton
+    og_image: /content/assets/nuked-set.jpg
+  - title: "Gideon Glick: From Broadway to Hollywood Stardom"
+    topic: Rising Stars
+    keywords: [Gideon Glick, Étoile, Hollywood, Broadway, rising stars]
+    description: "Gideon Glick’s journey from Spring Awakening to Étoile showcases a new talent redefining Hollywood’s star system.[](https://ew.com/movies)"
+    author: Jonah Stynebeck
+    og_image: /content/assets/gideon-glick.jpg
+  - title: "Christmas Karma: True Brit’s Holiday Film Gamble"
+    topic: Indie Films
+    keywords: [Christmas Karma, True Brit Entertainment, Hollywood, holiday films, indie]
+    description: "True Brit Entertainment’s Christmas Karma bets on heartfelt holiday stories to capture cinema audiences.[](https://www.hollywoodreporter.com/movies/movie-news/true-brit-slate-the-death-of-robin-hood-christmas-karma-1236304636/)"
+    author: Silas Twaine
+    og_image: /content/assets/christmas-karma.jpg
+  - title: "Rebekah Del Rio’s Legacy: A Loss for Hollywood"
+    topic: Celebrity Tributes
+    keywords: [Rebekah Del Rio, Hollywood, music, tribute, loss]
+    description: "Honoring the legacy of Hollywood singer Rebekah Del Rio, whose passing at 57 leaves a void in the industry.[](https://www.express.co.uk/celebrity-news)"
+    author: Emmeline Dickenson
+    og_image: /content/assets/rebekah-del-rio.jpg
+  - title: "Karate Kid: Legends – Jackie Chan’s Enduring Appeal"
+    topic: Movie Franchises
+    keywords: [Karate Kid, Jackie Chan, Hollywood, sequels, action]
+    description: "How Karate Kid: Legends, starring Jackie Chan, proves the enduring appeal of martial arts films in Hollywood.[](https://www.firstpost.com/category/entertainment/)"
+    author: Alec Dumass
+    og_image: /content/assets/karate-kid-set.jpg
+  - title: "Sitaare Zameen Par: YouTube’s New Bollywood Frontier"
+    topic: Streaming Media
+    keywords: [Sitaare Zameen Par, YouTube, Bollywood, Hollywood, streaming]
+    description: "Aamir Khan’s Sitaare Zameen Par on YouTube signals a shift in how Bollywood reaches global audiences, challenging Hollywood’s streaming giants.[](https://www.firstpost.com/category/entertainment/)"
+    author: Eliza Alcotte
+    og_image: /content/assets/youtube-premiere.jpg
+  - title: "Hollywood’s 21st Century Classics: A Shifting Canon"
+    topic: Movie Trends
+    keywords: [Hollywood, 21st century, classic films, industry trends, culture]
+    description: "How the New York Times’ poll of 500 industry names redefines Hollywood’s best films of the 21st century.[](https://nytimes.com/section/movies)"
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/hollywood-classics.jpg
+  - title: "The Sports Central Podcast: LA’s Entertainment Meets Sports"
+    topic: Entertainment Podcasts
+    keywords: [Sports Central, podcast, Hollywood, sports, LA]
+    description: "How the Sports Central Podcast blends LA’s sports and entertainment scenes, bringing star interviews to fans.[](https://www.cbsnews.com/losangeles/)"
+    author: Marcus Twyne
+    og_image: /content/assets/podcast-studio.jpg
+  - title: "F1’s Post-Credits Scene: Hollywood’s New Blockbuster Trick"
+    topic: Movie Trends
+    keywords: [F1 movie, post-credits, Hollywood, blockbusters, Brad Pitt]
+    description: "Exploring F1’s post-credits scene and Hollywood’s growing trend of using surprises to keep audiences hooked.[](https://www.express.co.uk/celebrity-news)"
+    author: Lara Wylde
+    og_image: /content/assets/f1-post-credits.jpg
+  - title: "Emily Blunt’s Walk of Fame: A Hollywood Milestone"
+    topic: Celebrity Honors
+    keywords: [Emily Blunt, Hollywood Walk of Fame, 2026, celebrities, movies]
+    description: "Celebrating Emily Blunt’s 2026 Hollywood Walk of Fame star, recognizing her versatile career in film.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Davin Thorow
+    og_image: /content/assets/emily-blunt-star.jpg
+  - title: "Rachel McAdams’ Star: From Mean Girls to Hollywood Icon"
+    topic: Celebrity Milestones
+    keywords: [Rachel McAdams, Hollywood Walk of Fame, 2026, movies, career]
+    description: "How Rachel McAdams’ 2026 Walk of Fame star cements her journey from Mean Girls to Hollywood powerhouse.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Marian Shelleigh
+    og_image: /content/assets/rachel-mcadams.jpg
+  - title: "Gordon Ramsay’s Hollywood Star: Culinary Fame Meets Cinema"
+    topic: Celebrity Honors
+    keywords: [Gordon Ramsay, Hollywood Walk of Fame, 2026, TV, culinary]
+    description: "Gordon Ramsay’s 2026 Hollywood Walk of Fame star highlights the crossover of culinary and entertainment fame.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Sara Brontee
+    og_image: /content/assets/gordon-ramsay-star.jpg
+  - title: "Rami Malek’s Walk of Fame: A Bohemian Rhapsody Legacy"
+    topic: Celebrity Honors
+    keywords: [Rami Malek, Hollywood Walk of Fame, 2026, movies, Bohemian Rhapsody]
+    description: "Celebrating Rami Malek’s 2026 Hollywood Walk of Fame star, honoring his transformative role in Bohemian Rhapsody.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Joanna Aucton
+    og_image: /content/assets/rami-malek-star.jpg
+  - title: "Stanley Tucci’s Star: A Versatile Hollywood Journey"
+    topic: Celebrity Milestones
+    keywords: [Stanley Tucci, Hollywood Walk of Fame, 2026, movies, career]
+    description: "How Stanley Tucci’s 2026 Walk of Fame star celebrates his versatile career, from indie films to blockbusters.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Jonah Stynebeck
+    og_image: /content/assets/stanley-tucci.jpg
+  - title: "Angélique Kidjo’s Hollywood Star: Music Meets Movies"
+    topic: Celebrity Honors
+    keywords: [Angélique Kidjo, Hollywood Walk of Fame, 2026, music, global]
+    description: "Angélique Kidjo’s 2026 Walk of Fame star bridges music and cinema, showcasing global talent in Hollywood.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Silas Twaine
+    og_image: /content/assets/angelique-kidjo.jpg
+  - title: "Shaquille O’Neal’s Walk of Fame: From Courts to Cinema"
+    topic: Celebrity Honors
+    keywords: [Shaquille O’Neal, Hollywood Walk of Fame, 2026, sports, movies]
+    description: "How Shaquille O’Neal’s 2026 Hollywood Walk of Fame star reflects his unique journey from NBA to Hollywood.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Emmeline Dickenson
+    og_image: /content/assets/shaq-star.jpg
+  - title: "Demi Moore’s Comeback: A Hollywood Star Reborn"
+    topic: Celebrity Comebacks
+    keywords: [Demi Moore, Hollywood Walk of Fame, 2026, movies, comeback]
+    description: "Demi Moore’s 2026 Walk of Fame star marks her triumphant return to Hollywood’s spotlight with bold new roles.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Alec Dumass
+    og_image: /content/assets/demi-moore.jpg
+  - title: "The Secret Lives of Mormon Wives: Reality TV’s New Hit"
+    topic: Reality TV
+    keywords: [Mormon Wives, reality TV, Hollywood, drama, reunion]
+    description: "How The Secret Lives of Mormon Wives’ reunion episode captivates audiences with emotional depth and drama."
+    author: Eliza Alcotte
+    og_image: /content/assets/mormon-wives-reunion.jpg
+  - title: "Oliver’s Cat Norman: A Hollywood Pet Legacy"
+    topic: Celebrity Pets
+    keywords: [Oliver, cat Norman, Hollywood, pets, emotional bond]
+    description: "Exploring Oliver’s heartfelt tribute to his cat Norman, resonating with Hollywood’s pet-loving audience."
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/pet-tribute.jpg
+  - title: "Mark Lee’s Health Scare: Hollywood’s Concern for a Star"
+    topic: Celebrity Health
+    keywords: [Mark Lee, health scare, Hollywood, fans, support]
+    description: "How Mark Lee’s health issues spark concern among Hollywood fans, highlighting the human side of stardom."
+    author: Marcus Twyne
+    og_image: /content/assets/mark-lee-hospital.jpg
+  - title: "Video Store Culture: Hollywood’s Nostalgic Revival"
+    topic: Movie Culture
+    keywords: [video stores, Hollywood, nostalgia, movies, culture]
+    description: "Alex Ross Perry’s documentary on video store culture taps into Hollywood’s nostalgic love for physical media.[](https://nytimes.com/section/movies)"
+    author: Lara Wylde
+    og_image: /content/assets/video-store.jpg
+  - title: "F1’s Sequel Buzz: Hollywood’s Next Big Franchise?"
+    topic: Movie Franchises
+    keywords: [F1 movie, sequel, Brad Pitt, Hollywood, franchises]
+    description: "Why Brad Pitt’s F1 success has Hollywood buzzing about a potential new blockbuster franchise.[](https://www.timesnownews.com/entertainment-news/hollywood/brad-pitt-gives-this-advice-to-young-actors-who-get-caught-up-in-superhero-films-pressure-article-152203801)"
+    author: Davin Thorow
+    og_image: /content/assets/f1-sequel.jpg
+  - title: "Once Upon a Time in Hollywood: A Sequel on the Horizon?"
+    topic: Movie Sequels
+    keywords: [Once Upon a Time in Hollywood, sequel, Brad Pitt, David Fincher, movies]
+    description: "Rumors of a David Fincher-directed sequel to Once Upon a Time in Hollywood spark excitement for Tarantino’s universe.[](https://www.timesnownews.com/entertainment-news/hollywood/brad-pitt-gives-this-advice-to-young-actors-who-get-caught-up-in-superhero-films-pressure-article-152203801)"
+    author: Marian Shelleigh
+    og_image: /content/assets/tarantino-sequel.jpg
+  - title: "Bollywood’s Global Rise: Lessons for Hollywood"
+    topic: Global Cinema
+    keywords: [Bollywood, Hollywood, global cinema, Deepika Padukone, industry]
+    description: "How Bollywood’s global success, led by stars like Deepika Padukone, challenges Hollywood to rethink its market approach.[](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-receive-hollywood-walk-of-fame-star-in-2026-deets-inside/articleshow/122216004.cms)"
+    author: Sara Brontee
+    og_image: /content/assets/bollywood-global.jpg
+  - title: "The Old Guard 2: Charlize Theron’s Action Legacy"
+    topic: Action Films
+    keywords: [The Old Guard 2, Charlize Theron, Hollywood, action, sequels]
+    description: "Charlize Theron’s return in The Old Guard 2 reinforces her status as Hollywood’s action queen, with epic new battles.[](https://www.soapcentral.com/entertainment/news-female-counterpart-tom-cruise-henry-golding-calls-charlize-theron-rare-commodity-hollywood)"
+    author: Joanna Aucton
+    og_image: /content/assets/old-guard-2.jpg
+  - title: "Hollywood’s AI Debate: China’s Bold Moves vs. Caution"
+    topic: Industry Trends
+    keywords: [AI, Hollywood, China, movies, technology]
+    description: "Contrasting China’s AI-driven film remasters with Hollywood’s cautious approach, exploring the future of cinema tech.[](https://www.latimes.com/entertainment-arts/business/story/2025-06-30/china-reviving-martial-arts-classics-with-ai-as-controversial-tech-surges-overseas)"
+    author: Jonah Stynebeck
+    og_image: /content/assets/ai-cinema.jpg
+  - title: "Fast and Furious 11: A Franchise Finale to Watch"
+    topic: Movie Franchises
+    keywords: [Fast and Furious 11, Vin Diesel, Hollywood, finale, action]
+    description: "How Fast and Furious 11’s 2027 release aims to close the franchise with a bang, honoring Paul Walker’s legacy.[](https://www.41nbc.com/hollywood-minute-big-reveals-and-finales-ahead-in-film-and-anime/)"
+    author: Silas Twaine
+    og_image: /content/assets/fast-11-poster.jpg
+  - title: "Jurassic World Rebirth: Hollywood’s Dinosaur Renaissance"
+    topic: Blockbusters
+    keywords: [Jurassic World Rebirth, Hollywood, dinosaurs, blockbusters, premieres]
+    description: "Jurassic World Rebirth’s premiere signals Hollywood’s continued obsession with dinosaur-driven blockbusters.[](https://x.com/THR/status/1938688878078034011)"
+    author: Emmeline Dickenson
+    og_image: /content/assets/jurassic-rebirth.jpg
+  - title: "M3GAN 2.0: Horror’s Tech-Driven Future"
+    topic: Horror Films
+    keywords: [M3GAN 2.0, horror, Hollywood, technology, sequels]
+    description: "M3GAN 2.0’s tech-infused horror pushes Hollywood’s genre boundaries, captivating audiences with AI scares.[](https://x.com/THR/status/1938688878078034011)"
+    author: Alec Dumass
+    og_image: /content/assets/m3gan-2.jpg
+  - title: "Hollywood’s Sound Artistry: Sanaa Kelley’s Impact"
+    topic: Behind the Scenes
+    keywords: [Sanaa Kelley, sound effects, Hollywood, movies, artistry]
+    description: "How Sanaa Kelley’s sound effects work elevates Hollywood films, showcasing the craft behind the scenes.[](https://www.cbsnews.com/)"
+    author: Eliza Alcotte
+    og_image: /content/assets/sound-effects.jpg
+  - title: "Nuked’s Comedy Vibe: Hollywood’s New Humor Wave"
+    topic: Comedy Films
+    keywords: [Nuked, Justin Bartha, Hollywood, comedy, new releases]
+    description: "Justin Bartha’s Nuked brings a fresh, cannabis-infused comedy wave to Hollywood, appealing to modern audiences.[](https://www.cbsnews.com/)"
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/nuked-comedy.jpg
+  - title: "Gideon Glick’s Rise: A New Hollywood Star"
+    topic: Rising Stars
+    keywords: [Gideon Glick, Étoile, Hollywood, Broadway, talent]
+    description: "Gideon Glick’s transition to Étoile highlights Hollywood’s hunger for versatile new talent from Broadway.[](https://ew.com/movies)"
+    author: Marcus Twyne
+    og_image: /content/assets/gideon-etoile.jpg
+  - title: "True Brit’s Holiday Bet: Christmas Karma’s Appeal"
+    topic: Indie Films
+    keywords: [Christmas Karma, True Brit Entertainment, Hollywood, holiday films, indie]
+    description: "How True Brit’s Christmas Karma aims to capture holiday audiences with heartfelt, indie storytelling.[](https://www.hollywoodreporter.com/movies/movie-news/true-brit-slate-the-death-of-robin-hood-christmas-karma-1236304636/)"
+    author: Lara Wylde
+    og_image: /content/assets/holiday-film.jpg
+  - title: "Rebekah Del Rio: Remembering a Hollywood Voice"
+    topic: Celebrity Tributes
+    keywords: [Rebekah Del Rio, Hollywood, music, tribute, legacy]
+    description: "A tribute to Rebekah Del Rio’s musical contributions to Hollywood, reflecting on her lasting impact.[](https://www.express.co.uk/celebrity-news)"
+    author: Davin Thorow
+    og_image: /content/assets/del-rio-tribute.jpg
+  - title: "Karate Kid: Legends – A Martial Arts Revival"
+    topic: Movie Franchises
+    keywords: [Karate Kid, Jackie Chan, Hollywood, martial arts, sequels]
+    description: "Karate Kid: Legends, with Jackie Chan, revives Hollywood’s love for martial arts films with fresh energy.[](https://www.firstpost.com/category/entertainment/)"
+    author: Marian Shelleigh
+    og_image: /content/assets/karate-kid-sequel.jpg
+  - title: "YouTube’s Bollywood Boom: Sitaare Zameen Par’s Impact"
+    topic: Streaming Media
+    keywords: [Sitaare Zameen Par, YouTube, Bollywood, Hollywood, streaming]
+    description: "How Sitaare Zameen Par’s YouTube release challenges Hollywood’s streaming dominance with Bollywood’s global reach.[](https://www.firstpost.com/category/entertainment/)"
+    author: Sara Brontee
+    og_image: /content/assets/bollywood-streaming.jpg
+  - title: "Hollywood’s Best Films: A 21st Century Redefinition"
+    topic: Movie Trends
+    keywords: [Hollywood, 21st century, best films, industry trends, culture]
+    description: "The New York Times’ poll of 500 industry figures redefines Hollywood’s 21st-century classics, sparking debate.[](https://nytimes.com/section/movies)"
+    author: Joanna Aucton
+    og_image: /content/assets/hollywood-poll.jpg
+  - title: "Sports Central Podcast: LA’s Entertainment-Sports Fusion"
+    topic: Entertainment Podcasts
+    keywords: [Sports Central, podcast, Hollywood, sports, LA]
+    description: "The Sports Central Podcast’s blend of LA sports and entertainment interviews captivates Hollywood fans.[](https://www.cbsnews.com/losangeles/)"
+    author: Jonah Stynebeck
+    og_image: /content/assets/sports-podcast.jpg
+  - title: "F1’s Blockbuster Formula: Hollywood’s New Playbook"
+    topic: Movie Trends
+    keywords: [F1 movie, Hollywood, blockbusters, Brad Pitt, trends]
+    description: "How F1’s success, driven by Brad Pitt, offers Hollywood a new playbook for high-energy blockbusters.[](https://www.timesnownews.com/entertainment-news/hollywood/brad-pitt-gives-this-advice-to-young-actors-who-get-caught-up-in-superhero-films-pressure-article-152203801)"
+    author: Silas Twaine
+    og_image: /content/assets/f1-blockbuster.jpg
+  - title: "Emily Blunt’s Hollywood Legacy: A Star on the Rise"
+    topic: Celebrity Honors
+    keywords: [Emily Blunt, Hollywood Walk of Fame, 2026, movies, legacy]
+    description: "Emily Blunt’s 2026 Walk of Fame star celebrates her rise as a versatile Hollywood icon.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Emmeline Dickenson
+    og_image: /content/assets/blunt-legacy.jpg
+  - title: "Rachel McAdams: From Rom-Coms to Hollywood Star"
+    topic: Celebrity Milestones
+    keywords: [Rachel McAdams, Hollywood Walk of Fame, 2026, rom-coms, career]
+    description: "Rachel McAdams’ 2026 Walk of Fame star honors her journey from rom-coms to Hollywood heavyweight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Alec Dumass
+    og_image: /content/assets/mcadams-star.jpg
+  - title: "Gordon Ramsay’s Cinematic Leap: A Walk of Fame Star"
+    topic: Celebrity Honors
+    keywords: [Gordon Ramsay, Hollywood Walk of Fame, 2026, TV, culinary]
+    description: "Gordon Ramsay’s 2026 Walk of Fame star marks his crossover from culinary TV to Hollywood fame.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Eliza Alcotte
+    og_image: /content/assets/ramsay-cinema.jpg
+  - title: "Rami Malek’s Hollywood Triumph: A Star is Born"
+    topic: Celebrity Honors
+    keywords: [Rami Malek, Hollywood Walk of Fame, 2026, movies, triumph]
+    description: "Rami Malek’s 2026 Walk of Fame star celebrates his rise from Bohemian Rhapsody to Hollywood icon.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/malek-triumph.jpg
+  - title: "Stanley Tucci’s Versatile Legacy: A Hollywood Star"
+    topic: Celebrity Milestones
+    keywords: [Stanley Tucci, Hollywood Walk of Fame, 2026, movies, legacy]
+    description: "Stanley Tucci’s 2026 Walk of Fame star honors his versatile contributions to Hollywood’s film landscape.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Marcus Twyne
+    og_image: /content/assets/tucci-legacy.jpg
+  - title: "Angélique Kidjo’s Global Impact: A Hollywood Honor"
+    topic: Celebrity Honors
+    keywords: [Angélique Kidjo, Hollywood Walk of Fame, 2026, music, global]
+    description: "Angélique Kidjo’s 2026 Walk of Fame star celebrates her global music influence in Hollywood’s spotlight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Lara Wylde
+    og_image: /content/assets/kidjo-global.jpg
+  - title: "Shaquille O’Neal: From NBA to Hollywood Star"
+    topic: Celebrity Honors
+    keywords: [Shaquille O’Neal, Hollywood Walk of Fame, 2026, sports, movies]
+    description: "Shaquille O’Neal’s 2026 Walk of Fame star highlights his unique crossover from NBA to Hollywood.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Davin Thorow
+    og_image: /content/assets/shaq-hollywood.jpg
+  - title: "Demi Moore’s Hollywood Revival: A Star Reborn"
+    topic: Celebrity Comebacks
+    keywords: [Demi Moore, Hollywood Walk of Fame, 2026, movies, revival]
+    description: "Demi Moore’s 2026 Walk of Fame star marks her bold Hollywood comeback with powerful new roles.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+    author: Marian Shelleigh
+    og_image: /content/assets/moore-revival.jpg
+  - title: "Mormon Wives Reunion: Reality TV’s Emotional Depth"
+    topic: Reality TV
+    keywords: [Mormon Wives, reality TV, Hollywood, reunion, drama]
+    description: "The Secret Lives of Mormon Wives’ reunion episode blends drama and emotion, redefining reality TV’s appeal."
+    author: Sara Brontee
+    og_image: /content/assets/reality-reunion.jpg
+  - title: "Norman’s Legacy: Hollywood’s Love for Pets"
+    topic: Celebrity Pets
+    keywords: [Norman, pets, Hollywood, emotional bond, culture]
+    description: "Oliver’s tribute to his cat Norman reflects Hollywood’s deep connection to pets and their emotional impact."
+    author: Joanna Aucton
+    og_image: /content/assets/pet-legacy.jpg
+  - title: "Mark Lee’s Resilience: Hollywood’s Support for a Star"
+    topic: Celebrity Health
+    keywords: [Mark Lee, health, Hollywood, fans, resilience]
+    description: "Mark Lee’s health scare sparks Hollywood’s support, showcasing the industry’s human side and fan loyalty."
+    author: Jonah Stynebeck
+    og_image: /content/assets/mark-lee-support.jpg
+  - title: "Video Stores in Film: Hollywood’s Nostalgic Turn"
+    topic: Movie Culture
+    keywords: [video stores, Hollywood, nostalgia, movies, documentary]
+    description: "Alex Ross Perry’s documentary on video stores taps into Hollywood’s nostalgic revival of physical media culture.[](https://nytimes.com/section/movies)"
+    author: Silas Twaine
+    og_image: /content/assets/video-store-culture.jpg
+  - title: "F1’s Hollywood Formula: A New Blockbuster Era"
+    topic: Movie Trends
+    keywords: [F1 movie, Hollywood, blockbusters, Brad Pitt, trends]
+    description: "How F1’s success signals a new era of high-energy blockbusters in Hollywood, driven by star power and innovation.[](https://www.timesnownews.com/entertainment-news/hollywood/brad-pitt-gives-this-advice-to-young-actors-who-get-caught-up-in-superhero-films-pressure-article-152203801)"
+    author: Emmeline Dickenson
+    og_image: /content/assets/f1-hollywood.jpg
+  - title: "Once Upon a Time Sequel: Tarantino’s Next Chapter"
+    topic: Movie Sequels
+    keywords: [Once Upon a Time, sequel, Tarantino, David Fincher, Hollywood]
+    description: "Rumors of a Once Upon a Time in Hollywood sequel, directed by David Fincher, fuel excitement for Tarantino’s legacy.[](https://www.timesnownews.com/entertainment-news/hollywood/brad-pitt-gives-this-advice-to-young-actors-who-get-caught-up-in-superhero-films-pressure-article-152203801)"
+    author: Alec Dumass
+    og_image: /content/assets/tarantino-legacy.jpg
+  - title: "Bollywood’s Streaming Rise: A Challenge to Hollywood"
+    topic: Global Cinema
+    keywords: [Bollywood, streaming, Hollywood, Sitaare Zameen Par, industry]
+    description: "How Bollywood’s streaming success, like Sitaare Zameen Par, challenges Hollywood’s dominance in global markets.[](https://www.firstpost.com/category/entertainment/)"
+    author: Eliza Alcotte
+    og_image: /content/assets/bollywood-rise.jpg
+  - title: "The Old Guard 2: Hollywood’s Action Renaissance"
+    topic: Action Films
+    keywords: [The Old Guard 2, Charlize Theron, Hollywood, action, sequels]
+    description: "Charlize Theron’s The Old Guard 2 leads Hollywood’s action renaissance, blending grit and spectacle.[](https://www.soapcentral.com/entertainment/news-female-counterpart-tom-cruise-henry-golding-calls-charlize-theron-rare-commodity-hollywood)"
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/action-renaissance.jpg
+  - title: "AI in Hollywood: China’s Bold Leap Forward"
+    topic: Industry Trends
+    keywords: [AI, Hollywood, China, movies, technology]
+    description: "China’s AI-driven film remasters contrast with Hollywood’s cautious approach, shaping the future of cinema tech.[](https://www.latimes.com/entertainment-arts/business/story/2025-06-30/china-reviving-martial-arts-classics-with-ai-as-controversial-tech-surges-overseas)"
+    author: Marcus Twyne
+    og_image: /content/assets/ai-hollywood.jpg
+  - title: "Fast and Furious Finale: Hollywood’s Epic Closure"
+    topic: Movie Franchises
+    keywords: [Fast and Furious, finale, Vin Diesel, Hollywood, action]
+    description: "Fast and Furious 11’s 2027 release promises an epic closure, honoring Paul Walker’s legacy in Hollywood.[](https://www.41nbc.com/hollywood-minute-big-reveals-and-finales-ahead-in-film-and-anime/)"
+    author: Lara Wylde
+    og_image: /content/assets/fast-finale.jpg
+  - title: "Jurassic World Rebirth: Hollywood’s Dino Legacy"
+    topic: Blockbusters
+    keywords: [Jurassic World Rebirth, Hollywood, dinosaurs, blockbusters, premieres]
+    description: "Jurassic World Rebirth’s premiere reinforces Hollywood’s love for dinosaur epics, blending nostalgia and innovation.[](https://x.com/THR/status/1938688878078034011)"
+    author: Davin Thorow
+    og_image: /content/assets/dino-legacy.jpg
+  - title: "M3GAN 2.0: Hollywood’s Horror-Tech Frontier"
+    topic: Horror Films
+    keywords: [M3GAN 2.0, horror, Hollywood, technology, sequels]
+    description: "M3GAN 2.0’s tech-driven horror pushes Hollywood’s genre boundaries, captivating audiences with AI thrills.[](https://x.com/THR/status/1938688878078034011)"
+    author: Marian Shelleigh
+    og_image: /content/assets/m3gan-horror.jpg
+  - title: "Sanaa Kelley’s Craft: Hollywood’s Sound Revolution"
+    topic: Behind the Scenes
+    keywords: [Sanaa Kelley, sound effects, Hollywood, movies, craftsmanship]
+    description: "Sanaa Kelley’s sound effects work revolutionizes Hollywood’s film audio, bringing scenes to life with artistry.[](https://www.cbsnews.com/)"
+    author: Sara Brontee
+    og_image: /content/assets/sound-revolution.jpg
+  - title: "Nuked’s Fresh Comedy: Hollywood’s Humor Revival"
+    topic: Comedy Films
+    keywords: [Nuked, Justin Bartha, Hollywood, comedy, revival]
+    description: "Justin Bartha’s Nuked sparks a revival of fresh, cannabis-themed comedy in Hollywood, appealing to modern tastes.[](https://www.cbsnews.com/)"
+    author: Joanna Aucton
+    og_image: /content/assets/nuked-humor.jpg
+  - title: "Gideon Glick’s Hollywood Ascent: A Star to Watch"
+    topic: Rising Stars
+    keywords: [Gideon Glick, Étoile, Hollywood, Broadway, rising stars]
+    description: "Gideon Glick’s rise in Étoile signals Hollywood’s embrace of Broadway talent, marking him as a star to watch.[](https://ew.com/movies)"
+    author: Jonah Stynebeck
+    og_image: /content/assets/gideon-ascent.jpg
+  - title: "Christmas Karma: Hollywood’s Holiday Indie Hope"
+    topic: Indie Films
+    keywords: [Christmas Karma, True Brit Entertainment, Hollywood, holiday films, indie]
+    description: "True Brit’s Christmas Karma aims to win Hollywood audiences with heartfelt indie holiday storytelling.[](https://www.hollywoodreporter.com/movies/movie-news/true-brit-slate-the-death-of-robin-hood-christmas-karma-1236304636/)"
+    author: Silas Twaine
+    og_image: /content/assets/indie-holiday.jpg
+  - title: "Rebekah Del Rio’s Hollywood Legacy: A Musical Void"
+    topic: Celebrity Tributes
+    keywords: [Rebekah Del Rio, Hollywood, music, tribute, legacy]
+    description: "Reflecting on Rebekah Del Rio’s musical legacy in Hollywood, honoring her contributions after her passing.[](https://www.express.co.uk/celebrity-news)"
+    author: Emmeline Dickenson
+    og_image: /content/assets/del-rio-legacy.jpg
+  - title: "Karate Kid: Legends – Hollywood’s Martial Arts Resurgence"
+    topic: Movie Franchises
+    keywords: [Karate Kid, Jackie Chan, Hollywood, martial arts, sequels]
+    description: "Karate Kid: Legends, starring Jackie Chan, fuels Hollywood’s martial arts resurgence with dynamic action.[](https://www.firstpost.com/category/entertainment/)"
+    author: Alec Dumass
+    og_image: /content/assets/martial-arts-revival.jpg
+  - title: "Bollywood’s YouTube Revolution: Hollywood’s Streaming Challenge"
+    topic: Streaming Media
+    keywords: [Bollywood, YouTube, Sitaare Zameen Par, Hollywood, streaming]
+    description: "Sitaare Zameen Par’s YouTube release highlights Bollywood’s streaming revolution, challenging Hollywood’s platforms.[](https://www.firstpost.com/category/entertainment/)"
+    author: Eliza Alcotte
+    og_image: /content/assets/streaming-revolution.jpg
+  - title: "Hollywood’s 21st Century Canon: A New Classic Era"
+    topic: Movie Trends
+    keywords: [Hollywood, 21st century, classic films, industry trends, culture]
+    description: "The New York Times’ poll redefines Hollywood’s 21st-century canon, sparking debate on what makes a classic.[](https://nytimes.com/section/movies)"
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/hollywood-canon.jpg
+  - title: "Sports Central: LA’s New Entertainment Podcast Hit"
+    topic: Entertainment Podcasts
+    keywords: [Sports Central, podcast, Hollywood, sports, LA]
+    description: "The Sports Central Podcast’s blend of LA sports and entertainment interviews becomes a Hollywood fan favorite.[](https://www.cbsnews.com/losangeles/)"
+    author: Marcus Twyne
+    og_image: /content/assets/podcast-hit.jpg

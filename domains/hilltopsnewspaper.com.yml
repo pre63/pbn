@@ -1,0 +1,42 @@
+site:
+  name: Hilltops Newspaper
+  description: Chronicling the pulse of rural Thailand with a focus on sports, culture, and community-driven innovation.
+  keywords: [rural Thailand, sports, culture, community, gaming]
+  logo: /content/assets/logo-hilltops.jpg
+  favicon: /content/assets/favicon-hilltops.png
+  email: editor@hilltopsnewspaper.com
+
+social_media:
+  twitter: https://twitter.com/hilltopsnews
+  facebook: https://facebook.com/hilltopsnews
+  instagram: https://instagram.com/hilltopsnews
+
+navigation:
+  - name: Home
+    url: index
+  - name: Contact
+    url: contact
+  - name: Guest Poster
+    url: guest_poster
+
+footer:
+  links:
+    - name: Guest Poster
+      url: guest_poster
+    - name: Contact Us
+      url: contact
+    - name: Privacy Policy
+      url: privacy
+  copyright: © 2025 Product Led LLC. All rights reserved. Serving rural vibes with a side of snark.
+
+content:
+  topics: [football, online gaming, rural culture, health, technology]
+  articles_path: content/hilltopsnewspaper.com/articles
+  default_image: /content/assets/rural-bg.jpg
+
+analytics:
+  google_analytics_id: G-HILLTOPS24
+
+seo:
+  og_image: /content/assets/rural-bg.jpg
+  twitter_image: /content/assets/rural-bg.jpg

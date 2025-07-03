@@ -2,7 +2,7 @@
 title: The Evolution of Firearms Technology
 slug: the-evolution-of-firearms-technology
 author: Michael Techson
-date: '2025-07-03'
+date: '2018-05-13'
 meta_description: Exploring the technological advancements in firearms, from precision
   engineering to smart gun technologies, with a focus on models like the CZ 550 in
   .308 caliber.
@@ -17,7 +17,6 @@ og_description: Exploring the technological advancements in firearms, from preci
   engineering to smart gun technologies, with a focus on models like the CZ 550 in
   .308 caliber.
 og_image: /content/assets/tech-bg.jpg
-
 ---
 # Firearms Technology: A Double-Edged Sword of Innovation
 

@@ -1,0 +1,94 @@
+{% extends 'base.html' %}
+{% block title %}{{ article.title }}{% endblock %}
+{% block meta_description %}{{ article.meta_description }}{% endblock %}
+{% block meta_keywords %}{{ article.meta_keywords|default(config.site.keywords|join(', ')) }}{% endblock %}
+{% block og_title %}{{ article.og_title }}{% endblock %}
+{% block og_description %}{{ article.og_description }}{% endblock %}
+{% block og_image %}{{ article.og_image|default(config.seo.og_image) }}{% endblock %}
+{% block twitter_title %}{{ article.og_title }}{% endblock %}
+{% block twitter_description %}{{ article.og_description }}{% endblock %}
+{% block twitter_image %}{{ article.og_image|default(config.seo.twitter_image) }}{% endblock %}
+{% for topic in article.topics|default([]) %}
+<meta property="article:tag" content="{{ topic }}">
+{% endfor %}
+{% block canonical_url %}{{ url_for('article', slug=article.slug, _external=True) }}{% endblock %}
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="{{ url_for('index') }}">Home</a>
+  <span>{{ article.title }}</span>
+</nav>
+{% endblock %}
+{% block page_class %}article-page{% endblock %}
+{% block content %}
+<section class="hero">
+  <picture>
+    <source srcset="{{ article.og_image|default(config.content.default_image) }}" type="image/webp">
+    <img src="{{ article.og_image|default(config.content.default_image) }}" alt="{{ article.title }}" loading="lazy" width="1200" height="600">
+  </picture>
+  <div class="hero-content">
+    <h1>{{ article.title }}</h1>
+  </div>
+</section>
+
+<section class="search-section">
+  <form class="search-bar" action="{{ url_for('search') }}" method="GET">
+    <input type="text" name="q" placeholder="Search articles..." required>
+    <button type="submit" aria-label="Search"></button>
+  </form>
+</section>
+
+<article class="article">
+  <div class="article-content">
+    <h1>{{ article.title }}</h1>
+    <p class="byline">By {{ article.author }} on {{ article.date }}</p>
+    {{ article.body | markdown | safe }}
+  </div>
+  <p>
+    Got a story? Email <a href="mailto:{{ config.site.email }}">{{ config.site.email }}</a>
+  </p>
+</article>
+
+{% if related_articles %}
+<section class="related-articles">
+  <h2>Related Articles</h2>
+  <div class="article-list">
+    {% for related in related_articles %}
+    <div class="article-preview">
+      <a href="{{ url_for('article', slug=related.slug) }}">
+        <picture>
+          <source srcset="{{ related.og_image|default(config.content.default_image) }}" type="image/webp">
+          <img src="{{ related.og_image|default(config.content.default_image) }}" alt="{{ related.title }}" loading="lazy" width="1200" height="600">
+        </picture>
+        <h3>{{ related.title }}</h3>
+        <p>{{ related.meta_description }}</p>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ article.title }}",
+  "description": "{{ article.meta_description }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ article.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ config.site.name }}",
+    "url": "{{ url_for('index', _external=True) }}"
+  },
+  "datePublished": "{{ article.date }}",
+  "image": "{{ article.og_image|default(config.content.default_image) }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ url_for('article', slug=article.slug, _external=True) }}"
+  }
+}
+</script>
+{% endblock %}

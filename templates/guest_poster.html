@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+{% block title %}Write for {{ config.site.name }}{% endblock %}
+{% block meta_description %}Share your expertise on {{ config.content.topics|join(', ') }} with {{ config.site.name }}'s blog.{% endblock %}
+{% block meta_keywords %}{{ config.site.keywords|join(', ') }}{% endblock %}
+{% block og_title %}Contribute to {{ config.site.name }}{% endblock %}
+{% block og_description %}Join our blog to showcase your insights on {{ config.content.topics|join(', ') }}.{% endblock %}
+{% block og_image %}{{ config.seo.og_image }}{% endblock %}
+{% block twitter_title %}Contribute to {{ config.site.name }}{% endblock %}
+{% block twitter_description %}Join our blog to showcase your insights on {{ config.content.topics|join(', ') }}.{% endblock %}
+{% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
+{% block canonical_url %}{{ url_for('guest_poster', _external=True) }}{% endblock %}
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="{{ url_for('index') }}">Home</a>
+  <span>Guest Poster</span>
+</nav>
+{% endblock %}
+{% block page_class %}guest-poster-page{% endblock %}
+{% block content %}
+<section class="hero">
+  <img src="/content/assets/guest-poster-hero.jpg" alt="Write for {{ config.site.name }}" loading="lazy" width="1200" height="600">
+  <div class="hero-content">
+    <h1>Share Your Expertise</h1>
+    <p>Contribute to our blog and connect with our audience interested in {{ config.content.topics|join(', ') }}.</p>
+    <a href="mailto:{{ config.site.email }}?subject=Guest Article Submission" class="button">Submit Your Article</a>
+  </div>
+</section>
+
+<section class="search-section">
+  <form class="search-bar" action="{{ url_for('search') }}" method="GET">
+    <input type="text" name="q" placeholder="Search articles..." required>
+    <button type="submit" aria-label="Search"></button>
+  </form>
+</section>
+
+<div class="content-container">
+  <section class="guest-benefits">
+    <h2>Why Contribute?</h2>
+    <p>Showcase your knowledge, gain visibility, and connect with our community. Benefits include:</p>
+    <ul>
+      <li><strong>Reach Our Audience:</strong> Engage readers interested in {{ config.content.topics|join(', ') }}.</li>
+      <li><strong>Build Your Brand:</strong> Get credited with your name, bio, and a link to your website.</li>
+    </ul>
+  </section>
+
+  <section class="guest-guidelines">
+    <h2>How to Submit</h2>
+    <p>We’re looking for engaging articles (500–1000 words) on {{ config.content.topics|join(', ') }}. Focus on trends, tips, or insights relevant to our audience.</p>
+    <p>Email your article to <a href="mailto:{{ config.site.email }}">{{ config.site.email }}</a> with:</p>
+    <ul>
+      <li>A brief pitch explaining your topic and expertise.</li>
+      <li>Your article (Markdown or Word format preferred).</li>
+      <li>A short bio (50–100 words) and optional website link.</li>
+    </ul>
+    <p>We’ll review your submission within 2–3 weeks and may edit for clarity. Ready to inspire? <a href="mailto:{{ config.site.email }}?subject=Guest Article Submission" class="button">Send Your Article</a></p>
+  </section>
+</div>
+{% endblock %}

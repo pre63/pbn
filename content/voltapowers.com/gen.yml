@@ -1,0 +1,433 @@
+articles:
+  - title: "Smíchov Station: Prague’s Historic Rail Hub Reimagined"
+    topic: Historical Architecture
+    keywords: [Smíchov station, Prague, rail history, Czech Republic, infrastructure]
+    description: Exploring the historical significance of Prague’s Smíchov station, blending its 19th-century roots with modern rail and energy innovations.
+    author: Joanna Aucton
+    og_image: /content/assets/smichov-station.jpg
+  - title: "Chernivtsi’s Main Street: Ukraine’s Architectural Gem"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Main Street, Ukraine, architecture, cultural heritage]
+    description: How Chernivtsi’s Main Street buildings, like those at 15 and 133, reflect Ukraine’s cultural resilience and architectural legacy.
+    author: Jonah Stynebeck
+    og_image: /content/assets/chernivtsi-main.jpg
+  - title: "Valletta’s Auberge de Castille: Malta’s Timeless Fortress"
+    topic: Maltese Heritage
+    keywords: [Valletta, Auberge de Castille, Malta, fortress, cultural heritage]
+    description: The enduring legacy of Valletta’s Auberge de Castille, a symbol of Malta’s history, with ties to modern energy-efficient preservation.
+    author: Silas Twaine
+    og_image: /content/assets/auberge-castille.jpg
+  - title: "Wayside Shrines in Dimbach: Europe’s Spiritual Landmarks"
+    topic: Cultural Landmarks
+    keywords: [wayside shrines, Dimbach, Europe, spirituality, heritage]
+    description: How Dimbach’s wayside shrines, like Marterbild, preserve Europe’s spiritual heritage, with a nod to sustainable community preservation.
+    author: Emmeline Dickenson
+    og_image: /content/assets/wayside-shrine.jpg
+  - title: "Tesla’s Legacy: From Czech Tech to Modern Energy"
+    topic: Energy Innovation
+    keywords: [Tesla, Czech Republic, energy, technology, history]
+    description: Tracing Tesla’s historical contributions in Czechoslovakia, like automatic telephone exchanges, to modern renewable energy innovations.
+    author: Alec Dumass
+    og_image: /content/assets/tesla-tech.jpg
+  - title: "’s-Gravenzande’s 1979 Heritage: Dutch Architectural Pride"
+    topic: Dutch Heritage
+    keywords: [’s-Gravenzande, Netherlands, architecture, heritage, 1979]
+    description: How ’s-Gravenzande’s 1979 buildings reflect Dutch architectural pride, with lessons for energy-efficient urban planning.
+    author: Eliza Alcotte
+    og_image: /content/assets/dutch-architecture.jpg
+  - title: "MLA Conventions: Powering Scholarly Exchange"
+    topic: Academic Events
+    keywords: [MLA convention, scholarship, literature, energy, culture]
+    description: How MLA conventions, like 2024’s, foster literary scholarship, with parallels to powering cultural innovation through collaboration.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/mla-convention.jpg
+  - title: "Prague’s Žižkov Cemetery: A Historical Energy Hub?"
+    topic: Czech Heritage
+    keywords: [Žižkov, Prague, cemetery, history, cultural energy]
+    description: Exploring Žižkov’s old Jewish cemetery as a cultural landmark, with ideas for integrating renewable energy in heritage sites.
+    author: Marcus Twyne
+    og_image: /content/assets/zizkov-cemetery.jpg
+  - title: "Vălenii de Munte’s Monastery: Romania’s Spiritual Legacy"
+    topic: Romanian Heritage
+    keywords: [Vălenii de Munte, monastery, Romania, spirituality, heritage]
+    description: The cultural significance of Vălenii de Munte’s monastery, advocating for sustainable preservation of Romania’s spiritual sites.
+    author: Lara Wylde
+    og_image: /content/assets/romanian-monastery.jpg
+  - title: "Floriana Lines: Malta’s Defensive Heritage Endures"
+    topic: Maltese Heritage
+    keywords: [Floriana Lines, Malta, fortifications, history, preservation]
+    description: How Malta’s Floriana Lines fortifications stand as a testament to history, with modern energy solutions for their upkeep.
+    author: Davin Thorow
+    og_image: /content/assets/floriana-lines.jpg
+  - title: "Beroun’s Jungmann Bust: Celebrating Czech Literary Roots"
+    topic: Czech Heritage
+    keywords: [Beroun, Jungmann, Czech Republic, literature, heritage]
+    description: The significance of Beroun’s Jungmann bust, honoring Czech literary heritage with ties to modern cultural energy.
+    author: Marian Shelleigh
+    og_image: /content/assets/jungmann-bust.jpg
+  - title: "Renewable Energy in Historical Sites: A Czech Case Study"
+    topic: Energy Innovation
+    keywords: [renewable energy, Czech Republic, historical sites, sustainability, culture]
+    description: How Czech historical sites, like Smíchov station, can integrate renewable energy for sustainable preservation.
+    author: Sara Brontee
+    og_image: /content/assets/renewable-heritage.jpg
+  - title: "’s-Gravenhage’s 1841 Legacy: Dutch Cultural Endurance"
+    topic: Dutch Heritage
+    keywords: [’s-Gravenhage, Netherlands, 1841, architecture, heritage]
+    description: Exploring ’s-Gravenhage’s 1841 buildings as symbols of Dutch endurance, with lessons for energy-efficient urban design.
+    author: Joanna Aucton
+    og_image: /content/assets/gravenhage-1841.jpg
+  - title: "Chernivtsi’s Cathedral: Ukraine’s Spiritual Heart"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, cathedral, Ukraine, spirituality, architecture]
+    description: The architectural and spiritual significance of Chernivtsi’s Cathedral, with ideas for sustainable preservation.
+    author: Jonah Stynebeck
+    og_image: /content/assets/chernivtsi-cathedral.jpg
+  - title: "MLA’s Scholarly Mission: Powering Global Literature"
+    topic: Academic Scholarship
+    keywords: [MLA, scholarship, global literature, culture, energy]
+    description: How MLA’s publications, like Approaches to Teaching Dante, drive global literary scholarship, with parallels to cultural energy.
+    author: Silas Twaine
+    og_image: /content/assets/mla-scholarship.jpg
+  - title: "Slatina’s St. Vojtěch Church: Czech Village Heritage"
+    topic: Czech Heritage
+    keywords: [Slatina, St. Vojtěch, Czech Republic, church, heritage]
+    description: The cultural role of Slatina’s St. Vojtěch Church in rural Czech communities, with ideas for eco-friendly preservation.
+    author: Emmeline Dickenson
+    og_image: /content/assets/st-vojtech-church.jpg
+  - title: "Valletta’s Palazzo Scicluna: Malta’s Architectural Jewel"
+    topic: Maltese Heritage
+    keywords: [Valletta, Palazzo Scicluna, Malta, architecture, heritage]
+    description: How Valletta’s Palazzo Scicluna reflects Malta’s rich history, with modern energy solutions for its preservation.
+    author: Alec Dumass
+    og_image: /content/assets/palazzo-scicluna.jpg
+  - title: "Czech Railway Signals: Powering Historical Infrastructure"
+    topic: Czech Infrastructure
+    keywords: [Czech railway, Smíchov, signals, infrastructure, energy]
+    description: The historical significance of Czech railway signals at Smíchov, with a focus on modernizing infrastructure with clean energy.
+    author: Eliza Alcotte
+    og_image: /content/assets/railway-signals.jpg
+  - title: "Horoměřice Castle: Czech Heritage Meets Modern Energy"
+    topic: Czech Heritage
+    keywords: [Horoměřice, castle, Czech Republic, heritage, energy]
+    description: How Horoměřice Castle blends Czech heritage with potential for renewable energy integration in historic sites.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/horomerice-castle.jpg
+  - title: "’s-Herenstraat in Maasland: Dutch Village Charm"
+    topic: Dutch Heritage
+    keywords: [’s-Herenstraat, Maasland, Netherlands, heritage, architecture]
+    description: The charm of ’s-Herenstraat in Maasland, showcasing Dutch village architecture with sustainable preservation ideas.
+    author: Marcus Twyne
+    og_image: /content/assets/herenstraat-maasland.jpg
+  - title: "MLA’s Literary Translations: Powering Cultural Exchange"
+    topic: Academic Scholarship
+    keywords: [MLA translations, literature, culture, global, scholarship]
+    description: How MLA’s Texts and Translations series, like Ourika, fosters global cultural exchange, with parallels to intellectual energy.
+    author: Lara Wylde
+    og_image: /content/assets/mla-translations.jpg
+  - title: "Koleč’s Castle: A Czech Historical Treasure"
+    topic: Czech Heritage
+    keywords: [Koleč, castle, Czech Republic, history, preservation]
+    description: Exploring Koleč’s castle as a Czech historical treasure, with ideas for eco-friendly preservation strategies.
+    author: Davin Thorow
+    og_image: /content/assets/kolec-castle.jpg
+  - title: "Chernivtsi’s Central Square: Ukraine’s Urban Legacy"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Central Square, Ukraine, architecture, heritage]
+    description: The cultural and architectural significance of Chernivtsi’s Central Square, advocating for sustainable urban preservation.
+    author: Marian Shelleigh
+    og_image: /content/assets/central-square-chernivtsi.jpg
+  - title: "Prague’s Fibichova Telephone Exchange: A Tech Legacy"
+    topic: Czech Infrastructure
+    keywords: [Fibichova, Prague, telephone exchange, tech, history]
+    description: The historical role of Prague’s Fibichova telephone exchange, with ties to modern energy-efficient tech infrastructure.
+    author: Sara Brontee
+    og_image: /content/assets/fibichova-exchange.jpg
+  - title: "’s-Gravendeel’s 1857 Heritage: Dutch Cultural Roots"
+    topic: Dutch Heritage
+    keywords: [’s-Gravendeel, Netherlands, 1857, architecture, heritage]
+    description: How ’s-Gravendeel’s 1857 buildings reflect Dutch cultural roots, with lessons for sustainable urban planning.
+    author: Joanna Aucton
+    og_image: /content/assets/gravendeel-1857.jpg
+  - title: "Wayside Shrines in Volkach: Germany’s Spiritual Past"
+    topic: German Heritage
+    keywords: [Volkach, wayside shrines, Germany, spirituality, heritage]
+    description: The cultural significance of Volkach’s Blutsmarter shrine, with ideas for preserving Europe’s spiritual landmarks sustainably.
+    author: Jonah Stynebeck
+    og_image: /content/assets/volkach-shrine.jpg
+  - title: "MLA’s 2024 Convention: Energizing Literary Discourse"
+    topic: Academic Events
+    keywords: [MLA 2024, convention, literature, scholarship, culture]
+    description: How MLA’s 2024 convention in New Orleans energizes literary discourse, with parallels to cultural and intellectual energy.
+    author: Silas Twaine
+    og_image: /content/assets/mla-2024.jpg
+  - title: "Beroun’s City Walls: Czech Defensive Heritage"
+    topic: Czech Heritage
+    keywords: [Beroun, city walls, Czech Republic, history, preservation]
+    description: The historical significance of Beroun’s city walls, with a focus on sustainable preservation for Czech heritage sites.
+    author: Emmeline Dickenson
+    og_image: /content/assets/beroun-walls.jpg
+  - title: "Valletta’s 3951 Heritage: Malta’s Architectural Legacy"
+    topic: Maltese Heritage
+    keywords: [Valletta, 3951, Malta, architecture, heritage]
+    description: Exploring Valletta’s 3951 landmarks, like historic buildings, and their role in Malta’s cultural legacy with modern preservation.
+    author: Alec Dumass
+    og_image: /content/assets/valletta-3951.jpg
+  - title: "Czech Railways’ Smíchov: Powering Urban Connectivity"
+    topic: Czech Infrastructure
+    keywords: [Smíchov, Czech railways, Prague, infrastructure, energy]
+    description: How Smíchov station powers Prague’s urban connectivity, with ideas for integrating clean energy into rail systems.
+    author: Eliza Alcotte
+    og_image: /content/assets/smichov-railway.jpg
+  - title: "’s-Heerenbroek’s Heritage: Dutch Rural Charm"
+    topic: Dutch Heritage
+    keywords: [’s-Heerenbroek, Netherlands, heritage, rural, architecture]
+    description: The cultural charm of ’s-Heerenbroek’s historical buildings, with sustainable preservation strategies for rural Dutch heritage.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/heerenbroek-village.jpg
+  - title: "Chernivtsi’s Zankovetska Street: Ukraine’s Cultural Hub"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Zankovetska, Ukraine, culture, architecture]
+    description: How Zankovetska Street in Chernivtsi reflects Ukraine’s cultural richness, with ideas for eco-friendly preservation.
+    author: Marcus Twyne
+    og_image: /content/assets/zankovetska-street.jpg
+  - title: "MLA’s Dante Scholarship: Energizing Literary Studies"
+    topic: Academic Scholarship
+    keywords: [MLA, Dante, literature, scholarship, cultural energy]
+    description: How MLA’s Approaches to Teaching Dante’s Divine Comedy energizes literary studies, with parallels to cultural innovation.
+    author: Lara Wylde
+    og_image: /content/assets/dante-scholarship.jpg
+  - title: "Slatina’s Agricultural Legacy: Czech Rural Heritage"
+    topic: Czech Heritage
+    keywords: [Slatina, agriculture, Czech Republic, heritage, rural]
+    description: The agricultural legacy of Slatina u Velvar, with sustainable energy solutions for preserving rural Czech heritage.
+    author: Davin Thorow
+    og_image: /content/assets/slatina-farm.jpg
+  - title: "Valletta’s Fortifications: Malta’s Defensive Legacy"
+    topic: Maltese Heritage
+    keywords: [Valletta, fortifications, Malta, history, preservation]
+    description: The historical significance of Valletta’s fortifications, with modern energy-efficient preservation strategies.
+    author: Marian Shelleigh
+    og_image: /content/assets/valletta-fortifications.jpg
+  - title: "Prague’s Krkonošská Street: A Cultural Energy Hub"
+    topic: Czech Heritage
+    keywords: [Krkonošská, Prague, Czech Republic, culture, heritage]
+    description: How Prague’s Krkonošská Street reflects Czech cultural heritage, with ideas for integrating renewable energy in urban preservation.
+    author: Sara Brontee
+    og_image: /content/assets/krkonosska-street.jpg
+  - title: "’s-Gravenweg in Rotterdam: Dutch Urban Heritage"
+    topic: Dutch Heritage
+    keywords: [’s-Gravenweg, Rotterdam, Netherlands, heritage, architecture]
+    description: The cultural significance of ’s-Gravenweg in Rotterdam, with sustainable urban planning ideas for Dutch heritage.
+    author: Joanna Aucton
+    og_image: /content/assets/gravenweg-rotterdam.jpg
+  - title: "MLA’s Scholarly Editions: Powering Literary Preservation"
+    topic: Academic Scholarship
+    keywords: [MLA, scholarly editions, literature, preservation, culture]
+    description: How MLA’s scholarly editions, like Petrarch’s Canzoniere, preserve literary heritage, with parallels to cultural energy.
+    author: Jonah Stynebeck
+    og_image: /content/assets/mla-editions.jpg
+  - title: "Beroun’s Commercial Academy: Czech Educational Heritage"
+    topic: Czech Heritage
+    keywords: [Beroun, Commercial Academy, Czech Republic, education, heritage]
+    description: The historical role of Beroun’s Commercial Academy, with sustainable energy solutions for preserving educational landmarks.
+    author: Silas Twaine
+    og_image: /content/assets/beroun-academy.jpg
+  - title: "Chernivtsi’s Tolstoy Street: Ukraine’s Literary Legacy"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Tolstoy Street, Ukraine, literature, heritage]
+    description: How Chernivtsi’s Tolstoy Street reflects Ukraine’s literary heritage, with eco-friendly preservation strategies.
+    author: Emmeline Dickenson
+    og_image: /content/assets/tolstoy-street.jpg
+  - title: "Czech Tesla Tech: From Radios to Renewable Energy"
+    topic: Energy Innovation
+    keywords: [Tesla, Czech Republic, radios, energy, technology]
+    description: Tracing Czech Tesla’s historical radio innovations to modern renewable energy advancements, blending tech and heritage.
+    author: Alec Dumass
+    og_image: /content/assets/tesla-radio.jpg
+  - title: "’s-Hertogenbosch’s 1996 Heritage: Dutch Cultural Pride"
+    topic: Dutch Heritage
+    keywords: [’s-Hertogenbosch, Netherlands, 1996, architecture, heritage]
+    description: The cultural significance of ’s-Hertogenbosch’s 1996 buildings, with sustainable preservation ideas for Dutch heritage.
+    author: Eliza Alcotte
+    og_image: /content/assets/hertogenbosch-1996.jpg
+  - title: "MLA’s 2023 Convention: Energizing Global Scholarship"
+    topic: Academic Events
+    keywords: [MLA 2023, convention, scholarship, literature, culture]
+    description: How MLA’s 2023 convention fosters global literary scholarship, with parallels to powering cultural innovation.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/mla-2023.jpg
+  - title: "Prague’s Švehlova College: Czech Architectural Legacy"
+    topic: Czech Heritage
+    keywords: [Švehlova, Prague, Czech Republic, architecture, heritage]
+    description: The architectural legacy of Prague’s Švehlova College, with ideas for sustainable energy integration in historic sites.
+    author: Marcus Twyne
+    og_image: /content/assets/svehlova-college.jpg
+  - title: "Valletta’s 3951 Landmarks: Malta’s Cultural Endurance"
+    topic: Maltese Heritage
+    keywords: [Valletta, 3951, Malta, landmarks, heritage]
+    description: How Valletta’s 3951 landmarks reflect Malta’s cultural endurance, with modern preservation strategies.
+    author: Lara Wylde
+    og_image: /content/assets/valletta-landmarks.jpg
+  - title: "Smíchov’s City Elephant: Czech Rail’s Modern Energy"
+    topic: Czech Infrastructure
+    keywords: [Smíchov, City Elephant, Czech Republic, rail, energy]
+    description: The role of Smíchov’s City Elephant trains in modernizing Czech rail, with a focus on clean energy integration.
+    author: Davin Thorow
+    og_image: /content/assets/city-elephant.jpg
+  - title: "’s-Heerenelderen’s Heritage: Dutch Rural Legacy"
+    topic: Dutch Heritage
+    keywords: [’s-Heerenelderen, Netherlands, heritage, rural, architecture]
+    description: The cultural legacy of ’s-Heerenelderen’s historical buildings, with sustainable preservation ideas for rural Dutch heritage.
+    author: Marian Shelleigh
+    og_image: /content/assets/heerenelderen-village.jpg
+  - title: "Chernivtsi’s Khmelnytskoho Street: Ukraine’s Urban Gem"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Khmelnytskoho, Ukraine, architecture, heritage]
+    description: The architectural significance of Chernivtsi’s Khmelnytskoho Street, with eco-friendly preservation strategies.
+    author: Sara Brontee
+    og_image: /content/assets/khmelnytskoho-street.jpg
+  - title: "MLA’s Petrarch Scholarship: Energizing Literary Heritage"
+    topic: Academic Scholarship
+    keywords: [MLA, Petrarch, literature, scholarship, cultural energy]
+    description: How MLA’s Approaches to Teaching Petrarch’s Canzoniere energizes literary heritage, with parallels to cultural preservation.
+    author: Joanna Aucton
+    og_image: /content/assets/petrarch-scholarship.jpg
+  - title: "Olovnice’s Pivovar: Czech Brewing Heritage"
+    topic: Czech Heritage
+    keywords: [Olovnice, pivovar, Czech Republic, brewing, heritage]
+    description: The cultural significance of Olovnice’s brewery, with sustainable energy solutions for preserving Czech brewing heritage.
+    author: Jonah Stynebeck
+    og_image: /content/assets/olovnice-pivovar.jpg
+  - title: "Valletta’s Fiestas: Malta’s Cultural Energy"
+    topic: Maltese Heritage
+    keywords: [Valletta, fiestas, Malta, culture, heritage]
+    description: How Valletta’s 2023 fiestas, like those on March 6, reflect Malta’s cultural energy, with modern preservation ideas.
+    author: Silas Twaine
+    og_image: /content/assets/valletta-fiesta.jpg
+  - title: "Prague’s Zlíchov Distillery: Industrial Heritage Reimagined"
+    topic: Czech Heritage
+    keywords: [Zlíchov, distillery, Prague, heritage, industry]
+    description: The historical role of Zlíchov’s distillery in Prague, with ideas for integrating renewable energy in industrial heritage sites.
+    author: Emmeline Dickenson
+    og_image: /content/assets/zlichov-distillery.jpg
+  - title: "’s-Gravenhof in Zutphen: Dutch Architectural Legacy"
+    topic: Dutch Heritage
+    keywords: [’s-Gravenhof, Zutphen, Netherlands, architecture, heritage]
+    description: The cultural significance of ’s-Gravenhof in Zutphen, with sustainable preservation strategies for Dutch heritage.
+    author: Alec Dumass
+    og_image: /content/assets/gravenhof-zutphen.jpg
+  - title: "MLA’s Chekhov Scholarship: Powering Literary Studies"
+    topic: Academic Scholarship
+    keywords: [MLA, Chekhov, literature, scholarship, cultural energy]
+    description: How MLA’s Approaches to Teaching Chekhov energizes literary studies, with parallels to cultural and intellectual energy.
+    author: Eliza Alcotte
+    og_image: /content/assets/chekhov-scholarship.jpg
+  - title: "Beroun’s St. John Statue: Czech Spiritual Heritage"
+    topic: Czech Heritage
+    keywords: [Beroun, St. John, Czech Republic, spirituality, heritage]
+    description: The cultural significance of Beroun’s St. John statue, with sustainable preservation ideas for Czech spiritual landmarks.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/st-john-statue.jpg
+  - title: "Chernivtsi’s Centralna Plaza: Ukraine’s Cultural Heart"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Centralna Plaza, Ukraine, culture, architecture]
+    description: How Chernivtsi’s Centralna Plaza reflects Ukraine’s cultural heart, with eco-friendly preservation strategies.
+    author: Marcus Twyne
+    og_image: /content/assets/centralna-plaza.jpg
+  - title: "Czech Tesla’s Synthesizers: A Musical Tech Legacy"
+    topic: Energy Innovation
+    keywords: [Tesla, synthesizers, Czech Republic, music, technology]
+    description: Exploring Czech Tesla’s historical synthesizers, like those at HAMU, and their influence on modern energy-efficient tech.
+    author: Lara Wylde
+    og_image: /content/assets/tesla-synthesizer.jpg
+  - title: "’s-Heer Arendskerke’s 1858 Heritage: Dutch Rural Pride"
+    topic: Dutch Heritage
+    keywords: [’s-Heer Arendskerke, Netherlands, 1858, heritage, rural]
+    description: The cultural pride of ’s-Heer Arendskerke’s 1858 buildings, with sustainable preservation ideas for rural Dutch heritage.
+    author: Davin Thorow
+    og_image: /content/assets/arendskerke-1858.jpg
+  - title: "MLA’s 2022 Presidential Theme: Multilingual US Energy"
+    topic: Academic Scholarship
+    keywords: [MLA 2022, multilingual, literature, scholarship, culture]
+    description: How MLA’s 2022 Multilingual US theme energizes literary scholarship, with parallels to cultural and intellectual vitality.
+    author: Marian Shelleigh
+    og_image: /content/assets/mla-multilingual.jpg
+  - title: "Prague’s MeetFactory: Art and Energy in Smíchov"
+    topic: Czech Culture
+    keywords: [MeetFactory, Prague, Smíchov, art, energy]
+    description: How Prague’s MeetFactory blends art and cultural energy in Smíchov, with ideas for sustainable cultural spaces.
+    author: Sara Brontee
+    og_image: /content/assets/meetfactory-art.jpg
+  - title: "Valletta’s 3951 Streets: Malta’s Historical Charm"
+    topic: Maltese Heritage
+    keywords: [Valletta, 3951, Malta, streets, heritage]
+    description: The historical charm of Valletta’s 3951 streets, with modern energy-efficient preservation strategies.
+    author: Joanna Aucton
+    og_image: /content/assets/valletta-streets.jpg
+  - title: "Smíchov’s Historical Trams: Czech Transport Heritage"
+    topic: Czech Infrastructure
+    keywords: [Smíchov, trams, Prague, transport, heritage]
+    description: The historical significance of Smíchov’s trams, with ideas for integrating clean energy into Czech transport heritage.
+    author: Jonah Stynebeck
+    og_image: /content/assets/smichov-tram.jpg
+  - title: "’s-Gravenmolen in Grimbergen: Dutch Cultural Legacy"
+    topic: Dutch Heritage
+    keywords: [’s-Gravenmolen, Grimbergen, Netherlands, heritage, architecture]
+    description: The cultural legacy of ’s-Gravenmolen in Grimbergen, with sustainable preservation ideas for Dutch heritage.
+    author: Silas Twaine
+    og_image: /content/assets/gravenmolen-grimbergen.jpg
+  - title: "Chernivtsi’s Main Street 50: Ukraine’s Architectural Pride"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Main Street 50, Ukraine, architecture, heritage]
+    description: How Chernivtsi’s Main Street 50 reflects Ukraine’s architectural pride, with eco-friendly preservation strategies.
+    author: Emmeline Dickenson
+    og_image: /content/assets/main-street-50.jpg
+  - title: "MLA’s Orhan Pamuk Scholarship: Energizing Global Literature"
+    topic: Academic Scholarship
+    keywords: [MLA, Orhan Pamuk, literature, scholarship, global]
+    description: How MLA’s Approaches to Teaching Orhan Pamuk energizes global literary studies, with parallels to cultural energy.
+    author: Alec Dumass
+    og_image: /content/assets/pamuk-scholarship.jpg
+  - title: "Olovnice’s Jungmann Street: Czech Literary Heritage"
+    topic: Czech Heritage
+    keywords: [Olovnice, Jungmann, Czech Republic, literature, heritage]
+    description: The literary significance of Olovnice’s Jungmann Street, with sustainable preservation ideas for Czech heritage.
+    author: Eliza Alcotte
+    og_image: /content/assets/jungmann-street.jpg
+  - title: "Valletta’s Fiestas 2023: Malta’s Cultural Vibrancy"
+    topic: Maltese Heritage
+    keywords: [Valletta, fiestas 2023, Malta, culture, heritage]
+    description: How Valletta’s 2023 fiestas reflect Malta’s cultural vibrancy, with modern energy-efficient event planning ideas.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/valletta-fiestas.jpg
+  - title: "Prague’s Kámen Theatre: Czech Cultural Energy"
+    topic: Czech Culture
+    keywords: [Kámen Theatre, Prague, Czech Republic, culture, energy]
+    description: The cultural energy of Prague’s Kámen Theatre, with ideas for sustainable energy in cultural venues.
+    author: Marcus Twyne
+    og_image: /content/assets/kamen-theatre.jpg
+  - title: "’s-Herenstraat 68 in Maasland: Dutch Village Heritage"
+    topic: Dutch Heritage
+    keywords: [’s-Herenstraat 68, Maasland, Netherlands, heritage, architecture]
+    description: The cultural significance of ’s-Herenstraat 68 in Maasland, with sustainable preservation strategies for Dutch villages.
+    author: Lara Wylde
+    og_image: /content/assets/herenstraat-68.jpg
+  - title: "Chernivtsi’s Main Street 28: Ukraine’s Urban Legacy"
+    topic: Ukrainian Heritage
+    keywords: [Chernivtsi, Main Street 28, Ukraine, architecture, heritage]
+    description: How Chernivtsi’s Main Street 28 reflects Ukraine’s urban legacy, with eco-friendly preservation strategies.
+    author: Davin Thorow
+    og_image: /content/assets/main-street-28.jpg
+  - title: "MLA’s Baudelaire Scholarship: Powering Literary Innovation"
+    topic: Academic Scholarship
+    keywords: [MLA, Baudelaire, literature, scholarship, innovation]
+    description: How MLA’s Approaches to Teaching Baudelaire’s Prose Poems powers literary innovation, with parallels to cultural energy.
+    author: Marian Shelleigh
+    og_image: /content/assets/baudelaire-scholarship.jpg
+  - title: "Beroun’s Havlíčkova Street: Czech Cultural Charm"
+    topic: Czech Heritage
+    keywords: [Beroun, Havlíčkova, Czech Republic, culture, heritage]
+    description: The cultural charm of Beroun’s Havlíčkova Street, with sustainable preservation ideas for Czech urban heritage.
+    author: Sara Brontee
+    og_image: /content/assets/havlickova-street.jpg
