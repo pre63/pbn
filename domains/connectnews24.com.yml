@@ -1,0 +1,51 @@
+site:
+  name: Connect News 24
+  description: Your source for the latest in technology trends and innovations.
+  keywords: [technology, innovation, gadgets, tech news, startups]
+  logo: /content/assets/logo-connectnews24.jpg
+  favicon: /content/assets/favicon-connectnews24.png
+  email: info@connectnews24.com
+  phone: "+1-604-555-0101"
+  address:
+    street: 123 Tech Lane
+    city: Vancouver
+    region: BC
+    postal_code: V6B 1A1
+    country: CA
+
+social_media:
+  twitter: https://twitter.com/connectnews24
+  facebook: https://facebook.com/connectnews24
+  instagram: https://instagram.com/connectnews24
+
+navigation:
+  - name: Home
+    url: index
+  - name: Blog
+    url: index
+  - name: Contact
+    url: contact
+  - name: Guest Poster
+    url: guest_poster
+
+footer:
+  links:
+    - name: Guest Poster
+      url: guest_poster
+    - name: Contact Us
+      url: contact
+    - name: Privacy Policy
+      url: privacy
+  copyright: © 2025 Connect News LLC. All rights reserved.
+
+content:
+  topics: [artificial intelligence, cybersecurity, tech startups, gadgets, software development]
+  articles_path: content/connectnews24.com/articles
+  default_image: /content/assets/tech-bg.jpg
+
+analytics:
+  google_analytics_id: G-CONNECT24
+
+seo:
+  og_image: /content/assets/tech-bg.jpg
+  twitter_image: /content/assets/tech-bg.jpg

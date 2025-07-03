@@ -1,0 +1,61 @@
+articles:
+  - title: The Evolution of Firearms Technology
+    topic: Firearms Technology
+    keywords: [firearms, CZ 550, technology, precision engineering, gun innovation]
+    description: Exploring the technological advancements in firearms, from precision engineering to smart gun technologies, with a focus on models like the CZ 550 in .308 caliber.
+    author: Michael Techson
+    og_image: /content/assets/tech-bg.jpg
+  # - title: Special Effects in the Digital Age
+  #   topic: Visual Effects Technology
+  #   keywords: [special effects, VFX, CGI, film technology, digital media]
+  #   description: How advancements in computer-generated imagery (CGI) and visual effects are transforming storytelling in films, with insights into tools and techniques for creators.
+  #   author: Sarah VFX
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: Automotive Engineering and Timing Belt Innovations
+  #   topic: Automotive Technology
+  #   keywords: [automotive, timing belt, engineering, car performance, B-series]
+  #   description: A deep dive into automotive engineering, focusing on the role of timing belt covers in enhancing engine performance and reliability in B-series engines.
+  #   author: David Gearhead
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: The Role of Online Forums in Tech Communities
+  #   topic: Tech Communities
+  #   keywords: [online forums, tech communities, Milwaukee forums, collaboration, knowledge sharing]
+  #   description: Examining how online forums, like those in Milwaukee’s tech scene, foster collaboration and innovation among technology enthusiasts and professionals.
+  #   author: Emma Connect
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: PowerShell SDK and Automation’s Future
+  #   topic: Software Development
+  #   keywords: [PowerShell, SDK, automation, scripting, software development]
+  #   description: How the PowerShell SDK empowers developers to automate complex tasks, reshaping enterprise IT and software development workflows.
+  #   author: John Coder
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: The Legacy of Mini Mario 64 in Gaming Tech
+  #   topic: Gaming Technology
+  #   keywords: [Mini Mario 64, gaming, retro tech, game design, emulation]
+  #   description: A retrospective on Mini Mario 64, exploring how retro games influence modern gaming technology and the rise of emulation platforms.
+  #   author: Alex Gamer
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: Ryzen 3900X and Virtualization Performance
+  #   topic: Computer Hardware
+  #   keywords: [Ryzen 3900X, virtualization, VirtualBox, CPU performance, hardware]
+  #   description: Analyzing the AMD Ryzen 3900X’s impact on virtualization performance, with a focus on VirtualBox and its applications in tech workflows.
+  #   author: Lisa Hardware
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: EZDrummer and the Future of Music Production
+  #   topic: Music Technology
+  #   keywords: [EZDrummer, music production, software, digital audio, creativity]
+  #   description: How tools like EZDrummer are revolutionizing music production, enabling artists to create professional-grade tracks with digital audio workstations.
+  #   author: Mark Musician
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: The Ethics of Video Game Cheats and Mods
+  #   topic: Gaming Ethics
+  #   keywords: [PS4 cheats, gaming, ethics, modding, game development]
+  #   description: Exploring the ethical implications of cheat packages and mods in gaming, with a focus on their impact on developers and players in titles like those on PS4.
+  #   author: Rachel Ethicist
+  #   og_image: /content/assets/tech-bg.jpg
+  # - title: Tech Startups Shaping NYC’s Future
+  #   topic: Tech Startups
+  #   keywords: [NYC startups, technology, innovation, entrepreneurship, 2019 trends]
+  #   description: A look at how NYC’s tech startup scene in 2019 set the stage for today’s innovations, highlighting key players and trends in technology entrepreneurship.
+  #   author: Tom Entrepreneur
+  #   og_image: /content/assets/tech-bg.jpg

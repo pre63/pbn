@@ -1,0 +1,10 @@
+flask
+psycopg2-binary
+requests
+waitress
+attrs==23.1.0
+pytz
+python-frontmatter
+markdown
+bs4
+python-slugify
