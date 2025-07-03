@@ -15,7 +15,7 @@ test:
 install:
 	@python3 -m venv .venv
 	@. .venv/bin/activate && pip install -r requirements.txt
-	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git xai_sdk
+	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git xai_sdk kagglehub fuzzywuzzy pandas
 
 build: fix
 	@docker build -t pbn-app .
@@ -34,6 +34,9 @@ dates:
 
 cross_post:
 	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.cross_post
+
+images:
+	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.images
 
 clean:
 	@rm -rf .venv

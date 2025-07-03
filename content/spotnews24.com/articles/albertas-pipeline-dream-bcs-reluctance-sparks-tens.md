@@ -20,8 +20,7 @@ og_description: "How Alberta\u2019s push for a new pipeline to BC\u2019s coast, 
 og_image: /content/assets/alberta-bc-meeting.jpg
 
 ---
-# Alberta’s Pipeline Ambitions: A Call for Pragmatic Cooperation in BC Politics
-
+<!--# Alberta’s Pipeline Ambitions: A Call for Pragmatic Cooperation in BC Politics -->
 By Eliza Alcotte  
 *Spot News 24*  
 
@@ -57,4 +56,3 @@ In conclusion, Alberta’s pipeline push to BC’s coast is more than a politica
 
 Let us remember that true strength lies in unity, not division. As provinces with intertwined fates, Alberta and BC have the opportunity to model a center-right vision: one where market-driven solutions foster prosperity, jobs flourish, and our shared heritage endures. It’s time to move forward with resolve, nurturing the bonds that make Canada great while keeping government in its rightful, restrained place. Only then can we build a future that honors both our economic realities and our traditional principles.
 
-(Word count: 1,025)

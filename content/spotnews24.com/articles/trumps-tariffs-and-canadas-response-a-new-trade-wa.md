@@ -20,8 +20,7 @@ og_description: "Analyzing how Trump\u2019s tariffs threaten British Columbia\u2
 og_image: /content/assets/trade-war-meeting.jpg
 
 ---
-# The Tariff Tempest: Trump’s Policies and the Fragile Ties of Canada-US Trade
-
+<!--# The Tariff Tempest: Trump’s Policies and the Fragile Ties of Canada-US Trade -->
 In the grand tapestry of international commerce, where nations weave their economic fates together, the latest maneuvers from across the border evoke a sense of Austenian drama—full of intrigue, miscalculation, and the potential for needless strife. As former President Donald Trump revives his penchant for protectionism with sweeping tariffs, the economic stability of British Columbia hangs in the balance. These Trump tariffs, aimed at reshaping Canada-US trade dynamics, threaten to disrupt longstanding free-market principles that have underpinned North American prosperity. Yet, in response, Canada’s government has fast-tracked infrastructure projects, a move that, while pragmatic, raises questions about the perils of escalating trade tensions and the virtues of limited government intervention. This editorial examines the stakes for British Columbia’s economy, weighing the risks against the rewards, all through the lens of a balanced, center-right perspective that champions free markets and fiscal restraint.
 
 ## The Shadows of Protectionism: Analyzing Trump’s Tariffs on Canada-US Trade
@@ -56,4 +55,3 @@ As we navigate this tariff tempest, it is clear that the path to stability lies 
 
 In conclusion, the threats to British Columbia’s economy are real, yet they present an opportunity to reaffirm the enduring value of free trade and traditional economic virtues. By avoiding the escalation of tensions and focusing on sustainable, market-oriented solutions, both Canada and the U.S. can preserve the bonds that have long defined their relationship. As a wise observer once noted, in the dance of nations, it is harmony, not discord, that leads to lasting prosperity. Let us hope that cooler heads prevail, steering us away from the tempests of today toward the calmer seas of tomorrow.
 
-(Word count: 1,045)

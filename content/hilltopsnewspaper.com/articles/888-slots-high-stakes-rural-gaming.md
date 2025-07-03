@@ -17,8 +17,7 @@ og_description: The appeal of 888 slots in rural Thailand, advocating for fair p
 og_image: /content/assets/888-slot-game.jpg
 
 ---
-# The Allure of 888 Slots in Rural Thailand: A Call for Fair Play in High-Stakes Gaming
-
+<!--# The Allure of 888 Slots in Rural Thailand: A Call for Fair Play in High-Stakes Gaming -->
 By Joanna Aucton  
 *Hilltops Newspaper*  
 *Published: [Current Date]*  

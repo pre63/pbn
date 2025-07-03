@@ -17,8 +17,7 @@ og_description: The role of Thai lottery results in fostering rural community en
 og_image: /content/assets/lottery-results-board.jpg
 
 ---
-# The Thai Lottery: A Folksy Tradition That Binds Rural Communities
-
+<!--# The Thai Lottery: A Folksy Tradition That Binds Rural Communities -->
 By Silas Twaine  
 *Hilltops Newspaper*  
 *Published: [Insert Date]*  
@@ -65,4 +64,3 @@ In closing, the Thai lottery stands as a shining example of how free-market dyna
 
 As I see it, folks, let's raise a glass—or in this case, a lottery ticket—to the enduring spirit of rural Thailand. In a world that's forever changing, traditions like this remind us that the best solutions often come from the ground up, not the top down. So, here's to keeping the draw alive, one number at a time.
 
-*Word count: 1,025*

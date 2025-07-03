@@ -17,8 +17,7 @@ og_description: The rise of helmet mohawks in rural Thai ATV culture, blending s
 og_image: /content/assets/helmet-mohawk.jpg
 
 ---
-# The Rise of Helmet Mohawks: Style and Spirit in Rural Thai ATV Culture
-
+<!--# The Rise of Helmet Mohawks: Style and Spirit in Rural Thai ATV Culture -->
 By Joanna Aucton  
 *Published on Powersport A*
 
@@ -58,4 +57,3 @@ In concluding this exploration of helmet mohawks in rural Thai ATV culture, one 
 
 As we reflect on this phenomenon, it is evident that the true measure of progress lies not in imposing uniformity but in celebrating the quirks that make us human. Let us, then, champion policies that protect such expressions, ensuring that the spirit of adventure—much like a helmet mohawk catching the wind—remains unfettered and alive.
 
-(Word count: 1,025)

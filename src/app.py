@@ -1,9 +1,12 @@
+import datetime
 import os
+from datetime import datetime
 
 import frontmatter
 import markdown
 import yaml
 from flask import Flask, Response, redirect, render_template, request, send_from_directory, url_for
+from slugify import slugify
 
 from src.text_analytics import compute_tfidf, cosine_similarity_manual, tokenize
 
@@ -92,26 +95,31 @@ def load_articles(domain):
               "slug": post.get("slug", filename[:-3]),
               "meta_description": post.get("meta_description", ""),
               "meta_keywords": post.get("meta_keywords", []),
-              "og_title": post.get("og_title", post.get("title", "Untitled")),
-              "og_description": post.get("og_description", post.get("meta_description", "")),
+              "og_title": post.get("title", "Untitled"),
+              "og_description": post.get("og_description", ""),
               "og_image": post.get("og_image", ""),
               "author": post.get("author", "Anonymous"),
               "date": post.get("date", ""),
               "body": post.content,
+              "topic": post.get("topic", ""),
             }
           )
       except Exception as e:
-        print(f"Error loading article {filename}: {str(e)}. Skipping that mess.")
-  return sorted(articles, key=lambda x: x["date"], reverse=True)
+        print(f"Error loading article {filename}: {str(e)}. Skipping.")
+
+  sorted_list = sorted(articles, key=lambda x: x["date"] or "1970-01-01", reverse=True)
+  # format date nice
+  for article in sorted_list:
+    # "%B %d, %Y"
+    article["date"] = datetime.strptime(article["date"], "%Y-%m-%d").strftime("%B %d, %Y") if article["date"] else article["date"]
+
+  return articles
 
 
 def get_related_articles(articles, current_article):
-  """Find related articles using TF-IDF. If this breaks, your search is gonna suck."""
-  if not articles:
-    return []
-  if not current_article:
-    return articles[:3]  # Fallback: return 3 recent articles
-
+  """Find related articles using TF-IDF with a lower threshold."""
+  if not articles or not current_article:
+    return articles[:3] if articles else []
   documents = [f"{a['title']} {a['meta_description']} {' '.join(a['meta_keywords'])}" for a in articles]
   tfidf_vectors, vocab = compute_tfidf(documents)
   current_text = f"{current_article['title']} {current_article['meta_description']} {' '.join(current_article['meta_keywords'])}"
@@ -119,13 +127,12 @@ def get_related_articles(articles, current_article):
 
   similarities = [(articles[i], cosine_similarity_manual(current_vector, vector)) for i, vector in enumerate(tfidf_vectors)]
   similarities.sort(key=lambda x: x[1], reverse=True)
-  return [article for article, score in similarities[:3] if score > 0.2 and article["slug"] != current_article["slug"]]
+  # Lowered threshold to 0.1 for more matches
+  return [article for article, score in similarities[:3] if article["slug"] != current_article["slug"]]
 
 
 def create_app():
   app = Flask(__name__, template_folder="../templates", static_folder="../static")
-
-  DEV = os.getenv("DEV", False) == "True"
 
   @app.context_processor
   def inject_config():
@@ -153,9 +160,23 @@ def create_app():
     related_articles = get_related_articles(articles, article)
     return render_template("article.html", article=article, related_articles=related_articles)
 
+  @app.route("/category/<category>")
+  def category(category):
+    """Serve articles by category (keyword)."""
+    domain = request.host if not DEV else "connectnews24.com"
+    articles = load_articles(domain)
+    matching_articles = [a for a in articles if category in [slugify(kw) for kw in a["meta_keywords"]]]
+    return render_template(
+      "index.html",
+      latest_article=None,
+      latest_articles=matching_articles[:10],  # Limit to 10 articles
+      related_articles=articles[:3],
+      category_name=category.replace("-", " ").title(),
+    )
+
   @app.route("/search")
   def search():
-    """Search articles with TF-IDF. Don’t expect miracles if your query’s garbage."""
+    """Search articles with TF-IDF."""
     query = request.args.get("q", "").lower()
     if not query:
       return redirect(url_for("index"))
@@ -163,31 +184,24 @@ def create_app():
     articles = load_articles(domain)
     results = []
     if articles:
-      # Step 1: Compute TF-IDF for documents to get the vocabulary
       documents = [f"{a['title']} {a['meta_description']} {' '.join(a['meta_keywords'])} {a['body']}" for a in articles]
       tfidf_vectors, vocab = compute_tfidf(documents)
-
-      # Step 2: Compute TF-IDF for the query using the same vocabulary
-      query_vector = compute_tfidf([query], vocab=vocab)[0][0]  # Pass the vocab explicitly
-
-      # Step 3: Compute cosine similarities
+      query_vector = compute_tfidf([query], vocab=vocab)[0][0]
       for i, article in enumerate(articles):
         score = cosine_similarity_manual(query_vector, tfidf_vectors[i])
-        if score > 0.1:  # Adjust threshold as needed
+        if score > 0.1:
           results.append(article)
-
-    results.sort(key=lambda x: x["date"], reverse=True)
+    results.sort(key=lambda x: x["date"] or "1970-01-01", reverse=True)
     return render_template("index.html", latest_article=None, latest_articles=results, related_articles=articles[:3], search_query=query)
 
   @app.route("/contact", methods=["GET", "POST"])
   def contact():
-    """Contact form. Don’t spam me, or I’ll yeet your email into the void."""
+    """Contact form."""
     if request.method == "POST":
       name = request.form.get("name")
       email = request.form.get("email")
       message = request.form.get("message")
       if name and email and message:
-        # TODO: Implement email sending (e.g., Amazon SES) or database storage
         print(f"Contact form submission: {name}, {email}, {message}")
         return redirect(url_for("thank_you"))
       print(f"Invalid contact form submission: {name}, {email}, {message}")
@@ -195,10 +209,9 @@ def create_app():
 
   @app.route("/subscribe", methods=["POST"])
   def subscribe():
-    """Newsletter signup. Don’t expect a welcome basket."""
+    """Newsletter signup."""
     email = request.form.get("email")
     if email:
-      # TODO: Implement newsletter storage (e.g., SQLite) or email service
       print(f"Newsletter subscription: {email}")
       return redirect(url_for("thank_you"))
     print("Invalid subscription attempt: No email provided.")
@@ -206,22 +219,22 @@ def create_app():
 
   @app.route("/thank_you")
   def thank_you():
-    """Thank you page for forms. You’re welcome, I guess."""
+    """Thank you page for forms."""
     return render_template("thank_you.html")
 
   @app.route("/guest_poster")
   def guest_poster():
-    """Guest poster page. Don’t send me garbage pitches."""
+    """Guest poster page."""
     return render_template("guest_poster.html")
 
   @app.route("/privacy")
   def privacy():
-    """Privacy policy. Yeah, we care about your data... sorta."""
+    """Privacy policy."""
     return render_template("privacy.html")
 
   @app.route("/sitemap.xml")
   def sitemap():
-    """Sitemap for SEO. Google better love this."""
+    """Sitemap for SEO."""
     domain = request.host if not DEV else "connectnews24.com"
     articles = load_articles(domain)
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -232,15 +245,12 @@ def create_app():
     xml += "</urlset>"
     return Response(xml, mimetype="application/xml")
 
-  # Replace the existing serve_content_images route
   @app.route("/content/assets/<path:filename>")
   def serve_content_images(filename):
-    """Serve images from /content/assets, attempting to find a similar image for missing files before falling back."""
-    # Check if the filename has an image extension
+    """Serve images from /content/assets with fallback."""
     _, ext = os.path.splitext(filename.lower())
     is_image = ext in IMAGE_EXTENSIONS
     content_relative_dir_path = "../content/assets"
-
     if is_image:
       file_path = os.path.join("content/assets", filename)
       if os.path.exists(file_path) and os.path.isfile(file_path):
@@ -248,59 +258,48 @@ def create_app():
         return send_from_directory(content_relative_dir_path, filename)
       else:
         print(f"Image not found: {file_path}")
-        # Try to find a similar image
         similar_image = find_similar_image_filename(filename)
         if similar_image:
           similar_image_path = os.path.join("content/assets", similar_image)
           if os.path.exists(similar_image_path):
             print(f"Serving similar image: {similar_image}")
             return send_from_directory(content_relative_dir_path, similar_image)
-
-        # Fallback to not-found.jpg
         default_image = "not-found.jpg"
         default_image_path = os.path.join("content/assets", default_image)
         if os.path.exists(default_image_path):
           print(f"Serving fallback image: {default_image}")
           return send_from_directory(content_relative_dir_path, default_image)
-        else:
-          print(f"Fallback image not found: {default_image_path}")
-          # Final fallback to vancouver-bg.jpg
-          return send_from_directory(content_relative_dir_path, "vancouver-bg.jpg")
-    else:
-      # For non-image assets, let the 404 handler deal with it
-      return render_template("404.html", related_articles=[]), 404
+        return send_from_directory(content_relative_dir_path, "vancouver-bg.jpg")
+    return render_template("404.html", related_articles=[]), 404
 
-  # Register custom Markdown filter
   @app.template_filter("markdown")
   def markdown_filter(text):
     return markdown.markdown(text, extensions=["extra", "codehilite", "toc"])
 
+  @app.template_filter("slugify")
+  def slugify_filter(text):
+    """Convert text to a URL-friendly slug."""
+    return slugify(text)
+
   @app.errorhandler(404)
   def handle_404(e):
-    """Sneaky 404 handler that tries to find articles and returns 200. Don’t tell Google."""
+    """Handle 404 with article suggestions."""
     domain = request.host if not DEV else "connectnews24.com"
     articles = load_articles(domain)
     path = request.path.strip("/")
     slug = path.split("/")[-1] if path.startswith("article/") else path
-
-    # Try exact slug match
     for article in articles:
       if slug.lower() in article["slug"].lower() or slug.lower() in article["title"].lower():
         return render_template("article.html", article=article, related_articles=get_related_articles(articles, article)), 200
-
-    # Try TF-IDF similarity
     if articles:
       documents = [f"{a['title']} {a['meta_description']} {' '.join(a['meta_keywords'])}" for a in articles]
       tfidf_vectors, vocab = compute_tfidf(documents)
       slug_vector = compute_tfidf([slug], vocab=vocab)[0][0]
       similarities = [(articles[i], cosine_similarity_manual(slug_vector, vector)) for i, vector in enumerate(tfidf_vectors)]
       similarities.sort(key=lambda x: x[1], reverse=True)
-
-      if similarities and similarities[0][1] > 0.7:  # Threshold for match
+      if similarities and similarities[0][1] > 0.7:
         matched_article = similarities[0][0]
         return render_template("article.html", article=matched_article, related_articles=get_related_articles(articles, matched_article)), 200
-
-    # Fallback to 404 page with suggested articles
     return render_template("404.html", related_articles=articles[:3]), 200
 
   return app
