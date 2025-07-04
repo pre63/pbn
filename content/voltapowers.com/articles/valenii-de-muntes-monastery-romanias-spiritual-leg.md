@@ -56,4 +56,3 @@ As we look to the future, the preservation of Vălenii de Munte and Romania’s 
 
 In this spirit, let us encourage policies that incentivize private investment and local innovation, allowing the people of Vălenii de Munte to lead the way. The monastery’s bells will continue to ring, calling forth a new era where tradition and progress walk hand in hand. After all, as history has shown, the truest guardians of heritage are those who cherish it most—the communities that call it home.
 
-(Word count: 1,025)

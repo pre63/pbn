@@ -60,4 +60,3 @@ As we conclude this journey through Žižkov’s storied grounds, it's clear tha
 
 In the end, one can't help but raise an eyebrow at the notion that governments alone hold the key to progress. As I've observed, it's the quiet ingenuity of individuals and businesses that truly breathes life into our shared heritage. Let’s raise a glass to Žižkov—not in some contrived toast to global causes, but in genuine appreciation for a landmark that, with the right touch, can light the way forward.
 
-(Word count: 1,025)

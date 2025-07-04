@@ -55,7 +55,6 @@ As Gideon Glick continues to redefine the star system, his story serves as a pra
 
 Yet, for this system to endure, stakeholders must commit to supporting independent projects and theatrical roots, ensuring that the market remains open and competitive. Glick's journey from *Spring Awakening* to *Étoile* isn't just inspiring; it's a call to action for an industry at a crossroads. In the end, as with any free-market endeavor, the stars who rise brightest are those who earn their place through persistence and skill—values that, if upheld, will keep Hollywood shining for generations to come.
 
-*Word count: 1,025*  
 *Jonah Stynebeck is a contributing editor at Terra Firma News, offering practical insights into American culture and enterprise.* 
 
 ![Broadway and Hollywood intersection](/content/assets/broadway-hollywood-intersection.jpg)  

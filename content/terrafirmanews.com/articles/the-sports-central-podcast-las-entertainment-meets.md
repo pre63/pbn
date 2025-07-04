@@ -55,4 +55,3 @@ As we gaze toward the horizon, the trajectory of Sports Central and similar podc
 
 In conclusion, Sports Central stands as a vibrant example of how LA's sports and entertainment scenes can intersect to create value in a free-market ecosystem. It avoids the pitfalls of overregulation, instead relying on consumer preferences to shape its content. As [Forbes](https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/15/the-economic-impact-of-podcasts-on-local-communities/) notes in a recent analysis, such ventures not only boost local economies but also preserve traditional values by celebrating personal achievement. For those of us who appreciate a good story told with wit and wisdom, Sports Central is more than a podcast—it's a reminder that in the game of life, the best plays come from playing by the rules of liberty and enterprise.
 
-(Word count: 1,025)

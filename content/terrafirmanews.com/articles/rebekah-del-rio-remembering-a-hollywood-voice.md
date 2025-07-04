@@ -54,4 +54,3 @@ As we conclude this tribute, Rebekah Del Rio’s musical contributions to Hollyw
 
 Ultimately, her story is one of triumph in a system that rewards merit, encouraging policymakers to prioritize free-market solutions that protect creative freedoms. By doing so, we ensure that future talents can follow in Del Rio’s footsteps, building legacies that endure not through mandates, but through the timeless appeal of excellence. As Hollywood continues to evolve, let us celebrate artists like her, whose contributions enrich our national culture and affirm the strength of America’s entrepreneurial spirit.
 
-(Word count: 1,025)

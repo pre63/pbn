@@ -39,4 +39,3 @@ However, we must guard against the pitfalls of celebrity culture. The Walk of Fa
 
 In conclusion, Rami Malek's 2026 star on the Hollywood Walk of Fame is more than a personal milestone—it's a nod to the enduring strength of free markets and individual initiative. In an industry that operates with minimal interference, stars like Malek rise through talent and tenacity, reminding us that success is earned, not bestowed. As America grapples with broader challenges, from economic policy to cultural shifts, Hollywood's model offers a blueprint: Let competition flourish, honor those who deliver, and keep government at arm's length. Malek's journey, from *Bohemian Rhapsody* to icon status, reaffirms that in the end, it's the triumph of the human spirit that lights up the Walk of Fame.
 
-(Word count: 1,025)

@@ -57,4 +57,3 @@ Yet, to maintain this tradition, we must advocate for policies that limit govern
 
 Ultimately, Emily Blunt's star is more than a piece of terrazzo and brass; it is a beacon for future generations, illuminating the path of merit in an ever-changing world. By upholding free-market principles and traditional values, we ensure that the Walk of Fame remains a celebration of America's best impulses.
 
-(Word count: 1,025)

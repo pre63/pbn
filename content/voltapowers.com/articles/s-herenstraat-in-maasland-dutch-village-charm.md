@@ -53,4 +53,3 @@ In conclusion, ’s-Herenstraat in Maasland stands as a shining example of how D
 
 Let’s take inspiration from ’s-Herenstraat, where the past isn’t a relic but a living foundation for progress. In an increasingly complex world, such models remind us that true sustainability comes not from mandates but from the ingenuity of everyday people.
 
-(Word count: 1,025)

@@ -58,4 +58,3 @@ Yet, as we look to the future, let us guard against the temptations of overregul
 
 For further reading, explore [Variety's in-depth coverage on Hollywood franchises](https://www.variety.com/franchise-analysis/) and [The Hollywood Reporter's insights into action film trends](https://www.hollywoodreporter.com/topic/action-films/).
 
-*Word count: 1,025*

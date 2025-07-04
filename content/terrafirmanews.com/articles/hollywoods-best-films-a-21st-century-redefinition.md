@@ -55,4 +55,3 @@ As Hollywood forges ahead, let us resist the temptation of governmental meddling
 ![Hollywood's Timeless Appeal](/content/assets/hollywood-timeless-appeal.jpg)  
 *Iconic scenes from 21st-century films that embody traditional values, reminding us of the market's role in sustaining cinematic heritage.*
 
-(Word count: 1,045)

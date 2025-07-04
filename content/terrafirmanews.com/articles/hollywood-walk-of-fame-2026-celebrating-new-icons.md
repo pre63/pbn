@@ -59,4 +59,3 @@ As we wrap up this stroll down the Walk of Fame, it's clear that Miley Cyrus and
 
 Yet, as with any good story, there's a moral: Let's cherish these inductions not for their glamour alone, but for the lessons they impart about building a society where talent flourishes through enterprise, not edict. Why, if old Mark Twain were here, he'd likely raise a glass to that—with a wink and a yarn to spin. Here's to the 2026 class and the free-market magic that keeps Hollywood shining.
 
-(Word count: 1,045)

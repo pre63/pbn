@@ -58,4 +58,3 @@ Yet, for Hollywood to sustain this momentum, stakeholders must resist the tempta
 
 As Davin Thorow, I urge readers to appreciate these developments not as mere spectacle, but as practical reminders of what free markets can achieve when left to their own devices. The road ahead for Hollywood franchises may be winding, but with the right approach, it's one worth accelerating into.
 
-(Word count: 1,025)

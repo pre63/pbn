@@ -60,4 +60,3 @@ As we cross the finish line of this discussion, it's clear that *F1*'s triumph i
 
 Yet, as we look ahead, let's not forget the lessons of restraint. Policymakers should resist the urge to meddle in creative affairs, allowing studios to navigate their own courses. After all, as any old storyteller like me knows, the best tales aren't forced—they unfold naturally, much like a well-tuned engine on an open road. Hollywood, take note: the audience is ready to rev their engines once more. Will you follow *F1*'s lead?
 
-(Word count: 1,025)

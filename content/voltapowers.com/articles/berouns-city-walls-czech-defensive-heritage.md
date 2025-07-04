@@ -55,4 +55,3 @@ As we conclude this reflection, let us ponder the walls of Beroun not as relics 
 
 In this spirit, I urge policymakers and citizens alike to embrace a model where heritage is not a government preserve but a shared inheritance. Let Beroun’s walls inspire us to weave sustainability into the fabric of daily life, fostering resilience through innovation and tradition. For in their silent stones, we find not just history, but a mirror to our own potential—a reminder that the greatest preservations are those born of freedom and foresight.
 
-(Word count: 1,025)

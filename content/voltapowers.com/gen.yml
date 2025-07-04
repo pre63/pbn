@@ -169,7 +169,7 @@ articles:
     og_image: /content/assets/beroun-walls.jpg
   - title: "Valletta’s 3951 Heritage: Malta’s Architectural Legacy"
     topic: Maltese Heritage
-    keywords: [Valletta, 3951, Malta, architecture, heritage]
+    keywords: [Valletta, '3951', Malta, architecture, heritage]
     description: "Exploring Valletta’s 3951 landmarks, like historic buildings, and their role in Malta’s cultural legacy with modern preservation."
     author: Alec Dumass
     og_image: /content/assets/valletta-3951.jpg
@@ -247,7 +247,7 @@ articles:
     og_image: /content/assets/tesla-radio.jpg
   - title: "’s-Hertogenbosch’s 1996 Heritage: Dutch Cultural Pride"
     topic: Dutch Heritage
-    keywords: [’s-Hertogenbosch, Netherlands, 1996, architecture, heritage]
+    keywords: [’s-Hertogenbosch, Netherlands, '1996', architecture, heritage]
     description: "The cultural significance of ’s-Hertogenbosch’s 1996 buildings, with sustainable preservation ideas for Dutch heritage."
     author: Eliza Alcotte
     og_image: /content/assets/hertogenbosch-1996.jpg

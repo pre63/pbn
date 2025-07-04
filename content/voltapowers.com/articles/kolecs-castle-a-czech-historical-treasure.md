@@ -55,4 +55,3 @@ In conclusion, Koleč’s Castle stands as a profound emblem of Czech heritage, 
 
 As we reflect on Koleč’s Castle, let us heed the lessons of history: True preservation comes not from mandates but from the voluntary actions of informed citizens and innovative enterprises. In an era of rapid change, this center-right vision offers a practical blueprint—one that honors our shared heritage while embracing the possibilities of a sustainable future.
 
-*Word count: 1,025*

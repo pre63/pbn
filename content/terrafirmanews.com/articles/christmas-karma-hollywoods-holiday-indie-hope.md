@@ -60,4 +60,3 @@ As the credits roll on *Christmas Karma*, we're left with a gentle reminder of w
 
 In the end, stories like *Christmas Karma* prove that the heart of Hollywood beats strongest when it's unencumbered. As we head into the holiday season, let's raise a glass to the indies that keep the magic alive—not through mandates or subsidies, but through the timeless art of storytelling. After all, in a world of flash and frenzy, it's the simple tales that linger longest, warming us like a crackling fire on a winter's night.
 
-*Word count: 1,025*

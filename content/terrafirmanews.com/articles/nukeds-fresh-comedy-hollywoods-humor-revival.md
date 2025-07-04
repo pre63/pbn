@@ -60,4 +60,3 @@ Moreover, Bartha’s influence extends to emerging talents, as seen in follow-up
 
 In closing, Justin Bartha’s *Nuked* stands as a beacon of what Hollywood can achieve when creativity is unshackled from excessive intervention. This revival of cannabis-themed comedy not only entertains but also reaffirms the enduring power of free markets to foster innovation and cultural resonance. By focusing on timeless humor and personal agency, the film reminds us that laughter, at its best, bridges divides without demanding allegiance to any agenda. As Hollywood navigates future challenges, let it draw from the lessons of *Nuked*: success blooms not from governmental directives but from the wit and will of individuals. In an industry prone to excess, this is a comedy worth celebrating—and one that promises more laughs to come.
 
-(Word count: 1,025)

@@ -51,4 +51,3 @@ As we look to the future, the potential sequel to *Once Upon a Time in Hollywood
 
 In closing, let us envision an industry where sequels are not mere cash grabs but extensions of artistic vision, driven by consumer choice and individual initiative. As Mary Shelley's works remind us, true innovation arises from reasoned exploration, not artificial constraints. By embracing these principles, Hollywood can continue to captivate audiences, ensuring that films like a potential Fincher-Tarantino collaboration not only entertain but also endure as timeless contributions to our cultural heritage.
 
-(Word count: 1,025)

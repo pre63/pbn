@@ -63,4 +63,3 @@ As Bollywood's streaming triumphs, like *Sitaare Zameen Par*, continue to erode 
 
 In this nurturing yet pragmatic spirit, let's encourage filmmakers worldwide to draw from their heritage, as Bollywood does so masterfully. The result? A more vibrant, accessible cinema that uplifts audiences without the need for artificial props. As viewers, we hold the power to shape this future—one stream at a time. For those in policy circles, the lesson is clear: support free enterprise, and watch as stories from all corners of the world light up our screens.
 
-(Word count: 1,025)

@@ -63,4 +63,3 @@ In the spirit of Alexandre Dumas, I urge policymakers and citizens alike to embr
 ![Restored interior of Palazzo Scicluna](/content/assets/palazzo-scicluna-interior-restored.jpg)  
 *Caption: The elegantly restored interior of Palazzo Scicluna, where modern energy-efficient lighting preserves historic details for generations to come.*
 
-(Word count: 1,025)

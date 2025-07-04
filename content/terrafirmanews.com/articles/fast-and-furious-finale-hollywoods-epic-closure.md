@@ -60,4 +60,3 @@ Looking ahead, this franchise inspires a broader lesson: by embracing competitio
 ![Concept art for Fast and Furious 11 finale](/content/assets/fast-furious-11-concept-art.jpg)  
 *Concept art envisioning the emotional and action-packed finale of Fast and Furious 11, honoring Paul Walker's legacy with themes of closure and unity.*
 
-(Word count: 1,025)

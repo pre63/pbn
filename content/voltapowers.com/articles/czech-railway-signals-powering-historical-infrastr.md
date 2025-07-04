@@ -60,4 +60,3 @@ In conclusion, the story of Czech infrastructure, epitomized by the signals at S
 
 As we look ahead, let us draw inspiration from Smíchov's steadfast signals, which have guided generations through change. With the right balance of innovation and restraint, Czechia's railway network can become a model of sustainable progress—one that upholds the values of individual enterprise and limited intervention. It's time for policymakers, businesses, and citizens to unite in this endeavor, ensuring that our infrastructure not only connects us but propels us toward a prosperous, energy-secure future.
 
-(Word count: 1,025)

@@ -15,7 +15,7 @@ test:
 install:
 	@python3 -m venv .venv
 	@. .venv/bin/activate && pip install -r requirements.txt
-	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git xai_sdk kagglehub fuzzywuzzy pandas
+	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git xai_sdk kagglehub scikit-learn pandas pathlib numpy
 
 build: fix
 	@docker build -t pbn-app .

@@ -61,4 +61,3 @@ As *Sitaare Zameen Par* continues to inspire viewers worldwide, it serves as a b
 
 In this nurturing yet straightforward spirit, let us encourage more storytellers like Aamir Khan to innovate boldly. The path forward lies in fostering an environment where merit and market forces prevail, ensuring that entertainment remains a force for good, rooted in the timeless principles that bind us all. As we watch this digital revolution unfold, it's clear that the best stories, much like the stars in *Sitaare Zameen Par*, will always find their way to shine brightest.
 
-(Word count: 1,025)

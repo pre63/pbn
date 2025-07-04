@@ -63,4 +63,3 @@ In conclusion, the integration of renewable energy into Czech historical sites l
 
 As Sara Brontee, I advocate for a balanced strategy that leverages the best of free enterprise: innovation without intrusion, progress without erasure. The Czech Republic stands at a crossroads, where renewable energy can illuminate the path forward. Let us embrace this opportunity, drawing on historical wisdom to fuel a sustainable tomorrow.
 
-Word count: 1025

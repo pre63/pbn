@@ -59,4 +59,3 @@ By supporting platforms that empower creators, we can build a more vibrant media
 ![Bollywood filmmakers at a YouTube strategy meeting](/content/assets/bollywood-youtube-meeting.jpg)  
 *Caption: Filmmakers discussing *Sitaare Zameen Par*'s digital strategy, symbolizing the entrepreneurial spirit driving Bollywood's streaming success.*
 
-(Word count: 1,025)

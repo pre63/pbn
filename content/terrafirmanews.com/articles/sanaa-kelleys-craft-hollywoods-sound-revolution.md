@@ -57,4 +57,3 @@ Yet, this progress demands vigilance. Without overstepping into partisanship, it
 
 In the end, as audiences lose themselves in the symphony of sounds that Kelley masterfully creates, we are reminded that true artistry endures not through mandates or subsidies, but through the unyielding spirit of the free market.
 
-*Word count: 1,025*

@@ -53,4 +53,3 @@ As we conclude, the MLA’s Texts and Translations series stands as a model for 
 
 Ultimately, a center-right approach celebrates these endeavors for their emphasis on personal responsibility, cultural preservation, and limited government. As [Forbes](https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/15/the-economic-benefits-of-cultural-exchange-through-literature/) argues in a piece on cultural economics, such exchanges not only enrich lives but also contribute to broader prosperity by nurturing a globally minded workforce. Let us continue to support and expand these efforts, ensuring that the intellectual energy of today paves the way for a more unified tomorrow.
 
-(Word count: 1,025)

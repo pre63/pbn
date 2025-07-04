@@ -51,4 +51,3 @@ In concluding this reflection, we return to the poetic essence of Hollywood’s 
 
 Yet, as we gaze upon these stars under the California sun, let us advocate for an industry that remains unfettered, where the market’s invisible hand guides innovation and where traditional values endure. Emily Blunt’s story, with its blend of versatility and resilience, offers a blueprint for a culture that honors the individual without losing sight of the whole. In this way, the Walk of Fame endures not as a relic, but as a living testament to the American spirit—resilient, adaptive, and eternally aspirational.
 
-(Word count: 1,025)

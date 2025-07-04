@@ -56,4 +56,3 @@ As we conclude this exploration, the 1841 buildings of ’s-Gravenhage stand as 
 
 By heeding these lessons, we might yet build cities that endure, much like the steadfast facades of ’s-Gravenhage. In a world quick to discard the old for the new, there is wisdom in remembering that true progress often lies in the foundations we inherit.
 
-(Word count: 1,025)

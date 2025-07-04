@@ -54,4 +54,3 @@ As we anticipate Rami Malek's star on the Hollywood Walk of Fame in 2026, let us
 
 Yet, this is no call for complacency. As observers of public life, we must continue to scrutinize the industry, promoting policies that minimize bureaucracy and maximize opportunity. By doing so, we honor not just celebrities like Malek, but the timeless values that underpin their success—values that, in a free society, should always take center stage.
 
-(Word count: 1,025)

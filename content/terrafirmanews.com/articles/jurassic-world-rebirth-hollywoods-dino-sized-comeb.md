@@ -59,4 +59,3 @@ Ultimately, the success of *Jurassic World Rebirth* reinforces a center-right pr
 ![Jurassic Park Legacy Tribute](/content/assets/jurassic-park-tribute.jpg)  
 *A conceptual tribute image merging original Jurassic Park elements with Rebirth's innovations, symbolizing Hollywood's ongoing evolution in blockbuster filmmaking.*
 
-(Word count: 1,025)

@@ -57,4 +57,3 @@ In the end, the Walk of Fame isn’t just about celebrities; it’s about the en
 ![Stanley Tucci's imagined Walk of Fame star](/content/assets/stanley-tucci-star.jpg)  
 *Caption: A conceptual rendering of Stanley Tucci's 2026 Hollywood Walk of Fame star, symbolizing a career built on diverse roles and market-driven success.* 
 
-(Word count: 1,025)

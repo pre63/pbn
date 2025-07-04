@@ -62,4 +62,3 @@ In conclusion, Hollywood's growing use of post-credits scenes, as vividly demons
 
 As Terra Firma News advocates, the future of entertainment lies in empowering creators through market freedoms, ensuring that films like *F1* continue to inspire and entertain. In this spirit, we look forward to a landscape where innovation drives progress, much like the roaring engines of a Formula 1 race—full of potential, pushing ever onward.
 
-(Word count: 1,025)

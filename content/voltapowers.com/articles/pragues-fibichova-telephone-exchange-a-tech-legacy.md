@@ -59,4 +59,3 @@ As we reflect on the journey of Prague's Fibichova telephone exchange—from a s
 
 Prague's example serves as a model for other cities, illustrating that sustainable tech infrastructure can be achieved through entrepreneurial spirit rather than expansive policy mandates. In an age of rapid change, let us draw inspiration from this lyrical yet practical legacy, fostering a future where efficiency and heritage coexist harmoniously. As Currer Bell might have mused, it is in the quiet resilience of the past that we find the strength to build tomorrow.
 
-(Word count: 1,025)

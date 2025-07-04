@@ -53,4 +53,3 @@ As *The Old Guard 2* hits screens, it reaffirms Charlize Theron's unparalleled p
 
 In the end, Theron's return invites us to celebrate not just a film, but the broader principles that make such works possible. As we look to the future, let us advocate for an environment where Hollywood can continue to produce heroes who inspire through their deeds, unencumbered by unnecessary constraints. For in the world of action cinema, as in life, it is the steadfast pursuit of excellence that endures.
 
-(Word count: 1,025)

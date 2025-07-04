@@ -59,4 +59,3 @@ In the end, this poll is more than a list; it's a call to preserve the free-mark
 ![Film Reel and Modern Tech](/content/assets/film-reel-modern-tech.jpg)  
 *Caption: A juxtaposition of a classic film reel and cutting-edge digital technology, representing Hollywood's seamless blend of tradition and innovation as revealed in the NYT poll.*
 
-(Word count: 1,025)

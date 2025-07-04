@@ -63,4 +63,3 @@ As we reflect on the architectural pride of ’s-Gravenzande’s 1979 buildings,
 
 By applying these lessons, cities can build communities that are not only environmentally sustainable but also economically vibrant. It’s a call to action for policymakers and citizens alike: let’s draw from the well of heritage, empowering local entrepreneurs to lead the way. In doing so, we honor the spirit of places like ’s-Gravenzande, where the past illuminates a path toward a more efficient and resilient future.
 
-(Word count: 1,025)

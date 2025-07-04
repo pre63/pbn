@@ -2,70 +2,34 @@ import kagglehub
 import os
 import glob
 import re
-import zipfile
 import shutil
-from fuzzywuzzy import fuzz
 import pandas as pd
 from pathlib import Path
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
 # Step 1: Download the Flickr Image Dataset
 print("Downloading Flickr Image Dataset...")
 path = kagglehub.dataset_download("hsankesara/flickr-image-dataset")
 print("Path to dataset files:", path)
 
-# Step 2: Find and unzip the dataset
-zip_path = None
-for root, dirs, files in os.walk(path):
-    for file in files:
-        if file.endswith('.zip'):
-            zip_path = os.path.join(root, file)
-            break
-if not zip_path:
-    raise FileNotFoundError("No ZIP file found in the dataset directory.")
+# Step 2: Locate the CSV file and image directory
+csv_path = os.path.join(path, 'flickr30k_images/results.csv')
+image_dir = os.path.join(path, "flickr30k_images/flickr30k_images/flickr30k_images")
 
-extract_dir = os.path.join(path, "extracted")
-os.makedirs(extract_dir, exist_ok=True)
-
-print(f"Unzipping {zip_path} to {extract_dir}...")
-with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-    zip_ref.extractall(extract_dir)
-
-# Step 3: Locate the CSV file and image directory
-csv_path = None
-image_dir = None
-for root, dirs, files in os.walk(extract_dir):
-    for file in files:
-        if file == 'flickr30k_images.csv':
-            csv_path = os.path.join(root, file)
-        if file.endswith('.jpg'):
-            image_dir = os.path.dirname(os.path.join(root, file))
-            break
-
-if not csv_path:
+if not os.path.exists(csv_path):
     raise FileNotFoundError("Could not find flickr30k_images.csv")
-if not image_dir:
+if not os.path.exists(image_dir):
     raise FileNotFoundError("Could not find image directory in dataset.")
 
-# Step 4: Move images to content/assets/, skipping existing files
+# Step 3: Create assets directory
 base_dir = os.getcwd()
 assets_dir = os.path.join(base_dir, "content", "assets")
 os.makedirs(assets_dir, exist_ok=True)
 print(f"Assets directory: {assets_dir}")
 
-print("Moving images to content/assets/...")
-image_count = 0
-for file in os.listdir(image_dir):
-    if file.endswith('.jpg'):
-        src_path = os.path.join(image_dir, file)
-        dest_path = os.path.join(assets_dir, file)
-        if not os.path.exists(dest_path):  # Skip if file already exists
-            shutil.move(src_path, dest_path)
-            image_count += 1
-        else:
-            print(f"Skipped {file} (already exists in {assets_dir})")
-print(f"Moved {image_count} new images to {assets_dir}")
-
-# Step 5: Read the CSV
+# Step 4: Read the CSV
 print("Reading captions from CSV...")
 df = pd.read_csv(csv_path, sep='|', skipinitialspace=True)
 df.columns = df.columns.str.strip()  # Clean column names
@@ -74,7 +38,7 @@ df = df[['image_name', 'comment']].drop_duplicates(subset='image_name')
 if df.empty:
     raise ValueError("CSV is empty or has no valid image_name/comment pairs.")
 
-# Step 6: Collect all Markdown files
+# Step 5: Collect all Markdown files
 articles_glob = os.path.join(base_dir, "content", "*", "articles", "*.md")
 md_files = glob.glob(articles_glob, recursive=True)
 if not md_files:
@@ -82,42 +46,54 @@ if not md_files:
 
 print(f"Found {len(md_files)} Markdown files")
 
-# Step 7: Extract filenames from Markdown files
+# Step 6: Extract caption and filename pairs from Markdown files
 def extract_filenames(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
-    filenames = set()
+    caption_filename_pairs = []
     # Extract image references (e.g., ![alt text](image.jpg))
-    img_matches = re.findall(r'!\[.*?\]\((.*?)\)', content)
-    for match in img_matches:
-        if match.endswith('.jpg'):
-            filenames.add(os.path.basename(match))
-    # Extract filenames from body text (e.g., two_dogs_playing_in_grass.jpg)
-    text_matches = re.findall(r'(\b[\w_]+\.jpg\b)', content)
-    filenames.update(text_matches)
-    return filenames
+    img_matches = re.findall(r'!\[(.*?)\]\(([^)]+\.jpg)\)', content)
+    for caption, filename in img_matches:
+        # Use filename as fallback if caption is empty
+        caption = caption.strip() if caption.strip() else os.path.basename(filename).replace('.jpg', '').replace('_', ' ')
+        caption_filename_pairs.append((caption, os.path.basename(filename)))
+    return caption_filename_pairs
 
-all_filenames = set()
+all_caption_filename_pairs = []
 for md_file in md_files:
-    filenames = extract_filenames(md_file)
-    all_filenames.update(filenames)
+    pairs = extract_filenames(md_file)
+    all_caption_filename_pairs.extend(pairs)
 
-if not all_filenames:
-    print("No .jpg filenames found in Markdown files. Exiting.")
+if not all_caption_filename_pairs:
+    print("No image references found in Markdown files. Exiting.")
     exit()
 
-print(f"Extracted {len(all_filenames)} unique .jpg filenames from Markdown files")
+# Remove duplicates while preserving order
+seen = set()
+unique_pairs = []
+for pair in all_caption_filename_pairs:
+    if pair[1] not in seen:
+        seen.add(pair[1])
+        unique_pairs.append(pair)
 
-# Step 8: Match filenames to CSV captions and rank by similarity
-def clean_text(text):
-    # Remove special characters, lowercase, replace spaces with underscores
-    return re.sub(r'[^a-zA-Z0-9\s]', '', str(text)).lower().replace(' ', '_')
+print(f"Extracted {len(unique_pairs)} unique image references from Markdown files")
 
-matches = []
+# Step 7: Clean caption for cosine similarity
+def clean_text_for_similarity(text):
+    # Lowercase and remove special characters, keep spaces
+    return re.sub(r'[^a-zA-Z0-9\s]', ' ', str(text)).lower().strip()
 
-# Match filenames to CSV captions
-for filename in all_filenames:
+# Step 8: Clean caption for output (per user requirements)
+def clean_caption_for_output(text):
+    # Keep only English alphabetic characters and spaces, preserve spaces
+    cleaned = re.sub(r'[^a-zA-Z\s]', '', str(text)).lower()
+    # Remove extra spaces but preserve single spaces between words
+    return re.sub(r'\s+', ' ', cleaned).strip()
+
+# Step 9: Process each Markdown image reference
+for caption, filename in unique_pairs:
     if not filename.endswith('.jpg'):
+        print(f"Skipping {filename} (not a .jpg file)")
         continue
     
     # Skip if the Markdown-expected filename already exists in assets
@@ -126,63 +102,42 @@ for filename in all_filenames:
         print(f"Skipped {filename} (already exists in {assets_dir})")
         continue
     
-    # Get filename without extension
-    filename_base = filename.replace('.jpg', '')
-    filename_clean = clean_text(filename_base)
+    # Clean Markdown caption for similarity comparison
+    caption_clean = clean_text_for_similarity(caption)
     
-    # Find best matching caption in CSV
-    best_match_score = 0
-    best_match_caption = None
-    best_match_image_name = None
+    # Prepare captions for cosine similarity
+    csv_captions = df['comment'].dropna().apply(clean_text_for_similarity).tolist()
+    all_captions = [caption_clean] + csv_captions
     
-    for _, row in df.iterrows():
-        caption = row['comment']
-        image_name = row['image_name']
-        if pd.isna(caption) or pd.isna(image_name):
-            continue
-        caption_clean = clean_text(caption)
-        score = fuzz.token_sort_ratio(filename_clean, caption_clean)
-        if score > best_match_score:
-            best_match_score = score
-            best_match_caption = caption
-            best_match_image_name = image_name
+    # Compute TF-IDF vectors
+    vectorizer = TfidfVectorizer()
+    tfidf_matrix = vectorizer.fit_transform(all_captions)
     
-    if best_match_image_name:
-        matches.append({
-            'md_filename': filename,
-            'image_name': best_match_image_name,
-            'caption': best_match_caption,
-            'score': best_match_score
-        })
+    # Compute cosine similarity between Markdown caption and all CSV captions
+    similarities = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:]).flatten()
+    
+    # Find the best match
+    best_match_idx = np.argmax(similarities)
+    best_match_score = similarities[best_match_idx]
+    best_match_image_name = df.iloc[best_match_idx]['image_name']
+    best_match_caption = df.iloc[best_match_idx]['comment']
+    
+    # Clean the CSV caption for output
+    cleaned_caption = clean_caption_for_output(best_match_caption)
+    
+    # Log the match
+    print(f"\nProcessing Markdown image: {filename}")
+    print(f"Markdown caption: {caption}")
+    print(f"Best match image: {best_match_image_name}")
+    print(f"Best match CSV caption: {best_match_caption}")
+    print(f"Cleaned caption for output: {cleaned_caption}")
+    print(f"Cosine similarity score: {best_match_score:.4f}")
+    
+    # Step 10: Copy the matched image to assets directory
+    src_image_path = os.path.join(image_dir, best_match_image_name)
+    if os.path.exists(src_image_path):
+        shutil.copy(src_image_path, dest_path)
+        print(f"Copied {best_match_image_name} to {dest_path}")
+        print(f"Associated caption: {cleaned_caption}")
     else:
-        print(f"No caption match found for {filename}")
-
-# Step 9: Select and copy the top-ranked image
-if not matches:
-    print("No new matches found between Markdown filenames and CSV captions. Exiting.")
-    exit()
-
-# Sort matches by similarity score (highest first)
-matches.sort(key=lambda x: x['score'], reverse=True)
-top_match = matches[0]
-
-# Copy the top-ranked image to content/assets/ with the Markdown-expected filename
-src_image_path = os.path.join(assets_dir, top_match['image_name'])
-dest_image_path = os.path.join(assets_dir, top_match['md_filename'])
-
-if os.path.exists(src_image_path):
-    if not os.path.exists(dest_image_path):  # Double-check to avoid overwriting
-        shutil.copy2(src_image_path, dest_image_path)
-        print(f"Copied top-ranked image {top_match['image_name']} to {dest_image_path} "
-              f"(matched '{top_match['caption']}', score: {top_match['score']})")
-    else:
-        print(f"Skipped copying {top_match['md_filename']} (already exists in {assets_dir})")
-else:
-    print(f"Top-ranked image {top_match['image_name']} not found in {assets_dir}")
-
-# Step 10: Summary
-print(f"Processed {len(matches)} new filename matches")
-if os.path.exists(dest_image_path):
-    print(f"Top-ranked image copied to {assets_dir} with filename {top_match['md_filename']}")
-else:
-    print("No new top-ranked image copied (either no match or file already exists).")
+        print(f"Source image {src_image_path} does not exist. Skipping.")

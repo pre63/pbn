@@ -55,4 +55,3 @@ As we reflect on the Floriana Lines, we see not just a relic of the past, but a 
 
 In this spirit, policymakers should focus on incentives that empower entrepreneurs and communities, fostering a legacy of self-reliance that Thoreau himself would admire. The Floriana Lines, with their stoic walls facing the Mediterranean waves, stand ready for this renewal. Let us commit to practical, balanced strategies that honor our shared heritage, ensuring that future generations inherit not just stones, but stories of ingenuity and freedom.
 
-Word count: 1,025

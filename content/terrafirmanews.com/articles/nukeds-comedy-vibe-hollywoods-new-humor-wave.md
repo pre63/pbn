@@ -57,4 +57,3 @@ For Terra Firma News, *Nuked* serves as a timely reminder that in a world of rap
 ![Laughing audience at a comedy screening](/content/assets/comedy-screening-laughter.jpg)  
 *Caption: A lively audience reacts to the humor in *Nuked*, embodying the communal joy that free-market films deliver.*
 
-(Word count: 1,025)

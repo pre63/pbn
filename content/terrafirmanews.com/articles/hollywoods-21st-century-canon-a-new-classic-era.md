@@ -61,4 +61,3 @@ In the end, the NYT poll serves as a mirror to Hollywood's soul, reflecting both
 
 The debate continues, but one thing is clear—our culture thrives when we trust the market to separate the fleeting from the forever. As viewers, we hold the power; let's use it wisely.
 
-(Word count: 1,045)

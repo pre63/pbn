@@ -51,4 +51,3 @@ As we conclude this tribute, let us linger on the quiet power of Rebekah Del Rio
 
 In the end, Hollywood’s stars may fade, but legacies like Del Rio’s endure as beacons of what is possible when talent meets opportunity. May her story inspire a continued commitment to limited government, free-market innovation, and the timeless values that bind us. 
 
-(Word count: 1025)

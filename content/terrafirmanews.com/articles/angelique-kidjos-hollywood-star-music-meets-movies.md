@@ -57,4 +57,3 @@ As we wrap up this stroll down Hollywood's storied boulevard, it's clear that An
 
 From a center-right viewpoint, this honor reinforces the importance of traditional values like self-reliance and meritocracy, proving that government needn't orchestrate every cultural milestone. Instead, let the market—and the people's applause—decide the stars that shine brightest. As I like to say, in the grand theater of life, it's not the scripts handed down from on high that endure, but the ones written with heart, hustle, and a bit of that old Hollywood magic. Here's to Angélique Kidjo, and to the dreams that pave the way forward.
 
-(Word count: 1,025)

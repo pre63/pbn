@@ -52,4 +52,3 @@ As we contemplate Deepika Padukone's star on the Hollywood Walk of Fame in 2026,
 
 Yet, in this reflection, let us not lose sight of the deeper introspection: just as Emily Dickinson's verses whispered truths from seclusion, Padukone's achievement whispers of universal values—hard work, resilience, and the human spirit's capacity for connection. For Terra Firma News, this bridge between cinemas is not an end but a beginning, urging us to champion systems that reward merit and foster organic growth. In doing so, we preserve the essence of global progress, one star at a time.
 
-(Word count: 1,025)

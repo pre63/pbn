@@ -55,4 +55,3 @@ As we reflect on the Jungmann bust in Beroun, it becomes clear that Czech litera
 
 In embracing this path, we ensure that sites like Beroun's bust not only commemorate history but also inspire the next generation of thinkers and creators. Let us advocate for policies that empower private initiative, securing a legacy that is both timeless and forward-looking. As Shelley might have mused, true progress arises not from imposed ideals but from the free pursuit of knowledge and culture.  
 
-*Word count: 1,045*

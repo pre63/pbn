@@ -57,4 +57,3 @@ As we reflect on the cultural significance of Volkach’s Blutsmarter shrine and
 
 In the end, the Blutsmarter shrine isn’t just a relic; it’s a reminder that true preservation comes from the ground up. Let’s keep it that way, with a wink to the old wayside travelers who knew that the best paths are those we maintain ourselves.
 
-(Word count: 1,025)

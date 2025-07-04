@@ -61,4 +61,3 @@ As global cinema enters a new chapter, the story of Bollywood's rise and Deepika
 
 In the end, the true measure of success lies in serving viewers, not stakeholders. Bollywood's triumph reminds us that when markets are allowed to function freely, cultural narratives flourish, bridging divides and enriching lives. Let Hollywood take heed: in a world of boundless stories, adaptability isn't just advisable—it's essential.
 
-(Word count: 1,025)

@@ -58,4 +58,3 @@ In an optimistic forward-looking tone, I envision a holiday season where films l
 
 ![Holiday film poster design](/content/assets/christmas-karma-poster-art.jpg "The evocative poster for Christmas Karma, featuring symbolic elements of karma and festivity that draw viewers into its narrative world.")
 
-(Word count: 1,045)

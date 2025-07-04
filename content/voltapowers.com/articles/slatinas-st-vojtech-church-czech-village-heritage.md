@@ -64,4 +64,3 @@ The path forward demands balance: honoring history while adapting to the present
 
 In the end, it is through such thoughtful, market-oriented stewardship that we safeguard our shared inheritance, ensuring that the whispers of the past continue to resonate in the hearts of future generations.
 
-(Word count: 1,045)

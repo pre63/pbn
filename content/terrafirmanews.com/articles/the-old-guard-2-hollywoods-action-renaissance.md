@@ -65,4 +65,3 @@ Looking ahead, the success of films like this one suggests a path forward: Let t
 ![Crowds lining up for a blockbuster premiere](/content/assets/blockbuster-premiere-crowd.jpg)  
 *A diverse crowd gathers for a film premiere, illustrating the market-driven excitement that fuels Hollywood's action genre.*
 
-(Word count: 1,025)

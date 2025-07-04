@@ -57,4 +57,3 @@ In concluding this reflection on ’s-Gravendeel’s 1857 buildings, one is remi
 
 As we navigate the complexities of modern development, let us favor approaches that empower private initiative over expansive bureaucracies. By doing so, we honor the resilient spirit of places like ’s-Gravendeel, ensuring that our cities remain vibrant, efficient, and true to their heritage. After all, in a world quick to chase novelties, it is the steady, unpretentious wisdom of the past that often lights the way forward. ![Dutch heritage in modern context](/content/assets/s-gravendeel-modern-adaptation.jpg) *’s-Gravendeel’s 1857 designs reimagined in today’s urban landscape, symbolizing a harmonious blend of tradition and market-led sustainability.*
 
-(Word count: 1,025)

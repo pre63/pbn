@@ -55,4 +55,3 @@ As *Karate Kid: Legends* takes its place in Hollywood's pantheon, it serves as a
 
 Yet, for the industry to thrive, stakeholders must resist calls for increased intervention, such as content quotas or funding tied to social objectives, which could undermine creative freedom. Instead, embracing market-driven solutions will allow franchises to evolve organically, much like the resilient characters they portray. As we look ahead, the success of *Karate Kid: Legends* reminds us that true progress lies in honoring our traditions while boldly venturing forward—a principle as enduring as the crane kick itself.
 
-(Word count: 1,025)

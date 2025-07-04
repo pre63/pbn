@@ -67,4 +67,3 @@ This pragmatic path forward reminds us that in America, the best stories aren't 
 ![Hollywood sign illuminated with Broadway marquee lights](/content/assets/hollywood-broadway-fusion.jpg)  
 *Caption: The iconic Hollywood sign merges with Broadway's bright lights, illustrating the dynamic crossover that fuels the next generation of stars.*
 
-(Word count: 1,025)

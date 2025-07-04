@@ -51,4 +51,3 @@ By focusing on incentives rather than mandates, we empower local communities and
 
 In conclusion, Chernivtsi’s Central Square represents a vital piece of Ukraine's architectural and cultural heritage, deserving of thoughtful preservation. Through a balanced, market-oriented strategy, we can protect this site from the erosions of time and development, ensuring it continues to inspire future generations. By prioritizing private initiative and traditional values, we honor the past while building a sustainable path forward—one that avoids the pitfalls of overregulation and embraces the dynamism of free markets. Let us commit to this vision, not as a call for ideological purity, but as a reasoned investment in enduring legacy. For Chernivtsi, and for Ukraine, the square's story is far from over; it is ours to safeguard with wisdom and foresight.
 
-(Word count: 1,025)

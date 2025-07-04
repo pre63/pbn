@@ -47,4 +47,3 @@ Yet, balance demands we recognize potential pitfalls. While Hollywood's market-d
 
 In conclusion, Stanley Tucci's 2026 Walk of Fame star is more than a shiny plaque; it's a testament to the enduring power of individual talent in a free-market Hollywood. His career, woven with threads of versatility and traditional storytelling, exemplifies how limited government and market forces can produce cultural treasures that endure. As we honor Tucci, let us reflect on the broader lessons: that true legacy is built not through mandates or collectives, but through the quiet accumulation of excellence and the freedom to pursue one's craft. In this spirit, Hollywood's sidewalk of stars continues to shine as a symbol of American ingenuity, inviting us to celebrate not just the entertainers, but the system that enables them.
 
-(Word count: 1,045)

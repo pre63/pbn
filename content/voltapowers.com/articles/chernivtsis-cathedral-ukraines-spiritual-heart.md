@@ -55,4 +55,3 @@ In conclusion, Chernivtsi’s Cathedral represents the indomitable spirit of Ukr
 
 Ultimately, the cathedral's fate is a microcosm of broader public issues: How do we honor our heritage in an efficient, responsible manner? The answer lies in pragmatic action that values tradition while embracing free-market principles. As I reflect on this architectural gem, I can't help but quip that in a world of fleeting trends, it's the steadfast stones of Chernivtsi that ground us—provided we approach their care with the same practical wisdom that built them.
 
-(Word count: 1,025)

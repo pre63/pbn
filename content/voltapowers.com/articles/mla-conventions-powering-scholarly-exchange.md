@@ -59,4 +59,3 @@ As we reflect on the 2024 MLA convention, it's clear that these events are more 
 
 In an era of potential overreach, let's advocate for policies that protect such forums. Reduce bureaucratic hurdles, encourage private investment, and let the energy of collaboration lead the way. Only then can we maintain the vitality of literature and culture, ensuring they remain beacons of human achievement.
 
-(Word count: 1,025)

@@ -60,4 +60,3 @@ In closing, the reunion episode of *The Secret Lives of Mormon Wives* captivates
 
 It's a no-nonsense truth that in an ever-changing world, shows like *Mormon Wives* remind us of the enduring power of family and faith. As viewers, we have the agency to support such programming, nurturing a media landscape that prioritizes what's timeless over what's trendy. Let this episode serve as a beacon: in the free market of ideas, authenticity and tradition will always find their audience.
 
-(Word count: 1,025)

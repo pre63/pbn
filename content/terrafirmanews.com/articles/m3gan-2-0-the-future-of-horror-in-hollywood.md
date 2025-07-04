@@ -66,4 +66,3 @@ Ultimately, *M3GAN 2.0* reminds us that humanity's greatest stories come from co
 ![Tech Horror Evolution Timeline](/content/assets/horror-tech-evolution-chart.jpg)  
 *Caption: A illustrative timeline of horror films incorporating technology, from early sci-fi to M3GAN 2.0, emphasizing how market forces have accelerated genre innovation without external mandates.*
 
-(Word count: 1,025)

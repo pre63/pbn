@@ -54,4 +54,3 @@ Yet, balance is key. While the Walk of Fame celebrates individual achievement, i
 
 In conclusion, Gordon Ramsay’s star on the Hollywood Walk of Fame in 2026 is more than a shiny plaque; it’s a narrative of triumph that reaffirms the timeless values of hard work, market freedom, and personal accountability. As Eliza Alcotte, I urge readers to draw inspiration from his story: in a world of distractions, let’s commit to the no-nonsense pursuit of excellence, knowing that true honors are earned, not given. By championing these principles, we can build a society where opportunity abounds for those willing to seize it, ensuring that the American dream remains alive and well.
 
-(Word count: 1,025)

@@ -58,4 +58,3 @@ In the end, Horoměřice Castle represents a crossroads where Czech heritage mee
 
 As we look to the future, let us draw on the Czech spirit of resilience. Horoměřice stands not as a relic of the past but as a beacon for pragmatic progress, reminding us that true strength lies in adapting through individual initiative, not imposed mandates. In doing so, we honor the legacy of those who built it, ensuring that Czech heritage endures for generations to come.
 
-*Word count: 1,025*

@@ -62,4 +62,3 @@ As the credits roll on this editorial, I can't help but feel a twinkle of optimi
 
 From a center-right perspective, this is the essence of a thriving society: limited government allows the market to reward genuine talent, ensuring that stories like *Christmas Karma* reach audiences who crave them. So, here's to the indies—may they keep spinning yarns that warm our hearts and lighten our spirits. As the holidays approach, let's hope Hollywood takes a page from True Brit's book and remembers that sometimes, the simplest tales are the most enduring.
 
-Word count: 1,025
