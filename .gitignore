@@ -31,3 +31,4 @@ temp_invoices
 
 node_modules
 migrations/
+.nul

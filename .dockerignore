@@ -1,0 +1,39 @@
+# flyctl launch added from .gitignore
+**/.DS_Store
+**/__pycache__
+**/lambda_package
+**/.zip
+**/*.swp
+**/package-lock.json
+**/__pycache__
+**/.pytest_cache
+**/.venv
+**/*.egg-info
+
+# CDK asset staging directory
+**/.cdk.staging
+**/cdk.out
+**/static/index.html
+**/all.txt
+**/temp_invoices
+**/**/*.aux
+**/**/*.fdb_latexmk
+**/**/*.fls
+**/**/*.log
+**/**/*.out
+**/**/*.pdf
+**/**/invoice_*.tex
+**/**/quote_*.tex
+**/**/payroll_*.tex
+**/**/template.synctex.gz
+
+
+**/.env
+
+**/node_modules
+**/migrations
+
+# flyctl launch added from .venv/.gitignore
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.venv/**/*
+fly.toml

@@ -2,8 +2,8 @@ site:
   name: Connect News 24
   description: Your source for the latest in technology trends and innovations.
   keywords: [technology, innovation, gadgets, tech news, startups]
-  logo: /content/assets/logo-connectnews24.jpg
-  favicon: /content/assets/favicon-connectnews24.png
+  logo: /content/connectnews24.com/logo.png
+  favicon: /content/connectnews24.com/favicon-32x32.png
   email: info@connectnews24.com
 
 

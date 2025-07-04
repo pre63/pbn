@@ -529,3 +529,20 @@ footer {
     width: 100%;
   }
 }
+
+body > main > div > article > div.article-content > p > img{
+  width: 80%;
+  height: auto;
+  max-height: 500px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+body > main > div > article > div.article-content > p > em{
+  width: 80%;
+  margin: 0 auto;
+  font-style: italic;
+  font-size: 0.8rem;
+  display: block;
+  margin-top: -1.5rem;
+}

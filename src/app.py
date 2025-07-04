@@ -302,4 +302,9 @@ def create_app():
         return render_template("article.html", article=matched_article, related_articles=get_related_articles(articles, matched_article)), 200
     return render_template("404.html", related_articles=articles[:3]), 200
 
+  @app.route("/healthz")
+  def health_check():
+    """Health check endpoint for load balancers."""
+    return "OK", 200
+
   return app

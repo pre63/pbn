@@ -22,6 +22,7 @@ COPY src/ /app/src/
 COPY static/ /app/static/
 COPY templates/ /app/templates/
 COPY content/ /app/content/
+COPY domains/ /app/domains/
 
 # Run as non-root user
 USER nobody
@@ -30,4 +31,4 @@ USER nobody
 EXPOSE 8080
 
 # Command to run the application
-CMD ["python3", "-m", "src.app"]
+CMD ["python3", "-m", "main"]
