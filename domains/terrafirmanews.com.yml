@@ -2,8 +2,8 @@ site:
   name: Terra Firma News
   description: Your source for Hollywood’s latest movies, TV shows, and celebrity buzz, grounded in entertainment excellence.
   keywords: [Hollywood, movies, TV shows, celebrities, entertainment]
-  logo: /content/terrafirmanews.com/logo.png
-  favicon: /content/terrafirmanews.com/favicon-32x32.png
+  logo: /static/terrafirmanews.com/logo.png
+  favicon: /static/terrafirmanews.com/favicon-32x32.png
   email: editor@terrafirmanews.com
 
 social_media:

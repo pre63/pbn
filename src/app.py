@@ -56,8 +56,13 @@ def load_domain_config():
   """Load domain config based on request host. Don’t mess this up, or we’re serving 404s all day."""
 
   domain = request.host if not DEV else "connectnews24.com"
+  # if domain is not in list of domains/* then set default config is os ls to know
+  if not os.path.exists(f"domains/{domain}.yml") and not os.path.exists(f"domains/{domain}.yaml"):
+    print(f"Config for {domain} not found. Falling back to default.")
+    domain = "connectnews24.com"
 
-  config_path = f"domains/{domain}.yml"
+  config_paths = [f"domains/{domain}.yml", f"domains/{domain}.yaml"]
+  config_path = next((path for path in config_paths if os.path.exists(path)), None)
   if not os.path.exists(config_path):
     print(f"Config for {domain} not found at {config_path}. Falling back to default.")
     return {

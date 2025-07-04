@@ -2,8 +2,8 @@ site:
   name: Hilltops Newspaper
   description: Chronicling the pulse of rural Thailand with a focus on sports, culture, and community-driven innovation.
   keywords: [rural Thailand, sports, culture, community, gaming]
-  logo: /content/hilltopsnewspaper.com/logo.png
-  favicon: /content/hilltopsnewspaper.com/favicon-32x32.png
+  logo: /static/hilltopsnewspaper.com/logo.png
+  favicon: /static/hilltopsnewspaper.com/favicon-32x32.png
   email: editor@hilltopsnewspaper.com
 
 social_media:

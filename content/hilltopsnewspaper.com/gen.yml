@@ -1,505 +1,160 @@
 articles:
-  - title: "Power Max 21: Fitness Trends in Rural Thailand"
-    topic: Fitness Trends
-    keywords: [Power Max 21, fitness, rural Thailand, health, community]
-    description: Exploring how fitness programs like Power Max 21 are gaining traction in rural Thailand, promoting health through community-driven initiatives.
+  - title: "AI-Powered Healthcare: Revolutionizing Diagnostics"
+    topic: Artificial Intelligence
+    unique_subject: AI in medical diagnostics
+    keywords: [AI, healthcare, diagnostics, technology, innovation]
+    description: How AI is transforming medical diagnostics globally, improving accuracy and accessibility in hospitals and clinics.
     author: Joanna Aucton
-    og_image: /content/assets/fitness-class.jpg
-  - title: "PG Slot Gaming: Rural Entertainment Boom"
-    topic: Online Gaming
-    keywords: [PG Slot, online gaming, rural Thailand, technology, entertainment]
-    description: Analyzing the popularity of PG Slot platforms in rural Thailand, balancing economic opportunities with responsible gaming practices.
-    author: Jonah Stynebeck
-    og_image: /content/assets/slot-machine-interface.jpg
-  - title: "Star5566 and 777Beer: Rural Betting Platforms"
-    topic: Online Betting
-    keywords: [Star5566, 777Beer, betting, rural Thailand, gambling]
-    description: How betting platforms like Star5566 and 777Beer attract rural Thai users, advocating for market-driven regulations.
-    author: Silas Twaine
-    og_image: /content/assets/betting-platform.jpg
-  - title: "Last Night’s Football Results: Rural Fandom"
-    topic: Sports Culture
-    keywords: [football results, live scores, rural Thailand, sports, community]
-    description: How last night’s football results unite rural Thai communities, fostering social bonds through sports enthusiasm.
-    author: Emmeline Dickenson
-    og_image: /content/assets/football-match.jpg
-  - title: "Super Slot 789: Rural Gaming Surge"
-    topic: Online Slots
-    keywords: [Super Slot 789, slots, rural Thailand, gaming, technology]
-    description: Exploring the surge of Super Slot 789 in rural Thailand, emphasizing consumer protections over heavy regulation.
-    author: Alec Dumass
-    og_image: /content/assets/slot-game-screen.jpg
-  - title: "No-Minimum Slots: Rural Gaming Access"
-    topic: Online Gambling
-    keywords: [no-minimum slots, gaming, rural Thailand, technology, entertainment]
-    description: How no-minimum deposit slots make gaming accessible in rural Thailand, advocating for transparent industry standards.
-    author: Eliza Alcotte
-    og_image: /content/assets/slot-access-panel.jpg
-  - title: "Trial Slots: Engaging Rural Gamers"
-    topic: Gaming Trials
-    keywords: [trial slots, rural Thailand, gaming, technology, entertainment]
-    description: The role of trial slot games in introducing rural Thai users to online gaming, promoting responsible engagement.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/trial-slot-game.jpg
-  - title: "Game of Thrones: Rural Cultural Impact"
+    og_image: /content/assets/ai-diagnostic-tool.jpg
+
+  - title: "K-Pop’s Global Influence: Cultural Phenomenon"
     topic: Pop Culture
-    keywords: [Game of Thrones, pop culture, rural Thailand, entertainment, community]
-    description: How global phenomena like Game of Thrones resonate in rural Thai communities, blending modern media with local traditions.
-    author: Marcus Twyne
-    og_image: /content/assets/throne-room.jpg
-  - title: "Rural Lottery Culture: Opportunities and Risks"
-    topic: Lottery Culture
-    keywords: [lottery, rural Thailand, gambling, community economics, culture]
-    description: Analyzing the role of lotteries in rural Thai communities, advocating for balanced regulation to protect local economies.
-    author: Lara Wylde
-    og_image: /content/assets/lottery-ticket.jpg
-  - title: "Coin Master Spins: Rural Mobile Gaming"
-    topic: Mobile Gaming
-    keywords: [Coin Master, free spins, rural Thailand, gaming, entertainment]
-    description: The popularity of Coin Master’s free spins in rural Thailand, balancing fun with responsible gaming practices.
-    author: Davin Thorow
-    og_image: /content/assets/coin-master-game.jpg
-  - title: "Lotto VIP: Rural Online Lotteries"
-    topic: Online Lotteries
-    keywords: [Lotto VIP, lotteries, rural Thailand, gambling, technology]
-    description: How online lottery platforms like Lotto VIP transform rural gambling, promoting market-driven oversight.
-    author: Marian Shelleigh
-    og_image: /content/assets/online-lottery.jpg
-  - title: "460Bet Slots: Rural Gaming Future"
-    topic: Online Slots
-    keywords: [460Bet, slots, rural Thailand, gaming, technology]
-    description: The impact of 460Bet slots on rural Thai communities, emphasizing innovation and consumer protections.
+    unique_subject: K-Pop’s cultural impact
+    keywords: [K-Pop, South Korea, pop culture, music, global]
+    description: Exploring K-Pop’s worldwide cultural impact, from fan communities to fashion and media trends.
     author: Sara Brontee
-    og_image: /content/assets/slot-460bet.jpg
-  - title: "888 Slots: High-Stakes Rural Gaming"
-    topic: Online Gambling
-    keywords: [888 slots, high-stakes gaming, rural Thailand, technology, gambling]
-    description: The appeal of 888 slots in rural Thailand, advocating for fair practices in high-stakes gaming.
-    author: Joanna Aucton
-    og_image: /content/assets/888-slot-game.jpg
-  - title: "Fullslot Access: Rural Gaming Platforms"
-    topic: Gaming Platforms
-    keywords: [Fullslot, gaming platforms, rural Thailand, technology, entertainment]
-    description: How Fullslot simplifies gaming access for rural Thai users, promoting user-friendly platforms.
-    author: Jonah Stynebeck
-    og_image: /content/assets/fullslot-login.jpg
-  - title: "Thai Lottery Results: Rural Engagement"
-    topic: Lottery Results
-    keywords: [Thai lottery, rural Thailand, gambling, community, culture]
-    description: The role of Thai lottery results in fostering rural community engagement, with insights into local traditions.
-    author: Silas Twaine
-    og_image: /content/assets/lottery-results-board.jpg
-  - title: "Inventors’ Day: Rural Innovation Spark"
-    topic: Rural Innovation
-    keywords: [Inventors’ Day, rural Thailand, innovation, technology, community]
-    description: How Thailand’s Inventors’ Day inspires rural innovation, emphasizing free-market solutions.
-    author: Emmeline Dickenson
-    og_image: /content/assets/inventor-workshop.jpg
-  - title: "Thai Rath Lottery: Rural Hopes and Dreams"
-    topic: Lottery Culture
-    keywords: [Thai Rath, lottery, rural Thailand, gambling, community]
-    description: The cultural significance of Thai Rath lottery numbers in rural communities, advocating responsible gaming.
-    author: Alec Dumass
-    og_image: /content/assets/thai-lottery-ticket.jpg
-  - title: "Twitter Requests: Rural Digital Engagement"
-    topic: Social Media
-    keywords: [Twitter, social media, rural Thailand, digital engagement, community]
-    description: How rural Thai communities use Twitter for requests and engagement, highlighting social media’s role.
-    author: Eliza Alcotte
-    og_image: /content/assets/twitter-feed.jpg
-  - title: "2023 Lottery Statistics: Rural Insights"
-    topic: Lottery Analytics
-    keywords: [lottery statistics, 2023, rural Thailand, gambling, data]
-    description: Analyzing 2023 lottery statistics to inform rural Thai gamers, promoting data-driven strategies.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/lottery-stats-chart.jpg
-  - title: "Free Credit Promotions: Rural Gaming Ethics"
-    topic: Gaming Ethics
-    keywords: [free credit, gaming ethics, rural Thailand, slots, technology]
-    description: Examining free credit promotions in rural Thai gaming, advocating for transparent industry standards.
+    og_image: /content/assets/kpop-concert.jpg
+
+  - title: "Urban Farming in Tokyo: Sustainable City Solutions"
+    topic: Urban Agriculture
+    unique_subject: Urban farming practices
+    keywords: [urban farming, Tokyo, sustainability, agriculture, cities]
+    description: How Tokyo’s urban farming initiatives promote sustainability and food security in densely populated cities.
     author: Marcus Twyne
-    og_image: /content/assets/free-credit-offer.jpg
-  - title: "Baseball Bats: Rural Sports Trends"
-    topic: Rural Sports
-    keywords: [baseball bats, rural Thailand, sports, community, athletics]
-    description: The rise of baseball bats in rural Thai sports, highlighting community-driven athletic programs.
-    author: Lara Wylde
-    og_image: /content/assets/baseball-field.jpg
-  - title: "SEA Games 2025: Rural Sports Inspiration"
-    topic: Sports Events
-    keywords: [SEA Games, 2025, rural Thailand, sports, community]
-    description: How the SEA Games 2025 inspires rural Thai youth in athletics, promoting community-driven sports programs.
-    author: Davin Thorow
-    og_image: /content/assets/sea-games-stadium.jpg
-  - title: "ID-Verified Free Credit: Rural Gaming Access"
-    topic: Gaming Access
-    keywords: [ID verification, free credit, rural Thailand, gaming, technology]
-    description: How ID-verified free credit offers expand gaming access in rural Thailand, emphasizing consumer protections.
-    author: Marian Shelleigh
-    og_image: /content/assets/id-verification.jpg
-  - title: "Mathematical Symbols: Rural Education Empowerment"
-    topic: Education
-    keywords: [mathematical symbols, rural Thailand, education, learning, community]
-    description: How teaching symbols like greater-than and less-than empowers rural Thai students, emphasizing practical education.
-    author: Sara Brontee
-    og_image: /content/assets/math-classroom.jpg
-  - title: "Shopee Express: Rural E-Commerce Revolution"
-    topic: E-Commerce
-    keywords: [Shopee Express, e-commerce, rural Thailand, logistics, technology]
-    description: How Shopee Express transforms rural Thai e-commerce, emphasizing private-sector innovation.
-    author: Joanna Aucton
-    og_image: /content/assets/shopee-delivery.jpg
-  - title: "ZWallet Slots: Rural Digital Payments"
-    topic: Digital Payments
-    keywords: [ZWallet, slots, rural Thailand, digital payments, technology]
-    description: How ZWallet-linked slots promote financial inclusion in rural Thailand, emphasizing digital payment solutions.
+    og_image: /content/assets/urban-farm-rooftop.jpg
+
+  - title: "Quantum Computing: The Next Tech Frontier"
+    topic: Quantum Technology
+    unique_subject: Quantum computing advancements
+    keywords: [quantum computing, technology, innovation, research, future]
+    description: The latest breakthroughs in quantum computing and their potential to reshape industries worldwide.
     author: Jonah Stynebeck
-    og_image: /content/assets/digital-wallet.jpg
-  - title: "689 Gaming Access: Rural Platforms"
-    topic: Gaming Platforms
-    keywords: [689 slot, gaming platforms, rural Thailand, technology, entertainment]
-    description: How 689 platforms simplify gaming access in rural Thailand, promoting user-friendly digital solutions.
-    author: Silas Twaine
-    og_image: /content/assets/689-gaming-portal.jpg
-  - title: "Free Slot Trials: Rural Gaming Engagement"
-    topic: Gaming Trials
-    keywords: [free slot trials, rural Thailand, gaming, technology, entertainment]
-    description: How free slot trials engage rural Thai gamers, promoting responsible gaming through accessible platforms.
-    author: Emmeline Dickenson
-    og_image: /content/assets/free-slot-trial.jpg
-  - title: "Fortune Slot: Rural Gaming Allure"
-    topic: Online Slots
-    keywords: [Fortune Slot, rural Thailand, gaming, technology, entertainment]
-    description: The appeal of Fortune Slot in rural Thailand, balancing innovation with consumer protections.
-    author: Alec Dumass
-    og_image: /content/assets/fortune-slot-game.jpg
-  - title: "FA Cup Broadcasts: Rural Sports Connectivity"
-    topic: Sports Broadcasting
-    keywords: [FA Cup, broadcasts, rural Thailand, sports, community]
-    description: How FA Cup live broadcasts connect rural Thai fans to global football, fostering community engagement.
-    author: Eliza Alcotte
-    og_image: /content/assets/fa-cup-match.jpg
-  - title: "Slot Payouts: Rural Gaming Strategies"
-    topic: Slot Strategies
-    keywords: [slot payouts, rural Thailand, gaming, strategy, entertainment]
-    description: Strategies for maximizing slot payouts in rural Thailand, advocating for informed gaming practices.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/slot-payout-screen.jpg
-  - title: "Live Football Streams: Rural Digital Access"
-    topic: Digital Connectivity
-    keywords: [live football, streaming, rural Thailand, connectivity, sports]
-    description: How live football streams enhance digital connectivity in rural Thailand, fostering community engagement.
-    author: Marcus Twyne
-    og_image: /content/assets/streaming-device.jpg
-  - title: "Galaxy Watches: Rural Tech Trends"
-    topic: Wearable Technology
-    keywords: [Galaxy Watch, wearable tech, rural Thailand, technology, health]
-    description: The adoption of Galaxy Watches in rural Thailand, highlighting their role in health and connectivity.
-    author: Lara Wylde
-    og_image: /content/assets/galaxy-watch.jpg
-  - title: "Lanna Traditions: Rural Cultural Heritage"
+    og_image: /content/assets/quantum-computer-lab.jpg
+
+  - title: "Indigenous Storytelling: Preserving Oral Traditions"
     topic: Cultural Heritage
-    keywords: [Lanna traditions, rural Thailand, culture, heritage, community]
-    description: Celebrating Lanna traditions in rural Thailand, emphasizing their role in community identity.
-    author: Davin Thorow
-    og_image: /content/assets/lanna-festival.jpg
-  - title: "Gang Culture: Rural Thai Realities"
-    topic: Rural Sociology
-    keywords: [gang culture, rural Thailand, sociology, community, youth]
-    description: Exploring myths and realities of gang culture in rural Thai communities, advocating community-based solutions.
-    author: Marian Shelleigh
-    og_image: /content/assets/rural-youth-group.jpg
-  - title: "Hit Songs: Rural Music Culture"
-    topic: Music Culture
-    keywords: [hit songs, rural Thailand, music, culture, community]
-    description: How popular music shapes rural Thai culture, connecting communities through artistic expression.
-    author: Sara Brontee
-    og_image: /content/assets/rural-music-event.jpg
-  - title: "7m Live Scores: Rural Sports Engagement"
-    topic: Sports Technology
-    keywords: [7m live scores, rural Thailand, sports, technology, community]
-    description: How 7m live scores enhance sports engagement in rural Thailand, fostering community through technology.
-    author: Joanna Aucton
-    og_image: /content/assets/live-score-app.jpg
-  - title: "SlotXO Access: Rural Gaming Platforms"
-    topic: Gaming Platforms
-    keywords: [SlotXO, gaming platforms, rural Thailand, technology, entertainment]
-    description: How SlotXO simplifies gaming access for rural Thai users, promoting user-friendly platforms.
-    author: Jonah Stynebeck
-    og_image: /content/assets/slotxo-login.jpg
-  - title: "June 16 Lottery Stats: Rural Insights"
-    topic: Lottery Analytics
-    keywords: [June 16, lottery stats, rural Thailand, gambling, data]
-    description: Analyzing June 16 lottery statistics for rural Thai gamers, promoting data-driven strategies.
-    author: Silas Twaine
-    og_image: /content/assets/lottery-stats-chart.jpg
-  - title: "Chaba Websites: Rural E-Commerce Growth"
-    topic: E-Commerce
-    keywords: [Chaba, e-commerce, rural Thailand, technology, commerce]
-    description: The rise of Chaba websites in rural Thai e-commerce, emphasizing private-sector innovation.
-    author: Emmeline Dickenson
-    og_image: /content/assets/chaba-website.jpg
-  - title: "Jack88 Login: Rural Gaming Access"
-    topic: Gaming Platforms
-    keywords: [Jack88, gaming access, rural Thailand, technology, entertainment]
-    description: How Jack88’s login system enhances gaming access in rural Thailand, promoting user-friendly platforms.
-    author: Alec Dumass
-    og_image: /content/assets/jack88-login.jpg
-  - title: "Noname 89 Slots: Rural Gaming Trends"
-    topic: Online Slots
-    keywords: [Noname 89, slots, rural Thailand, gaming, technology]
-    description: The appeal of Noname 89 slots in rural Thailand, balancing innovation with consumer protections.
-    author: Eliza Alcotte
-    og_image: /content/assets/noname-slot-game.jpg
-  - title: "Real Money Gaming: Rural Economic Opportunities"
-    topic: Online Gaming
-    keywords: [real money gaming, rural Thailand, gambling, technology, economy]
-    description: The economic potential of real money gaming in rural Thailand, advocating for market-driven regulations.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/real-money-game.jpg
-  - title: "Navel Cleaning: Rural Health Practices"
-    topic: Rural Health
-    keywords: [navel cleaning, rural Thailand, health, hygiene, community]
-    description: Exploring traditional and modern navel cleaning practices in rural Thailand, promoting practical health solutions.
-    author: Marcus Twyne
-    og_image: /content/assets/health-hygiene.jpg
-  - title: "True Wallet Slots: Rural Financial Inclusion"
-    topic: Digital Payments
-    keywords: [True Wallet, slots, rural Thailand, digital payments, technology]
-    description: How True Wallet slots promote financial inclusion in rural Thailand, emphasizing digital payment solutions.
+    unique_subject: Indigenous oral storytelling
+    keywords: [indigenous, storytelling, culture, heritage, global]
+    description: How indigenous communities worldwide preserve oral traditions, blending ancient stories with modern media.
     author: Lara Wylde
-    og_image: /content/assets/true-wallet.jpg
-  - title: "Thai Sic Bo: Rural Gambling Traditions"
-    topic: Traditional Gambling
-    keywords: [Thai Sic Bo, rural Thailand, gambling, culture, gaming]
-    description: The cultural significance of Thai Sic Bo in rural communities, blending tradition with modern gaming trends.
-    author: Davin Thorow
-    og_image: /content/assets/sic-bo-table.jpg
-  - title: "Mika Fashion: Rural Style Trends"
-    topic: Rural Fashion
-    keywords: [Mika, rural fashion, Thailand, style, community]
-    description: How Mika-inspired fashion trends shape rural Thai style, celebrating local identity.
-    author: Marian Shelleigh
-    og_image: /content/assets/rural-fashion.jpg
-  - title: "Kung Fu Panda: Rural Pop Culture"
-    topic: Pop Culture
-    keywords: [Kung Fu Panda, pop culture, rural Thailand, entertainment, community]
-    description: The appeal of Kung Fu Panda in rural Thai communities, connecting global media with local culture.
-    author: Sara Brontee
-    og_image: /content/assets/kung-fu-panda.jpg
-  - title: "Free PowerPoint Templates: Rural Education Tools"
+    og_image: /content/assets/indigenous-storyteller.jpg
+
+  - title: "E-Sports in Brazil: Rise of a Competitive Scene"
+    topic: E-Sports
+    unique_subject: E-sports growth
+    keywords: [e-sports, Brazil, gaming, competition, youth]
+    description: The booming e-sports industry in Brazil, fostering talent and economic opportunities for young gamers.
+    author: Silas Twaine
+    og_image: /content/assets/esports-tournament.jpg
+
+  - title: "Mental Health Apps: Digital Wellness Tools"
+    topic: Mental Health
+    unique_subject: Mental health technology
+    keywords: [mental health, apps, wellness, technology, global]
+    description: How mental health apps are providing accessible support for stress and anxiety across the globe.
+    author: Eliza Alcotte
+    og_image: /content/assets/mental-health-app.jpg
+
+  - title: "Solar Energy in Sub-Saharan Africa: Powering Progress"
+    topic: Renewable Energy
+    unique_subject: Solar energy adoption
+    keywords: [solar energy, Sub-Saharan Africa, sustainability, energy, development]
+    description: The expansion of solar energy in Sub-Saharan Africa, driving economic growth and sustainability.
+    author: Emmeline Dickenson
+    og_image: /content/assets/solar-panel-village.jpg
+
+  - title: "Virtual Reality Classrooms: Education’s Future"
     topic: Education Technology
-    keywords: [PowerPoint templates, rural Thailand, education, technology, learning]
-    description: How free PowerPoint templates enhance rural Thai education, promoting accessible teaching tools.
-    author: Joanna Aucton
-    og_image: /content/assets/education-template.jpg
-  - title: "Superslot Web Access: Rural Gaming Platforms"
-    topic: Gaming Platforms
-    keywords: [Superslot, gaming platforms, rural Thailand, technology, entertainment]
-    description: How Superslot’s web access simplifies gaming for rural Thai users, promoting user-friendly platforms.
-    author: Jonah Stynebeck
-    og_image: /content/assets/superslot-login.jpg
-  - title: "PK999 Slot Access: Rural Gaming Trends"
-    topic: Online Slots
-    keywords: [PK999, slots, rural Thailand, gaming, technology]
-    description: The rise of PK999 slots in rural Thailand, balancing innovation with consumer protections.
-    author: Silas Twaine
-    og_image: /content/assets/pk999-slot-game.jpg
-  - title: "Live Football Analysis: Rural Sports Commentary"
-    topic: Sports Commentary
-    keywords: [football analysis, rural Thailand, sports, commentary, community]
-    description: The role of live football analysis in engaging rural Thai sports fans, fostering community through media.
-    author: Emmeline Dickenson
-    og_image: /content/assets/football-commentary.jpg
-  - title: "Channel 34 Live: Rural Media Consumption"
-    topic: Media Consumption
-    keywords: [Channel 34, live TV, rural Thailand, media, community]
-    description: How Channel 34’s live broadcasts shape media consumption in rural Thailand, enhancing community connectivity.
+    unique_subject: Virtual reality in education
+    keywords: [virtual reality, education, technology, learning, global]
+    description: How virtual reality is transforming classrooms worldwide, offering immersive learning experiences.
     author: Alec Dumass
-    og_image: /content/assets/tv-broadcast.jpg
-  - title: "Football Predictions: Rural Betting Culture"
-    topic: Sports Betting
-    keywords: [football predictions, rural Thailand, betting, sports, community]
-    description: The role of football predictions in rural Thai betting culture, advocating for responsible gambling practices.
-    author: Eliza Alcotte
-    og_image: /content/assets/betting-odds.jpg
-  - title: "UFA-RS V2: Rural Betting Platforms"
-    topic: Online Betting
-    keywords: [UFA-RS V2, betting platforms, rural Thailand, gambling, technology]
-    description: How UFA-RS V2 enhances betting access in rural Thailand, promoting market-driven gaming solutions.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/ufa-rs-platform.jpg
-  - title: "Credit Bureau Checks: Rural Financial Literacy"
-    topic: Financial Literacy
-    keywords: [credit bureau, rural Thailand, financial literacy, economy, community]
-    description: The importance of free online credit bureau checks for rural Thai financial literacy, promoting economic empowerment.
-    author: Marcus Twyne
-    og_image: /content/assets/credit-report.jpg
-  - title: "Mobile Football Streams: Rural Connectivity"
-    topic: Digital Connectivity
-    keywords: [mobile football streams, rural Thailand, connectivity, sports, technology]
-    description: How mobile football streaming enhances digital connectivity in rural Thailand, fostering community engagement.
-    author: Lara Wylde
-    og_image: /content/assets/mobile-streaming.jpg
-  - title: "Car Covers: Rural Vehicle Maintenance"
-    topic: Vehicle Maintenance
-    keywords: [car covers, rural Thailand, vehicle maintenance, community, automotive]
-    description: The role of car covers in rural Thai vehicle maintenance, promoting practical automotive solutions.
-    author: Davin Thorow
-    og_image: /content/assets/car-cover.jpg
-  - title: "UFA888 Access: Rural Betting Platforms"
-    topic: Online Betting
-    keywords: [UFA888, betting platforms, rural Thailand, gambling, technology]
-    description: How UFA888 simplifies betting access for rural Thai users, advocating for user-friendly platforms.
+    og_image: /content/assets/vr-classroom.jpg
+
+  - title: "Street Art in Berlin: Urban Cultural Expression"
+    topic: Street Art
+    unique_subject: Street art as cultural expression
+    keywords: [street art, Berlin, culture, urban, creativity]
+    description: Berlin’s vibrant street art scene as a form of cultural and political expression in urban spaces.
     author: Marian Shelleigh
-    og_image: /content/assets/ufa888-login.jpg
-  - title: "Sean in Rural Culture: Myth or Reality?"
-    topic: Rural Sociology
-    keywords: [Sean, rural Thailand, sociology, culture, community]
-    description: Exploring the concept of “Sean” in rural Thai culture, examining its social significance and realities.
-    author: Sara Brontee
-    og_image: /content/assets/rural-community.jpg
-  - title: "Victory Gates: Rural Cultural Symbolism"
-    topic: Cultural Symbolism
-    keywords: [victory gates, rural Thailand, culture, symbolism, community]
-    description: The cultural significance of victory gates in rural Thai communities, celebrating local heritage.
+    og_image: /content/assets/berlin-street-mural.jpg
+
+  - title: "Coral Reef Restoration: Saving Marine Ecosystems"
+    topic: Marine Conservation
+    unique_subject: Coral reef restoration
+    keywords: [coral reefs, conservation, marine, environment, global]
+    description: Global efforts to restore coral reefs, protecting marine biodiversity and coastal ecosystems.
+    author: Davin Thorow
+    og_image: /content/assets/coral-reef-diver.jpg
+
+  - title: "Gig Economy in London: Redefining Work"
+    topic: Gig Economy
+    unique_subject: Gig economy dynamics
+    keywords: [gig economy, London, work, technology, employment]
+    description: How London’s gig economy is reshaping work patterns, balancing flexibility with worker protections.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/gig-worker-delivery.jpg
+
+  - title: "Traditional Japanese Tea Ceremonies: Modern Relevance"
+    topic: Cultural Practices
+    unique_subject: Japanese tea ceremonies
+    keywords: [tea ceremony, Japan, culture, tradition, mindfulness]
+    description: The enduring significance of Japanese tea ceremonies, blending tradition with modern mindfulness practices.
     author: Joanna Aucton
-    og_image: /content/assets/victory-gate.jpg
-  - title: "Five Seers: Rural Spiritual Practices"
-    topic: Spirituality
-    keywords: [five seers, rural Thailand, spirituality, culture, community]
-    description: The significance of Five Seers in rural Thai communities, promoting traditional spiritual practices.
-    author: Jonah Stynebeck
-    og_image: /content/assets/spiritual-ceremony.jpg
-  - title: "Servette Football: Rural Global Fandom"
-    topic: Sports Culture
-    keywords: [Servette, football, rural Thailand, sports, community]
-    description: How global football clubs like Servette inspire rural Thai fans, fostering community through sports.
-    author: Silas Twaine
-    og_image: /content/assets/servette-match.jpg
-  - title: "Pantheon Icons: Rural Cultural Heritage"
-    topic: Cultural Icons
-    keywords: [Pantheon, rural Thailand, cultural icons, community, heritage]
-    description: The influence of cultural icons like Pantheon in rural Thai communities, celebrating local traditions.
-    author: Emmeline Dickenson
-    og_image: /content/assets/cultural-icon.jpg
-  - title: "Betflik 28: Rural Gaming Platforms"
-    topic: Online Gaming
-    keywords: [Betflik 28, gaming platforms, rural Thailand, technology, entertainment]
-    description: How Betflik 28 enhances gaming access in rural Thailand, promoting user-friendly digital platforms.
-    author: Alec Dumass
-    og_image: /content/assets/betflik-platform.jpg
-  - title: "Cat888 Lottery: Rural Gambling Trends"
-    topic: Lottery Culture
-    keywords: [Cat888, lottery, rural Thailand, gambling, community]
-    description: The role of Cat888 lotteries in rural Thai gambling, advocating for responsible gaming practices.
-    author: Eliza Alcotte
-    og_image: /content/assets/cat888-lottery.jpg
-  - title: "IT City Stores: Rural Tech Access"
-    topic: Technology Access
-    keywords: [IT City, rural Thailand, technology, retail, community]
-    description: How IT City stores bring tech access to rural Thailand, promoting private-sector innovation.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/it-city-store.jpg
-  - title: "Montelukast: Rural Asthma Management"
-    topic: Rural Health
-    keywords: [Montelukast, asthma, rural Thailand, health, medication]
-    description: The role of Montelukast in managing asthma in rural Thai communities, emphasizing accessible healthcare.
+    og_image: /content/assets/tea-ceremony.jpg
+
+  - title: "Autonomous Vehicles: Urban Mobility in 2025"
+    topic: Autonomous Technology
+    unique_subject: Autonomous vehicle development
+    keywords: [autonomous vehicles, urban, technology, mobility, future]
+    description: The rise of autonomous vehicles in urban centers, transforming transportation and city planning.
     author: Marcus Twyne
-    og_image: /content/assets/health-medication.jpg
-  - title: "No-Agent Slots 777: Rural Gaming Freedom"
-    topic: Online Slots
-    keywords: [no-agent slots, 777, rural Thailand, gaming, technology]
-    description: How no-agent slot platforms like 777 empower rural Thai gamers, advocating for market-driven solutions.
-    author: Lara Wylde
-    og_image: /content/assets/slot-777-game.jpg
-  - title: "True Wallet Slots: Rural Financial Inclusion"
-    topic: Digital Payments
-    keywords: [True Wallet, slots, rural Thailand, digital payments, technology]
-    description: How True Wallet slots promote financial inclusion in rural Thailand, emphasizing digital payment solutions.
-    author: Davin Thorow
-    og_image: /content/assets/true-wallet-slot.jpg
-  - title: "King Rama IX’s Legacy: Rural Reflections"
-    topic: Cultural History
-    keywords: [King Rama IX, rural Thailand, cultural history, community, heritage]
-    description: Reflecting on the cultural impact of King Rama IX’s legacy in rural Thai communities, honoring his contributions.
-    author: Marian Shelleigh
-    og_image: /content/assets/royal-ceremony.jpg
-  - title: "Lao Lottery Results: Rural Engagement"
-    topic: Lottery Culture
-    keywords: [Lao lottery, rural Thailand, gambling, community, culture]
-    description: The role of Lao lottery results in engaging rural Thai communities, advocating for responsible gaming.
-    author: Sara Brontee
-    og_image: /content/assets/lao-lottery.jpg
-  - title: "Indonesian League: Rural Football Interest"
+    og_image: /content/assets/autonomous-car-city.jpg
+
+  - title: "Women’s Football in Scandinavia: Breaking Barriers"
     topic: Sports Culture
-    keywords: [Indonesian League, football, rural Thailand, sports, community]
-    description: How the Indonesian League inspires rural Thai football fans, fostering global sports connections.
-    author: Joanna Aucton
-    og_image: /content/assets/indonesian-football.jpg
-  - title: "UFALove Login: Rural Betting Access"
-    topic: Online Betting
-    keywords: [UFALove, betting access, rural Thailand, gambling, technology]
-    description: How UFALove’s login system simplifies betting for rural Thai users, promoting user-friendly platforms.
-    author: Jonah Stynebeck
-    og_image: /content/assets/ufalove-login.jpg
-  - title: "March 16 Lottery: Rural Community Hopes"
-    topic: Lottery Results
-    keywords: [March 16, lottery, rural Thailand, gambling, community]
-    description: The significance of March 16 lottery results in rural Thai communities, fostering hope and engagement.
+    unique_subject: Women’s football growth
+    keywords: [women’s football, Scandinavia, sports, equality, community]
+    description: The rise of women’s football in Scandinavia, promoting gender equality and community engagement.
     author: Silas Twaine
-    og_image: /content/assets/lottery-results-board.jpg
-  - title: "Glass Cleaning Cloths: Rural Household Practices"
-    topic: Rural Living
-    keywords: [glass cleaning, rural Thailand, household, hygiene, community]
-    description: The role of glass cleaning cloths in rural Thai households, promoting practical cleaning solutions.
+    og_image: /content/assets/womens-football-match.jpg
+
+  - title: "Blockchain for Supply Chains: Global Transparency"
+    topic: Blockchain Technology
+    unique_subject: Blockchain in supply chains
+    keywords: [blockchain, supply chains, technology, transparency, global]
+    description: How blockchain is enhancing transparency and efficiency in global supply chains.
+    author: Jonah Stynebeck
+    og_image: /content/assets/blockchain-supply-chain.jpg
+
+  - title: "Refugee Education in Jordan: Empowering Futures"
+    topic: Refugee Education
+    unique_subject: Education for refugees
+    keywords: [refugee education, Jordan, learning, empowerment, humanitarian]
+    description: Innovative education programs for refugees in Jordan, fostering hope and opportunity.
     author: Emmeline Dickenson
-    og_image: /content/assets/cleaning-cloth.jpg
-  - title: "Denim Dresses: Rural Fashion Trends"
-    topic: Rural Fashion
-    keywords: [denim dresses, rural Thailand, fashion, style, community]
-    description: How denim dresses shape rural Thai fashion, celebrating local style and identity.
-    author: Alec Dumass
-    og_image: /content/assets/denim-dress.jpg
-  - title: "Lao Lottery Checks: Rural Gaming Insights"
-    topic: Lottery Analytics
-    keywords: [Lao lottery, rural Thailand, gambling, data, community]
-    description: Analyzing Lao lottery results for rural Thai gamers, promoting data-driven gaming strategies.
-    author: Eliza Alcotte
-    og_image: /content/assets/lao-lottery-stats.jpg
-  - title: "789 Websites: Rural E-Commerce Growth"
-    topic: E-Commerce
-    keywords: [789 websites, e-commerce, rural Thailand, technology, commerce]
-    description: The rise of 789 websites in rural Thai e-commerce, emphasizing private-sector innovation.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/789-website.jpg
-  - title: "Free Mobile Football Streams: Rural Connectivity"
-    topic: Digital Connectivity
-    keywords: [football streams, mobile, rural Thailand, connectivity, sports]
-    description: How free mobile football streams enhance connectivity in rural Thailand, fostering community engagement.
-    author: Marcus Twyne
-    og_image: /content/assets/mobile-football-stream.jpg
-  - title: "Inter Miami vs. Charlotte: Rural Fandom"
-    topic: Sports Culture
-    keywords: [Inter Miami, Charlotte, football, rural Thailand, community]
-    description: How matches like Inter Miami vs. Charlotte inspire rural Thai football fans, building community spirit.
+    og_image: /content/assets/refugee-classroom.jpg
+
+  - title: "Slow Fashion in Italy: Sustainable Style"
+    topic: Sustainable Fashion
+    unique_subject: Slow fashion movement
+    keywords: [slow fashion, Italy, sustainability, style, culture]
+    description: Italy’s slow fashion movement, prioritizing sustainability and craftsmanship in the global fashion industry.
     author: Lara Wylde
-    og_image: /content/assets/inter-miami-match.jpg
-  - title: "Military Training: Rural Youth Perspectives"
-    topic: Rural Sociology
-    keywords: [military training, rural Thailand, youth, community, sociology]
-    description: Exploring the impact of military training on rural Thai youth, advocating for community-based solutions.
+    og_image: /content/assets/slow-fashion-workshop.jpg
+
+  - title: "Arctic Climate Research: Global Warming Insights"
+    topic: Climate Science
+    unique_subject: Arctic climate research
+    keywords: [Arctic, climate research, global warming, science, environment]
+    description: Cutting-edge Arctic climate research revealing critical insights into global warming’s impact.
+    author: Eliza Alcotte
+    og_image: /content/assets/arctic-research-station.jpg
+
+  - title: "Microfinance in India: Economic Empowerment"
+    topic: Microfinance
+    unique_subject: Microfinance for economic growth
+    keywords: [microfinance, India, economy, empowerment, development]
+    description: How microfinance is driving economic empowerment for small entrepreneurs in India.
     author: Davin Thorow
-    og_image: /content/assets/military-training.jpg
-  - title: "PG Slot Online: Rural Gaming Trends"
-    topic: Online Gaming
-    keywords: [PG Slot, online gaming, rural Thailand, technology, entertainment]
-    description: The rise of PG Slot online in rural Thailand, balancing innovation with responsible gaming practices.
-    author: Marian Shelleigh
-    og_image: /content/assets/pg-slot-game.jpg
-  - title: "818King Downloads: Rural Gaming Access"
-    topic: Gaming Platforms
-    keywords: [818King, gaming downloads, rural Thailand, technology, entertainment]
-    description: How 818King downloads simplify gaming access for rural Thai users, promoting user-friendly platforms.
-    author: Sara Brontee
-    og_image: /content/assets/818king-login.jpg
+    og_image: /content/assets/microfinance-group.jpg
