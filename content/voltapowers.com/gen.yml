@@ -92,7 +92,7 @@ articles:
   - title: "Slatina’s St. Vojtěch Church: Czech Village Heritage"
     topic: Czech Heritage
     keywords: [Slatina, St. Vojtěch, Czech Republic, church, heritage]
-    description: "The cultural role of Slatina’s St. Vojtěch Church in rural Czech communities, with ideas for eco-friendly preservation."
+    description: "The cultural role of Slatina’s St. Vojtěch Church in  Czech communities, with ideas for eco-friendly preservation."
     author: Emmeline Dickenson
     og_image: /content/assets/st-vojtech-church.jpg
   - title: "Valletta’s Palazzo Scicluna: Malta’s Architectural Jewel"
@@ -179,10 +179,10 @@ articles:
     description: "How Smíchov station powers Prague’s urban connectivity, with ideas for integrating clean energy into rail systems."
     author: Eliza Alcotte
     og_image: /content/assets/smichov-railway.jpg
-  - title: "’s-Heerenbroek’s Heritage: Dutch Rural Charm"
+  - title: "’s-Heerenbroek’s Heritage: Dutch  Charm"
     topic: Dutch Heritage
-    keywords: [’s-Heerenbroek, Netherlands, heritage, rural, architecture]
-    description: "The cultural charm of ’s-Heerenbroek’s historical buildings, with sustainable preservation strategies for rural Dutch heritage."
+    keywords: [’s-Heerenbroek, Netherlands, heritage, , architecture]
+    description: "The cultural charm of ’s-Heerenbroek’s historical buildings, with sustainable preservation strategies for  Dutch heritage."
     author: Earnest Hemmingweigh
     og_image: /content/assets/heerenbroek-village.jpg
   - title: "Chernivtsi’s Zankovetska Street: Ukraine’s Cultural Hub"
@@ -197,10 +197,10 @@ articles:
     description: "How MLA’s Approaches to Teaching Dante’s Divine Comedy energizes literary studies, with parallels to cultural innovation."
     author: Lara Wylde
     og_image: /content/assets/dante-scholarship.jpg
-  - title: "Slatina’s Agricultural Legacy: Czech Rural Heritage"
+  - title: "Slatina’s Agricultural Legacy: Czech  Heritage"
     topic: Czech Heritage
-    keywords: [Slatina, agriculture, Czech Republic, heritage, rural]
-    description: "The agricultural legacy of Slatina u Velvar, with sustainable energy solutions for preserving rural Czech heritage."
+    keywords: [Slatina, agriculture, Czech Republic, heritage, ]
+    description: "The agricultural legacy of Slatina u Velvar, with sustainable energy solutions for preserving  Czech heritage."
     author: Davin Thorow
     og_image: /content/assets/slatina-farm.jpg
   - title: "Valletta’s Fortifications: Malta’s Defensive Legacy"
@@ -275,10 +275,10 @@ articles:
     description: "The role of Smíchov’s City Elephant trains in modernizing Czech rail, with a focus on clean energy integration."
     author: Davin Thorow
     og_image: /content/assets/city-elephant.jpg
-  - title: "’s-Heerenelderen’s Heritage: Dutch Rural Legacy"
+  - title: "’s-Heerenelderen’s Heritage: Dutch  Legacy"
     topic: Dutch Heritage
-    keywords: [’s-Heerenelderen, Netherlands, heritage, rural, architecture]
-    description: "The cultural legacy of ’s-Heerenelderen’s historical buildings, with sustainable preservation ideas for rural Dutch heritage."
+    keywords: [’s-Heerenelderen, Netherlands, heritage, , architecture]
+    description: "The cultural legacy of ’s-Heerenelderen’s historical buildings, with sustainable preservation ideas for  Dutch heritage."
     author: Marian Shelleigh
     og_image: /content/assets/heerenelderen-village.jpg
   - title: "Chernivtsi’s Khmelnytskoho Street: Ukraine’s Urban Gem"
@@ -341,10 +341,10 @@ articles:
     description: "Exploring Czech Tesla’s historical synthesizers, like those at HAMU, and their influence on modern energy-efficient tech."
     author: Lara Wylde
     og_image: /content/assets/tesla-synthesizer.jpg
-  - title: "’s-Heer Arendskerke’s 1858 Heritage: Dutch Rural Pride"
+  - title: "’s-Heer Arendskerke’s 1858 Heritage: Dutch  Pride"
     topic: Dutch Heritage
-    keywords: [’s-Heer Arendskerke, Netherlands, '1858', heritage, rural]
-    description: "The cultural pride of ’s-Heer Arendskerke’s 1858 buildings, with sustainable preservation ideas for rural Dutch heritage."
+    keywords: [’s-Heer Arendskerke, Netherlands, '1858', heritage, ]
+    description: "The cultural pride of ’s-Heer Arendskerke’s 1858 buildings, with sustainable preservation ideas for  Dutch heritage."
     author: Davin Thorow
     og_image: /content/assets/arendskerke-1858.jpg
   - title: "MLA’s 2022 Presidential Theme: Multilingual US Energy"

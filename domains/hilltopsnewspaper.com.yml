@@ -1,7 +1,7 @@
 site:
   name: Hilltops Newspaper
-  description: Chronicling the pulse of rural Thailand with a focus on sports, culture, and community-driven innovation.
-  keywords: [rural Thailand, sports, culture, community, gaming]
+  description: Chronicling the pulse of the world with a focus on sports, culture, and community-driven innovation.
+  keywords: [ sports, culture, community, gaming]
   logo: /static/hilltopsnewspaper.com/logo.png
   favicon: /static/hilltopsnewspaper.com/favicon-32x32.png
   email: editor@hilltopsnewspaper.com
@@ -27,7 +27,7 @@ footer:
       url: contact
     - name: Privacy Policy
       url: privacy
-  copyright: © 2025 Product Led LLC. All rights reserved. Serving rural vibes with a side of snark.
+  copyright: © 2025 Product Led LLC. All rights reserved. Serving vibes with a side of snark.
 
 content:
   topics: [football, online gaming, rural culture, health, technology]
@@ -35,7 +35,7 @@ content:
   default_image: /content/assets/rural-bg.jpg
 
 analytics:
-  google_analytics_id: G-HILLTOPS24
+  google_analytics_id: G-ET97KBGF1B
 
 seo:
   og_image: /content/assets/rural-bg.jpg

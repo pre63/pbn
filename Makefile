@@ -15,7 +15,7 @@ test:
 install:
 	@python3 -m venv .venv
 	@. .venv/bin/activate && pip install -r requirements.txt
-	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git xai_sdk kagglehub scikit-learn pandas pathlib numpy
+	@. .venv/bin/activate && pip install isort git+https://github.com/pre63/black.git xai_sdk kagglehub scikit-learn pandas pathlib numpy kagglehub pandas scikit-learn numpy requests nltk transformers torch Pillow python-dotenv
 
 build: fix
 	@docker build -t pbn-app .
@@ -36,7 +36,11 @@ cross_post:
 	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.cross_post
 
 images:
-	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.images
+	@. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.images hilltopsnewspaper.com  & \
+	. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.images powersporta.com  & \
+	. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.images spotnews24.com  & \
+	. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.images terrafirmanews.com  & \
+	. .venv/bin/activate && export PYTHONPATH=$$(pwd):$$PYTHONPATH && . .env && python3 -m scripts.images voltapowers.com 
 
 clean:
 	@rm -rf .venv

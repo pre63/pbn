@@ -6,6 +6,12 @@ I bought a bunch of expired domains because, you know, YOLO, and I couldn’t fi
 
 This is as much a science project as it is a middle finger to boring SEO tutorials. Let’s see what breaks first: the code, the rankings, or my patience.
 
+## One Shot
+```
+  make install generate dates cross_post images deploy
+```
+
+
 ## Setup
 
 No rocket science here, just the usual dev dance.

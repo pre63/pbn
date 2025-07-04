@@ -1,655 +1,505 @@
 articles:
-  - title: "Trump’s Tariffs and Canada’s Response: A New Trade War Looms"
-    topic: Canada-US Trade
-    keywords: [Trump tariffs, Canada-US trade, British Columbia, economy, politics]
-    description: Analyzing how Trump’s tariffs threaten British Columbia’s economy, with Canada’s fast-tracked infrastructure projects as a countermeasure, and the risks of escalating trade tensions.[](https://finance.yahoo.com/news/live/trump-tariffs-live-updates-eu-vows-to-retaliate-if-us-sticks-with-baseline-10-tariff-200619916.html)[](https://www.theguardian.com/us-news/2025/jun/27/trump-canada-tariffs-trade-tax)
+  - title: "Trump’s Tariffs: Canada’s Response Sparks Global Trade Tensions"
+    topic: Global Trade Policy
+    keywords: [Trump tariffs, Canada, trade war, British Columbia, economy]
+    description: How Canada’s countermeasures to Trump’s tariffs, including BC’s infrastructure projects, ripple through global markets, risking a broader trade war.
     author: Joanna Aucton
-    og_image: /content/assets/trade-war-meeting.jpg
-  - title: "BC’s Pipeline Push: Defying Trump or Chasing Profit?"
-    topic: BC Politics
-    keywords: [BC pipelines, energy infrastructure, Trump tariffs, politics, economy]
-    description: Exploring BC’s push for pipelines like Prince Rupert Gas Transmission to counter Trump’s trade war, balancing economic gains with environmental and Indigenous concerns.[](https://cbc.ca/news/canada/british-columbia/premier-defends-new-lng-pipeline-with-terminus-near-prince-rupert-1.7556710)[](https://nationalpost.com/opinion/canadas-trump-spiting-plan-pipelines-evaporating)
-    author: Jonah Stynebeck
-    og_image: /content/assets/pipeline-construction.jpg
-  - title: "Fast-Tracking Energy Projects: Canada’s Risky Bet Against the US"
-    topic: Energy Infrastructure
-    keywords: [energy projects, Canada, infrastructure, Trump, politics]
-    description: How Canada’s new law to fast-track energy projects aims to reduce US dependence, but faces criticism for sidelining Indigenous and environmental voices.[](https://bbc.com/news/articles/cglzx41jl4eo)[](https://bbc.co.uk/news/articles/cglzx41jl4eo)
+    og_image: /content/assets/global-trade-meeting.jpg
+  - title: "China’s Belt and Road: Africa’s Infrastructure Boom or Debt Trap?"
+    topic: China-Africa Relations
+    keywords: [Belt and Road, China, Africa, infrastructure, debt]
+    description: Examining China’s Belt and Road Initiative in Africa, balancing economic growth with concerns over debt dependency and sovereignty.
     author: Silas Twaine
-    og_image: /content/assets/energy-corridor.jpg
-  - title: "The Woke Descent: Pacific Northwest’s Cultural Shift Under Fire"
-    topic: Pacific Northwest Culture
-    keywords: [woke culture, Pacific Northwest, politics, identity, society]
-    description: Critiquing the Pacific Northwest’s embrace of progressive ideologies, arguing it alienates communities and fuels cultural division in BC and beyond.
+    og_image: /content/assets/africa-infrastructure.jpg
+  - title: "BC’s LNG Exports: Countering US Trade Pressures with Asia"
+    topic: LNG Global Strategy
+    keywords: [LNG Canada, British Columbia, Asia, trade war, energy]
+    description: How BC’s LNG exports to Asia position it as a global energy player, countering US trade pressures while facing environmental scrutiny.
+    author: Alec Dumass
+    og_image: /content/assets/lng-export-terminal.jpg
+  - title: "Russia-Ukraine War: Europe’s Energy Crisis Deepens"
+    topic: European Energy Security
+    keywords: [Russia-Ukraine, energy crisis, Europe, gas pipelines, geopolitics]
+    description: Analyzing how the Russia-Ukraine conflict disrupts Europe’s gas supply, prompting a rush for alternative energy sources amid soaring prices.
+    author: Marcus Twyne
+    og_image: /content/assets/europe-gas-pipeline.jpg
+  - title: "Pacific Northwest’s Woke Culture: A Global Progressive Trend?"
+    topic: Global Cultural Shifts
+    keywords: [woke culture, Pacific Northwest, British Columbia, politics, society]
+    description: Critiquing the Pacific Northwest’s progressive ideologies as part of a global cultural shift, debating their impact on community cohesion.
     author: Emmeline Dickenson
     og_image: /content/assets/protest-rally.jpg
-  - title: "LNG Canada: BC’s Economic Lifeline or Environmental Disaster?"
-    topic: Energy Infrastructure
-    keywords: [LNG Canada, British Columbia, energy, economy, environment]
-    description: Examining LNG Canada’s role in reducing BC’s US economic dependence, while addressing environmental opposition to its Kitimat terminal.[](https://www.theglobeandmail.com/business/article-lng-canada-exports-asia-us-trade-war-asia/)
-    author: Alec Dumass
-    og_image: /content/assets/lng-terminal.jpg
-  - title: "Alberta’s Pipeline Dream: BC’s Reluctance Sparks Tensions"
-    topic: BC Politics
-    keywords: [Alberta pipeline, BC politics, energy, trade, infrastructure]
-    description: How Alberta’s push for a new pipeline to BC’s coast, backed by Danielle Smith, reignites interprovincial tensions, with a center-right call for pragmatic cooperation.[](https://theglobeandmail.com/opinion/article-bc-alberta-pipeline-expansion-conflict)[](https://globalnews.ca/news/11261093/alberta-bc-oil-pipeline-discussions)
-    author: Eliza Alcotte
-    og_image: /content/assets/alberta-bc-meeting.jpg
-  - title: "Indigenous Opposition to BC’s Infrastructure Rush: A Valid Concern?"
+  - title: "India’s Solar Push: Leading the Global Renewable Race?"
+    topic: India’s Renewable Energy
+    keywords: [solar energy, India, renewables, climate change, economy]
+    description: Exploring India’s ambitious solar energy projects, their role in global climate goals, and challenges in scaling infrastructure.
+    author: Lara Wylde
+    og_image: /content/assets/india-solar-farm.jpg
+  - title: "Indigenous Opposition to BC’s Pipeline Rush: A Global Rights Issue"
     topic: Indigenous Rights
-    keywords: [Indigenous rights, BC infrastructure, pipelines, politics, environment]
-    description: Analyzing Indigenous criticism of BC’s fast-tracked projects, advocating for balanced consultation over rushed economic gains.[](https://bbc.com/news/articles/cglzx41jl4eo)[](https://reuters.com/markets/commodities/canadian-senate-approves-law-fast-track-major-resource-projects-2025-06-26)
+    keywords: [Indigenous rights, BC pipelines, infrastructure, environment, human rights]
+    description: How Indigenous opposition to BC’s pipelines reflects global struggles for land rights and environmental justice, calling for fair consultation.
     author: Earnest Hemmingweigh
     og_image: /content/assets/indigenous-protest.jpg
-  - title: "Columbia River Treaty: Trump’s Trade War Threatens Hydropower"
-    topic: Canada-US Trade
-    keywords: [Columbia River Treaty, hydropower, trade war, Pacific Northwest, energy]
-    description: How Trump’s trade policies jeopardize the Columbia River Treaty, impacting BC’s hydropower and Pacific Northwest energy security.[](https://nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html)
-    author: Marcus Twyne
+  - title: "Columbia River Treaty: US-Canada Tensions Threaten Hydropower"
+    topic: US-Canada Hydropower Trade
+    keywords: [Columbia River Treaty, hydropower, trade war, British Columbia, energy]
+    description: How Trump’s trade policies jeopardize the Columbia River Treaty, impacting BC’s hydropower exports and regional energy security.
+    author: Jonah Stynebeck
     og_image: /content/assets/hydropower-dam.jpg
-  - title: "BC’s Clean Energy Pivot: A Smarter Path Than Pipelines?"
-    topic: BC Politics
-    keywords: [clean energy, BC politics, LNG, infrastructure, environment]
-    description: Why BC Premier David Eby’s focus on clean energy and LNG over oil pipelines could position the province as a global leader, despite Alberta’s objections.[](https://cbc.ca/news/canada/british-columbia/conservative-bc-premier-pipeline-criticism-1.7552616)
-    author: Lara Wylde
-    og_image: /content/assets/wind-farm.jpg
-  - title: "Yukon’s Power Grid Plan: A Bold Move for Critical Minerals"
-    topic: Energy Infrastructure
-    keywords: [Yukon, power grid, critical minerals, BC, infrastructure]
-    description: Exploring Yukon’s ambitious plan to connect to BC’s power grid to support critical mineral mining, questioning its economic and environmental viability.[](https://cbc.ca/news/canada/north/yukon-bc-power-grid-analysis-1.7552201)
-    author: Davin Thorow
-    og_image: /content/assets/power-grid.jpg
-  - title: "Critical Minerals in BC: The Next Economic Frontier?"
-    topic: BC Economy
-    keywords: [critical minerals, British Columbia, economy, infrastructure, trade]
-    description: How BC’s focus on critical mineral mining could diversify its economy amid US trade tensions, with a call for private-sector-led growth.[](https://cbc.ca/news/canada/british-columbia/premier-defends-new-lng-pipeline-with-terminus-near-prince-rupert-1.7556710)[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
+  - title: "Saudi Arabia’s Oil Strategy: OPEC’s Grip on Global Markets"
+    topic: Global Oil Markets
+    keywords: [Saudi Arabia, OPEC, oil prices, energy, geopolitics]
+    description: Analyzing Saudi Arabia’s role in OPEC’s oil production cuts, their impact on global energy prices, and tensions with Western economies.
     author: Marian Shelleigh
-    og_image: /content/assets/mining-site.jpg
-  - title: "Trump’s Trade War: BC’s Commercial Traffic Restrictions to Alaska"
-    topic: Canada-US Trade
-    keywords: [Trump tariffs, BC, Alaska, trade, politics]
-    description: Examining BC’s new restrictions on US commercial traffic to Alaska as a response to Trump’s tariffs, weighing economic and diplomatic consequences.
+    og_image: /content/assets/oil-rig.jpg
+  - title: "BC’s Clean Energy Pivot: A Model for Global Sustainability?"
+    topic: BC Clean Energy Policy
+    keywords: [clean energy, British Columbia, renewables, environment, trade]
+    description: Why BC’s shift to clean energy could serve as a global model, balancing economic growth with environmental priorities amid trade tensions.
+    author: Davin Thorow
+    og_image: /content/assets/wind-farm.jpg
+  - title: "Yukon’s Power Grid: Fueling Critical Minerals for Global Tech"
+    topic: Critical Minerals Supply
+    keywords: [Yukon, power grid, critical minerals, BC, technology]
+    description: Exploring Yukon’s plan to connect to BC’s grid to support critical mineral mining, vital for global tech industries, amid environmental concerns.
     author: Sara Brontee
-    og_image: /content/assets/border-crossing.jpg
-  - title: "The Woke Madness: How Progressive Policies Divide BC Communities"
-    topic: Pacific Northwest Culture
-    keywords: [woke policies, British Columbia, culture, politics, society]
-    description: A center-right critique of progressive policies in BC, arguing they undermine community cohesion and economic pragmatism in the Pacific Northwest.
+    og_image: /content/assets/mining-site.jpg
+  - title: "EU’s Carbon Border Tax: A Game-Changer for Global Trade?"
+    topic: EU Climate Policy
+    keywords: [carbon border tax, EU, trade, climate change, economy]
+    description: How the EU’s carbon border adjustment mechanism reshapes global trade, challenging high-emission exporters like China and India.
+    author: Eliza Alcotte
+    og_image: /content/assets/eu-trade.jpg
+  - title: "BC’s Traffic Restrictions to Alaska: A Trade War Escalation?"
+    topic: BC-Alaska Trade Relations
+    keywords: [Trump tariffs, BC, Alaska, trade, diplomacy]
+    description: Examining BC’s restrictions on US commercial traffic to Alaska as a response to Trump’s tariffs, weighing diplomatic fallout.
     author: Joanna Aucton
-    og_image: /content/assets/community-meeting.jpg
-  - title: "Enbridge’s Pipeline Proposal: Can BC Handle Another Mega Project?"
-    topic: Energy Infrastructure
-    keywords: [Enbridge, pipeline, British Columbia, energy, politics]
-    description: Analyzing Enbridge’s potential new pipeline to BC’s coast, highlighting legislative and Indigenous hurdles in the context of trade tensions.[](https://globalnews.ca/news/11261093/alberta-bc-oil-pipeline-discussions)[](https://theglobeandmail.com/business/article-enbridge-says-a-new-alberta-bc-pipeline-would-require-specific)
+    og_image: /content/assets/border-crossing.jpg
+  - title: "South China Sea Tensions: China vs. ASEAN’s Maritime Claims"
+    topic: South China Sea Disputes
+    keywords: [South China Sea, China, ASEAN, geopolitics, maritime rights]
+    description: Analyzing escalating tensions in the South China Sea, where China’s claims clash with ASEAN nations, risking regional stability.
+    author: Silas Twaine
+    og_image: /content/assets/naval-patrol.jpg
+  - title: "BC Hydro’s Site C Dam: Powering Canada’s Future?"
+    topic: BC Hydro Development
+    keywords: [BC Hydro, Site C dam, energy, infrastructure, environment]
+    description: Evaluating the economic and environmental impacts of BC Hydro’s Site C dam, questioning its role in Canada’s energy strategy.
+    author: Alec Dumass
+    og_image: /content/assets/site-c-dam.jpg
+  - title: "AI’s Energy Hunger: Pacific Northwest’s Grid Under Strain"
+    topic: AI Energy Demand
+    keywords: [AI, energy crisis, Pacific Northwest, hydropower, technology]
+    description: How AI-driven data centers strain the Pacific Northwest’s energy grid, challenging BC’s green commitments amid global tech growth.
+    author: Marcus Twyne
+    og_image: /content/assets/data-center.jpg
+  - title: "Brazil’s Amazon Deforestation: Global Climate Fallout"
+    topic: Amazon Deforestation
+    keywords: [Amazon, deforestation, Brazil, climate change, biodiversity]
+    description: How Brazil’s Amazon deforestation accelerates global climate change, sparking international calls for stricter environmental policies.
+    author: Emmeline Dickenson
+    og_image: /content/assets/amazon-forest.jpg
+  - title: "Enbridge’s Pipeline Proposal: BC’s Next Mega Project?"
+    topic: Enbridge Pipeline Development
+    keywords: [Enbridge, pipeline, British Columbia, energy, Indigenous rights]
+    description: Analyzing Enbridge’s proposed pipeline to BC’s coast, highlighting legislative hurdles and Indigenous opposition in a global energy context.
     author: Jonah Stynebeck
     og_image: /content/assets/enbridge-pipeline.jpg
-  - title: "Ontario’s Electricity Feud: A Lesson for BC’s Trade Strategy"
-    topic: Canada-US Trade
+  - title: "Ontario’s Electricity Feud: A Lesson for Global Trade Wars"
+    topic: Interprovincial Trade Lessons
     keywords: [Ontario, electricity, trade war, British Columbia, politics]
-    description: How Ontario’s pause on electricity surcharges to the US could inform BC’s trade strategy, advocating for pragmatic negotiations over escalation.[](https://www.cnn.com/2025/03/11/business/tariffs-canada-trump/index.html)
+    description: How Ontario’s electricity surcharge pause informs BC’s trade strategies, offering lessons for global trade war negotiations.
     author: Silas Twaine
     og_image: /content/assets/electricity-grid.jpg
-  - title: "BC Hydro’s Site C Dam: Powering the Future or a Costly Mistake?"
-    topic: Energy Infrastructure
-    keywords: [BC Hydro, Site C dam, energy, British Columbia, infrastructure]
-    description: Evaluating the economic and environmental impacts of BC Hydro’s Site C dam, questioning its role in BC’s energy future.[](https://cbc.ca/news/canada/north/yukon-bc-power-grid-analysis-1.7552201)
-    author: Emmeline Dickenson
-    og_image: /content/assets/site-c-dam.jpg
-  - title: "Pacific Northwest’s Energy Crisis: AI’s Demand vs. Green Promises"
-    topic: Pacific Northwest Energy
-    keywords: [energy crisis, Pacific Northwest, AI, hydropower, environment]
-    description: How AI-driven data centers strain Pacific Northwest energy, challenging BC’s green commitments in the face of US trade pressures.[](https://nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html)
-    author: Alec Dumass
-    og_image: /content/assets/data-center.jpg
-  - title: "Alberta’s Oil Push: BC’s Environmental Resistance Holds Firm"
-    topic: BC Politics
-    keywords: [Alberta oil, BC politics, pipelines, environment, trade]
-    description: Why BC’s resistance to Alberta’s oil pipeline proposals reflects a commitment to environmental priorities, despite economic pressures.[](https://theglobeandmail.com/opinion/article-bc-alberta-pipeline-expansion-conflict)[](https://theglobeandmail.com/canada/british-columbia/article-bc-insider-premier-energy-minister-say-albertas-pipeline-proposals)
-    author: Eliza Alcotte
-    og_image: /content/assets/oil-pipeline.jpg
-  - title: "The Woke Divide: Seattle’s Influence on BC’s Cultural Politics"
-    topic: Pacific Northwest Culture
-    keywords: [woke culture, Seattle, British Columbia, politics, society]
-    description: Critiquing how Seattle’s progressive policies influence BC’s cultural landscape, arguing for a return to pragmatic community values.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/seattle-protest.jpg
-  - title: "Northern Gateway Revival: BC’s Economic Dilemma"
-    topic: Energy Infrastructure
-    keywords: [Northern Gateway, pipeline, British Columbia, economy, trade]
-    description: Exploring the revived interest in the Northern Gateway pipeline, weighing economic benefits against Indigenous and environmental opposition.[](https://nationalpost.com/opinion/canadas-trump-spiting-plan-pipelines-evaporating)
+  - title: "Northern Gateway Pipeline: BC’s Economic vs. Environmental Debate"
+    topic: Northern Gateway Pipeline
+    keywords: [Northern Gateway, pipeline, British Columbia, economy, environment]
+    description: Exploring the revived Northern Gateway pipeline, weighing economic benefits against global environmental and Indigenous concerns.
     author: Marcus Twyne
     og_image: /content/assets/pipeline-protest.jpg
-  - title: "Canada’s Energy Superpower Ambitions: BC’s Role in Focus"
-    topic: BC Politics
-    keywords: [energy superpower, British Columbia, infrastructure, politics, trade]
-    description: How BC’s energy projects align with Canada’s goal to become an energy superpower, advocating for market-driven solutions over government overreach.[](https://theglobeandmail.com/opinion/article-bc-alberta-pipeline-expansion-conflict)
-    author: Lara Wylde
-    og_image: /content/assets/energy-project.jpg
-  - title: "Indigenous Rights vs. Infrastructure: BC’s Balancing Act"
-    topic: Indigenous Rights
-    keywords: [Indigenous rights, BC infrastructure, pipelines, politics, environment]
-    description: Analyzing the tension between BC’s fast-tracked infrastructure projects and Indigenous rights, calling for fair consultation processes.[](https://reuters.com/markets/commodities/canadian-senate-approves-law-fast-track-major-resource-projects-2025-06-26)
-    author: Davin Thorow
-    og_image: /content/assets/indigenous-consultation.jpg
-  - title: "Trump’s Tariff Threats: BC’s Economic Resilience Tested"
-    topic: Canada-US Trade
-    keywords: [Trump tariffs, British Columbia, economy, trade, politics]
-    description: How Trump’s tariff threats challenge BC’s economic resilience, with a center-right push for diversified trade strategies.[](https://www.theguardian.com/us-news/2025/jun/27/trump-canada-tariffs-trade-tax)
-    author: Marian Shelleigh
-    og_image: /content/assets/trade-negotiation.jpg
-  - title: "Woke Overreach: Pacific Northwest’s Education Reforms Under Fire"
-    topic: Pacific Northwest Culture
-    keywords: [woke education, Pacific Northwest, British Columbia, politics, society]
-    description: Critiquing progressive education reforms in the Pacific Northwest, arguing they prioritize ideology over practical learning in BC schools.
-    author: Sara Brontee
-    og_image: /content/assets/classroom-debate.jpg
-  - title: "LNG Pipeline in Prince Rupert: BC’s Economic Gambit"
-    topic: Energy Infrastructure
-    keywords: [LNG pipeline, Prince Rupert, British Columbia, economy, politics]
-    description: Examining the Prince Rupert Gas Transmission project as BC’s economic response to US trade pressures, despite environmental concerns.[](https://cbc.ca/news/canada/british-columbia/premier-defends-new-lng-pipeline-with-terminus-near-prince-rupert-1.7556710)
-    author: Joanna Aucton
-    og_image: /content/assets/lng-pipeline.jpg
-  - title: "BC’s Power Line to Terrace: Fueling Critical Mineral Growth"
-    topic: Energy Infrastructure
-    keywords: [power line, Terrace, critical minerals, British Columbia, infrastructure]
-    description: How BC’s new 500 kV power line to Terrace supports critical mineral mining, but faces hurdles from First Nations and budget concerns.[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
-    author: Jonah Stynebeck
-    og_image: /content/assets/power-line-construction.jpg
-  - title: "Canada’s Trade War Strategy: BC’s Role in Diversification"
-    topic: Canada-US Trade
-    keywords: [trade war, British Columbia, Canada, economy, politics]
-    description: How BC’s infrastructure projects contribute to Canada’s strategy to diversify trade away from the US, emphasizing free-market solutions.[](https://nationalpost.com/opinion/canadas-trump-spiting-plan-pipelines-evaporating)
-    author: Silas Twaine
-    og_image: /content/assets/trade-diversification.jpg
-  - title: "The Woke Narrative: Eroding BC’s Community Values"
-    topic: Pacific Northwest Culture
-    keywords: [woke narrative, British Columbia, community values, politics, society]
-    description: A center-right critique of how progressive narratives in BC undermine traditional community values, calling for a pragmatic cultural reset.
-    author: Emmeline Dickenson
-    og_image: /content/assets/community-gathering.jpg
-  - title: "Alberta’s Pipeline Hopes: BC’s Environmental Pushback"
-    topic: BC Politics
-    keywords: [Alberta pipeline, British Columbia, environment, politics, trade]
-    description: Why BC’s environmental stance clashes with Alberta’s pipeline ambitions, advocating for balanced economic and ecological priorities.[](https://cbc.ca/news/politics/carney-smith-premiers-pipeline-analysis-1.7551307)
-    author: Alec Dumass
-    og_image: /content/assets/environmental-rally.jpg
-  - title: "Northwest Territories Energy Projects: Lessons for BC"
-    topic: Energy Infrastructure
-    keywords: [Northwest Territories, energy projects, British Columbia, infrastructure, environment]
-    description: How Northwest Territories’ energy projects, like Denendeh Manor, offer lessons for BC’s clean energy ambitions amid trade tensions.[](https://canada.ca/en/environment-climate-change/news/2025/07/the-government-of-canada-funds-energy-projects-in-alberta-and-the-northwest-territories-to-build-a-strong-sustainable-economy.html)
-    author: Eliza Alcotte
-    og_image: /content/assets/solar-installation.jpg
-  - title: "Pacific Northwest’s Woke Policies: A Threat to Economic Growth?"
-    topic: Pacific Northwest Culture
-    keywords: [woke policies, Pacific Northwest, British Columbia, economy, politics]
-    description: Critiquing how progressive policies in the Pacific Northwest could hinder BC’s economic growth, advocating for market-driven pragmatism.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/economic-forum.jpg
-  - title: "Trans Mountain Pipeline: BC’s Economic Triumph or Risk?"
-    topic: Energy Infrastructure
-    keywords: [Trans Mountain, pipeline, British Columbia, economy, environment]
-    description: Evaluating the Trans Mountain pipeline’s role in BC’s economy, questioning its long-term viability amid trade and environmental concerns.[](https://nationalpost.com/opinion/canadas-trump-spiting-plan-pipelines-evaporating)
-    author: Marcus Twyne
-    og_image: /content/assets/trans-mountain.jpg
-  - title: "BC’s Energy Minister on Pipelines: A Pragmatic Approach?"
-    topic: BC Politics
-    keywords: [energy minister, pipelines, British Columbia, politics, infrastructure]
-    description: Analyzing BC Energy Minister Adrian Dix’s stance on pipelines, advocating for a pragmatic balance between economy and environment.[](https://cbc.ca/radio/frontburner/canada-s-energy-minister-on-pipelines-bill-c-5-controversy-transcript-1.7572585)
-    author: Lara Wylde
-    og_image: /content/assets/minister-speech.jpg
-  - title: "Canada’s Infrastructure Bill: BC’s Economic Opportunity"
-    topic: Energy Infrastructure
-    keywords: [infrastructure bill, British Columbia, economy, politics, trade]
-    description: How Canada’s fast-tracked infrastructure bill offers BC economic opportunities, but risks overlooking Indigenous rights.[](https://cbc.ca/news/politics/one-canadian-economy-act-parliament-1.7561157)
-    author: Davin Thorow
-    og_image: /content/assets/infrastructure-site.jpg
-  - title: "Woke Culture in Vancouver: A Divide in Urban-Rural BC"
-    topic: Pacific Northwest Culture
-    keywords: [woke culture, Vancouver, British Columbia, politics, society]
-    description: How Vancouver’s progressive culture creates a rural-urban divide in BC, with a center-right call for community-focused policies.
-    author: Marian Shelleigh
-    og_image: /content/assets/vancouver-protest.jpg
-  - title: "US Tech Taxes and Canada’s Response: BC’s Trade Strategy"
-    topic: Canada-US Trade
-    keywords: [tech taxes, Canada-US trade, British Columbia, politics, economy]
-    description: How Canada’s response to US tech tax accusations impacts BC’s trade strategy, advocating for diplomatic solutions.[](https://www.theguardian.com/us-news/2025/jun/27/trump-canada-tariffs-trade-tax)
-    author: Sara Brontee
-    og_image: /content/assets/tech-trade.jpg
-  - title: "BC’s Renewable Energy Act: A Step Toward Independence?"
-    topic: Energy Infrastructure
-    keywords: [Renewable Energy Act, British Columbia, energy, politics, infrastructure]
-    description: Exploring BC’s Renewable Energy Projects Act as a step toward energy independence, balancing environmental and economic goals.[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
+  - title: "BC’s Renewable Energy Act: A Global Green Blueprint?"
+    topic: Renewable Energy Legislation
+    keywords: [Renewable Energy Act, British Columbia, energy, climate, infrastructure]
+    description: How BC’s Renewable Energy Projects Act aims for energy independence, offering a potential blueprint for global green policies.
     author: Joanna Aucton
     og_image: /content/assets/renewable-energy.jpg
-  - title: "Pacific Northwest’s Green Promises: Realistic or Ideological?"
-    topic: Pacific Northwest Culture
-    keywords: [green policies, Pacific Northwest, British Columbia, environment, politics]
-    description: Critiquing the Pacific Northwest’s green policies, questioning their feasibility in BC amid trade and energy demands.
-    author: Jonah Stynebeck
-    og_image: /content/assets/green-policy-meeting.jpg
-  - title: "Alberta’s Energy Corridor: BC’s Reluctant Partnership"
-    topic: BC Politics
-    keywords: [energy corridor, Alberta, British Columbia, politics, infrastructure]
-    description: Why BC’s reluctance to join Alberta’s energy corridor reflects environmental priorities, but risks economic isolation.[](https://cbc.ca/news/politics/carney-smith-premiers-pipeline-analysis-1.7551307)
-    author: Silas Twaine
-    og_image: /content/assets/energy-corridor-plan.jpg
-  - title: "Trump’s Energy Policies: Impact on BC’s Hydropower"
-    topic: Canada-US Trade
-    keywords: [Trump, hydropower, British Columbia, trade, energy]
-    description: How Trump’s energy policies, including Columbia River Treaty changes, affect BC’s hydropower exports, with a call for strategic resilience.[](https://nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html)
-    author: Emmeline Dickenson
-    og_image: /content/assets/hydropower-plant.jpg
-  - title: "Woke Education in BC: A Threat to Academic Freedom?"
-    topic: Pacific Northwest Culture
-    keywords: [woke education, British Columbia, academic freedom, politics, society]
-    description: Critiquing progressive education reforms in BC, arguing they threaten academic freedom and practical learning for students.
-    author: Alec Dumass
-    og_image: /content/assets/school-debate.jpg
-  - title: "LNG Canada’s Export Push: BC’s Global Ambitions"
-    topic: Energy Infrastructure
-    keywords: [LNG Canada, exports, British Columbia, economy, trade]
-    description: How LNG Canada’s exports to Asia position BC as a global energy player, despite environmental opposition and trade challenges.[](https://www.theglobeandmail.com/business/article-lng-canada-exports-asia-us-trade-war-asia/)
-    author: Eliza Alcotte
-    og_image: /content/assets/lng-export-terminal.jpg
-  - title: "BC’s Infrastructure Act: Fast-Tracking or Cutting Corners?"
-    topic: BC Politics
-    keywords: [Infrastructure Act, British Columbia, politics, economy, environment]
-    description: Analyzing BC’s Infrastructure Projects Act, questioning whether it fast-tracks progress or risks environmental and Indigenous oversight.[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
+  - title: "US Tech Taxes: Canada’s Response Shakes Global Markets"
+    topic: Tech Trade Disputes
+    keywords: [tech taxes, Canada-US trade, British Columbia, economy, diplomacy]
+    description: How Canada’s response to US tech tax accusations impacts BC and global tech markets, advocating for diplomatic resolutions.
+    author: Sara Brontee
+    og_image: /content/assets/tech-trade.jpg
+  - title: "BC’s Infrastructure Act: Fast-Tracking Global Competitiveness?"
+    topic: BC Infrastructure Policy
+    keywords: [Infrastructure Act, British Columbia, economy, environment, politics]
+    description: Analyzing BC’s Infrastructure Projects Act as a bid for global economic competitiveness, with risks to environmental and Indigenous rights.
     author: Earnest Hemmingweigh
     og_image: /content/assets/construction-site.jpg
-  - title: "Canada’s Trade War: BC’s Ports as Economic Lifelines"
-    topic: Canada-US Trade
-    keywords: [trade war, British Columbia, ports, economy, politics]
-    description: How BC’s ports serve as economic lifelines in Canada’s trade war with the US, advocating for private-sector port expansion.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Marcus Twyne
+  - title: "Iran’s Nuclear Ambitions: Middle East Tensions Rise"
+    topic: Iran Nuclear Program
+    keywords: [Iran, nuclear program, Middle East, geopolitics, sanctions]
+    description: Examining Iran’s nuclear advancements, their impact on Middle East stability, and global responses to escalating tensions.
+    author: Lara Wylde
+    og_image: /content/assets/nuclear-facility.jpg
+  - title: "BC’s Ports: Strategic Assets in Global Trade Wars"
+    topic: BC Port Strategy
+    keywords: [trade war, British Columbia, ports, economy, geopolitics]
+    description: How BC’s ports serve as strategic assets in Canada’s trade war with the US, with implications for global shipping routes.
+    author: Marian Shelleigh
     og_image: /content/assets/port-shipping.jpg
-  - title: "Pacific Northwest’s Woke Policies: Economic Impacts in BC"
-    topic: Pacific Northwest Culture
-    keywords: [woke policies, Pacific Northwest, British Columbia, economy, politics]
-    description: How progressive policies in the Pacific Northwest impact BC’s economy, with a center-right call for pragmatic reforms.
-    author: Lara Wylde
-    og_image: /content/assets/economic-impact.jpg
-  - title: "BC’s Energy Future: Balancing LNG and Renewables"
-    topic: Energy Infrastructure
-    keywords: [LNG, renewables, British Columbia, energy, politics]
-    description: How BC balances LNG and renewable energy projects to secure its economic future amid trade and environmental pressures.[](https://cbc.ca/news/canada/british-columbia/conservative-bc-premier-pipeline-criticism-1.7552616)
+  - title: "Australia’s Coal Exports: Asia’s Energy vs. Climate Goals"
+    topic: Australia’s Coal Industry
+    keywords: [coal exports, Australia, Asia, climate change, energy]
+    description: How Australia’s coal exports to Asia fuel energy demands but clash with global climate commitments, sparking policy debates.
     author: Davin Thorow
-    og_image: /content/assets/energy-balance.jpg
-  - title: "Trump’s Annexation Threats: BC’s Sovereignty at Stake"
-    topic: Canada-US Trade
+    og_image: /content/assets/coal-mine.jpg
+  - title: "Alberta-BC Pipeline Tensions: A Global Energy Dilemma"
+    topic: Interprovincial Energy Conflicts
+    keywords: [Alberta pipeline, British Columbia, energy, politics, environment]
+    description: How Alberta-BC pipeline disputes reflect global tensions between energy security and environmental priorities, calling for cooperation.
+    author: Eliza Alcotte
+    og_image: /content/assets/alberta-bc-meeting.jpg
+  - title: "Africa’s Green Hydrogen Boom: A Global Energy Frontier?"
+    topic: African Green Hydrogen
+    keywords: [green hydrogen, Africa, energy, climate change, investment]
+    description: Exploring Africa’s emerging green hydrogen projects, their potential to reshape global energy markets, and investment challenges.
+    author: Joanna Aucton
+    og_image: /content/assets/hydrogen-plant.jpg
+  - title: "Trump’s Annexation Threats: BC’s Sovereignty in Global Spotlight"
+    topic: Sovereignty and Trade
     keywords: [Trump, annexation, British Columbia, sovereignty, trade]
-    description: Examining Trump’s annexation threats and their implications for BC’s sovereignty, advocating for strengthened Canadian trade policies.[](https://nationalpost.com/opinion/canadas-trump-spiting-plan-pipelines-evaporating)
-    author: Marian Shelleigh
+    description: Examining Trump’s annexation threats and their implications for BC’s sovereignty, with global calls for strengthened trade policies.
+    author: Marcus Twyne
     og_image: /content/assets/sovereignty-rally.jpg
-  - title: "Woke Culture’s Grip on BC Politics: A Community Backlash"
-    topic: Pacific Northwest Culture
-    keywords: [woke culture, British Columbia, politics, community, society]
-    description: How progressive ideologies in BC politics spark community backlash, with a center-right push for balanced governance.
+  - title: "Global Chip Shortage: Taiwan’s Role in Tech Supply Chains"
+    topic: Semiconductor Supply Chains
+    keywords: [chip shortage, Taiwan, technology, global trade, geopolitics]
+    description: How Taiwan’s dominance in semiconductor production shapes global tech supply chains amid US-China tensions and shortages.
+    author: Silas Twaine
+    og_image: /content/assets/chip-factory.jpg
+  - title: "BC’s Critical Minerals: Powering Global Tech Transitions"
+    topic: BC Critical Minerals
+    keywords: [critical minerals, British Columbia, technology, economy, trade]
+    description: How BC’s critical mineral mining supports global tech transitions, with a focus on economic diversification amid trade tensions.
     author: Sara Brontee
-    og_image: /content/assets/community-backlash.jpg
-  - title: "Critical Minerals in Yukon: BC’s Infrastructure Support"
-    topic: Energy Infrastructure
-    keywords: [critical minerals, Yukon, British Columbia, infrastructure, economy]
-    description: How BC’s infrastructure supports Yukon’s critical mineral mining, with a focus on economic benefits and environmental challenges.[](https://cbc.ca/news/canada/north/yukon-bc-power-grid-analysis-1.7552201)
-    author: Joanna Aucton
-    og_image: /content/assets/yukon-mining.jpg
-  - title: "BC’s Energy Minister: Navigating Trade and Environment"
-    topic: BC Politics
+    og_image: /content/assets/mining-site.jpg
+  - title: "Myanmar’s Military Coup: ASEAN’s Response Falls Short"
+    topic: Myanmar Crisis
+    keywords: [Myanmar, military coup, ASEAN, human rights, geopolitics]
+    description: Analyzing Myanmar’s ongoing crisis post-coup, critiquing ASEAN’s ineffective response and global calls for humanitarian intervention.
+    author: Emmeline Dickenson
+    og_image: /content/assets/myanmar-protest.jpg
+  - title: "BC’s LNG Pipeline: Asia’s Demand vs. Environmental Costs"
+    topic: LNG Pipeline Development
+    keywords: [LNG pipeline, British Columbia, Asia, environment, economy]
+    description: Evaluating BC’s LNG pipeline projects as a response to Asian energy demand, balancing economic gains with environmental risks.
+    author: Alec Dumass
+    og_image: /content/assets/lng-pipeline.jpg
+  - title: "Arctic Shipping Routes: Russia and China’s New Frontier"
+    topic: Arctic Geopolitics
+    keywords: [Arctic, shipping routes, Russia, China, geopolitics]
+    description: How melting Arctic ice opens new shipping routes, with Russia and China vying for control amid global trade and environmental concerns.
+    author: Jonah Stynebeck
+    og_image: /content/assets/arctic-shipping.jpg
+  - title: "BC’s Energy Minister: Balancing Global Trade and Green Goals"
+    topic: BC Energy Policy
     keywords: [energy minister, British Columbia, trade, environment, politics]
-    description: Analyzing Adrian Dix’s role in navigating BC’s energy policies amid trade tensions and environmental demands.[](https://cbc.ca/radio/frontburner/canada-s-energy-minister-on-pipelines-bill-c-5-controversy-transcript-1.7572585)
-    author: Jonah Stynebeck
-    og_image: /content/assets/energy-minister.jpg
-  - title: "Pacific Northwest’s AI Energy Demand: BC’s Response"
-    topic: Pacific Northwest Energy
-    keywords: [AI, energy demand, Pacific Northwest, British Columbia, infrastructure]
-    description: How AI-driven energy demands in the Pacific Northwest challenge BC’s hydropower and renewable strategies, with a call for pragmatic solutions.[](https://nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html)
-    author: Silas Twaine
-    og_image: /content/assets/ai-data-center.jpg
-  - title: "Canada’s Fast-Track Bill: BC’s Economic Opportunity or Risk?"
-    topic: Energy Infrastructure
-    keywords: [fast-track bill, British Columbia, economy, infrastructure, politics]
-    description: Evaluating Canada’s fast-track infrastructure bill and its implications for BC’s economy, with concerns about rushed approvals.[](https://cbc.ca/news/politics/one-canadian-economy-act-parliament-1.7561157)
-    author: Emmeline Dickenson
-    og_image: /content/assets/infrastructure-plan.jpg
-  - title: "Woke Policies in Seattle: Lessons for BC’s Governance"
-    topic: Pacific Northwest Culture
-    keywords: [woke policies, Seattle, British Columbia, governance, politics]
-    description: How Seattle’s progressive policies offer cautionary lessons for BC’s governance, advocating for community-driven solutions.
-    author: Alec Dumass
-    og_image: /content/assets/seattle-governance.jpg
-  - title: "BC’s LNG Ambitions: A Global Energy Play"
-    topic: Energy Infrastructure
-    keywords: [LNG, British Columbia, energy, global trade, politics]
-    description: How BC’s LNG projects position the province as a global energy player, despite environmental and Indigenous opposition.[](https://www.theglobeandmail.com/business/article-lng-canada-exports-asia-us-trade-war-asia/)
-    author: Eliza Alcotte
-    og_image: /content/assets/lng-global.jpg
-  - title: "Alberta-BC Pipeline Tensions: A National Divide"
-    topic: BC Politics
-    keywords: [Alberta, British Columbia, pipelines, politics, infrastructure]
-    description: Exploring the Alberta-BC divide over pipeline projects, with a center-right call for national unity and economic pragmatism.[](https://theglobeandmail.com/opinion/article-bc-alberta-pipeline-expansion-conflict)
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/pipeline-debate.jpg
-  - title: "Trump’s Trade War: BC’s Economic Countermeasures"
-    topic: Canada-US Trade
-    keywords: [Trump, trade war, British Columbia, economy, politics]
-    description: How BC’s economic countermeasures, like port expansions, respond to Trump’s trade war, emphasizing free-market resilience.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Marcus Twyne
-    og_image: /content/assets/port-expansion.jpg
-  - title: "Woke Education Reforms: BC’s Rural Communities Push Back"
-    topic: Pacific Northwest Culture
-    keywords: [woke education, British Columbia, rural communities, politics, society]
-    description: How BC’s rural communities resist progressive education reforms, advocating for practical curricula over ideological mandates.
+    description: Analyzing BC Energy Minister Adrian Dix’s approach to balancing global trade demands with environmental priorities in energy policy.
     author: Lara Wylde
-    og_image: /content/assets/rural-school.jpg
-  - title: "BC’s Power Line Expansion: Supporting Critical Minerals"
-    topic: Energy Infrastructure
-    keywords: [power line, British Columbia, critical minerals, infrastructure, economy]
-    description: How BC’s power line expansion to Terrace supports critical mineral mining, with a focus on economic and environmental balance.[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
-    author: Davin Thorow
-    og_image: /content/assets/power-line-terrace.jpg
-  - title: "Canada’s Energy Corridor: BC’s Role in Nation-Building"
-    topic: Energy Infrastructure
-    keywords: [energy corridor, British Columbia, Canada, infrastructure, politics]
-    description: BC’s role in Canada’s proposed energy corridor, advocating for market-driven infrastructure to boost national resilience.[](https://cbc.ca/news/politics/carney-smith-premiers-pipeline-analysis-1.7551307)
+    og_image: /content/assets/minister-speech.jpg
+  - title: "Global Food Crisis: Ukraine’s Grain Exports Halted"
+    topic: Global Food Security
+    keywords: [food crisis, Ukraine, grain exports, geopolitics, hunger]
+    description: How the Russia-Ukraine war disrupts Ukraine’s grain exports, exacerbating global food insecurity and prompting international aid efforts.
     author: Marian Shelleigh
-    og_image: /content/assets/nation-building.jpg
-  - title: "Pacific Northwest’s Woke Divide: BC’s Economic Challenges"
-    topic: Pacific Northwest Culture
-    keywords: [woke divide, Pacific Northwest, British Columbia, economy, politics]
-    description: How the Pacific Northwest’s progressive divide impacts BC’s economic policies, with a call for pragmatic governance.
-    author: Sara Brontee
-    og_image: /content/assets/economic-challenges.jpg
-  - title: "BC’s LNG Exports: A Trade War Counterstrategy"
-    topic: Energy Infrastructure
-    keywords: [LNG exports, British Columbia, trade war, economy, politics]
-    description: How BC’s LNG exports to Asia serve as a counterstrategy to US trade pressures, balancing economic and environmental priorities.[](https://www.theglobeandmail.com/business/article-lng-canada-exports-asia-us-trade-war-asia/)
-    author: Joanna Aucton
-    og_image: /content/assets/lng-exports.jpg
-  - title: "Trump’s Columbia River Policy: BC’s Hydropower at Risk"
-    topic: Canada-US Trade
-    keywords: [Columbia River, Trump, British Columbia, hydropower, trade]
-    description: How Trump’s policies threaten BC’s hydropower exports via the Columbia River Treaty, with a call for diplomatic resilience.[](https://nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html)
-    author: Jonah Stynebeck
-    og_image: /content/assets/columbia-river.jpg
-  - title: "BC’s Infrastructure Push: Economic Boon or Environmental Bust?"
-    topic: BC Politics
-    keywords: [infrastructure, British Columbia, economy, environment, politics]
-    description: Analyzing BC’s infrastructure push as an economic response to trade tensions, with concerns about environmental costs.[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
-    author: Silas Twaine
-    og_image: /content/assets/infrastructure-costs.jpg
-  - title: "Woke Policies in BC: Undermining Economic Growth?"
-    topic: Pacific Northwest Culture
-    keywords: [woke policies, British Columbia, economic growth, politics, society]
-    description: Critiquing how progressive policies in BC may hinder economic growth, advocating for market-driven community solutions.
-    author: Emmeline Dickenson
-    og_image: /content/assets/economic-growth.jpg
-  - title: "Alberta’s Pipeline Proposal: BC’s Economic Crossroads"
-    topic: BC Politics
-    keywords: [Alberta pipeline, British Columbia, economy, politics, infrastructure]
-    description: Why Alberta’s pipeline proposal puts BC at an economic crossroads, with a center-right push for balanced decision-making.[](https://theglobeandmail.com/business/article-enbridge-says-a-new-alberta-bc-pipeline-would-require-specific)
-    author: Alec Dumass
-    og_image: /content/assets/pipeline-crossroads.jpg
-  - title: "Canada’s Energy Projects: BC’s Strategic Role"
-    topic: Energy Infrastructure
-    keywords: [energy projects, British Columbia, Canada, infrastructure, trade]
-    description: How BC’s energy projects position it as a strategic player in Canada’s trade war response, emphasizing private-sector innovation.[](https://bbc.com/news/articles/cglzx41jl4eo)
+    og_image: /content/assets/grain-silos.jpg
+  - title: "Trans Mountain Pipeline: BC’s Role in Global Oil Markets"
+    topic: Trans Mountain Pipeline
+    keywords: [Trans Mountain, pipeline, British Columbia, oil, global trade]
+    description: Evaluating the Trans Mountain pipeline’s role in BC’s economy and its impact on global oil markets amid environmental opposition.
+    author: Davin Thorow
+    og_image: /content/assets/trans-mountain.jpg
+  - title: "India-China Border Tensions: A Himalayan Standoff"
+    topic: India-China Relations
+    keywords: [India, China, border dispute, Himalayas, geopolitics]
+    description: Examining the ongoing India-China border tensions in the Himalayas, their implications for regional stability, and global trade routes.
     author: Eliza Alcotte
-    og_image: /content/assets/energy-strategy.jpg
-  - title: "Pacific Northwest’s Woke Descent: BC’s Community Response"
-    topic: Pacific Northwest Culture
-    keywords: [woke descent, Pacific Northwest, British Columbia, community, politics]
-    description: How BC’s communities respond to the Pacific Northwest’s progressive shift, advocating for pragmatic local governance.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/community-response.jpg
-  - title: "BC’s Clean Energy Future: A Trade War Advantage?"
-    topic: Energy Infrastructure
-    keywords: [clean energy, British Columbia, trade war, infrastructure, politics]
-    description: How BC’s clean energy focus could give it an edge in Canada’s trade war with the US, balancing economic and environmental goals.[](https://cbc.ca/news/canada/british-columbia/conservative-bc-premier-pipeline-criticism-1.7552616)
+    og_image: /content/assets/himalayan-border.jpg
+  - title: "BC’s Power Line to Terrace: Fueling Global Mineral Demand"
+    topic: BC Power Infrastructure
+    keywords: [power line, Terrace, critical minerals, British Columbia, economy]
+    description: How BC’s 500 kV power line to Terrace supports global critical mineral demand, facing First Nations and budget challenges.
+    author: Joanna Aucton
+    og_image: /content/assets/power-line-construction.jpg
+  - title: "COP30 Climate Talks: Can Nations Meet 1.5°C Goals?"
+    topic: Global Climate Negotiations
+    keywords: [COP30, climate change, Paris Agreement, emissions, diplomacy]
+    description: Assessing the challenges facing COP30 climate talks, as nations struggle to meet 1.5°C targets amid economic and geopolitical pressures.
+    author: Silas Twaine
+    og_image: /content/assets/climate-conference.jpg
+  - title: "North Korea’s Missile Tests: Asia’s Security at Risk"
+    topic: North Korean Security Threats
+    keywords: [North Korea, missile tests, Asia, security, geopolitics]
+    description: How North Korea’s missile tests escalate tensions in Asia, prompting global calls for sanctions and diplomatic engagement.
     author: Marcus Twyne
+    og_image: /content/assets/missile-launch.jpg
+  - title: "BC’s Infrastructure Bill: A Global Economic Opportunity?"
+    topic: BC Economic Strategy
+    keywords: [infrastructure bill, British Columbia, economy, trade, politics]
+    description: How Canada’s fast-tracked infrastructure bill positions BC as a global economic player, with risks to Indigenous and environmental priorities.
+    author: Emmeline Dickenson
+    og_image: /content/assets/infrastructure-site.jpg
+  - title: "Venezuela’s Oil Comeback: OPEC’s New Wildcard?"
+    topic: Venezuela Oil Industry
+    keywords: [Venezuela, oil, OPEC, global markets, sanctions]
+    description: Exploring Venezuela’s efforts to revive its oil industry, its potential to disrupt OPEC dynamics, and global market implications.
+    author: Alec Dumass
+    og_image: /content/assets/venezuela-oil.jpg
+  - title: "Pacific Northwest’s Green Policies: A Global Climate Model?"
+    topic: Pacific Northwest Climate Policy
+    keywords: [green policies, Pacific Northwest, British Columbia, environment, trade]
+    description: Critiquing the Pacific Northwest’s green policies as a potential global climate model, questioning their feasibility amid trade demands.
+    author: Jonah Stynebeck
+    og_image: /content/assets/green-policy-meeting.jpg
+  - title: "Sudan’s Civil War: A Humanitarian Crisis Unfolds"
+    topic: Sudan Conflict
+    keywords: [Sudan, civil war, humanitarian crisis, Africa, geopolitics]
+    description: Analyzing Sudan’s ongoing civil war, its devastating humanitarian toll, and the global response to a growing refugee crisis.
+    author: Sara Brontee
+    og_image: /content/assets/sudan-refugees.jpg
+  - title: "BC’s Role in Canada’s Energy Corridor: Global Implications"
+    topic: Canada’s Energy Corridor
+    keywords: [energy corridor, British Columbia, Canada, infrastructure, trade]
+    description: How BC’s energy projects support Canada’s energy corridor, positioning it as a global energy player with market-driven solutions.
+    author: Lara Wylde
+    og_image: /content/assets/energy-corridor-plan.jpg
+  - title: "EU’s AI Regulations: Shaping Global Tech Standards?"
+    topic: Global AI Governance
+    keywords: [AI regulations, EU, technology, global standards, innovation]
+    description: How the EU’s AI regulations aim to set global standards, balancing innovation with ethical concerns in a tech-driven world.
+    author: Marian Shelleigh
+    og_image: /content/assets/ai-regulation.jpg
+  - title: "Alberta’s Oil Push: BC’s Environmental Resistance"
+    topic: Alberta-BC Energy Tensions
+    keywords: [Alberta oil, British Columbia, pipelines, environment, trade]
+    description: Why BC’s environmental stance clashes with Alberta’s oil ambitions, reflecting global energy vs. climate debates.
+    author: Davin Thorow
+    og_image: /content/assets/oil-pipeline.jpg
+  - title: "Global Refugee Crisis: Syria’s Ongoing Exodus"
+    topic: Syrian Refugee Crisis
+    keywords: [Syria, refugees, humanitarian crisis, Middle East, migration]
+    description: Examining Syria’s ongoing refugee crisis, its strain on global aid systems, and the need for coordinated international support.
+    author: Eliza Alcotte
+    og_image: /content/assets/syrian-refugees.jpg
+  - title: "BC’s Clean Energy Future: A Global Trade Advantage?"
+    topic: BC Clean Energy Strategy
+    keywords: [clean energy, British Columbia, trade war, infrastructure, climate]
+    description: How BC’s clean energy focus could give it a global trade edge, balancing economic and environmental goals in a shifting market.
+    author: Joanna Aucton
     og_image: /content/assets/clean-energy-future.jpg
-  - title: "Trump’s Tariff Threats: BC’s Economic Strategy"
-    topic: Canada-US Trade
-    keywords: [Trump tariffs, British Columbia, economy, trade, politics]
-    description: How BC navigates Trump’s tariff threats with strategic economic policies, advocating for diversified trade partnerships.[](https://www.theguardian.com/us-news/2025/jun/27/trump-canada-tariffs-trade-tax)
-    author: Lara Wylde
-    og_image: /content/assets/tariff-strategy.jpg
-  - title: "Woke Culture in BC Schools: A Parental Backlash"
-    topic: Pacific Northwest Culture
-    keywords: [woke culture, BC schools, parents, politics, society]
-    description: How progressive policies in BC schools spark parental backlash, with a center-right call for education focused on practical skills.
-    author: Davin Thorow
-    og_image: /content/assets/parental-meeting.jpg
-  - title: "BC’s LNG Pipeline: Economic Promise or Environmental Risk?"
-    topic: Energy Infrastructure
-    keywords: [LNG pipeline, British Columbia, economy, environment, politics]
-    description: Evaluating the economic promise of BC’s LNG pipeline against environmental risks, with a focus on balanced development.[](https://cbc.ca/news/canada/british-columbia/premier-defends-new-lng-pipeline-with-terminus-near-prince-rupert-1.7556710)
-    author: Marian Shelleigh
-    og_image: /content/assets/lng-pipeline-risk.jpg
-  - title: "Canada’s Trade War: BC’s Ports as Strategic Assets"
-    topic: Canada-US Trade
-    keywords: [trade war, British Columbia, ports, economy, politics]
-    description: How BC’s ports serve as strategic assets in Canada’s trade war with the US, advocating for private-sector-led expansion.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Sara Brontee
-    og_image: /content/assets/port-assets.jpg
-  - title: "Pacific Northwest’s Progressive Policies: BC’s Economic Impact"
-    topic: Pacific Northwest Culture
-    keywords: [progressive policies, Pacific Northwest, British Columbia, economy, politics]
-    description: How progressive policies in the Pacific Northwest impact BC’s economy, with a center-right push for pragmatic reforms.
-    author: Joanna Aucton
-    og_image: /content/assets/progressive-impact.jpg
-  - title: "BC’s Energy Infrastructure: A Trade War Countermeasure"
-    topic: Energy Infrastructure
-    keywords: [energy infrastructure, British Columbia, trade war, economy, politics]
-    description: How BC’s energy infrastructure projects counter US trade pressures, emphasizing market-driven solutions.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Jonah Stynebeck
-    og_image: /content/assets/energy-infrastructure.jpg
-  - title: "Woke Ideology in BC: A Threat to Community Cohesion?"
-    topic: Pacific Northwest Culture
-    keywords: [woke ideology, British Columbia, community, politics, society]
-    description: Critiquing how progressive ideologies in BC threaten community cohesion, advocating for balanced local governance.
+  - title: "US-China Tech War: The Battle for 5G Dominance"
+    topic: US-China Tech Rivalry
+    keywords: [US-China, 5G, technology, geopolitics, trade]
+    description: How the US-China tech war over 5G technology shapes global innovation and trade, with implications for supply chains.
     author: Silas Twaine
-    og_image: /content/assets/community-cohesion.jpg
-  - title: "Alberta’s Energy Push: BC’s Environmental Stance"
-    topic: BC Politics
-    keywords: [Alberta, British Columbia, energy, environment, politics]
-    description: Why BC’s environmental stance clashes with Alberta’s energy ambitions, with a call for pragmatic cooperation.[](https://theglobeandmail.com/opinion/article-bc-alberta-pipeline-expansion-conflict)
-    author: Emmeline Dickenson
-    og_image: /content/assets/environmental-stance.jpg
-  - title: "Canada’s Energy Corridor: BC’s Economic Opportunity"
-    topic: Energy Infrastructure
-    keywords: [energy corridor, British Columbia, economy, infrastructure, trade]
-    description: How BC’s role in Canada’s energy corridor offers economic opportunities, with a focus on market-driven development.[](https://cbc.ca/news/politics/carney-smith-premiers-pipeline-analysis-1.7551307)
-    author: Alec Dumass
-    og_image: /content/assets/energy-corridor-opportunity.jpg
-  - title: "Pacific Northwest’s Woke Divide: BC’s Rural Resistance"
-    topic: Pacific Northwest Culture
-    keywords: [woke divide, Pacific Northwest, British Columbia, rural, politics]
-    description: How BC’s rural communities resist the Pacific Northwest’s progressive divide, advocating for practical local policies.
-    author: Eliza Alcotte
-    og_image: /content/assets/rural-resistance.jpg
-  - title: "BC’s LNG Exports: A Strategic Trade War Response"
-    topic: Energy Infrastructure
-    keywords: [LNG exports, British Columbia, trade war, economy, politics]
-    description: How BC’s LNG exports to Asia serve as a strategic response to US trade pressures, balancing economic and environmental priorities.[](https://www.theglobeandmail.com/business/article-lng-canada-exports-asia-us-trade-war-asia/)
-    author: Earnest Hemmingweigh
+    og_image: /content/assets/5g-tower.jpg
+  - title: "BC’s LNG Exports: A Strategic Global Response"
+    topic: LNG Export Strategy
+    keywords: [LNG exports, British Columbia, trade war, Asia, economy]
+    description: How BC’s LNG exports to Asia counter global trade pressures, balancing economic gains with environmental and Indigenous concerns.
+    author: Marcus Twyne
     og_image: /content/assets/lng-strategy.jpg
-  - title: "Trump’s Energy Policies: BC’s Hydropower Challenges"
-    topic: Canada-US Trade
-    keywords: [Trump, hydropower, British Columbia, trade, energy]
-    description: How Trump’s energy policies challenge BC’s hydropower exports, with a call for strategic trade negotiations.[](https://nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html)
-    author: Marcus Twyne
-    og_image: /content/assets/hydropower-challenges.jpg
-  - title: "BC’s Infrastructure Push: Economic Gains vs. Environmental Costs"
-    topic: BC Politics
-    keywords: [infrastructure, British Columbia, economy, environment, politics]
-    description: Analyzing BC’s infrastructure push for economic gains, with concerns about environmental costs and Indigenous rights.[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
-    author: Lara Wylde
-    og_image: /content/assets/infrastructure-balance.jpg
-  - title: "Woke Policies in BC: Economic and Social Impacts"
-    topic: Pacific Northwest Culture
-    keywords: [woke policies, British Columbia, economy, society, politics]
-    description: How progressive policies in BC impact its economy and social fabric, with a center-right call for pragmatic reforms.
-    author: Davin Thorow
-    og_image: /content/assets/social-impact.jpg
-  - title: "Alberta’s Pipeline Proposal: BC’s Economic Dilemma"
-    topic: BC Politics
-    keywords: [Alberta pipeline, British Columbia, economy, politics, infrastructure]
-    description: Why Alberta’s pipeline proposal creates an economic dilemma for BC, with a focus on balancing trade and environment.[](https://theglobeandmail.com/business/article-enbridge-says-a-new-alberta-bc-pipeline-would-require-specific)
-    author: Marian Shelleigh
-    og_image: /content/assets/pipeline-dilemma.jpg
-  - title: "Canada’s Energy Projects: BC’s Strategic Role"
-    topic: Energy Infrastructure
-    keywords: [energy projects, British Columbia, Canada, infrastructure, trade]
-    description: How BC’s energy projects position it as a strategic player in Canada’s trade war response, emphasizing private-sector innovation.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Sara Brontee
-    og_image: /content/assets/energy-strategic.jpg
-  - title: "Pacific Northwest’s Woke Descent: BC’s Community Response"
-    topic: Pacific Northwest Culture
-    keywords: [woke descent, Pacific Northwest, British Columbia, community, politics]
-    description: How BC’s communities respond to the Pacific Northwest’s progressive shift, advocating for pragmatic local governance.
-    author: Joanna Aucton
-    og_image: /content/assets/community-response.jpg
-  - title: "BC’s Clean Energy Future: A Trade War Advantage?"
-    topic: Energy Infrastructure
-    keywords: [clean energy, British Columbia, trade war, infrastructure, politics]
-    description: How BC’s clean energy focus could give it an edge in Canada’s trade war with the US, balancing economic and environmental goals.[](https://cbc.ca/news/canada/british-columbia/conservative-bc-premier-pipeline-criticism-1.7552616)
-    author: Jonah Stynebeck
-    og_image: /content/assets/clean-energy-advantage.jpg
-  - title: "Trump’s Tariff Threats: BC’s Economic Strategy"
-    topic: Canada-US Trade
-    keywords: [Trump tariffs, British Columbia, economy, trade, politics]
-    description: How BC navigates Trump’s tariff threats with strategic economic policies, advocating for diversified trade partnerships.[](https://www.theguardian.com/us-news/2025/jun/27/trump-canada-tariffs-trade-tax)
-    author: Silas Twaine
-    og_image: /content/assets/tariff-strategy.jpg
-  - title: "Woke Culture in BC Schools: A Parental Backlash"
-    topic: Pacific Northwest Culture
-    keywords: [woke culture, BC schools, parents, politics, society]
-    description: How progressive policies in BC schools spark parental backlash, with a center-right call for education focused on practical skills.
+  - title: "Ethiopia’s Dam Dispute: Nile River Tensions Escalate"
+    topic: Nile River Conflict
+    keywords: [Ethiopia, Nile River, dam, Africa, geopolitics]
+    description: Analyzing Ethiopia’s Grand Renaissance Dam and its impact on Nile River nations, sparking regional tensions and global mediation efforts.
     author: Emmeline Dickenson
-    og_image: /content/assets/parental-backlash.jpg
-  - title: "BC’s LNG Pipeline: Economic Promise or Environmental Risk?"
-    topic: Energy Infrastructure
-    keywords: [LNG pipeline, British Columbia, economy, environment, politics]
-    description: Evaluating the economic promise of BC’s LNG pipeline against environmental risks, with a focus on balanced development.[](https://cbc.ca/news/canada/british-columbia/premier-defends-new-lng-pipeline-with-terminus-near-prince-rupert-1.7556710)
+    og_image: /content/assets/nile-dam.jpg
+  - title: "BC’s Infrastructure Push: Global Economic Gains?"
+    topic: BC Infrastructure Development
+    keywords: [infrastructure, British Columbia, economy, environment, trade]
+    description: How BC’s infrastructure push aims for global economic competitiveness, with concerns about environmental and Indigenous costs.
     author: Alec Dumass
-    og_image: /content/assets/lng-pipeline-risk.jpg
-  - title: "Canada’s Trade War: BC’s Ports as Strategic Assets"
-    topic: Canada-US Trade
-    keywords: [trade war, British Columbia, ports, economy, politics]
-    description: How BC’s ports serve as strategic assets in Canada’s trade war with the US, advocating for private-sector-led expansion.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Eliza Alcotte
-    og_image: /content/assets/port-assets.jpg
-  - title: "Pacific Northwest’s Progressive Policies: BC’s Economic Impact"
-    topic: Pacific Northwest Culture
-    keywords: [progressive policies, Pacific Northwest, British Columbia, economy, politics]
-    description: How progressive policies in the Pacific Northwest impact BC’s economy, with a center-right push for pragmatic reforms.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/progressive-impact.jpg
-  - title: "BC’s Energy Infrastructure: A Trade War Countermeasure"
-    topic: Energy Infrastructure
-    keywords: [energy infrastructure, British Columbia, trade war, economy, politics]
-    description: How BC’s energy infrastructure projects counter US trade pressures, emphasizing market-driven solutions.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Marcus Twyne
-    og_image: /content/assets/energy-infrastructure.jpg
-  - title: "Woke Ideology in BC: A Threat to Community Cohesion?"
-    topic: Pacific Northwest Culture
-    keywords: [woke ideology, British Columbia, community, politics, society]
-    description: Critiquing how progressive ideologies in BC threaten community cohesion, advocating for balanced local governance.
+    og_image: /content/assets/infrastructure-balance.jpg
+  - title: "Global Plastic Pollution: UN Treaty Talks Falter"
+    topic: Global Plastic Pollution
+    keywords: [plastic pollution, UN, environment, climate change, policy]
+    description: Why UN talks for a global plastic pollution treaty face setbacks, with implications for marine ecosystems and climate goals.
+    author: Jonah Stynebeck
+    og_image: /content/assets/plastic-ocean.jpg
+  - title: "BC’s Energy Future: LNG vs. Renewables in Global Markets"
+    topic: BC Energy Transition
+    keywords: [LNG, renewables, British Columbia, energy, global trade]
+    description: How BC balances LNG and renewable energy to secure its role in global markets, amid trade and environmental pressures.
+    author: Sara Brontee
+    og_image: /content/assets/energy-balance.jpg
+  - title: "Taliban’s Afghanistan: Women’s Rights Under Siege"
+    topic: Afghanistan Human Rights
+    keywords: [Taliban, Afghanistan, women’s rights, human rights, geopolitics]
+    description: Examining the Taliban’s rollback of women’s rights in Afghanistan, sparking global outrage and calls for humanitarian action.
     author: Lara Wylde
-    og_image: /content/assets/community-cohesion.jpg
-  - title: "Alberta’s Energy Push: BC’s Environmental Stance"
-    topic: BC Politics
-    keywords: [Alberta, British Columbia, energy, environment, politics]
-    description: Why BC’s environmental stance clashes with Alberta’s energy ambitions, with a call for pragmatic cooperation.[](https://theglobeandmail.com/opinion/article-bc-alberta-pipeline-expansion-conflict)
-    author: Davin Thorow
-    og_image: /content/assets/environmental-stance.jpg
-  - title: "Canada’s Energy Corridor: BC’s Economic Opportunity"
-    topic: Energy Infrastructure
-    keywords: [energy corridor, British Columbia, economy, infrastructure, trade]
-    description: How BC’s role in Canada’s energy corridor offers economic opportunities, with a focus on market-driven development.[](https://cbc.ca/news/politics/carney-smith-premiers-pipeline-analysis-1.7551307)
+    og_image: /content/assets/afghan-women.jpg
+  - title: "BC’s Ports in Global Trade: Strategic Lifelines"
+    topic: BC Global Trade Role
+    keywords: [trade war, British Columbia, ports, global trade, economy]
+    description: How BC’s ports serve as strategic lifelines in global trade wars, advocating for private-sector-led expansion to boost resilience.
     author: Marian Shelleigh
+    og_image: /content/assets/port-assets.jpg
+  - title: "Global Water Crisis: Sub-Saharan Africa’s Drought Worsens"
+    topic: Global Water Scarcity
+    keywords: [water crisis, Sub-Saharan Africa, drought, climate change, humanitarian]
+    description: How worsening droughts in Sub-Saharan Africa exacerbate the global water crisis, prompting urgent calls for international aid.
+    author: Davin Thorow
+    og_image: /content/assets/africa-drought.jpg
+  - title: "BC’s Critical Minerals: A Global Supply Chain Asset"
+    topic: BC Mineral Strategy
+    keywords: [critical minerals, British Columbia, global trade, technology, economy]
+    description: How BC’s critical minerals position it as a key player in global tech supply chains, with a focus on sustainable mining practices.
+    author: Eliza Alcotte
+    og_image: /content/assets/mining-site.jpg
+  - title: "Russia’s Arctic Ambitions: A New Cold War Frontier?"
+    topic: Russia’s Arctic Strategy
+    keywords: [Russia, Arctic, geopolitics, resources, climate change]
+    description: How Russia’s Arctic resource push escalates geopolitical tensions, with global implications for trade routes and climate policies.
+    author: Joanna Aucton
+    og_image: /content/assets/arctic-drilling.jpg
+  - title: "BC’s Hydropower Exports: Navigating Global Energy Markets"
+    topic: BC Hydropower Strategy
+    keywords: [hydropower, British Columbia, trade, energy, environment]
+    description: How BC’s hydropower exports navigate global energy markets, facing challenges from US trade policies and environmental concerns.
+    author: Silas Twaine
+    og_image: /content/assets/hydropower-plant.jpg
+  - title: "Global Cybersecurity Threats: China’s Hacking Surge"
+    topic: Global Cybersecurity
+    keywords: [cybersecurity, China, hacking, technology, geopolitics]
+    description: How China’s escalating cyberattacks threaten global infrastructure, prompting calls for stronger international cybersecurity frameworks.
+    author: Marcus Twyne
+    og_image: /content/assets/cyber-attack.jpg
+  - title: "BC’s Renewable Energy Push: A Global Climate Leader?"
+    topic: BC Renewable Energy Leadership
+    keywords: [renewable energy, British Columbia, climate change, trade, infrastructure]
+    description: How BC’s renewable energy initiatives position it as a global climate leader, balancing economic growth with sustainability goals.
+    author: Emmeline Dickenson
+    og_image: /content/assets/renewable-energy.jpg
+  - title: "Haiti’s Gang Violence: A Humanitarian Disaster Unfolds"
+    topic: Haiti Crisis
+    keywords: [Haiti, gang violence, humanitarian crisis, Caribbean, geopolitics]
+    description: Analyzing Haiti’s escalating gang violence, its humanitarian toll, and the global response to a deepening crisis in the Caribbean.
+    author: Alec Dumass
+    og_image: /content/assets/haiti-violence.jpg
+  - title: "BC’s Energy Corridor: A Global Energy Hub?"
+    topic: BC Energy Corridor
+    keywords: [energy corridor, British Columbia, global trade, infrastructure, energy]
+    description: How BC’s role in Canada’s energy corridor aims to establish it as a global energy hub, emphasizing market-driven development.
+    author: Jonah Stynebeck
     og_image: /content/assets/energy-corridor-opportunity.jpg
-  - title: "Pacific Northwest’s Woke Divide: BC’s Rural Resistance"
-    topic: Pacific Northwest Culture
-    keywords: [woke divide, Pacific Northwest, British Columbia, rural, politics]
-    description: How BC’s rural communities resist the Pacific Northwest’s progressive divide, advocating for practical local policies.
+  - title: "Global Space Race: China’s Lunar Ambitions"
+    topic: Global Space Exploration
+    keywords: [space race, China, lunar mission, technology, geopolitics]
+    description: How China’s lunar exploration program fuels a new global space race, with implications for technological and geopolitical dominance.
     author: Sara Brontee
-    og_image: /content/assets/rural-resistance.jpg
-  - title: "BC’s LNG Exports: A Strategic Trade War Response"
-    topic: Energy Infrastructure
-    keywords: [LNG exports, British Columbia, trade war, economy, politics]
-    description: How BC’s LNG exports to Asia serve as a strategic response to US trade pressures, balancing economic and environmental priorities.[](https://www.theglobeandmail.com/business/article-lng-canada-exports-asia-us-trade-war-asia/)
-    author: Joanna Aucton
-    og_image: /content/assets/lng-strategy.jpg
-  - title: "Trump’s Energy Policies: BC’s Hydropower Challenges"
-    topic: Canada-US Trade
-    keywords: [Trump, hydropower, British Columbia, trade, energy]
-    description: How Trump’s energy policies challenge BC’s hydropower exports, with a call for strategic trade negotiations.[](https://nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html)
-    author: Jonah Stynebeck
-    og_image: /content/assets/hydropower-challenges.jpg
-  - title: "BC’s Infrastructure Push: Economic Gains vs. Environmental Costs"
-    topic: BC Politics
-    keywords: [infrastructure, British Columbia, economy, environment, politics]
-    description: Analyzing BC’s infrastructure push for economic gains, with concerns about environmental costs and Indigenous rights.[](https://theglobeandmail.com/canada/article-new-power-line-bc-critical-minerals)
-    author: Silas Twaine
-    og_image: /content/assets/infrastructure-balance.jpg
-  - title: "Woke Policies in BC: Economic and Social Impacts"
-    topic: Pacific Northwest Culture
-    keywords: [woke policies, British Columbia, economy, society, politics]
-    description: How progressive policies in BC impact its economy and social fabric, with a center-right call for pragmatic reforms.
-    author: Emmeline Dickenson
-    og_image: /content/assets/social-impact.jpg
-  - title: "Alberta’s Pipeline Proposal: BC’s Economic Dilemma"
-    topic: BC Politics
-    keywords: [Alberta pipeline, British Columbia, economy, politics, infrastructure]
-    description: Why Alberta’s pipeline proposal creates an economic dilemma for BC, with a focus on balancing trade and environment.[](https://theglobeandmail.com/business/article-enbridge-says-a-new-alberta-bc-pipeline-would-require-specific)
-    author: Alec Dumass
-    og_image: /content/assets/pipeline-dilemma.jpg
-  - title: "Canada’s Energy Projects: BC’s Strategic Role"
-    topic: Energy Infrastructure
-    keywords: [energy projects, British Columbia, Canada, infrastructure, trade]
-    description: How BC’s energy projects position it as a strategic player in Canada’s trade war response, emphasizing private-sector innovation.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Eliza Alcotte
-    og_image: /content/assets/energy-strategic.jpg
-  - title: "Pacific Northwest’s Woke Descent: BC’s Community Response"
-    topic: Pacific Northwest Culture
-    keywords: [woke descent, Pacific Northwest, British Columbia, community, politics]
-    description: How BC’s communities respond to the Pacific Northwest’s progressive shift, advocating for pragmatic local governance.
-    author: Earnest Hemmingweigh
-    og_image: /content/assets/community-response.jpg
-  - title: "BC’s Clean Energy Future: A Trade War Advantage?"
-    topic: Energy Infrastructure
-    keywords: [clean energy, British Columbia, trade war, infrastructure, politics]
-    description: How BC’s clean energy focus could give it an edge in Canada’s trade war with the US, balancing economic and environmental goals.[](https://cbc.ca/news/canada/british-columbia/conservative-bc-premier-pipeline-criticism-1.7552616)
-    author: Marcus Twyne
-    og_image: /content/assets/clean-energy-advantage.jpg
-  - title: "Trump’s Tariff Threats: BC’s Economic Strategy"
-    topic: Canada-US Trade
-    keywords: [Trump tariffs, British Columbia, economy, trade, politics]
-    description: How BC navigates Trump’s tariff threats with strategic economic policies, advocating for diversified trade partnerships.[](https://www.theguardian.com/us-news/2025/jun/27/trump-canada-tariffs-trade-tax)
+    og_image: /content/assets/lunar-mission.jpg
+  - title: "BC’s Infrastructure Strategy: Competing in Global Markets"
+    topic: BC Global Competitiveness
+    keywords: [infrastructure, British Columbia, global trade, economy, politics]
+    description: How BC’s infrastructure strategy aims to boost its competitiveness in global markets, with concerns about environmental impacts.
     author: Lara Wylde
-    og_image: /content/assets/tariff-strategy.jpg
-  - title: "Woke Culture in BC Schools: A Parental Backlash"
-    topic: Pacific Northwest Culture
-    keywords: [woke culture, BC schools, parents, politics, society]
-    description: How progressive policies in BC schools spark parental backlash, with a center-right call for education focused on practical skills.
-    author: Davin Thorow
-    og_image: /content/assets/parental-backlash.jpg
-  - title: "BC’s LNG Pipeline: Economic Promise or Environmental Risk?"
-    topic: Energy Infrastructure
-    keywords: [LNG pipeline, British Columbia, economy, environment, politics]
-    description: Evaluating the economic promise of BC’s LNG pipeline against environmental risks, with a focus on balanced development.[](https://cbc.ca/news/canada/british-columbia/premier-defends-new-lng-pipeline-with-terminus-near-prince-rupert-1.7556710)
+    og_image: /content/assets/infrastructure-plan.jpg
+  - title: "Yemen’s Civil War: A Forgotten Global Crisis"
+    topic: Yemen Conflict
+    keywords: [Yemen, civil war, humanitarian crisis, Middle East, geopolitics]
+    description: Examining Yemen’s ongoing civil war, its humanitarian toll, and the global community’s failure to address a worsening crisis.
     author: Marian Shelleigh
-    og_image: /content/assets/lng-pipeline-risk.jpg
-  - title: "Canada’s Trade War: BC’s Ports as Strategic Assets"
-    topic: Canada-US Trade
-    keywords: [trade war, British Columbia, ports, economy, politics]
-    description: How BC’s ports serve as strategic assets in Canada’s trade war with the US, advocating for private-sector-led expansion.[](https://bbc.com/news/articles/cglzx41jl4eo)
-    author: Sara Brontee
-    og_image: /content/assets/port-assets.jpg
-  - title: "Pacific Northwest’s Progressive Policies: BC’s Economic Impact"
-    topic: Pacific Northwest Culture
-    keywords: [progressive policies, Pacific Northwest, British Columbia, economy, politics]
-    description: How progressive policies in the Pacific Northwest impact BC’s economy, with a center-right push for pragmatic reforms.
+    og_image: /content/assets/yemen-refugees.jpg
+  - title: "BC’s LNG Ambitions: A Global Energy Play"
+    topic: BC LNG Global Role
+    keywords: [LNG, British Columbia, global trade, energy, environment]
+    description: How BC’s LNG projects position it as a global energy player, despite environmental opposition and trade challenges.
+    author: Davin Thorow
+    og_image: /content/assets/lng-global.jpg
+  - title: "Global Coral Reef Decline: Climate Change’s Silent Victim"
+    topic: Global Coral Reefs
+    keywords: [coral reefs, climate change, biodiversity, environment, oceans]
+    description: How climate change accelerates global coral reef decline, threatening marine ecosystems and prompting international conservation efforts.
+    author: Eliza Alcotte
+    og_image: /content/assets/coral-reef.jpg
+  - title: "BC’s Energy Minister: Shaping Global Energy Policy"
+    topic: BC Energy Leadership
+    keywords: [energy minister, British Columbia, global trade, environment, politics]
+    description: Analyzing BC Energy Minister Adrian Dix’s role in shaping global energy policies, balancing trade and environmental priorities.
     author: Joanna Aucton
-    og_image: /content/assets/progressive-impact.jpg
+    og_image: /content/assets/energy-minister.jpg
+  - title: "Global Migration Crisis: Central America’s Exodus"
+    topic: Central American Migration
+    keywords: [migration, Central America, humanitarian crisis, borders, geopolitics]
+    description: Examining Central America’s migration crisis, its drivers, and the global response to increasing border pressures in the Americas.
+    author: Silas Twaine
+    og_image: /content/assets/migrant-caravan.jpg
+  - title: "BC’s Critical Minerals: A Global Tech Lifeline"
+    topic: BC Mineral Global Role
+    keywords: [critical minerals, British Columbia, technology, global trade, economy]
+    description: How BC’s critical minerals support global tech industries, with a focus on sustainable mining amid trade and environmental pressures.
+    author: Marcus Twyne
+    og_image: /content/assets/mining-site.jpg
+  - title: "Global Renewable Energy Race: Germany’s Wind Power Surge"
+    topic: Germany’s Renewable Energy
+    keywords: [renewable energy, Germany, wind power, climate change, energy]
+    description: How Germany’s wind power expansion leads the global renewable energy race, with lessons for other nations’ climate strategies.
+    author: Emmeline Dickenson
+    og_image: /content/assets/wind-turbines.jpg
+  - title: "BC’s Hydropower Challenges: A Global Energy Case Study"
+    topic: BC Hydropower Challenges
+    keywords: [hydropower, British Columbia, trade, energy, environment]
+    description: How BC’s hydropower exports face global trade and environmental challenges, offering a case study for sustainable energy policies.
+    author: Alec Dumass
+    og_image: /content/assets/hydropower-challenges.jpg
+  - title: "Global AI Ethics: UN’s Push for Regulation"
+    topic: Global AI Ethics
+    keywords: [AI ethics, UN, technology, regulation, global standards]
+    description: How the UN’s push for global AI ethics regulations aims to balance innovation with human rights, facing resistance from tech giants.
+    author: Jonah Stynebeck
+    og_image: /content/assets/ai-ethics.jpg
+  - title: "BC’s Infrastructure Push: A Global Economic Driver?"
+    topic: BC Infrastructure Global Role
+    keywords: [infrastructure, British Columbia, global trade, economy, environment]
+    description: How BC’s infrastructure push drives global economic growth, with concerns about balancing environmental and Indigenous priorities.
+    author: Sara Brontee
+    og_image: /content/assets/infrastructure-costs.jpg
+  - title: "Global Ocean Warming: Impacts on Fisheries"
+    topic: Global Ocean Warming
+    keywords: [ocean warming, climate change, fisheries, biodiversity, environment]
+    description: How global ocean warming threatens fisheries, disrupting food security and prompting international efforts to protect marine ecosystems.
+    author: Lara Wylde
+    og_image: /content/assets/ocean-fisheries.jpg
+  - title: "BC’s LNG Exports: A Global Trade War Countermeasure"
+    topic: BC LNG Trade Strategy
+    keywords: [LNG exports, British Columbia, trade war, global trade, energy]
+    description: How BC’s LNG exports counter global trade war pressures, positioning it as a key energy supplier while addressing environmental concerns.
+    author: Marian Shelleigh
+    og_image: /content/assets/lng-exports.jpg
+  - title: "Global Biodiversity Loss: UN’s 2030 Targets Falter"
+    topic: Global Biodiversity Crisis
+    keywords: [biodiversity, UN, climate change, environment, conservation]
+    description: Why the UN’s 2030 biodiversity targets are falling short, with global implications for ecosystems and climate resilience.
+    author: Davin Thorow
+    og_image: /content/assets/biodiversity-loss.jpg
+  - title: "BC’s Clean Energy Leadership: A Global Model?"
+    topic: BC Clean Energy Leadership
+    keywords: [clean energy, British Columbia, climate change, trade, infrastructure]
+    description: How BC’s clean energy leadership positions it as a global model for sustainable development, balancing trade and climate goals.
+    author: Eliza Alcotte
+    og_image: /content/assets/clean-energy-advantage.jpg
+  - title: "Global Trade Wars: BC’s Strategic Economic Response"
+    topic: BC Global Trade Strategy
+    keywords: [trade wars, British Columbia, economy, global trade, politics]
+    description: How BC navigates global trade wars with strategic economic policies, advocating for diversified trade partnerships to boost resilience.
+    author: Joanna Aucton
+    og_image: /content/assets/tariff-strategy.jpg
+  - title: "Global Climate Refugees: Pacific Islands’ Plight"
+    topic: Climate Refugees
+    keywords: [climate refugees, Pacific Islands, climate change, migration, humanitarian]
+    description: How rising sea levels displace Pacific Island communities, creating a global climate refugee crisis and prompting international action.
+    author: Silas Twaine
+    og_image: /content/assets/pacific-islands.jpg

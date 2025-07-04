@@ -1,6 +1,6 @@
 site:
   name: Powersport A
-  description: Your go-to source for ATV, dirt bike, and powersport vehicle parts and upgrades, fueling rural adventures.
+  description: Your go-to source for ATV, dirt bike, and powersport vehicle parts and upgrades, fueling adventures.
   keywords: [ATV parts, dirt bikes, powersports, vehicle maintenance, performance]
   logo: /static/powersporta.com/logo.png
   favicon: /static/powersporta.com/favicon-32x32.png
@@ -30,12 +30,12 @@ footer:
   copyright: © 2025 Product Led LLC. All rights reserved. Rev up or go home.
 
 content:
-  topics: [ATV maintenance, dirt bike upgrades, powersport accessories, rural mobility, vehicle performance]
+  topics: [ATV maintenance, dirt bike upgrades, powersport accessories, mobility, vehicle performance]
   articles_path: content/powersporta.com/articles
   default_image: /content/assets/sports-bg.jpg
 
 analytics:
-  google_analytics_id: G-POWERSPORTA
+  google_analytics_id: G-ET97KBGF1B
 
 seo:
   og_image: /content/assets/sports-bg.jpg
