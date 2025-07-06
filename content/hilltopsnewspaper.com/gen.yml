@@ -158,3 +158,643 @@ articles:
     description: How microfinance is driving economic empowerment for small entrepreneurs in India.
     author: Davin Thorow
     og_image: /content/assets/microfinance-group.jpg
+
+  - title: "AI-Driven Drug Discovery: Accelerating Medicine"
+    topic: Artificial Intelligence
+    unique_subject: AI in pharmaceutical research
+    keywords: [AI, drug discovery, pharmaceuticals, innovation, healthcare]
+    description: How AI is speeding up drug discovery, reducing costs, and revolutionizing pharmaceutical research worldwide.
+    author: Joanna Aucton
+    og_image: /content/assets/ai-drug-lab.jpg
+
+  - title: "Bollywood’s Global Reach: Cinematic Influence"
+    topic: Pop Culture
+    unique_subject: Bollywood’s international impact
+    keywords: [Bollywood, India, cinema, pop culture, global]
+    description: Exploring Bollywood’s growing influence on global cinema, from storytelling to dance and music trends.
+    author: Sara Brontee
+    og_image: /content/assets/bollywood-set.jpg
+
+  - title: "Vertical Gardens in Singapore: Greening Urban Spaces"
+    topic: Urban Agriculture
+    unique_subject: Vertical gardening systems
+    keywords: [vertical gardens, Singapore, sustainability, urban, greenery]
+    description: How Singapore’s vertical gardens enhance urban sustainability and combat heat in densely built environments.
+    author: Marcus Twyne
+    og_image: /content/assets/vertical-garden-city.jpg
+
+  - title: "Neuromorphic Computing: Mimicking the Brain"
+    topic: Quantum Technology
+    unique_subject: Neuromorphic computing advancements
+    keywords: [neuromorphic computing, technology, brain, innovation, future]
+    description: The rise of neuromorphic computing, inspired by the human brain, and its potential to transform AI.
+    author: Jonah Stynebeck
+    og_image: /content/assets/neuromorphic-chip.jpg
+
+  - title: "Maori Tattoo Art: Cultural Significance"
+    topic: Cultural Heritage
+    unique_subject: Maori tattoo traditions
+    keywords: [Maori, tattoos, culture, heritage, New Zealand]
+    description: The cultural and spiritual importance of Maori tattoo art, preserving identity in modern times.
+    author: Lara Wylde
+    og_image: /content/assets/maori-tattoo.jpg
+
+  - title: "E-Sports in Southeast Asia: A Digital Revolution"
+    topic: E-Sports
+    unique_subject: E-sports expansion
+    keywords: [e-sports, Southeast Asia, gaming, digital, youth]
+    description: How Southeast Asia’s e-sports scene is transforming entertainment and creating new career paths.
+    author: Silas Twaine
+    og_image: /content/assets/esports-arena.jpg
+
+  - title: "Teletherapy Platforms: Accessible Mental Care"
+    topic: Mental Health
+    unique_subject: Online therapy solutions
+    keywords: [teletherapy, mental health, technology, wellness, global]
+    description: The growth of teletherapy platforms, making mental health care more accessible and affordable worldwide.
+    author: Eliza Alcotte
+    og_image: /content/assets/teletherapy-session.jpg
+
+  - title: "Wind Energy in Scandinavia: Harnessing Nature"
+    topic: Renewable Energy
+    unique_subject: Wind power development
+    keywords: [wind energy, Scandinavia, sustainability, renewable, energy]
+    description: How Scandinavia is leading in wind energy innovation, powering sustainable economies.
+    author: Emmeline Dickenson
+    og_image: /content/assets/wind-turbine-field.jpg
+
+  - title: "Augmented Reality in Museums: Interactive Exhibits"
+    topic: Education Technology
+    unique_subject: AR in museum education
+    keywords: [augmented reality, museums, education, technology, culture]
+    description: How augmented reality is enhancing museum experiences, making history interactive for global visitors.
+    author: Alec Dumass
+    og_image: /content/assets/ar-museum-exhibit.jpg
+
+  - title: "Murals in Mexico City: Voices of Resistance"
+    topic: Street Art
+    unique_subject: Mural art as activism
+    keywords: [murals, Mexico City, street art, activism, culture]
+    description: Mexico City’s mural scene as a powerful medium for social and political activism.
+    author: Marian Shelleigh
+    og_image: /content/assets/mexico-city-mural.jpg
+
+  - title: "Mangrove Restoration in Indonesia: Coastal Defense"
+    topic: Marine Conservation
+    unique_subject: Mangrove ecosystem restoration
+    keywords: [mangroves, conservation, Indonesia, marine, environment]
+    description: Efforts to restore Indonesia’s mangroves, protecting coastlines and boosting biodiversity.
+    author: Davin Thorow
+    og_image: /content/assets/mangrove-planting.jpg
+
+  - title: "Freelance Tech Hubs in Lisbon: A New Work Model"
+    topic: Gig Economy
+    unique_subject: Freelance tech communities
+    keywords: [freelance, Lisbon, gig economy, technology, work]
+    description: How Lisbon’s freelance tech hubs are redefining work-life balance for digital nomads.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/lisbon-coworking-space.jpg
+
+  - title: "Chinese Calligraphy: Art in the Digital Age"
+    topic: Cultural Practices
+    unique_subject: Chinese calligraphy traditions
+    keywords: [calligraphy, China, culture, art, tradition]
+    description: The revival of Chinese calligraphy, blending ancient techniques with modern digital platforms.
+    author: Joanna Aucton
+    og_image: /content/assets/chinese-calligraphy.jpg
+
+  - title: "Drone Delivery Systems: Logistics of Tomorrow"
+    topic: Autonomous Technology
+    unique_subject: Drone delivery innovations
+    keywords: [drones, delivery, technology, logistics, future]
+    description: The rise of drone delivery systems, transforming logistics in urban and rural areas.
+    author: Marcus Twyne
+    og_image: /content/assets/drone-delivery.jpg
+
+  - title: "Youth Cricket in India: A Cultural Force"
+    topic: Sports Culture
+    unique_subject: Cricket’s youth movement
+    keywords: [cricket, India, sports, youth, culture]
+    description: How youth cricket in India is fostering community pride and shaping future sports stars.
+    author: Silas Twaine
+    og_image: /content/assets/youth-cricket-match.jpg
+
+  - title: "Blockchain for Voting: Securing Democracy"
+    topic: Blockchain Technology
+    unique_subject: Blockchain in electoral systems
+    keywords: [blockchain, voting, technology, democracy, security]
+    description: How blockchain is being used to create secure, transparent voting systems globally.
+    author: Jonah Stynebeck
+    og_image: /content/assets/blockchain-voting.jpg
+
+  - title: "Mobile Schools in Mongolia: Nomadic Education"
+    topic: Refugee Education
+    unique_subject: Education for nomadic communities
+    keywords: [mobile schools, Mongolia, education, nomads, empowerment]
+    description: Innovative mobile schools in Mongolia, bringing education to nomadic children.
+    author: Emmeline Dickenson
+    og_image: /content/assets/mobile-school-yurt.jpg
+
+  - title: "Upcycled Fashion in Nigeria: Creative Reuse"
+    topic: Sustainable Fashion
+    unique_subject: Upcycled fashion movement
+    keywords: [upcycled fashion, Nigeria, sustainability, creativity, style]
+    description: Nigeria’s upcycled fashion scene, turning waste into wearable art for sustainability.
+    author: Lara Wylde
+    og_image: /content/assets/upcycled-fashion-runway.jpg
+
+  - title: "Antarctic Ice Core Studies: Climate History"
+    topic: Climate Science
+    unique_subject: Ice core climate research
+    keywords: [Antarctic, ice cores, climate, science, environment]
+    description: How Antarctic ice core studies reveal Earth’s climate history and inform future predictions.
+    author: Eliza Alcotte
+    og_image: /content/assets/ice-core-lab.jpg
+
+  - title: "Crowdfunding in Kenya: Grassroots Innovation"
+    topic: Microfinance
+    unique_subject: Crowdfunding for entrepreneurs
+    keywords: [crowdfunding, Kenya, microfinance, innovation, economy]
+    description: How crowdfunding platforms in Kenya are empowering small-scale entrepreneurs to thrive.
+    author: Davin Thorow
+    og_image: /content/assets/crowdfunding-workshop.jpg
+
+  - title: "AI for Wildlife Conservation: Tracking Species"
+    topic: Artificial Intelligence
+    unique_subject: AI in wildlife protection
+    keywords: [AI, wildlife, conservation, technology, environment]
+    description: How AI is being used to track and protect endangered species worldwide.
+    author: Joanna Aucton
+    og_image: /content/assets/ai-wildlife-tracker.jpg
+
+  - title: "Afrobeats Explosion: Nigeria’s Music Revolution"
+    topic: Pop Culture
+    unique_subject: Afrobeats global rise
+    keywords: [Afrobeats, Nigeria, music, pop culture, global]
+    description: The global rise of Afrobeats, driven by Nigeria’s vibrant music scene and cultural influence.
+    author: Sara Brontee
+    og_image: /content/assets/afrobeats-concert.jpg
+
+  - title: "Community Gardens in Detroit: Urban Renewal"
+    topic: Urban Agriculture
+    unique_subject: Community gardening initiatives
+    keywords: [community gardens, Detroit, urban, sustainability, renewal]
+    description: How Detroit’s community gardens are revitalizing neighborhoods and promoting food equity.
+    author: Marcus Twyne
+    og_image: /content/assets/detroit-community-garden.jpg
+
+  - title: "Photonics in Computing: Speeding Up Data"
+    topic: Quantum Technology
+    unique_subject: Photonics advancements
+    keywords: [photonics, computing, technology, innovation, future]
+    description: The role of photonics in revolutionizing computing with faster, more efficient data processing.
+    author: Jonah Stynebeck
+    og_image: /content/assets/photonics-lab.jpg
+
+  - title: "Aboriginal Dreamtime Art: Stories in Color"
+    topic: Cultural Heritage
+    unique_subject: Aboriginal art traditions
+    keywords: [Aboriginal, Dreamtime, art, culture, Australia]
+    description: The enduring legacy of Aboriginal Dreamtime art, conveying stories through vibrant visuals.
+    author: Lara Wylde
+    og_image: /content/assets/aboriginal-art.jpg
+
+  - title: "E-Sports Scholarships in the U.S.: Academic Gaming"
+    topic: E-Sports
+    unique_subject: E-sports in education
+    keywords: [e-sports, scholarships, gaming, education, youth]
+    description: How U.S. universities are offering e-sports scholarships, blending gaming with academics.
+    author: Silas Twaine
+    og_image: /content/assets/esports-scholarship.jpg
+
+  - title: "Wearable Mental Health Monitors: Real-Time Care"
+    topic: Mental Health
+    unique_subject: Wearable mental health tech
+    keywords: [wearables, mental health, technology, wellness, innovation]
+    description: The rise of wearable devices that monitor mental health, offering real-time support globally.
+    author: Eliza Alcotte
+    og_image: /content/assets/mental-health-wearable.jpg
+
+  - title: "Geothermal Energy in Iceland: Sustainable Power"
+    topic: Renewable Energy
+    unique_subject: Geothermal energy use
+    keywords: [geothermal, Iceland, sustainability, energy, renewable]
+    description: Iceland’s geothermal energy innovations, powering homes and industries sustainably.
+    author: Emmeline Dickenson
+    og_image: /content/assets/geothermal-plant.jpg
+
+  - title: "AI Tutors in Education: Personalized Learning"
+    topic: Education Technology
+    unique_subject: AI-based tutoring systems
+    keywords: [AI, education, tutoring, technology, learning]
+    description: How AI tutors are providing personalized learning experiences for students worldwide.
+    author: Alec Dumass
+    og_image: /content/assets/ai-tutor-classroom.jpg
+
+  - title: "Graffiti in São Paulo: Urban Identity"
+    topic: Street Art
+    unique_subject: Graffiti as cultural expression
+    keywords: [graffiti, São Paulo, street art, culture, urban]
+    description: São Paulo’s graffiti scene as a vibrant expression of urban identity and creativity.
+    author: Marian Shelleigh
+    og_image: /content/assets/sao-paulo-graffiti.jpg
+
+  - title: "Seagrass Meadows: Ocean Carbon Sinks"
+    topic: Marine Conservation
+    unique_subject: Seagrass restoration
+    keywords: [seagrass, conservation, marine, carbon, environment]
+    description: Global efforts to restore seagrass meadows, key to carbon storage and marine health.
+    author: Davin Thorow
+    og_image: /content/assets/seagrass-diver.jpg
+
+  - title: "Remote Work in Bali: Digital Nomad Hubs"
+    topic: Gig Economy
+    unique_subject: Digital nomad communities
+    keywords: [remote work, Bali, gig economy, technology, nomads]
+    description: How Bali’s digital nomad hubs are shaping the future of remote work globally.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/bali-coworking.jpg
+
+  - title: "Indian Classical Dance: Tradition Meets Innovation"
+    topic: Cultural Practices
+    unique_subject: Indian classical dance evolution
+    keywords: [dance, India, culture, tradition, innovation]
+    description: The evolution of Indian classical dance, blending tradition with contemporary global stages.
+    author: Joanna Aucton
+    og_image: /content/assets/indian-dance-performance.jpg
+
+  - title: "Self-Flying Air Taxis: Urban Skies in 2025"
+    topic: Autonomous Technology
+    unique_subject: Air taxi innovations
+    keywords: [air taxis, autonomous, technology, urban, mobility]
+    description: The development of self-flying air taxis, set to transform urban transportation by 2025.
+    author: Marcus Twyne
+    og_image: /content/assets/air-taxi-city.jpg
+
+  - title: "Rugby in New Zealand: A National Passion"
+    topic: Sports Culture
+    unique_subject: Rugby’s cultural role
+    keywords: [rugby, New Zealand, sports, culture, community]
+    description: How rugby shapes New Zealand’s national identity and fosters community spirit.
+    author: Silas Twaine
+    og_image: /content/assets/rugby-match.jpg
+
+  - title: "Blockchain for Art Authentication: Preserving Value"
+    topic: Blockchain Technology
+    unique_subject: Blockchain in art markets
+    keywords: [blockchain, art, authentication, technology, culture]
+    description: How blockchain is ensuring authenticity and value in the global art market.
+    author: Jonah Stynebeck
+    og_image: /content/assets/blockchain-art.jpg
+
+  - title: "Literacy Programs in Haiti: Building Futures"
+    topic: Refugee Education
+    unique_subject: Literacy for displaced communities
+    keywords: [literacy, Haiti, education, empowerment, humanitarian]
+    description: Literacy programs in Haiti empowering displaced communities through education.
+    author: Emmeline Dickenson
+    og_image: /content/assets/haiti-literacy-class.jpg
+
+  - title: "Vegan Leather in Brazil: Eco-Friendly Fashion"
+    topic: Sustainable Fashion
+    unique_subject: Vegan leather innovations
+    keywords: [vegan leather, Brazil, sustainability, fashion, eco-friendly]
+    description: Brazil’s vegan leather industry, offering sustainable alternatives to traditional fashion.
+    author: Lara Wylde
+    og_image: /content/assets/vegan-leather-workshop.jpg
+
+  - title: "Urban Heat Island Research: Cooling Cities"
+    topic: Climate Science
+    unique_subject: Urban heat mitigation
+    keywords: [urban heat, climate, research, cities, environment]
+    description: Research on urban heat islands, developing strategies to cool cities globally.
+    author: Eliza Alcotte
+    og_image: /content/assets/urban-heat-study.jpg
+
+  - title: "Microloans in Bangladesh: Women’s Empowerment"
+    topic: Microfinance
+    unique_subject: Microloans for women
+    keywords: [microloans, Bangladesh, women, empowerment, economy]
+    description: How microloans are empowering women entrepreneurs in Bangladesh to build better futures.
+    author: Davin Thorow
+    og_image: /content/assets/microloan-group.jpg
+
+  - title: "AI in Agriculture: Smart Farming Solutions"
+    topic: Artificial Intelligence
+    unique_subject: AI in farming practices
+    keywords: [AI, agriculture, farming, technology, sustainability]
+    description: How AI is optimizing agriculture with smart farming solutions for global food security.
+    author: Joanna Aucton
+    og_image: /content/assets/ai-farming-drone.jpg
+
+  - title: "Hip-Hop in South Africa: A Cultural Voice"
+    topic: Pop Culture
+    unique_subject: South African hip-hop
+    keywords: [hip-hop, South Africa, music, culture, youth]
+    description: The rise of South African hip-hop as a powerful cultural and social expression.
+    author: Sara Brontee
+    og_image: /content/assets/sa-hiphop-performance.jpg
+
+  - title: "Hydroponics in Dubai: Desert Agriculture"
+    topic: Urban Agriculture
+    unique_subject: Hydroponic farming
+    keywords: [hydroponics, Dubai, agriculture, sustainability, urban]
+    description: How Dubai’s hydroponic farms are revolutionizing agriculture in desert environments.
+    author: Marcus Twyne
+    og_image: /content/assets/hydroponic-farm.jpg
+
+  - title: "Quantum Cryptography: Securing the Future"
+    topic: Quantum Technology
+    unique_subject: Quantum encryption
+    keywords: [quantum cryptography, security, technology, innovation, future]
+    description: The development of quantum cryptography, ensuring unbreakable security for digital systems.
+    author: Jonah Stynebeck
+    og_image: /content/assets/quantum-cryptography-lab.jpg
+
+  - title: "Sami Reindeer Herding: Cultural Resilience"
+    topic: Cultural Heritage
+    unique_subject: Sami herding traditions
+    keywords: [Sami, reindeer, culture, heritage, Arctic]
+    description: How Sami reindeer herding preserves cultural resilience in the Arctic’s changing landscape.
+    author: Lara Wylde
+    og_image: /content/assets/sami-reindeer.jpg
+
+  - title: "E-Sports in China: A Billion-Dollar Industry"
+    topic: E-Sports
+    unique_subject: E-sports market growth
+    keywords: [e-sports, China, gaming, industry, youth]
+    description: The explosive growth of China’s e-sports industry, shaping global gaming trends.
+    author: Silas Twaine
+    og_image: /content/assets/china-esports-event.jpg
+
+  - title: "Mindfulness Apps for Kids: Early Wellness"
+    topic: Mental Health
+    unique_subject: Children’s mental health apps
+    keywords: [mindfulness, kids, mental health, apps, wellness]
+    description: How mindfulness apps designed for children promote emotional wellness from an early age.
+    author: Eliza Alcotte
+    og_image: /content/assets/kids-mindfulness-app.jpg
+
+  - title: "Tidal Energy in Scotland: Ocean Power"
+    topic: Renewable Energy
+    unique_subject: Tidal energy development
+    keywords: [tidal energy, Scotland, renewable, sustainability, ocean]
+    description: Scotland’s advancements in tidal energy, harnessing ocean power for sustainable electricity.
+    author: Emmeline Dickenson
+    og_image: /content/assets/tidal-energy-turbine.jpg
+
+  - title: "3D-Printed Schools: Education Infrastructure"
+    topic: Education Technology
+    unique_subject: 3D printing in education
+    keywords: [3D printing, schools, education, technology, infrastructure]
+    description: How 3D-printed schools are providing affordable, rapid solutions for education infrastructure.
+    author: Alec Dumass
+    og_image: /content/assets/3d-printed-school.jpg
+
+  - title: "Street Art in Cape Town: Social Commentary"
+    topic: Street Art
+    unique_subject: Street art for social change
+    keywords: [street art, Cape Town, culture, activism, urban]
+    description: Cape Town’s street art as a platform for social commentary and community empowerment.
+    author: Marian Shelleigh
+    og_image: /content/assets/cape-town-mural.jpg
+
+  - title: "Kelp Forests: Marine Biodiversity Hotspots"
+    topic: Marine Conservation
+    unique_subject: Kelp forest preservation
+    keywords: [kelp forests, conservation, marine, biodiversity, environment]
+    description: Efforts to preserve kelp forests, vital for marine biodiversity and coastal ecosystems.
+    author: Davin Thorow
+    og_image: /content/assets/kelp-forest-diver.jpg
+
+  - title: "Gig Economy in Seoul: Tech-Driven Work"
+    topic: Gig Economy
+    unique_subject: Tech-based gig work
+    keywords: [gig economy, Seoul, technology, work, innovation]
+    description: How Seoul’s tech-driven gig economy is creating new opportunities and challenges for workers.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/seoul-gig-worker.jpg
+
+  - title: "Balinese Gamelan Music: Cultural Harmony"
+    topic: Cultural Practices
+    unique_subject: Balinese gamelan traditions
+    keywords: [gamelan, Bali, music, culture, tradition]
+    description: The role of Balinese gamelan music in preserving cultural harmony and community bonds.
+    author: Joanna Aucton
+    og_image: /content/assets/gamelan-performance.jpg
+
+  - title: "Autonomous Tractors: Farming’s Future"
+    topic: Autonomous Technology
+    unique_subject: Autonomous farming equipment
+    keywords: [autonomous tractors, farming, technology, agriculture, future]
+    description: How autonomous tractors are transforming agriculture with precision and efficiency.
+    author: Marcus Twyne
+    og_image: /content/assets/autonomous-tractor-field.jpg
+
+  - title: "Women’s Basketball in Australia: Rising Stars"
+    topic: Sports Culture
+    unique_subject: Women’s basketball growth
+    keywords: [women’s basketball, Australia, sports, equality, youth]
+    description: The rise of women’s basketball in Australia, empowering athletes and inspiring fans.
+    author: Silas Twaine
+    og_image: /content/assets/womens-basketball-game.jpg
+
+  - title: "Blockchain for Healthcare Records: Data Security"
+    topic: Blockchain Technology
+    unique_subject: Blockchain in healthcare
+    keywords: [blockchain, healthcare, data, security, technology]
+    description: How blockchain is securing healthcare records, ensuring privacy and accessibility.
+    author: Jonah Stynebeck
+    og_image: /content/assets/blockchain-healthcare.jpg
+
+  - title: "STEM Education in Rwanda: Tech Futures"
+    topic: Refugee Education
+    unique_subject: STEM for young learners
+    keywords: [STEM, Rwanda, education, technology, empowerment]
+    description: Rwanda’s STEM education initiatives, empowering youth with skills for tech-driven futures.
+    author: Emmeline Dickenson
+    og_image: /content/assets/rwanda-stem-class.jpg
+
+  - title: "Hemp Fashion in Canada: Sustainable Textiles"
+    topic: Sustainable Fashion
+    unique_subject: Hemp-based fashion
+    keywords: [hemp, fashion, Canada, sustainability, textiles]
+    description: Canada’s hemp fashion industry, pioneering sustainable textiles for global markets.
+    author: Lara Wylde
+    og_image: /content/assets/hemp-fashion-design.jpg
+
+  - title: "Permafrost Thaw Studies: Arctic Climate Impacts"
+    topic: Climate Science
+    unique_subject: Permafrost climate research
+    keywords: [permafrost, Arctic, climate, research, environment]
+    description: Research on permafrost thaw in the Arctic, revealing critical climate change impacts.
+    author: Eliza Alcotte
+    og_image: /content/assets/permafrost-research.jpg
+
+  - title: "Peer-to-Peer Lending in Vietnam: Financial Access"
+    topic: Microfinance
+    unique_subject: P2P lending platforms
+    keywords: [P2P lending, Vietnam, microfinance, economy, access]
+    description: How peer-to-peer lending in Vietnam is expanding financial access for small businesses.
+    author: Davin Thorow
+    og_image: /content/assets/p2p-lending-group.jpg
+
+  - title: "AI for Disaster Response: Saving Lives"
+    topic: Artificial Intelligence
+    unique_subject: AI in disaster management
+    keywords: [AI, disaster response, technology, humanitarian, safety]
+    description: How AI is enhancing disaster response, improving coordination and saving lives globally.
+    author: Joanna Aucton
+    og_image: /content/assets/ai-disaster-response.jpg
+
+  - title: "Reggaeton’s Global Beat: Latin Music Rise"
+    topic: Pop Culture
+    unique_subject: Reggaeton’s cultural impact
+    keywords: [reggaeton, Latin America, music, pop culture, global]
+    description: The global rise of reggaeton, blending Latin rhythms with worldwide cultural influence.
+    author: Sara Brontee
+    og_image: /content/assets/reggaeton-concert.jpg
+
+  - title: "Rooftop Farms in New York: Urban Harvests"
+    topic: Urban Agriculture
+    unique_subject: Rooftop farming initiatives
+    keywords: [rooftop farms, New York, urban, agriculture, sustainability]
+    description: New York’s rooftop farms, boosting local food production and urban sustainability.
+    author: Marcus Twyne
+    og_image: /content/assets/nyc-rooftop-farm.jpg
+
+  - title: "Quantum Sensors: Precision Technology"
+    topic: Quantum Technology
+    unique_subject: Quantum sensor applications
+    keywords: [quantum sensors, technology, precision, innovation, future]
+    description: How quantum sensors are enabling unprecedented precision in industries from healthcare to navigation.
+    author: Jonah Stynebeck
+    og_image: /content/assets/quantum-sensor-lab.jpg
+
+  - title: "Inuit Throat Singing: Cultural Revival"
+    topic: Cultural Heritage
+    unique_subject: Inuit throat singing traditions
+    keywords: [Inuit, throat singing, culture, heritage, Canada]
+    description: The revival of Inuit throat singing, celebrating cultural identity through music.
+    author: Lara Wylde
+    og_image: /content/assets/inuit-throat-singing.jpg
+
+  - title: "E-Sports in Japan: Cultural Integration"
+    topic: E-Sports
+    unique_subject: E-sports cultural adoption
+    keywords: [e-sports, Japan, gaming, culture, youth]
+    description: How Japan is embracing e-sports, blending traditional culture with modern gaming trends.
+    author: Silas Twaine
+    og_image: /content/assets/japan-esports-tournament.jpg
+
+  - title: "Biofeedback Therapy: Mental Wellness Tools"
+    topic: Mental Health
+    unique_subject: Biofeedback for mental health
+    keywords: [biofeedback, mental health, therapy, wellness, technology]
+    description: The rise of biofeedback therapy, helping individuals manage stress and improve mental health.
+    author: Eliza Alcotte
+    og_image: /content/assets/biofeedback-session.jpg
+
+  - title: "Bioenergy in Brazil: Sustainable Fuel"
+    topic: Renewable Energy
+    unique_subject: Bioenergy production
+    keywords: [bioenergy, Brazil, renewable, sustainability, fuel]
+    description: Brazil’s bioenergy initiatives, turning agricultural waste into sustainable fuel sources.
+    author: Emmeline Dickenson
+    og_image: /content/assets/bioenergy-plant.jpg
+
+  - title: "Coding Bootcamps in Africa: Tech Skills Surge"
+    topic: Education Technology
+    unique_subject: Coding bootcamps
+    keywords: [coding, bootcamps, Africa, education, technology]
+    description: How coding bootcamps in Africa are equipping youth with tech skills for global opportunities.
+    author: Alec Dumass
+    og_image: /content/assets/coding-bootcamp-class.jpg
+
+  - title: "Street Art in Athens: Urban Resilience"
+    topic: Street Art
+    unique_subject: Street art as urban recovery
+    keywords: [street art, Athens, culture, resilience, urban]
+    description: Athens’ street art scene, reflecting resilience and creativity amid economic recovery.
+    author: Marian Shelleigh
+    og_image: /content/assets/athens-street-art.jpg
+
+  - title: "Oyster Reef Restoration: Coastal Protection"
+    topic: Marine Conservation
+    unique_subject: Oyster reef ecosystems
+    keywords: [oyster reefs, conservation, marine, environment, coastal]
+    description: Global efforts to restore oyster reefs, protecting coastlines and supporting marine life.
+    author: Davin Thorow
+    og_image: /content/assets/oyster-reef-project.jpg
+
+  - title: "Gig Economy in Dubai: Luxury Service Boom"
+    topic: Gig Economy
+    unique_subject: Luxury gig services
+    keywords: [gig economy, Dubai, luxury, services, work]
+    description: How Dubai’s gig economy is fueling a boom in luxury services, from chauffeurs to personal shoppers.
+    author: Earnest Hemmingweigh
+    og_image: /content/assets/dubai-gig-worker.jpg
+
+  - title: "Flamenco in Spain: Passion and Tradition"
+    topic: Cultural Practices
+    unique_subject: Flamenco dance culture
+    keywords: [flamenco, Spain, dance, culture, tradition]
+    description: The enduring passion of flamenco in Spain, blending tradition with modern expressions.
+    author: Joanna Aucton
+    og_image: /content/assets/flamenco-performance.jpg
+
+  - title: "Autonomous Drones in Mining: Efficiency Gains"
+    topic: Autonomous Technology
+    unique_subject: Drones in mining operations
+    keywords: [drones, autonomous, mining, technology, efficiency]
+    description: How autonomous drones are transforming mining operations with enhanced safety and efficiency.
+    author: Marcus Twyne
+    og_image: /content/assets/mining-drone.jpg
+
+  - title: "Hockey in Canada: A Cultural Staple"
+    topic: Sports Culture
+    unique_subject: Hockey’s cultural role
+    keywords: [hockey, Canada, sports, culture, community]
+    description: How hockey remains a cornerstone of Canadian culture, uniting communities nationwide.
+    author: Silas Twaine
+    og_image: /content/assets/hockey-game.jpg
+
+  - title: "Blockchain for Land Rights: Securing Ownership"
+    topic: Blockchain Technology
+    unique_subject: Blockchain in land registries
+    keywords: [blockchain, land rights, technology, ownership, security]
+    description: How blockchain is securing land ownership records, empowering communities globally.
+    author: Jonah Stynebeck
+    og_image: /content/assets/blockchain-land-registry.jpg
+
+  - title: "Art Therapy in Syria: Healing Through Creativity"
+    topic: Refugee Education
+    unique_subject: Art therapy for refugees
+    keywords: [art therapy, Syria, education, healing, humanitarian]
+    description: Art therapy programs in Syria, helping refugees heal through creative expression.
+    author: Emmeline Dickenson
+    og_image: /content/assets/syria-art-therapy.jpg
+
+  - title: "Bamboo Fashion in Asia: Eco-Chic Trends"
+    topic: Sustainable Fashion
+    unique_subject: Bamboo textile fashion
+    keywords: [bamboo, fashion, Asia, sustainability, eco-chic]
+    description: Asia’s bamboo fashion movement, creating sustainable, stylish textiles for global markets.
+    author: Lara Wylde
+    og_image: /content/assets/bamboo-fashion-runway.jpg
+
+  - title: "Glacier Retreat Studies: Climate Warning Signs"
+    topic: Climate Science
+    unique_subject: Glacier climate research
+    keywords: [glaciers, climate, research, environment, global]
+    description: Research on glacier retreat, providing critical warnings about global climate change.
+    author: Eliza Alcotte
+    og_image: /content/assets/glacier-research.jpg
+
+  - title: "Microgrants in Colombia: Community Projects"
+    topic: Microfinance
+    unique_subject: Microgrants for communities
+    keywords: [microgrants, Colombia, microfinance, community, empowerment]
+    description: How microgrants in Colombia are funding community projects, driving local development.
+    author: Davin Thorow
+    og_image: /content/assets/colombia-microgrant.jpg

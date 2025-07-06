@@ -1,24 +1,22 @@
 ---
-title: "Prague\u2019s MeetFactory: Art and Energy in Sm\xEDchov"
+title: 'Prague’s MeetFactory: Art and Energy in Smíchov'
 slug: pragues-meetfactory-art-and-energy-in-smichov
 author: Sara Brontee
-date: '2025-07-03'
-meta_description: "How Prague\u2019s MeetFactory blends art and cultural energy in\
-  \ Sm\xEDchov, with ideas for sustainable cultural spaces."
+date: '2025-06-04'
+meta_description: How Prague’s MeetFactory blends art and cultural energy in Smíchov,
+  with ideas for sustainable cultural spaces.
 meta_keywords:
 - MeetFactory
 - Prague
-- "Sm\xEDchov"
+- Smíchov
 - art
 - energy
-og_title: "Prague\u2019s MeetFactory: Art and Energy in Sm\xEDchov - Volta Powers"
-og_description: "How Prague\u2019s MeetFactory blends art and cultural energy in Sm\xED\
-  chov, with ideas for sustainable cultural spaces."
+og_title: 'Prague’s MeetFactory: Art and Energy in Smíchov - Volta Powers'
+og_description: How Prague’s MeetFactory blends art and cultural energy in Smíchov,
+  with ideas for sustainable cultural spaces.
 og_image: /content/assets/meetfactory-art.jpg
-
 ---
-# Blending Art and Energy: MeetFactory’s Vibrant Role in Prague’s Smíchov
-
+<!-- $1 -->
 In the heart of Prague’s historic Smíchov district, where the Vltava River whispers tales of centuries past, a modern beacon of creativity stands as a testament to enduring cultural resilience. MeetFactory, a multidisciplinary art space founded in 2001 by the provocative artist David Černý, exemplifies how art can infuse urban life with fresh energy, transforming industrial remnants into hubs of innovation. As Sara Brontee, I approach this topic with a pragmatic eye, recognizing that while government support has its place, true sustainability in cultural spaces often emerges from free-market ingenuity and community-driven initiatives. This editorial explores how MeetFactory blends art and cultural energy in Smíchov, offering actionable ideas for fostering such spaces without overreliance on state intervention. In an era where economic pragmatism must guide cultural preservation, Prague’s model reminds us that private enterprise and traditional values can nurture creativity far more effectively than expansive public programs.
 
 ## The Heart of Smíchov: MeetFactory’s Fusion of Art and Community

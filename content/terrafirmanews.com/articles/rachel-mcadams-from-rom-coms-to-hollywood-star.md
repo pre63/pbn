@@ -2,9 +2,9 @@
 title: 'Rachel McAdams: From Rom-Coms to Hollywood Star'
 slug: rachel-mcadams-from-rom-coms-to-hollywood-star
 author: Alec Dumass
-date: '2025-07-03'
-meta_description: "Rachel McAdams\u2019 2026 Walk of Fame star honors her journey\
-  \ from rom-coms to Hollywood heavyweight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+date: '2023-02-07'
+meta_description: Rachel McAdams’ 2026 Walk of Fame star honors her journey from rom-coms
+  to Hollywood heavyweight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 meta_keywords:
 - Rachel McAdams
 - Hollywood Walk of Fame
@@ -12,14 +12,11 @@ meta_keywords:
 - rom-coms
 - career
 og_title: 'Rachel McAdams: From Rom-Coms to Hollywood Star - Terra Firma News'
-og_description: "Rachel McAdams\u2019 2026 Walk of Fame star honors her journey from\
-  \ rom-coms to Hollywood heavyweight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+og_description: Rachel McAdams’ 2026 Walk of Fame star honors her journey from rom-coms
+  to Hollywood heavyweight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 og_image: /content/assets/mcadams-star.jpg
-
 ---
-# Rachel McAdams: From Rom-Com Charm to Hollywood's Walk of Fame Triumph
-
-By Alec Dumass  
+<!-- $1 -->
 *Terra Firma News*  
 *Published: [Current Date]*  
 

@@ -1,26 +1,23 @@
 ---
-title: "Karate Kid: Legends \u2013 Hollywood\u2019s Martial Arts Resurgence"
+title: 'Karate Kid: Legends – Hollywood’s Martial Arts Resurgence'
 slug: karate-kid-legends-hollywoods-martial-arts-resurge
 author: Alec Dumass
-date: '2025-07-03'
-meta_description: "Karate Kid: Legends, starring Jackie Chan, fuels Hollywood\u2019\
-  s martial arts resurgence with dynamic action.[](https://www.firstpost.com/category/entertainment/)"
+date: '2019-07-05'
+meta_description: 'Karate Kid: Legends, starring Jackie Chan, fuels Hollywood’s martial
+  arts resurgence with dynamic action.[](https://www.firstpost.com/category/entertainment/)'
 meta_keywords:
 - Karate Kid
 - Jackie Chan
 - Hollywood
 - martial arts
 - sequels
-og_title: "Karate Kid: Legends \u2013 Hollywood\u2019s Martial Arts Resurgence - Terra\
-  \ Firma News"
-og_description: "Karate Kid: Legends, starring Jackie Chan, fuels Hollywood\u2019\
-  s martial arts resurgence with dynamic action.[](https://www.firstpost.com/category/entertainment/)"
+og_title: 'Karate Kid: Legends – Hollywood’s Martial Arts Resurgence - Terra Firma
+  News'
+og_description: 'Karate Kid: Legends, starring Jackie Chan, fuels Hollywood’s martial
+  arts resurgence with dynamic action.[](https://www.firstpost.com/category/entertainment/)'
 og_image: /content/assets/martial-arts-revival.jpg
-
 ---
-# The Timeless Kick: How 'Karate Kid: Legends' Revitalizes Hollywood's Martial Arts Legacy
-
-By Alec Dumass  
+<!-- $1 -->
 *Terra Firma News*  
 *September 15, 2023*
 
@@ -57,4 +54,3 @@ As the credits roll on *Karate Kid: Legends*, we are left with a resounding mess
 Yet, as we look to the future, let us guard against the temptations of overregulation. Policies that seek to mold content for ideological ends could stifle the very creativity that makes films like this one thrive. Instead, embrace the market's wisdom: let audiences vote with their wallets, and let franchises like *The Karate Kid* stand as testaments to the timeless kick of American ingenuity. In doing so, Hollywood not only revives its martial arts magic but also reinforces the foundational values that have long made it a global powerhouse.
 
 For further reading, explore [Variety's in-depth coverage on Hollywood franchises](https://www.variety.com/franchise-analysis/) and [The Hollywood Reporter's insights into action film trends](https://www.hollywoodreporter.com/topic/action-films/).
-

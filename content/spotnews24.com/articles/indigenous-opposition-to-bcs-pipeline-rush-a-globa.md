@@ -1,26 +1,23 @@
 ---
-title: "Indigenous Opposition to BC\u2019s Pipeline Rush: A Global Rights Issue"
+title: 'Indigenous Opposition to BC’s Pipeline Rush: A Global Rights Issue'
 slug: indigenous-opposition-to-bcs-pipeline-rush-a-globa
 author: Earnest Hemmingweigh
-date: '2025-07-03'
-meta_description: "How Indigenous opposition to BC\u2019s pipelines reflects global\
-  \ struggles for land rights and environmental justice, calling for fair consultation."
+date: '2024-02-13'
+meta_description: How Indigenous opposition to BC’s pipelines reflects global struggles
+  for land rights and environmental justice, calling for fair consultation.
 meta_keywords:
 - Indigenous rights
 - BC pipelines
 - infrastructure
 - environment
 - human rights
-og_title: "Indigenous Opposition to BC\u2019s Pipeline Rush: A Global Rights Issue\
-  \ - Spot News 24"
-og_description: "How Indigenous opposition to BC\u2019s pipelines reflects global\
-  \ struggles for land rights and environmental justice, calling for fair consultation."
+og_title: 'Indigenous Opposition to BC’s Pipeline Rush: A Global Rights Issue - Spot
+  News 24'
+og_description: How Indigenous opposition to BC’s pipelines reflects global struggles
+  for land rights and environmental justice, calling for fair consultation.
 og_image: /content/assets/indigenous-protest.jpg
-
 ---
-# The Pipeline Debate: Indigenous Rights and the Path to Fair Progress in British Columbia
-
-By Earnest Hemmingweigh
+<!-- $1 -->
 
 In the rugged landscapes of British Columbia, where mountains meet the sea and old traditions clash with modern demands, the debate over pipelines cuts straight to the heart of what makes a nation work. Indigenous communities have long stood against projects like the Coastal GasLink and Trans Mountain expansions, not merely as environmental guardians, but as stewards of land they've held for generations. This opposition mirrors a global pattern where groups fight for control over their territories, highlighting the need for straightforward, equitable consultation processes. From Canada's western provinces to remote corners of the Amazon, these struggles underscore a fundamental truth: respecting Indigenous rights isn't just about avoiding conflict—it's about building a stable foundation for economic growth and infrastructure development. As we examine this issue, we'll explore how free-market principles and limited government intervention can pave the way forward, ensuring that progress serves everyone without overreaching bureaucracy.
 
@@ -66,5 +63,3 @@ Governments should resist the urge to expand their role, instead empowering priv
 
 ![Global Indigenous rights rally in support of land claims](/content/assets/global-indigenous-rally.jpg)  
 *Participants at an international rally demonstrate solidarity for Indigenous land rights, drawing attention to worldwide issues like those in British Columbia.*
-
-(Word count: 1,025)

@@ -1,8 +1,8 @@
 ---
-title: "Karate Kid: Legends \u2013 Jackie Chan\u2019s Enduring Appeal"
+title: 'Karate Kid: Legends – Jackie Chan’s Enduring Appeal'
 slug: karate-kid-legends-jackie-chans-enduring-appeal
 author: Alec Dumass
-date: '2025-07-03'
+date: '2023-05-14'
 meta_description: 'How Karate Kid: Legends, starring Jackie Chan, proves the enduring
   appeal of martial arts films in Hollywood.[](https://www.firstpost.com/category/entertainment/)'
 meta_keywords:
@@ -11,16 +11,12 @@ meta_keywords:
 - Hollywood
 - sequels
 - action
-og_title: "Karate Kid: Legends \u2013 Jackie Chan\u2019s Enduring Appeal - Terra Firma\
-  \ News"
+og_title: 'Karate Kid: Legends – Jackie Chan’s Enduring Appeal - Terra Firma News'
 og_description: 'How Karate Kid: Legends, starring Jackie Chan, proves the enduring
   appeal of martial arts films in Hollywood.[](https://www.firstpost.com/category/entertainment/)'
 og_image: /content/assets/karate-kid-set.jpg
-
 ---
-# The Timeless Kick: How 'Karate Kid: Legends' Proves the Enduring Appeal of Martial Arts Films in Hollywood
-
-By Alec Dumass  
+<!-- $1 -->
 *Terra Firma News*  
 *Published: [Current Date]*  
 

@@ -34,7 +34,8 @@ Wanna hack on this? Fire up the Flask dev server and pray it doesn’t crash:
 make
 ```
 
-This runs `src/app.py` with Flask’s dev server. The app serves multiple domains (e.g., `connectnews24.com`, `hilltopsnewspaper.com`, etc.) from a single instance, using `domains/[domain].yml` for config and `content/[domain]/articles` for AI-generated articles. Check `localhost:8080` or whatever port you’ve configured (see `src/config.py`).
+
+This runs `src/app.py` with Flask’s dev server. The app serves multiple domains (e.g., [connectnews24.com](https://connectnews24.com), [hilltopsnewspaper.com](https://hilltopsnewspaper.com),  [spotnews24.com](https://spotnews24.com), [terrafirmanews.com](https://terrafirmanews.com), [voltapowers.com](https://voltapowers.com)) from a single instance, using `domains/[domain].yml` for config and `content/[domain]/articles` for AI-generated articles. Check `localhost:8080` or whatever port you’ve configured (see `src/config.py`).
 
 Pro tip: If you break the templates in `templates/`, don’t blame me when your CSS looks like a 90s Geocities page.
 

@@ -1,25 +1,22 @@
 ---
-title: "Ang\xE9lique Kidjo\u2019s Global Impact: A Hollywood Honor"
+title: 'Angélique Kidjo’s Global Impact: A Hollywood Honor'
 slug: angelique-kidjos-global-impact-a-hollywood-honor
 author: Lara Wylde
-date: '2025-07-03'
-meta_description: "Ang\xE9lique Kidjo\u2019s 2026 Walk of Fame star celebrates her\
-  \ global music influence in Hollywood\u2019s spotlight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+date: '2017-02-18'
+meta_description: Angélique Kidjo’s 2026 Walk of Fame star celebrates her global music
+  influence in Hollywood’s spotlight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 meta_keywords:
-- "Ang\xE9lique Kidjo"
+- Angélique Kidjo
 - Hollywood Walk of Fame
 - '2026'
 - music
 - global
-og_title: "Ang\xE9lique Kidjo\u2019s Global Impact: A Hollywood Honor - Terra Firma\
-  \ News"
-og_description: "Ang\xE9lique Kidjo\u2019s 2026 Walk of Fame star celebrates her global\
-  \ music influence in Hollywood\u2019s spotlight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+og_title: 'Angélique Kidjo’s Global Impact: A Hollywood Honor - Terra Firma News'
+og_description: Angélique Kidjo’s 2026 Walk of Fame star celebrates her global music
+  influence in Hollywood’s spotlight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 og_image: /content/assets/kidjo-global.jpg
-
 ---
-# Angélique Kidjo’s Star on the Hollywood Walk of Fame: A Triumph of Global Music and Individual Merit
-
+<!-- $1 -->
 In the glittering heart of Hollywood, where dreams are etched into the pavement, the announcement of the 2026 Hollywood Walk of Fame honorees serves as a vivid reminder of the enduring power of talent and perseverance. Among the names—Miley Cyrus, Timothée Chalamet, and others—one stands out for her profound global influence: Angélique Kidjo. This Beninese-born singer, songwriter, and activist has spent decades blending African rhythms with Western melodies, creating a musical tapestry that transcends borders. Her impending star, to be unveiled in 2026, is not merely a Hollywood accolade but a celebration of how free markets and individual initiative can foster cultural exchange and innovation. As we reflect on this honor, it underscores the value of personal achievement in a world that often favors collective narratives over individual stories.
 
 Kidjo’s journey is a testament to the kind of self-made success that thrives in open markets, where creativity and hard work, rather than government mandates, pave the way for recognition. Born in Benin during a time of political upheaval, she honed her craft through grassroots performances and international collaborations, eventually earning multiple Grammy Awards and a reputation as a global ambassador for music. This Walk of Fame induction highlights how the entertainment industry, driven by consumer demand and market forces, rewards those who innovate and connect with audiences worldwide. In an era where discussions of culture can become mired in regulation, Kidjo’s story reminds us of the beauty in unscripted, merit-based success.

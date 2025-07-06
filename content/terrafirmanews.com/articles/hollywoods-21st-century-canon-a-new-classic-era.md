@@ -1,25 +1,22 @@
 ---
-title: "Hollywood\u2019s 21st Century Canon: A New Classic Era"
+title: 'Hollywood’s 21st Century Canon: A New Classic Era'
 slug: hollywoods-21st-century-canon-a-new-classic-era
 author: Earnest Hemmingweigh
-date: '2025-07-03'
-meta_description: "The New York Times\u2019 poll redefines Hollywood\u2019s 21st-century\
-  \ canon, sparking debate on what makes a classic.[](https://nytimes.com/section/movies)"
+date: '2022-03-07'
+meta_description: The New York Times’ poll redefines Hollywood’s 21st-century canon,
+  sparking debate on what makes a classic.[](https://nytimes.com/section/movies)
 meta_keywords:
 - Hollywood
 - 21st century
 - classic films
 - industry trends
 - culture
-og_title: "Hollywood\u2019s 21st Century Canon: A New Classic Era - Terra Firma News"
-og_description: "The New York Times\u2019 poll redefines Hollywood\u2019s 21st-century\
-  \ canon, sparking debate on what makes a classic.[](https://nytimes.com/section/movies)"
+og_title: 'Hollywood’s 21st Century Canon: A New Classic Era - Terra Firma News'
+og_description: The New York Times’ poll redefines Hollywood’s 21st-century canon,
+  sparking debate on what makes a classic.[](https://nytimes.com/section/movies)
 og_image: /content/assets/hollywood-canon.jpg
-
 ---
-# Redefining Hollywood's Canon: What Makes a 21st-Century Classic?
-
-By Earnest Hemmingweigh  
+<!-- $1 -->
 
 In the dim glow of a crowded theater, where the scent of popcorn mingles with the electric hum of anticipation, the magic of cinema has always been about escape and reflection—stories that capture the human spirit in its raw, unfiltered form. Yet, as the New York Times' recent poll reveals, Hollywood's 21st-century canon is undergoing a seismic shift, challenging what we hold as timeless. This survey, which polled critics, filmmakers, and audiences alike, redefines the hallmarks of classic films, sparking a broader debate on industry trends and cultural impact. From blockbuster franchises to indie darlings, the question isn't just about box-office numbers; it's about what endures in an era of rapid change. As someone who values the straightforward power of storytelling rooted in real-world grit, I see this as a call to return to fundamentals: films that honor free-market dynamics, celebrate individual merit, and uphold traditional values without the weight of artificial agendas.
 
@@ -60,4 +57,3 @@ As we look ahead, the industry should embrace free-market principles: foster com
 In the end, the NYT poll serves as a mirror to Hollywood's soul, reflecting both its strengths and vulnerabilities. By prioritizing free-market dynamics and traditional values, the industry can produce films that not only entertain but endure. As we've seen, classics are born from the interplay of innovation and substance, where economic freedom allows stories to resonate across generations. Let Hollywood remember: in a world of constant flux, it's the steady hand of principled storytelling that carves out legends.
 
 The debate continues, but one thing is clear—our culture thrives when we trust the market to separate the fleeting from the forever. As viewers, we hold the power; let's use it wisely.
-

@@ -1,12 +1,12 @@
 {% extends 'base.html' %}
 {% block title %}Explore Articles - {{ config.site.name }}{% endblock %}
-{% block meta_description %}Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
+{% block meta_description %}Suggested Articles Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
 {% block meta_keywords %}{{ config.site.keywords|join(', ') }}{% endblock %}
 {% block og_title %}Explore Articles - {{ config.site.name }}{% endblock %}
-{% block og_description %}Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
+{% block og_description %}Suggested Articles Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
 {% block og_image %}{{ config.seo.og_image }}{% endblock %}
 {% block twitter_title %}Explore Articles - {{ config.site.name }}{% endblock %}
-{% block twitter_description %}Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
+{% block twitter_description %}Suggested Articles Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.{% endblock %}
 {% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
 {% block breadcrumbs %}
 <nav class="breadcrumbs">
@@ -17,52 +17,78 @@
 {% block page_class %}not-found-page{% endblock %}
 {% block content %}
 <section class="hero">
-  <img src="/content/assets/404.jpg" alt="Page Not Found" loading="lazy" width="1200" height="600">
+  <img src="{{ config.seo.og_image }}" alt="{{ config.site.name }}" loading="lazy" width="1200" height="600">
   <div class="hero-content">
-    <h1>Page Not Found</h1>
-    <p>Lost? Explore our latest articles or return home.</p>
+    <p>{{ config.site.description }}</p>
   </div>
 </section>
 
 <section class="search-section">
   <form class="search-bar" action="{{ url_for('search') }}" method="GET">
-    <input type="text" name="q" placeholder="Search for articles..." required>
+    <input type="text" name="q" placeholder="Search articles..." required value="{{ search_query|default('') }}">
     <button type="submit" aria-label="Search"></button>
   </form>
-  <p><a href="{{ url_for('index') }}" class="button">Go to Homepage</a></p>
 </section>
 
-{% if related_articles %}
-<section class="related-articles">
-  <h2>Suggested Articles</h2>
-  <div class="article-list">
-    {% for article in related_articles %}
-    <div class="article-preview">
-      <a href="{{ url_for('article', slug=article.slug) }}">
-        <picture>
-          <source srcset="{{ article.og_image|default(config.content.default_image) }}" type="image/webp">
-          <img src="{{ article.og_image|default(config.content.default_image) }}" alt="{{ article.title }}" loading="lazy" width="1200" height="600">
-        </picture>
-        <h3>{{ article.title }}</h3>
-        <p>{{ article.meta_description }}</p>
-      </a>
-    </div>
-    {% endfor %}
+<div class="columns-section">
+  <div class="two-thirds-column">
+    {% if latest_article %}
+    <section class="featured-post">
+      <h2>Featured Article</h2>
+      <div class="article-preview-home article-preview">
+        <img src="{{ latest_article.og_image or config.content.default_image }}" alt="{{ latest_article.title }}" loading="lazy" width="1200" height="600">
+        <h3><a href="{{ url_for('article', slug=latest_article.slug) }}">{{ latest_article.title }}</a></h3>
+        <p>{{ latest_article.meta_description }}</p>
+        <a href="{{ url_for('article', slug=latest_article.slug) }}" class="button">Read More</a>
+      </div>
+    </section>
+    {% endif %}
+
+    {% if latest_articles %}
+    <section class="recent-articles">
+      <h2>{% if search_query %}Search Results for "{{ search_query }}"{% else %}Recent Articles{% endif %}</h2>
+      <div class="article-list">
+        {% for article in latest_articles %}
+        <div class="article-preview-home article-preview">
+          <img src="{{ article.og_image or config.content.default_image }}" alt="{{ article.title }}" loading="lazy" width="1200" height="600">
+          <h3><a href="{{ url_for('article', slug=article.slug) }}">{{ article.title }}</a></h3>
+          <p>{{ article.meta_description }}</p>
+          <a href="{{ url_for('article', slug=article.slug) }}" class="button">Read More</a>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if related_articles %}
+    <section class="related-articles">
+      <h2>Related Articles</h2>
+      <div class="article-list">
+        {% for article in related_articles %}
+        <div class="article-preview">
+          <a href="{{ url_for('article', slug=article.slug) }}">
+            <picture>
+              <source srcset="{{ article.og_image|default(config.content.default_image) }}" type="image/webp">
+              <img src="{{ article.og_image|default(config.content.default_image) }}" alt="{{ article.title }}" loading="lazy" width="1200" height="600">
+            </picture>
+            <h3>{{ article.title }}</h3>
+            <p>{{ article.meta_description }}</p>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
   </div>
-</section>
-{% endif %}
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "Explore Articles",
-  "description": "Couldn’t find the page? Explore our latest articles on {{ config.content.topics|join(', ') }} at {{ config.site.name }}.",
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ config.site.name }}",
-    "url": "{{ url_for('index', _external=True) }}"
-  }
-}
-</script>
+  <div class="one-third-column">
+    <section class="categories">
+      <h2>Categories</h2>
+      <ul>
+        {% for topic in config.content.topics %}
+        <li><a href="{{ url_for('search', q=topic) }}">{{ topic|capitalize }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+</div>
 {% endblock %}

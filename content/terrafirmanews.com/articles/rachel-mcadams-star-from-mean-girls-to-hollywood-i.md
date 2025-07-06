@@ -1,25 +1,22 @@
 ---
-title: "Rachel McAdams\u2019 Star: From Mean Girls to Hollywood Icon"
+title: 'Rachel McAdams’ Star: From Mean Girls to Hollywood Icon'
 slug: rachel-mcadams-star-from-mean-girls-to-hollywood-i
 author: Marian Shelleigh
-date: '2025-07-03'
-meta_description: "How Rachel McAdams\u2019 2026 Walk of Fame star cements her journey\
-  \ from Mean Girls to Hollywood powerhouse.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+date: '2015-11-29'
+meta_description: How Rachel McAdams’ 2026 Walk of Fame star cements her journey from
+  Mean Girls to Hollywood powerhouse.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 meta_keywords:
 - Rachel McAdams
 - Hollywood Walk of Fame
 - '2026'
 - movies
 - career
-og_title: "Rachel McAdams\u2019 Star: From Mean Girls to Hollywood Icon - Terra Firma\
-  \ News"
-og_description: "How Rachel McAdams\u2019 2026 Walk of Fame star cements her journey\
-  \ from Mean Girls to Hollywood powerhouse.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)"
+og_title: 'Rachel McAdams’ Star: From Mean Girls to Hollywood Icon - Terra Firma News'
+og_description: How Rachel McAdams’ 2026 Walk of Fame star cements her journey from
+  Mean Girls to Hollywood powerhouse.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 og_image: /content/assets/rachel-mcadams.jpg
-
 ---
-# Rachel McAdams’ 2026 Walk of Fame Star: A Celebration of Merit and Perseverance in Hollywood
-
+<!-- $1 -->
 ## Introduction
 
 In an era where celebrity culture often blurs the lines between fleeting fame and lasting legacy, Rachel McAdams’ induction into the Hollywood Walk of Fame in 2026 stands as a beacon of enduring achievement. This milestone, announced as part of a star-studded class that includes the likes of Miley Cyrus and Timothée Chalamet [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/), marks not just a personal triumph for the Canadian actress but a narrative of grit and talent that resonates with the core principles of a free-market society. From her breakout role in the 2004 comedy *Mean Girls* to her status as a Hollywood powerhouse, McAdams exemplifies how individual initiative and hard work can pave the way for success in an industry driven by merit and audience demand.

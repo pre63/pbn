@@ -177,7 +177,7 @@ import traceback
 
 def main():
   """Generate and save articles for our PBN. Don’t waste my API credits, you hear?"""
-  domains = ["connectnews24.com", "hilltopsnewspaper.com", "powersporta.com", "spotnews24.com", "terrafirmanews.com", "voltapowers.com"]
+  domains = ["hilltopsnewspaper.com", "powersporta.com", "spotnews24.com", "terrafirmanews.com", "voltapowers.com"]
 
   for domain in domains:
     print(f"Processing articles for {domain}. Grab a coffee, this might take a sec...")

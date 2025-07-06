@@ -1,24 +1,22 @@
 ---
-title: "Sm\xEDchov\u2019s Historical Trams: Czech Transport Heritage"
+title: 'Smíchov’s Historical Trams: Czech Transport Heritage'
 slug: smichovs-historical-trams-czech-transport-heritage
 author: Jonah Stynebeck
-date: '2025-07-03'
-meta_description: "The historical significance of Sm\xEDchov\u2019s trams, with ideas\
-  \ for integrating clean energy into Czech transport heritage."
+date: '2025-05-21'
+meta_description: The historical significance of Smíchov’s trams, with ideas for integrating
+  clean energy into Czech transport heritage.
 meta_keywords:
-- "Sm\xEDchov"
+- Smíchov
 - trams
 - Prague
 - transport
 - heritage
-og_title: "Sm\xEDchov\u2019s Historical Trams: Czech Transport Heritage - Volta Powers"
-og_description: "The historical significance of Sm\xEDchov\u2019s trams, with ideas\
-  \ for integrating clean energy into Czech transport heritage."
+og_title: 'Smíchov’s Historical Trams: Czech Transport Heritage - Volta Powers'
+og_description: The historical significance of Smíchov’s trams, with ideas for integrating
+  clean energy into Czech transport heritage.
 og_image: /content/assets/smichov-tram.jpg
-
 ---
-# Revitalizing Prague's Trams: A Pragmatic Path to Sustainable Heritage
-
+<!-- $1 -->
 ## Introduction: The Wheels of History in Smíchov
 
 In the heart of Prague, where the Vltava River winds through centuries of European history, the clatter of trams in Smíchov district serves as a living testament to the Czech Republic's enduring spirit of innovation and resilience. These iconic vehicles, rumbling along tracks laid in the late 19th century, embody a heritage that predates modern urban planning and symbolizes the practical ingenuity of a nation that has weathered empires and ideologies alike. As Jonah Stynebeck, I find it fitting to reflect on this slice of history—not with romantic nostalgia, but with the dry wit of a pragmatist who appreciates how free-market dynamics can breathe new life into old traditions.
@@ -62,5 +60,3 @@ In Smíchov specifically, where trams have long supported local businesses and t
 As we look ahead, the story of Smíchov's trams is one of adaptation and endurance—a narrative that resonates with the core tenets of a center-right worldview. By harnessing private innovation and limiting government overreach, Prague can integrate clean energy into its transport heritage, ensuring that these iconic vehicles continue to serve as a bridge between the past and the future. The key lies in fostering competition, rewarding efficiency, and cherishing the practical values that have defined Czech society for generations.
 
 In the end, it's not about reinventing the wheel but refining it. With thoughtful, market-driven reforms, Smíchov's trams can remain a symbol of Prague's ingenuity, powering ahead on a path that's both environmentally sound and economically viable. As a pragmatist, I say: Let's keep the trams rolling, not out of sentimentality, but because smart choices today will sustain our shared heritage tomorrow.
-
-(Word count: 1,045)

@@ -2,24 +2,21 @@
 title: 'Gideon Glick: From Broadway to Hollywood Stardom'
 slug: gideon-glick-from-broadway-to-hollywood-stardom
 author: Jonah Stynebeck
-date: '2025-07-03'
-meta_description: "Gideon Glick\u2019s journey from Spring Awakening to \xC9toile\
-  \ showcases a new talent redefining Hollywood\u2019s star system.[](https://ew.com/movies)"
+date: '2018-05-02'
+meta_description: Gideon Glick’s journey from Spring Awakening to Étoile showcases
+  a new talent redefining Hollywood’s star system.[](https://ew.com/movies)
 meta_keywords:
 - Gideon Glick
-- "\xC9toile"
+- Étoile
 - Hollywood
 - Broadway
 - rising stars
 og_title: 'Gideon Glick: From Broadway to Hollywood Stardom - Terra Firma News'
-og_description: "Gideon Glick\u2019s journey from Spring Awakening to \xC9toile showcases\
-  \ a new talent redefining Hollywood\u2019s star system.[](https://ew.com/movies)"
+og_description: Gideon Glick’s journey from Spring Awakening to Étoile showcases a
+  new talent redefining Hollywood’s star system.[](https://ew.com/movies)
 og_image: /content/assets/gideon-glick.jpg
-
 ---
-# Rising Stars: Gideon Glick and the Resilient Spirit of Hollywood's Free Market
-
-By Jonah Stynebeck  
+<!-- $1 -->
 *Terra Firma News*  
 *Published: [Current Date]*  
 

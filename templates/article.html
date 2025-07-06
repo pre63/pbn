@@ -22,7 +22,6 @@
 {% block content %}
 <section class="hero">
   <picture>
-    <source srcset="{{ article.og_image|default(config.content.default_image) }}" type="image/webp">
     <img src="{{ article.og_image|default(config.content.default_image) }}" alt="{{ article.title }}" loading="lazy" width="1200" height="600">
   </picture>
   <div class="hero-content">

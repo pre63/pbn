@@ -1,26 +1,22 @@
 ---
-title: "Hollywood\u2019s Sound Artistry: Sanaa Kelley\u2019s Impact"
+title: 'Hollywood’s Sound Artistry: Sanaa Kelley’s Impact'
 slug: hollywoods-sound-artistry-sanaa-kelleys-impact
 author: Eliza Alcotte
-date: '2025-07-03'
-meta_description: "How Sanaa Kelley\u2019s sound effects work elevates Hollywood films,\
-  \ showcasing the craft behind the scenes.[](https://www.cbsnews.com/)"
+date: '2023-08-28'
+meta_description: How Sanaa Kelley’s sound effects work elevates Hollywood films,
+  showcasing the craft behind the scenes.[](https://www.cbsnews.com/)
 meta_keywords:
 - Sanaa Kelley
 - sound effects
 - Hollywood
 - movies
 - artistry
-og_title: "Hollywood\u2019s Sound Artistry: Sanaa Kelley\u2019s Impact - Terra Firma\
-  \ News"
-og_description: "How Sanaa Kelley\u2019s sound effects work elevates Hollywood films,\
-  \ showcasing the craft behind the scenes.[](https://www.cbsnews.com/)"
+og_title: 'Hollywood’s Sound Artistry: Sanaa Kelley’s Impact - Terra Firma News'
+og_description: How Sanaa Kelley’s sound effects work elevates Hollywood films, showcasing
+  the craft behind the scenes.[](https://www.cbsnews.com/)
 og_image: /content/assets/sound-effects.jpg
-
 ---
-# Behind the Scenes: The Artistry of Sanaa Kelley's Sound Effects in Hollywood
-
-By Eliza Alcotte  
+<!-- $1 -->
 *Terra Firma News*  
 *Published: [Current Date]*  
 

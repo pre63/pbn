@@ -1,25 +1,22 @@
 ---
-title: "Myanmar\u2019s Military Coup: ASEAN\u2019s Response Falls Short"
+title: 'Myanmar’s Military Coup: ASEAN’s Response Falls Short'
 slug: myanmars-military-coup-aseans-response-falls-short
 author: Emmeline Dickenson
-date: '2025-07-03'
-meta_description: "Analyzing Myanmar\u2019s ongoing crisis post-coup, critiquing ASEAN\u2019\
-  s ineffective response and global calls for humanitarian intervention."
+date: '2018-12-14'
+meta_description: Analyzing Myanmar’s ongoing crisis post-coup, critiquing ASEAN’s
+  ineffective response and global calls for humanitarian intervention.
 meta_keywords:
 - Myanmar
 - military coup
 - ASEAN
 - human rights
 - geopolitics
-og_title: "Myanmar\u2019s Military Coup: ASEAN\u2019s Response Falls Short - Spot\
-  \ News 24"
-og_description: "Analyzing Myanmar\u2019s ongoing crisis post-coup, critiquing ASEAN\u2019\
-  s ineffective response and global calls for humanitarian intervention."
+og_title: 'Myanmar’s Military Coup: ASEAN’s Response Falls Short - Spot News 24'
+og_description: Analyzing Myanmar’s ongoing crisis post-coup, critiquing ASEAN’s ineffective
+  response and global calls for humanitarian intervention.
 og_image: /content/assets/myanmar-protest.jpg
-
 ---
-# Shadows of Tyranny: Myanmar's Crisis and the Limits of Global Intervention
-
+<!-- $1 -->
 In the quiet corners of Southeast Asia, where ancient rivers whisper secrets of empires long past, Myanmar stands as a nation ensnared in its own shadow. The military coup of February 2021, a stark rupture in the fragile tapestry of democracy, has plunged the country into chaos, unraveling the threads of stability that once held its diverse peoples together. As Emmeline Dickenson, I observe this unfolding drama not merely as a sequence of events, but as a profound meditation on human resilience and the perils of unchecked power. Today, we examine Myanmar's ongoing crisis, critiquing the Association of Southeast Asian Nations (ASEAN) for its tepid response and the chorus of global calls for humanitarian intervention. Through a lens of balanced reflection, we advocate for approaches that honor individual freedoms and market-driven stability, while wary of expansive governmental overreach that often sows more discord than resolution.
 
 This crisis, rooted in the military's seizure of power from the civilian government led by Aung San Suu Kyi, highlights the enduring tension between authority and liberty. Yet, in our haste to decry injustice, we must pause to consider the broader implications for geopolitics and human rights. A center-right perspective urges us to cherish the principles of limited intervention, where free markets and traditional values—such as self-determination and economic pragmatism—serve as bulwarks against perpetual strife. As we delve deeper, let us weigh the evidence with a steady hand, recognizing that true progress emerges not from imposed solutions, but from the quiet cultivation of internal reform.

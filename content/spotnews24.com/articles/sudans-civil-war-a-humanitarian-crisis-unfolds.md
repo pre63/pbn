@@ -1,25 +1,22 @@
 ---
-title: "Sudan\u2019s Civil War: A Humanitarian Crisis Unfolds"
+title: 'Sudan’s Civil War: A Humanitarian Crisis Unfolds'
 slug: sudans-civil-war-a-humanitarian-crisis-unfolds
 author: Sara Brontee
-date: '2025-07-03'
-meta_description: "Analyzing Sudan\u2019s ongoing civil war, its devastating humanitarian\
-  \ toll, and the global response to a growing refugee crisis."
+date: '2018-10-13'
+meta_description: Analyzing Sudan’s ongoing civil war, its devastating humanitarian
+  toll, and the global response to a growing refugee crisis.
 meta_keywords:
 - Sudan
 - civil war
 - humanitarian crisis
 - Africa
 - geopolitics
-og_title: "Sudan\u2019s Civil War: A Humanitarian Crisis Unfolds - Spot News 24"
-og_description: "Analyzing Sudan\u2019s ongoing civil war, its devastating humanitarian\
-  \ toll, and the global response to a growing refugee crisis."
+og_title: 'Sudan’s Civil War: A Humanitarian Crisis Unfolds - Spot News 24'
+og_description: Analyzing Sudan’s ongoing civil war, its devastating humanitarian
+  toll, and the global response to a growing refugee crisis.
 og_image: /content/assets/sudan-refugees.jpg
-
 ---
-# The Shadows of Sudan's Civil War: A Call for Prudent Global Engagement
-
-By Sara Brontee  
+<!-- $1 -->
 *Spot News 24*  
 *Published: [Current Date]*  
 

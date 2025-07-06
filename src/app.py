@@ -55,11 +55,11 @@ def find_similar_image_filename(requested_filename, directory="content/assets", 
 def load_domain_config():
   """Load domain config based on request host. Don’t mess this up, or we’re serving 404s all day."""
 
-  domain = request.host if not DEV else "connectnews24.com"
+  domain = request.host if not DEV else "voltapowers.com"
   # if domain is not in list of domains/* then set default config is os ls to know
   if not os.path.exists(f"domains/{domain}.yml") and not os.path.exists(f"domains/{domain}.yaml"):
     print(f"Config for {domain} not found. Falling back to default.")
-    domain = "connectnews24.com"
+    domain = "voltapowers.com"
 
   config_paths = [f"domains/{domain}.yml", f"domains/{domain}.yaml"]
   config_path = next((path for path in config_paths if os.path.exists(path)), None)
@@ -147,7 +147,7 @@ def create_app():
   @app.route("/")
   def index():
     """Homepage with featured and recent articles. No articles? Enjoy the silence."""
-    domain = request.host if not DEV else "connectnews24.com"
+    domain = request.host if not DEV else "voltapowers.com"
     articles = load_articles(domain)
     latest_article = articles[0] if articles else None
     latest_articles = articles[1:5] if len(articles) > 1 else []
@@ -157,7 +157,7 @@ def create_app():
   @app.route("/article/<slug>")
   def article(slug):
     """Serve an article by slug. Wrong slug? You’re getting a sneaky 404."""
-    domain = request.host if not DEV else "connectnews24.com"
+    domain = request.host if not DEV else "voltapowers.com"
     articles = load_articles(domain)
     article = next((a for a in articles if a["slug"] == slug), None)
     if not article:
@@ -168,7 +168,7 @@ def create_app():
   @app.route("/category/<category>")
   def category(category):
     """Serve articles by category (keyword)."""
-    domain = request.host if not DEV else "connectnews24.com"
+    domain = request.host if not DEV else "voltapowers.com"
     articles = load_articles(domain)
     matching_articles = [a for a in articles if category in [slugify(kw) for kw in a["meta_keywords"]]]
     return render_template(
@@ -185,7 +185,7 @@ def create_app():
     query = request.args.get("q", "").lower()
     if not query:
       return redirect(url_for("index"))
-    domain = request.host if not DEV else "connectnews24.com"
+    domain = request.host if not DEV else "powersporta.com"
     articles = load_articles(domain)
     results = []
     if articles:
@@ -240,7 +240,7 @@ def create_app():
   @app.route("/sitemap.xml")
   def sitemap():
     """Sitemap for SEO."""
-    domain = request.host if not DEV else "connectnews24.com"
+    domain = request.host if not DEV else "voltapowers.com"
     articles = load_articles(domain)
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
     xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
@@ -289,7 +289,7 @@ def create_app():
   @app.errorhandler(404)
   def handle_404(e):
     """Handle 404 with article suggestions."""
-    domain = request.host if not DEV else "connectnews24.com"
+    domain = request.host if not DEV else "voltapowers.com"
     articles = load_articles(domain)
     path = request.path.strip("/")
     slug = path.split("/")[-1] if path.startswith("article/") else path

@@ -1,26 +1,23 @@
 ---
-title: "BC\u2019s Infrastructure Act: Fast-Tracking Global Competitiveness?"
+title: 'BC’s Infrastructure Act: Fast-Tracking Global Competitiveness?'
 slug: bcs-infrastructure-act-fast-tracking-global-compet
 author: Earnest Hemmingweigh
-date: '2025-07-03'
-meta_description: "Analyzing BC\u2019s Infrastructure Projects Act as a bid for global\
-  \ economic competitiveness, with risks to environmental and Indigenous rights."
+date: '2024-07-15'
+meta_description: Analyzing BC’s Infrastructure Projects Act as a bid for global economic
+  competitiveness, with risks to environmental and Indigenous rights.
 meta_keywords:
 - Infrastructure Act
 - British Columbia
 - economy
 - environment
 - politics
-og_title: "BC\u2019s Infrastructure Act: Fast-Tracking Global Competitiveness? - Spot\
-  \ News 24"
-og_description: "Analyzing BC\u2019s Infrastructure Projects Act as a bid for global\
-  \ economic competitiveness, with risks to environmental and Indigenous rights."
+og_title: 'BC’s Infrastructure Act: Fast-Tracking Global Competitiveness? - Spot News
+  24'
+og_description: Analyzing BC’s Infrastructure Projects Act as a bid for global economic
+  competitiveness, with risks to environmental and Indigenous rights.
 og_image: /content/assets/construction-site.jpg
-
 ---
-# BC’s Infrastructure Act: A Bold Bid for Economic Edge, But at What Cost?
-
-By Earnest Hemmingweigh  
+<!-- $1 -->
 
 In the rugged expanse of British Columbia, where towering mountains meet the Pacific's relentless waves, the hum of progress is growing louder. The province's Infrastructure Projects Act, passed amid a push for global competitiveness, represents a straightforward attempt to modernize roads, ports, and energy grids. Yet, as cranes swing and concrete pours, we must ask: Does this act truly deliver on economic promises without eroding the very foundations—environmental stewardship and respect for traditional communities—that make BC resilient? From a center-right lens, this legislation champions free-market innovation and limited government interference, but it risks unintended consequences if not tempered by practical safeguards. Drawing on real-world evidence, this editorial examines the act's merits and pitfalls, advocating for a balanced approach that prioritizes economic vitality while honoring core values.
 

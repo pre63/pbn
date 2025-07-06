@@ -2,9 +2,9 @@
 title: 'Columbia River Treaty: US-Canada Tensions Threaten Hydropower'
 slug: columbia-river-treaty-us-canada-tensions-threaten
 author: Jonah Stynebeck
-date: '2025-07-03'
-meta_description: "How Trump\u2019s trade policies jeopardize the Columbia River Treaty,\
-  \ impacting BC\u2019s hydropower exports and regional energy security."
+date: '2025-07-04'
+meta_description: How Trump’s trade policies jeopardize the Columbia River Treaty,
+  impacting BC’s hydropower exports and regional energy security.
 meta_keywords:
 - Columbia River Treaty
 - hydropower
@@ -13,14 +13,11 @@ meta_keywords:
 - energy
 og_title: 'Columbia River Treaty: US-Canada Tensions Threaten Hydropower - Spot News
   24'
-og_description: "How Trump\u2019s trade policies jeopardize the Columbia River Treaty,\
-  \ impacting BC\u2019s hydropower exports and regional energy security."
+og_description: How Trump’s trade policies jeopardize the Columbia River Treaty, impacting
+  BC’s hydropower exports and regional energy security.
 og_image: /content/assets/hydropower-dam.jpg
-
 ---
-# How Trump’s Trade Policies Threaten the Columbia River Treaty and North American Energy Stability
-
-By Jonah Stynebeck  
+<!-- $1 -->
 *Spot News 24 Editorial*  
 
 In the grand tapestry of North American commerce, where rivers flow as freely as capital, the Columbia River Treaty stands as a testament to pragmatic international cooperation. Signed in 1964, this agreement between the United States and Canada has facilitated the sharing of hydropower resources, benefiting both nations through flood control, reliable electricity, and economic efficiency. Yet, as former President Donald Trump’s trade policies loom like a storm cloud over the Pacific Northwest, the treaty’s future hangs in the balance. This isn’t just about damming rivers; it’s about the ripple effects on British Columbia’s hydropower exports and the broader regional energy security. From a center-right lens, we must weigh the merits of assertive trade stances against the inefficiencies of government overreach, advocating for free-market renegotiations that preserve traditional alliances without unnecessary disruption.
@@ -52,5 +49,3 @@ The human element adds another layer. Communities in the Columbia Basin, from ru
 In conclusion, Trump’s trade policies pose a real threat to the Columbia River Treaty, with ripple effects that could undermine British Columbia’s hydropower exports and jeopardize regional energy security. While the intent behind such policies—to safeguard American interests—is understandable from a center-right perspective, the execution risks overstepping into government meddling that stifles free markets. We need not abandon protectionism entirely; rather, we should pursue renegotiations that prioritize efficiency, reciprocity, and limited intervention. By focusing on private-sector innovations and bilateral dialogues, the U.S. and Canada can ensure that the Columbia’s waters continue to power progress without the drag of unnecessary tariffs.
 
 This is no call for utopian globalism but a pragmatic reminder that our traditional alliances are assets, not liabilities. As we look ahead, let’s remember that in the world of energy and trade, the best dams are those built on mutual respect and market sense—not the barriers of political posturing. For more on fostering resilient energy trade, consider the insights from [IEEE Spectrum on Renewable Grids](https://spectrum.ieee.org/renewable-energy-grids). In the end, it’s about keeping the lights on, one sensible policy at a time.
-
-(Word count: 985)
