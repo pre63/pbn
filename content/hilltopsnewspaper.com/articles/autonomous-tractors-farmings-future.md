@@ -56,4 +56,3 @@ In conclusion, the rise of autonomous tractors is a testament to what happens wh
 
 To wrap up, imagine a farmer at dusk, tablet in hand, overseeing his fields with a mix of pride and relief. ![Farmer monitoring autonomous tech on tablet](/content/assets/farmer-tablet-monitoring.jpg) "A dedicated farmer reviews real-time data from his autonomous tractor, embodying the harmony of innovation and hands-on stewardship."
 
-(Word count: 1,025)

@@ -50,4 +50,3 @@ As we conclude this journey through Haiti's literate landscapes, I am drawn to i
 
 In this vision, governments play a supporting role, perhaps through light-touch policies that facilitate partnerships, but never as the central force. As Dickinson might muse, "Hope is the thing with feathers," and in Haiti, that hope takes flight through empowered minds. Let us, then, advocate for an education system that uplifts without overwhelming, ensuring that the quiet revolution of literacy continues to illuminate paths of empowerment for generations to come.
 
-(Word count: 982)

@@ -52,4 +52,3 @@ To sustain this balance, policymakers should prioritize voluntary frameworks ove
 
 In total, this editorial underscores the enduring power of creativity in São Paulo, reminding us that true urban vitality emerges not from centralized control, but from the collective energy of free minds and markets. 
 
-(Word count: 1,025)

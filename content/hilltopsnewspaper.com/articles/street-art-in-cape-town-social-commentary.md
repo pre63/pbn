@@ -54,4 +54,3 @@ In conclusion, Cape Town's street art stands as a powerful example of how cultur
 
 Instead, let us envision a world where artists and entrepreneurs continue to shape their environments through market-driven means, preserving the traditional values that have long defined societies like Cape Town's. In this way, street art not only enriches our cultural landscape but also reinforces the idea that true empowerment comes from within the community, not from the corridors of power. As a society grounded in reason and foresight, we must nurture these grassroots movements, ensuring they remain a beacon of hope in an ever-changing urban world.
 
-(Word count: 1,025)

@@ -52,6 +52,6 @@ This model aligns with traditional values of self-reliance and community support
 
 In conclusion, the evolution of Indian classical *dance*—from temple rituals to global spectacles—serves as a poignant narrative of resilience and adaptation. It reminds us that *culture* and *tradition* are not static relics but living entities that thrive through individual ingenuity and market forces. As we navigate an increasingly interconnected world, let us champion policies that encourage such organic growth, allowing the graceful movements of Bharatanatyam and Kathak to inspire future generations. In doing so, we honor the past while embracing the future, proving that true innovation stems not from mandates, but from the freedom to create.
 
-*Word count: 1,050*  
+
 
 Joanna Aucton is a cultural commentator for Hilltops Newspaper, offering witty insights into the interplay of tradition and modernity. Her views do not necessarily reflect those of the publication.

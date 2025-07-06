@@ -50,4 +50,3 @@ As we look to the future, the growth of teletherapy platforms heralds a promisin
 
 In conclusion, teletherapy represents a quintessential free-market success story, transforming mental health from a privilege into a practical reality for millions worldwide. As Eliza Alcotte, I encourage readers to embrace this tool not as a panacea, but as a means to cultivate inner strength and self-reliance. Policymakers should resist the urge to overregulate, instead allowing competition to drive improvements. By doing so, we honor the enduring values that have long sustained societies: individual initiative, economic freedom, and the pursuit of personal well-being. Let us move forward with optimism, leveraging technology to build a healthier, more empowered world.
 
-(Word count: 1,025)

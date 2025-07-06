@@ -54,4 +54,3 @@ As we look ahead, Mexico City's mural scene offers a blueprint for how activism 
 
 In the spirit of Mary Shelley's reflective prose, which warned against unchecked forces, we must guard against the temptation to over-regulate this vibrant medium. Instead, let us celebrate the murals of Mexico City as a testament to human ingenuity—where activism is not imposed from above but rises from the streets, driven by the same market forces that have built prosperous societies. Ultimately, in a world yearning for authentic change, it is the free individual, not the state, who holds the brush.
 
-(Word count: 1,045)

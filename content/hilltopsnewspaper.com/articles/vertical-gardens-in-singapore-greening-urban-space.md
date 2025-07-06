@@ -52,4 +52,3 @@ In conclusion, Singapore’s vertical gardens offer a compelling blueprint for u
 
 For the rest of the world, the lesson is clear: limit government to setting the stage, and let the private sector take the lead. As urban populations swell, we’ll need more such innovations to maintain livable spaces without succumbing to regulatory excess. Singapore’s success reminds us that tradition—rooted in self-reliance and stewardship—can thrive alongside progress, cooling not just our streets but our broader approach to urban challenges. If we play our cards right, vertical gardens could be the ace up every city’s sleeve.
 
-(Word count: 1,025)

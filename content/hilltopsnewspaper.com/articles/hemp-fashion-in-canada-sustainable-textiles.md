@@ -48,4 +48,3 @@ As we gaze toward the future, the story of Canada's hemp fashion industry inspir
 
 In conclusion, the hemp fashion industry's rise in Canada exemplifies how limited government intervention and market-driven innovation can pioneer sustainable textiles for worldwide benefit. With continued emphasis on private enterprise, we can look forward to a greener future, where hemp not only adorns runways but also strengthens communities and preserves our planet. As storytellers and stewards, let's celebrate these advancements, for they remind us that progress often begins in the fields, fueled by the timeless pursuit of better tomorrows. ![Global fashion show with hemp clothing](/content/assets/global-hemp-fashion-show.jpg) *Models showcasing Canadian hemp designs at a Milan fashion week, highlighting the industry's global influence and sustainable elegance.*
 
-(Word count: 1,025)

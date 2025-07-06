@@ -54,4 +54,3 @@ As we conclude this journey across the Mongolian plains, let us pause and reflec
 
 In a world quick to impose solutions, the quiet success of mobile schools reminds us that true empowerment comes from within—from communities that innovate for themselves. As we look to the horizon, may this model inspire similar efforts elsewhere, fostering a global tapestry where education empowers, not overwhelms. For in the end, as the winds of the steppe whisper through the tents of learning, we find not just knowledge, but the enduring strength of the human will.
 
-(Word count: 1,025)

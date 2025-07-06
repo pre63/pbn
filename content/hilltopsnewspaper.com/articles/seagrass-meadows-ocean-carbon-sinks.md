@@ -52,4 +52,3 @@ As we navigate the complexities of marine conservation, the restoration of seagr
 
 In the spirit of Henry David Thoreau's reflections on nature's simplicity, let us remember that true progress emerges not from grand schemes, but from deliberate, market-aligned actions. Policymakers should prioritize frameworks that encourage voluntary conservation, such as tax credits for businesses investing in seagrass projects, while avoiding the temptation of expansive government control. Only through such measures can we secure a sustainable future for our marine environments, where economic vitality and ecological health coexist harmoniously.
 
-(Word count: 1025)

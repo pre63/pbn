@@ -54,4 +54,3 @@ As we conclude, let us pause and reflect upon the earth's quiet strength, much l
 
 In embracing this path, we honor the enduring values that bind us—stewardship, self-reliance, and the pursuit of progress on solid ground. Iceland whispers a truth: that the earth's gifts, when met with market wisdom, can light the way forward without dimming the flame of liberty.
 
-(Word count: 1025)

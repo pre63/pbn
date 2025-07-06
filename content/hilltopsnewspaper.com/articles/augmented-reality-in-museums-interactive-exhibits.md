@@ -59,4 +59,3 @@ As we draw the curtain on this exploration, it is clear that augmented reality s
 
 In advocating for AR, we champion a path where individuals and institutions drive progress, unencumbered by excessive regulation. Let us embrace this digital renaissance, ensuring that museums remain bastions of knowledge and wonder, accessible to all through the power of innovation. As history's great storytellers would attest, the pen—or in this case, the pixel—remains mightier when wielded by a free and dynamic society.
 
-(Word count: 1,025)

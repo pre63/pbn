@@ -56,4 +56,3 @@ In conclusion, the preservation of kelp forests is not just an environmental imp
 
 As we reflect on Thoreau's call for simple, intentional living in harmony with nature, let us apply that wisdom to our marine challenges. Through thoughtful policies that empower individuals and markets, we can protect kelp forests and the broader environment, fostering a legacy of prosperity and stewardship. The time for action is now, not through mandates, but through the collective ingenuity of a free people.
 
-(Word count: 1,025)

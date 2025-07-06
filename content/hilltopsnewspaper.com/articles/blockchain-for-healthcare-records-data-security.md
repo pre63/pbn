@@ -64,5 +64,5 @@ As we navigate the digital frontier of healthcare, blockchain stands out as a pr
 
 However, realizing this potential requires a measured approach. Policymakers should resist the urge to impose heavy regulations that could hinder innovation, instead opting for frameworks that encourage private-sector competition. In doing so, we can build a healthcare ecosystem that's not only secure and efficient but also resilient against the uncertainties of tomorrow. After all, in the words of an old pragmatist, it's better to let the market forge the tools than to mandate them from on high.
 
-Word count: 1,050  
+
 *Jonah Stynebeck is a contributing editor at Hilltops Newspaper, offering practical insights on technology and public policy from a center-right vantage point.*

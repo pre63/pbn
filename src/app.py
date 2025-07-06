@@ -185,7 +185,7 @@ def create_app():
     query = request.args.get("q", "").lower()
     if not query:
       return redirect(url_for("index"))
-    domain = request.host if not DEV else "powersporta.com"
+    domain = request.host if not DEV else "hilltopsnewspaper.com"
     articles = load_articles(domain)
     results = []
     if articles:

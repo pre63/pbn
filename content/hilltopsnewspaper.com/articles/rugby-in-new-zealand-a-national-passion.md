@@ -55,4 +55,3 @@ In wrapping up this yarn, I can't help but reflect on how rugby in New Zealand e
 
 So, here's to the muddy fields and the roaring crowds—may they continue to bind the hearts of New Zealanders in ways that no policy ever could. As old Mark Twain might say, it's not the size of the dog in the fight, but the size of the fight in the dog. And in rugby, that fight is alive and well.
 
-*Word count: 1,025*

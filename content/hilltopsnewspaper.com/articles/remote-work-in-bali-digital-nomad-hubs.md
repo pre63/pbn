@@ -63,4 +63,3 @@ Yet, success depends on maintaining balance. Policymakers should resist the temp
 ![Bali's tech meetup under the stars](/content/assets/bali-tech-meetup.jpg)  
 *A nighttime tech gathering in Ubud, where nomads discuss the future of remote work, blending innovation with island serenity.*
 
-(Word count: 1,025)

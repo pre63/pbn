@@ -58,4 +58,3 @@ As we wrap up this tale of urban transformation, it's clear that Detroit's commu
 
 In a nation built on self-reliance, Detroit's story reminds us that the best solutions often come from the ground up—literally. Let's champion policies that nurture this spirit, keeping government as a supportive partner rather than the lead actor. After all, as any good gardener knows, you can't force growth; you have to let it happen naturally.
 
-(Word count: 1,025)

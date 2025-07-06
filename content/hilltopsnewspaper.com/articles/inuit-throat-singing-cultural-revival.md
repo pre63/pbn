@@ -52,4 +52,3 @@ From a forward-looking perspective, the key to sustaining this revival lies in e
 
 In closing, the story of Inuit throat singing is a beacon of hope, illustrating how Canada's rich cultural tapestry can endure through individual effort and free exchange. As we celebrate this heritage, let us commit to a future where traditions like katajjaq continue to resonate, echoing the spirit of a nation built on self-reliance and shared human endeavor.
 
-(Word count: 1,025)

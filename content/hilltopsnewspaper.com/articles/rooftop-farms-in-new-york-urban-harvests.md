@@ -58,4 +58,3 @@ As we look to the horizon, New York's rooftop farms stand as a testament to what
 
 To policymakers, the message is clear: support these efforts by removing unnecessary barriers, such as outdated zoning laws, and let the market flourish. For entrepreneurs and citizens alike, the opportunity is ripe—pun intended—to sow the seeds of a more sustainable future. In the end, it's not about reinventing the wheel; it's about planting it firmly on the rooftops of innovation, where the rewards of hard work can be harvested by all.
 
-(Word count: 1,025)

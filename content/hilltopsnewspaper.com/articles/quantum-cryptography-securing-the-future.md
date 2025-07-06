@@ -65,4 +65,3 @@ Yet, as with any frontier, success depends on wise choices. Policymakers should 
 
 As we stand on the brink of this quantum era, let's remember the dry wit of the old guard: Innovation isn't about chasing rainbows; it's about building bridges that last. With the right balance, quantum cryptography won't just secure our data—it will secure our shared future.
 
-(Word count: 1,025)

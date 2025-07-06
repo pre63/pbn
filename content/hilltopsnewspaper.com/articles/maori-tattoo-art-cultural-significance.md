@@ -60,4 +60,3 @@ Looking ahead, I envision a world where Maori tattoos not only endure but evolve
 
 In closing, let us celebrate this timeless art as a testament to human ingenuity. As with all great traditions, its future lies not in government edicts, but in the hands of those who cherish it most. ![Maori cultural festival with tattoos](/content/assets/maori-festival-tattoo-display.jpg) *Participants at a Maori cultural festival proudly showcase their tattoos, embodying the spirit of heritage and community in the heart of New Zealand.*
 
-(Word count: 1,045)

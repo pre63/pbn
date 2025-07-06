@@ -63,4 +63,3 @@ Yet, as with any frontier, vigilance is key. Policymakers should resist the urge
 
 For Southeast Asia's youth, the future is bright—and it's pixelated. Let's keep it that way.  
 
-(Word count: 1,025)

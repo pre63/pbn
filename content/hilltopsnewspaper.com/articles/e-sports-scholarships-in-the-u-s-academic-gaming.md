@@ -59,4 +59,3 @@ As we wrap up this yarn, it's clear that e-sports scholarships are more than a f
 
 Looking ahead, I see a future where e-sports continue to thrive as a symbol of individual enterprise. Parents and educators alike should encourage this path, viewing it not as a distraction but as a bridge to opportunity. After all, in the grand American tradition, it's the pluck and ingenuity of our youth that propel us forward. Let’s keep the field open for them to play—and win—on their own merits.
 
-(Word count: 1,025)

@@ -36,4 +36,3 @@ In conclusion, the role of Balinese gamelan in preserving cultural harmony and c
 
 To further enrich this exploration, envision another scene: ![Gamelan Musicians in Rural Bali](/content/assets/gamelan-rural-performance.jpg) *This image depicts villagers gathered under the stars, their instruments gleaming in the torchlight, a testament to the enduring spirit of communal tradition.* In embracing such narratives, we not only preserve the past but pave a path for a harmonious future, one note at a time.
 
-(Word count: 1,025)

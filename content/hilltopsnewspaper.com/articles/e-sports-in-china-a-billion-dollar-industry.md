@@ -54,4 +54,3 @@ In wrapping up this yarn, I’ll draw on a bit of Twain-esque wisdom: the river 
 
 As the sun sets on this digital frontier, let’s raise a glass to the pluck and ingenuity of China’s e-sports pioneers. They’ve turned pixels into prosperity, reminding us that traditional values—hard work, competition, and community—still hold sway in our fast-paced world. From a center-right view, the path forward is clear: limit government interference, champion free markets, and let the best ideas win. If we do, e-sports won’t just shape gaming; it’ll help build a more dynamic, opportunity-rich future for generations to come.
 
-(Word count: 1,025)

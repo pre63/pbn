@@ -54,4 +54,3 @@ The economy of Kenya, once hampered by external aid dependencies, is now witness
 
 In conclusion, the rise of crowdfunding in Kenya's microfinance sector is more than a financial trend; it is a narrative of human potential unlocked through practical, market-based solutions. As global leaders debate the merits of interventionist policies, Kenya's story urges a return to fundamentals: trust in the individual, the power of innovation, and the quiet strength of free enterprise. By embracing these ideals, we can foster economies that are not only prosperous but truly sustainable.
 
-Word count: 1,025

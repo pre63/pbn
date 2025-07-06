@@ -58,4 +58,3 @@ In conclusion, microloans in Bangladesh represent a beacon of hope for women ent
 
 As we reflect on stories like Farida's, it becomes clear that true empowerment comes not from rhetoric but from practical tools that honor human dignity and self-reliance. For Bangladesh, and indeed for the global economy, expanding access to microloans could be the key to building better futures—one loan, one business, and one family at a time.
 
-(Word count: 1,045)

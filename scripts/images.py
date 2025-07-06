@@ -57,6 +57,24 @@ def collect_markdown_files():
 
 # Step 3: Extract Caption-Filename Pairs
 
+def get__front_matter(file_path):
+  """Extract front matter from a Markdown file."""
+  with open(file_path, "r", encoding="utf-8") as f:
+    content = f.read()
+  front_matter = re.search(r"^---\n(.*?)\n---", content, re.DOTALL)
+  if front_matter:
+    return front_matter.group(1).strip()
+  return ""
+
+def og_image_from_front_matter(file_path):
+  """Extract og:image from front matter of a Markdown file."""
+  front_matter = get__front_matter(file_path)
+  if not front_matter:
+    return None
+  match = re.search(r"^og:image:\s*(.+)$", front_matter, re.MULTILINE)
+  if match:
+    return match.group(1).strip()
+  return None
 
 def extract_filenames(file_path):
   with open(file_path, "r", encoding="utf-8") as f:
@@ -66,6 +84,9 @@ def extract_filenames(file_path):
   for caption, filename in img_matches:
     caption = caption.strip() or os.path.basename(filename).replace(".jpg", "").replace("_", " ")
     pairs.append((caption, os.path.basename(filename), content))
+
+  og_image = og_image_from_front_matter(file_path)
+  pairs.append(("og:image", og_image, content)) if og_image and og_image.endswith(".jpg") else None
   return pairs
 
 
@@ -193,7 +214,9 @@ def main():
   logger.info(f"Extracted {len(unique_pairs)} unique image references")
 
   # Process images sequentially
+  i = 0
   for caption, filename, article_content in unique_pairs:
+    print(f"\nProcessing: {i} of {len(unique_pairs)}")
     if not filename.endswith(".jpg"):
       logger.info(f"Skipping {filename} (not a .jpg file)")
       continue
@@ -203,6 +226,8 @@ def main():
     success = process_image_task(client, caption, filename, article_content)
     if not success:
       logger.warning(f"Failed or skipped {filename}")
+    # count
+    i += 1
 
 
 # Run

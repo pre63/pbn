@@ -52,4 +52,3 @@ Imagine a future where schools rise like phoenixes from barren lands, built not 
 
 In the end, the tale of 3D printing in education is one of hope and resilience—a narrative that Alec Dumass, with all the flair of a bygone era, endorses wholeheartedly. Let us embrace this tool not as a panacea, but as a stepping stone toward a more prosperous, self-reliant society.
 
-(Word count: 1,025)

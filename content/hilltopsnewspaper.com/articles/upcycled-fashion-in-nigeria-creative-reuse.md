@@ -58,4 +58,3 @@ As we look to the future, Nigeria's upcycled fashion movement offers an optimist
 
 In embracing upcycled fashion, Nigeria reminds us that true progress comes from within—from the resourcefulness of its people and the dynamism of open markets. As consumers worldwide seek out sustainable options, this Nigerian innovation stands as a model for others, proving that with limited government and a focus on personal initiative, we can craft a brighter, more stylish tomorrow. Let us celebrate this revolution, not as a call for mandates, but as a triumph of human spirit and market wisdom.
 
-(Word count: 1,025)

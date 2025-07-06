@@ -65,4 +65,3 @@ Yet, one must inject a note of Austen-like wit: In this dance of man and machine
 
 Hilltops Newspaper remains committed to exploring these intersections of technology and society, ever mindful of the balance between progress and prudence.  
 
-(Word count: 1,025)

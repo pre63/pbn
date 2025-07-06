@@ -57,4 +57,3 @@ As we reflect on the elegant revival of Chinese calligraphy, it is clear that th
 
 In the end, the story of Chinese calligraphy is one of resilience and adaptation, a narrative that resonates with those who cherish personal liberty and enduring values. Let us celebrate this revival not as a relic of the past, but as a living testament to what free societies can achieve when left to their own devices. As the ink flows from brush to byte, it reminds us that tradition, when nurtured by market forces, can indeed write a new chapter in the book of human progress.
 
-(Word count: 1,045)

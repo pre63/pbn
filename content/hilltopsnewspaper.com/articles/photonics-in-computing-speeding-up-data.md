@@ -52,4 +52,3 @@ However, we must guard against overhyping. The path forward requires a commitmen
 
 In conclusion, photonics represents a pragmatic step toward a more efficient computing landscape, one that aligns with traditional values of hard work, innovation, and fiscal responsibility. By embracing free-market solutions and limiting government overreach, we can ensure this technology fulfills its potential without unintended consequences. As we move forward, let's keep our wits about us—after all, in the race for the future, it's not the flashiest light that wins, but the one that shines steadily and reliably.
 
-(Word count: 1,025)

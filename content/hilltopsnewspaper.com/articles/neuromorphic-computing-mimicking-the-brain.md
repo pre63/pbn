@@ -64,4 +64,3 @@ As I wrap this up, I'll leave you with a dry observation: If the brain can run t
 ![AI application in robotics](/content/assets/ai-robotics-application.jpg)  
 *Caption: A neuromorphic-powered robotic system in action, demonstrating real-time adaptability in a manufacturing setting, where efficiency meets the demands of modern industry.*
 
-(Word count: 1,045)

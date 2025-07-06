@@ -66,4 +66,3 @@ In the end, folks, let's cheer for a future where sports like women's basketball
 ![Young girls playing basketball](/content/assets/young-girls-basketball-australia.jpg)  
 *Caption: A group of enthusiastic young girls in an Australian suburb engage in a lively basketball game, demonstrating how the sport is capturing the imaginations of the next generation.* 
 
-(Word count: 1,025)

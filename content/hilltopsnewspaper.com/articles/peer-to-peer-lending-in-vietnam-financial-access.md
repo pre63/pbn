@@ -57,4 +57,3 @@ Ultimately, the story of P2P lending in Vietnam is one of hope and practicality.
 ![Community meeting on financial access in Vietnam](/content/assets/vietnam-microfinance-meeting.jpg)  
 *Caption: Villagers in the Mekong Delta gather to discuss P2P lending options, highlighting the community-level impact on financial inclusion and economic empowerment.*
 
-(Word count: 1,025)

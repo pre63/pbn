@@ -57,4 +57,3 @@ As we draw this tale to a close, it's clear that Japan's embrace of e-sports is 
 
 So, here's to the gamers of Japan, those digital samurais forging ahead. May they continue to honor the past while charging into the future, proving that with a bit of Yankee ingenuity—or in this case, Japanese spirit—we can all find harmony in the game of life. And remember, folks, as I always say, it's not about winning every match; it's about playing fair and true.
 
-(Word count: 1,025)

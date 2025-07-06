@@ -59,4 +59,3 @@ As Afrobeats continues to shape global pop culture, its future hinges on policie
 
 In conclusion, the global rise of Afrobeats is more than a musical trend—it's a narrative of resilience, enterprise, and cultural pride. Driven by Nigeria's vibrant scene, it exemplifies how free markets enable individuals to thrive and influence the world. Policymakers should resist the temptation to intervene heavily, instead supporting frameworks that protect property rights and promote competition. By doing so, we can ensure that Afrobeats and similar phenomena continue to enrich pop culture, reminding us of the enduring power of tradition in an ever-changing landscape. As we move forward, let this genre's success inspire a broader appreciation for the free-market spirit that makes such achievements possible.
 
-(Word count: 1,045)

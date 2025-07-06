@@ -60,4 +60,3 @@ As the sun sets on Brazil's expansive fields, the whispers of bioenergy linger, 
 
 Yet, this path demands vigilance. Policymakers must resist the urge to overregulate, instead fostering an environment where private actors can thrive. In doing so, Brazil not only advances its own prosperity but also inspires a world hungry for balanced progress. Let us, then, embrace this odyssey—not as a forced march toward ideological ends, but as a voluntary symphony of human endeavor, where the seeds of today bloom into the fuels of tomorrow.
 
-(Word count: 1,025)

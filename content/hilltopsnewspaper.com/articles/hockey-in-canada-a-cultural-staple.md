@@ -53,4 +53,3 @@ As the final buzzer sounds and the players shake hands, we're left with a clear 
 
 In my travels and tales, I've seen how such simple pursuits can fortify the human spirit. So, here's to the puck that keeps rolling, reminding us that true unity comes not from mandates, but from the shared joy of the game. Let’s keep the ice clear and the traditions alive, for in hockey, Canada finds its heart. 
 
-*Word count: 1,025*

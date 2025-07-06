@@ -61,4 +61,3 @@ As the sun sets on another day of play, it's clear that youth cricket in India i
 
 In a world quick to chase fads, India's youth cricket stands as a testament to what's timeless. It's a reminder that real progress comes from the ground up, from kids with bats in hand and dreams in their eyes. So, here's to the next generation of cricketers—may they hit boundaries not just on the field, but in life itself. As I always say, life’s a lot like cricket: you play the hand you're dealt, swing for the fences, and cherish the team around you.
 
-Word count: 1,045

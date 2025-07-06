@@ -60,4 +60,3 @@ As we reflect on the rise of biofeedback therapy, it's clear that this innovatio
 
 Ultimately, the message is one of empowerment: invest in your mental health through accessible, technology-enabled solutions like biofeedback, and watch as it transforms not just individual lives but the broader fabric of society. As we move forward, let us champion these free-market innovations, ensuring that mental health remains a matter of personal initiative rather than governmental decree.
 
-(Word count: 1,025)

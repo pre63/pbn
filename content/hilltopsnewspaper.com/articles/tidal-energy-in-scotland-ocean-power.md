@@ -60,4 +60,3 @@ As we conclude, let us reflect on the deeper currents at play. Scotland's tidal 
 
 In the end, the success of tidal energy hinges on our willingness to let innovation flow freely, much like the waters that power it. As Scotland charts this course, it offers a model for the world: one of balanced progress, where sustainability and economic vitality are not at odds but intertwined in the grand tapestry of human endeavor.
 
-(Word count: 1025)

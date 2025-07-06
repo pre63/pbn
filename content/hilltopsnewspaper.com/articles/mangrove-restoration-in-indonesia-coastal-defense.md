@@ -56,4 +56,3 @@ In conclusion, the restoration of Indonesia’s mangroves represents a vital opp
 
 As Indonesia navigates the challenges of the 21st century, let us commit to solutions that empower individuals and businesses to lead the way. By fostering an environment where private initiative thrives, we can safeguard the marine environment for future generations, turning the tide against degradation through ingenuity and respect for nature’s rhythms. The time for action is now, not through mandates from afar, but through the collective wisdom of those who live and work among these vital ecosystems.
 
-(Word count: 1,025)

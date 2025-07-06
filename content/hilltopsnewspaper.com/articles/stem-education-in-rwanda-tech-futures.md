@@ -52,4 +52,3 @@ As the sun sets over Rwanda's verdant hills, casting long shadows that mirror th
 
 In this quiet revolution, we see not just the empowerment of minds through STEM, but a broader affirmation of human resilience. It is a poetic reminder that, in the vast expanse of progress, the seeds of innovation bloom best in soil tilled by self-reliance. As we look to the future, let us advocate for policies that nurture this spirit, ensuring that education remains a ladder of opportunity, not a crutch of dependency. Through such measured steps, Rwanda's story becomes a beacon, illuminating the path for a world where technology and tradition walk hand in hand.
 
-(Word count: 1,025)

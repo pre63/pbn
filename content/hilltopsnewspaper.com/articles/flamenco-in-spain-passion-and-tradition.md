@@ -43,4 +43,3 @@ Finally, as we conclude this exploration, flamenco stands as a vibrant emblem of
 ![Flamenco guitarist in intimate performance](/content/assets/flamenco-guitarist-jerez.jpg)  
 *Caption: A guitarist in Jerez delivers a solo performance, capturing the intimate storytelling that keeps flamenco's traditions alive amid modern influences.*
 
-(Word count: 1,025)

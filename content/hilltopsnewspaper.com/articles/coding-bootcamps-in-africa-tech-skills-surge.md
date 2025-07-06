@@ -65,4 +65,3 @@ As the sun sets on Africa's digital frontier, we behold a landscape ripe with po
 
 Yet, for this vision to flourish, stakeholders must prioritize policies that encourage investment and deregulation, allowing bootcamps to expand unhindered. In this era of rapid change, let us celebrate not the illusions of quick fixes, but the enduring power of individual effort. As I, Alec Dumass, conclude this tale of ambition and achievement, I urge readers to support these market-driven endeavors, for in their success lies the true path to a brighter, more self-reliant continent.
 
-(Word count: 1,045)
