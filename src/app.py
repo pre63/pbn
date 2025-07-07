@@ -17,6 +17,16 @@ DEV = os.getenv("DEV", False) == "True"
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp", ".svg"}
 
 
+def prefered_domain(request):
+  """Return the preferred domain based on the request host."""
+  domain = request.host if not DEV else "voltapowers.com"
+
+  if domain.endswith(".fly.dev"):
+    domain = "voltapowers.com"
+
+  return domain
+
+
 def find_similar_image_filename(requested_filename, directory="content/assets", threshold=0.9):
   """
     Find an image in the directory with a filename most similar to the requested filename
@@ -55,7 +65,7 @@ def find_similar_image_filename(requested_filename, directory="content/assets", 
 def load_domain_config():
   """Load domain config based on request host. Don’t mess this up, or we’re serving 404s all day."""
 
-  domain = request.host if not DEV else "voltapowers.com"
+  domain = prefered_domain(request)
   # if domain is not in list of domains/* then set default config is os ls to know
   if not os.path.exists(f"domains/{domain}.yml") and not os.path.exists(f"domains/{domain}.yaml"):
     print(f"Config for {domain} not found. Falling back to default.")
@@ -142,12 +152,15 @@ def create_app():
   @app.context_processor
   def inject_config():
     """Inject domain config into all templates. Don’t ask me to do this manually."""
+    # if not dev prefer https
+    if not DEV:
+      app.config["PREFERRED_URL_SCHEME"] = "https"
     return dict(config=load_domain_config())
 
   @app.route("/")
   def index():
     """Homepage with featured and recent articles. No articles? Enjoy the silence."""
-    domain = request.host if not DEV else "voltapowers.com"
+    domain = prefered_domain(request)
     articles = load_articles(domain)
     latest_article = articles[0] if articles else None
     latest_articles = articles[1:5] if len(articles) > 1 else []
@@ -157,7 +170,7 @@ def create_app():
   @app.route("/article/<slug>")
   def article(slug):
     """Serve an article by slug. Wrong slug? You’re getting a sneaky 404."""
-    domain = request.host if not DEV else "voltapowers.com"
+    domain = prefered_domain(request)
     articles = load_articles(domain)
     article = next((a for a in articles if a["slug"] == slug), None)
     if not article:
@@ -168,7 +181,7 @@ def create_app():
   @app.route("/category/<category>")
   def category(category):
     """Serve articles by category (keyword)."""
-    domain = request.host if not DEV else "voltapowers.com"
+    domain = prefered_domain(request)
     articles = load_articles(domain)
     matching_articles = [a for a in articles if category in [slugify(kw) for kw in a["meta_keywords"]]]
     return render_template(
@@ -185,7 +198,7 @@ def create_app():
     query = request.args.get("q", "").lower()
     if not query:
       return redirect(url_for("index"))
-    domain = request.host if not DEV else "hilltopsnewspaper.com"
+    domain = prefered_domain(request)
     articles = load_articles(domain)
     results = []
     if articles:
@@ -237,16 +250,31 @@ def create_app():
     """Privacy policy."""
     return render_template("privacy.html")
 
+  from datetime import datetime
+
   @app.route("/sitemap.xml")
   def sitemap():
     """Sitemap for SEO."""
-    domain = request.host if not DEV else "voltapowers.com"
+    domain = prefered_domain(request)
     articles = load_articles(domain)
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
     xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-    xml += f'<url><loc>{url_for("index", _external=True)}</loc></url>\n'
+    xml += f'<url><loc>{url_for("index", _external=True, _scheme="https")}</loc><changefreq>daily</changefreq><priority>1.0</priority></url>\n'
     for article in articles:
-      xml += f'<url><loc>{url_for("article", slug=article["slug"], _external=True)}</loc></url>\n'
+      date_str = article.get("date", "")
+      lastmod = ""
+      if date_str:
+        try:
+          # Parse date string in "January 4, 2025" format
+          parsed_date = datetime.strptime(date_str, "%B %d, %Y")
+          lastmod = parsed_date.strftime("%Y-%m-%d")
+        except ValueError:
+          # Skip invalid dates
+          lastmod = ""
+      xml += f'<url><loc>{url_for("article", slug=article["slug"], _external=True, _scheme="https")}</loc>'
+      if lastmod:
+        xml += f"<lastmod>{lastmod}</lastmod>"
+      xml += "<changefreq>daily</changefreq><priority>1.0</priority></url>\n"
     xml += "</urlset>"
     return Response(xml, mimetype="application/xml")
 
@@ -289,7 +317,7 @@ def create_app():
   @app.errorhandler(404)
   def handle_404(e):
     """Handle 404 with article suggestions."""
-    domain = request.host if not DEV else "voltapowers.com"
+    domain = prefered_domain(request)
     articles = load_articles(domain)
     path = request.path.strip("/")
     slug = path.split("/")[-1] if path.startswith("article/") else path
@@ -311,5 +339,15 @@ def create_app():
   def health_check():
     """Health check endpoint for load balancers."""
     return "OK", 200
+
+  @app.before_request
+  def handle_fly_domain_redirect():
+    domain = prefered_domain(request)
+    if request.host.endswith(".fly.dev"):
+      canonical_url = f"https://{domain}{request.path}"
+      if request.query_string:
+        canonical_url += f"?{request.query_string.decode('utf-8')}"
+      return redirect(canonical_url, code=301)
+    request.canonical_url = f"https://{domain}{request.path}"
 
   return app

@@ -8,7 +8,7 @@
 {% block twitter_title %}Contact {{ config.site.name }}{% endblock %}
 {% block twitter_description %}Get in touch to share story ideas or learn more about our blog at {{ config.site.name }}.{% endblock %}
 {% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
-{% block canonical_url %}{{ url_for('contact', _external=True) }}{% endblock %}
+{% block canonical_url %}{{ url_for('contact', _external=True, _scheme='https') }}{% endblock %}
 {% block breadcrumbs %}
 <nav class="breadcrumbs">
   <a href="{{ url_for('index') }}">Home</a>

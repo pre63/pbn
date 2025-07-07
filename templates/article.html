@@ -11,7 +11,7 @@
 {% for topic in article.meta_keywords|default([]) %}
 <meta property="article:tag" content="{{ topic }}">
 {% endfor %}
-{% block canonical_url %}{{ url_for('article', slug=article.slug, _external=True) }}{% endblock %}
+{% block canonical_url %}{{ url_for('article', slug=article.slug, _external=True, _scheme='https') }}{% endblock %}
 {% block breadcrumbs %}
 <nav class="breadcrumbs">
   <a href="{{ url_for('index') }}">Home</a>

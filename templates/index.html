@@ -8,7 +8,7 @@
 {% block twitter_title %}{{ config.site.name }} - {{ config.site.description|truncate(50) }}{% endblock %}
 {% block twitter_description %}{{ config.site.description }}{% endblock %}
 {% block twitter_image %}{{ config.seo.twitter_image }}{% endblock %}
-{% block canonical_url %}{{ url_for('index', _external=True) }}{% endblock %}
+{% block canonical_url %}{{ url_for('index', _external=True, _scheme='https') }}{% endblock %}
 {% block breadcrumbs %}
 <nav class="breadcrumbs">
   <a href="{{ url_for('index') }}">Home</a>
