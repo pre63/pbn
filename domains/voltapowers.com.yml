@@ -1,7 +1,7 @@
 site:
   name: Volta Powers
-  description: Celebrating global cultural heritage and energy innovation, from Czech railways to sustainable preservation.
-  keywords: [cultural heritage, energy innovation, Czech Republic, Ukraine, Malta]
+  description: Celebrating global cultural heritage and energy innovation, from world railways to sustainable preservation.
+  keywords: [cultural heritage, energy innovation, world culture]
   logo: /static/voltapowers.com/logo.png
   favicon: /static/voltapowers.com/favicon-32x32.png
   email: contact@voltapowers.com
@@ -30,7 +30,7 @@ footer:
   copyright: © 2025 Product Led LLC. All rights reserved. Powering heritage with a spark of wit.
 
 content:
-  topics: [cultural heritage, energy innovation, Czech architecture, Ukrainian landmarks, Maltese history]
+  topics: [cultural heritage, energy innovation, world architecture, World landmarks, World history]
   articles_path: content/voltapowers.com/articles
   default_image: /content/assets/energy-bg.jpg
 

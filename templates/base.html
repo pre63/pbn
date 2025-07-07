@@ -103,9 +103,12 @@
         <a href="{{ url_for(link.url) }}">{{ link.name }}</a>
         {% endfor %}
       </div>
+      
     </div>
-    <p>{{ config.footer.copyright }}</p>
-    <p>Powered by <a href="https://grok.com">Grok</a></p>
+    <div class="stack">
+      <p>{{ config.footer.copyright }}</p>
+      <p>Powered by <a href="https://grok.com">Grok</a></p>
+    </div>
   </footer>
 </body>
 </html>

@@ -20,9 +20,8 @@ MAX_PROMPT_LENGTH = 1000  # Internal limit for prompt length
 MAX_RETRIES = 3  # Number of retries for image download
 RETRY_BACKOFF = 2  # Base seconds for exponential backoff
 
+
 # Client Wrapper Module
-
-
 class ClientWrapper:
   def __init__(self):
     pass
@@ -40,8 +39,6 @@ class ClientWrapper:
 
 
 # Extraction Module
-
-
 class Extraction:
   def __init__(self):
     pass
@@ -64,9 +61,18 @@ class Extraction:
     articles_glob = os.path.join(md_dir, "**", "*.md")
     md_files = glob.glob(articles_glob, recursive=True)
     if not md_files:
-      raise FileNotFoundError(f"No Markdown files found in {md_dir}")
+      logger.warning(f"No Markdown files found in {md_dir}")
     logger.info(f"Found {len(md_files)} Markdown files")
     return md_files
+
+  def collect_domain_yaml_files(self, domains_dir: str) -> List[str]:
+    """Collect all YAML files in the domains directory."""
+    yaml_glob = os.path.join(domains_dir, "*.yml")
+    yaml_files = glob.glob(yaml_glob)
+    if not yaml_files:
+      logger.warning(f"No YAML files found in {domains_dir}")
+    logger.info(f"Found {len(yaml_files)} YAML files")
+    return yaml_files
 
   def extract_filenames(self, file_path: str) -> List[Tuple[str, str, str]]:
     """Extract caption, filename, and content from a Markdown file."""
@@ -85,6 +91,31 @@ class Extraction:
       pairs.append((caption, os.path.basename(og_image), content))
     return pairs
 
+  def extract_yaml_info(self, file_path: str) -> Optional[Tuple[str, str]]:
+    """Extract description and image filename from a domain YAML file."""
+    try:
+      print(f"Processing YAML file: {file_path}")
+      with open(file_path, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f) or {}
+      content = data.get("content", {})
+      topics = content.get("topics", [])
+      topics = ", ".join(topics) if isinstance(topics, list) else topics
+      site = content.get("site", {})
+      description = site.get("description", "")
+      if not topics:
+        logger.warning(f"No topics found in {file_path}")
+        return None
+      image_path = content.get("logo") or content.get("default_image")
+      if not image_path or not image_path.endswith(".jpg"):
+        logger.warning(f"No valid og_image or default_image found in {file_path}")
+        return None
+      filename = os.path.basename(image_path)
+      caption = f"{description.strip()} {topics.strip()}"
+      return caption, filename
+    except yaml.YAMLError as e:
+      logger.error(f"Failed to parse YAML in {file_path}: {e}")
+      return None
+
   def save_references(self, references: Dict[str, List[Dict]], references_file: str) -> None:
     """Save extracted references to YAML file."""
     os.makedirs(os.path.dirname(references_file), exist_ok=True)
@@ -101,8 +132,6 @@ class Extraction:
 
 
 # Prompt Management Module
-
-
 class PromptManager:
   def __init__(self):
     pass
@@ -169,8 +198,6 @@ class PromptManager:
 
 
 # Image Generation Module
-
-
 class ImageGenerator:
   def __init__(self):
     pass
@@ -231,8 +258,6 @@ class ImageGenerator:
 
 
 # Image Download Module
-
-
 class ImageDownloader:
   def __init__(self):
     pass
@@ -256,29 +281,27 @@ class ImageDownloader:
 
 
 # Command-Line Argument Parsing
-
-
-def parse_args() -> Tuple[str, str]:
+def parse_args() -> Tuple[str, str, str]:
   """Parse command-line arguments for directories."""
-  parser = argparse.ArgumentParser(description="Generate images for Markdown articles.")
+  parser = argparse.ArgumentParser(description="Generate images for Markdown articles and domain YAML files.")
   parser.add_argument("--md-dir", default=os.path.join(os.getcwd(), "content"), help="Directory to scan for Markdown files (default: ./content)")
+  parser.add_argument("--domains-dir", default=os.path.join(os.getcwd(), "domains"), help="Directory to scan for domain YAML files (default: ./domains)")
   parser.add_argument("--assets-dir", help="Directory for images and YAML files (default: md-dir/assets)")
   args = parser.parse_args()
 
   md_dir = os.path.abspath(args.md_dir)
+  domains_dir = os.path.abspath(args.domains_dir)
   assets_dir = os.path.abspath(args.assets_dir) if args.assets_dir else os.path.join(md_dir, "assets")
-  return md_dir, assets_dir
+  return md_dir, domains_dir, assets_dir
 
 
 # Main Orchestration
-
-
 def main():
   # Parse arguments
-  md_dir, assets_dir = parse_args()
-  references_file = os.path.join(md_dir, "image_references.yaml")
-  prompts_file = os.path.join(md_dir, "image_prompts.yaml")
-  urls_file = os.path.join(md_dir, "image_urls.yaml")
+  md_dir, domains_dir, assets_dir = parse_args()
+  references_file = os.path.join(assets_dir, "image_references.yaml")
+  prompts_file = os.path.join(assets_dir, "image_prompts.yaml")
+  urls_file = os.path.join(assets_dir, "image_urls.yaml")
 
   # Initialize components
   client_wrapper = ClientWrapper()
@@ -288,11 +311,10 @@ def main():
   image_downloader = ImageDownloader()
   client = client_wrapper.init_client()
 
-  # Collect Markdown files
+  # Process Markdown files
   md_files = extraction.collect_markdown_files(md_dir)
   references = extraction.load_references(references_file)
 
-  # Process each Markdown file
   for md_file in md_files:
     logger.info(f"Processing Markdown file: {md_file}")
     file_key = os.path.basename(md_file)
@@ -332,6 +354,46 @@ def main():
       success = image_generator.generate_image(client, prompt, filename, assets_dir, urls_file, image_downloader)
       if not success:
         logger.warning(f"Failed to process {filename}")
+
+  # Process domain YAML files
+  yaml_files = extraction.collect_domain_yaml_files(domains_dir)
+  for yaml_file in yaml_files:
+    logger.info(f"Processing domain YAML file: {yaml_file}")
+    file_key = os.path.basename(yaml_file)
+
+    # Extract description and image info
+    yaml_info = extraction.extract_yaml_info(yaml_file)
+    if not yaml_info:
+      logger.info(f"No valid description or image found in {yaml_file}")
+      continue
+
+    caption, filename = yaml_info
+    if not filename.endswith(".jpg"):
+      logger.info(f"Skipping {filename} (not a .jpg file)")
+      continue
+
+    # Check if image already exists
+    if os.path.exists(os.path.join(assets_dir, filename)):
+      logger.info(f"Skipping {filename} (image already exists at destination)")
+      continue
+
+    logger.info(f"Processing image: {filename}")
+    logger.info(f"Caption: {caption}")
+
+    # Use description as content for prompt generation
+    article_content = caption
+
+    # Generate prompt
+    prompts = prompt_manager.load_prompts(prompts_file)
+    prompt = prompt_manager.generate_prompt_if_needed(client, caption, filename, article_content, prompts, prompts_file)
+    if not prompt:
+      logger.warning(f"No prompt generated for {filename}, skipping")
+      continue
+
+    # Generate and download image
+    success = image_generator.generate_image(client, prompt, filename, assets_dir, urls_file, image_downloader)
+    if not success:
+      logger.warning(f"Failed to process {filename}")
 
 
 if __name__ == "__main__":

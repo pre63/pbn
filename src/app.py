@@ -134,7 +134,7 @@ def load_articles(domain):
 def get_related_articles(articles, current_article):
   """Find related articles using TF-IDF with a lower threshold."""
   if not articles or not current_article:
-    return articles[:3] if articles else []
+    return articles[:10] if articles else []
   documents = [f"{a['title']} {a['meta_description']} {' '.join(a['meta_keywords'])}" for a in articles]
   tfidf_vectors, vocab = compute_tfidf(documents)
   current_text = f"{current_article['title']} {current_article['meta_description']} {' '.join(current_article['meta_keywords'])}"
@@ -143,7 +143,7 @@ def get_related_articles(articles, current_article):
   similarities = [(articles[i], cosine_similarity_manual(current_vector, vector)) for i, vector in enumerate(tfidf_vectors)]
   similarities.sort(key=lambda x: x[1], reverse=True)
   # Lowered threshold to 0.1 for more matches
-  return [article for article, score in similarities[:3] if article["slug"] != current_article["slug"]]
+  return [article for article, score in similarities[:10] if article["slug"] != current_article["slug"]]
 
 
 def create_app():
@@ -188,7 +188,7 @@ def create_app():
       "index.html",
       latest_article=None,
       latest_articles=matching_articles[:10],  # Limit to 10 articles
-      related_articles=articles[:3],
+      related_articles=articles[:10],
       category_name=category.replace("-", " ").title(),
     )
 
@@ -210,7 +210,7 @@ def create_app():
         if score > 0.1:
           results.append(article)
     results.sort(key=lambda x: x["date"] or "1970-01-01", reverse=True)
-    return render_template("index.html", latest_article=None, latest_articles=results, related_articles=articles[:3], search_query=query)
+    return render_template("index.html", latest_article=None, latest_articles=results, related_articles=articles[103], search_query=query)
 
   @app.route("/contact", methods=["GET", "POST"])
   def contact():
@@ -333,7 +333,7 @@ def create_app():
       if similarities and similarities[0][1] > 0.7:
         matched_article = similarities[0][0]
         return render_template("article.html", article=matched_article, related_articles=get_related_articles(articles, matched_article)), 200
-    return render_template("404.html", related_articles=articles[:3]), 200
+    return render_template("404.html", related_articles=articles[:10]), 200
 
   @app.route("/healthz")
   def health_check():
