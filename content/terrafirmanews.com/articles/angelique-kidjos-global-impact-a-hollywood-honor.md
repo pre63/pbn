@@ -22,7 +22,7 @@ In the glittering heart of Hollywood, where dreams are etched into the pavement,
 Kidjo’s journey is a testament to the kind of self-made success that thrives in open markets, where creativity and hard work, rather than government mandates, pave the way for recognition. Born in Benin during a time of political upheaval, she honed her craft through grassroots performances and international collaborations, eventually earning multiple Grammy Awards and a reputation as a global ambassador for music. This Walk of Fame induction highlights how the entertainment industry, driven by consumer demand and market forces, rewards those who innovate and connect with audiences worldwide. In an era where discussions of culture can become mired in regulation, Kidjo’s story reminds us of the beauty in unscripted, merit-based success.
 
 ![Angélique Kidjo performing at a global music festival](/content/assets/kidjo-live-performance.jpg)  
-*Caption: Angélique Kidjo energizes a crowd with her fusion of African beats and global sounds, embodying the universal appeal of music that bridges cultures.*
+*Angélique Kidjo energizes a crowd with her fusion of African beats and global sounds, embodying the universal appeal of music that bridges cultures.*
 
 ## The Significance of Kidjo’s Global Influence in Music
 
@@ -41,7 +41,7 @@ To appreciate the full scope, consider Kidjo’s role in global music. She has b
 Comparatively, the Hollywood Walk of Fame has evolved since its inception, now featuring over 2,700 stars that represent a wide array of talents. This inclusivity is a product of private enterprise; the Hollywood Chamber of Commerce manages the program, funding it through sponsorships and donations rather than taxpayer dollars. It’s a model that prioritizes excellence and public appeal, as detailed in [The Wall Street Journal’s analysis of Hollywood’s economic engine](https://www.wsj.com/arts-culture/entertainment/hollywood-walk-of-fame-impact-2024). Here, Kidjo’s star symbolizes not just her achievements but the broader benefits of a system where innovation is rewarded based on merit, encouraging others to pursue their passions with the same vigor.
 
 ![Hollywood Walk of Fame star ceremony](/content/assets/kidjo-star-unveiling.jpg)  
-*Caption: A ceremonial unveiling on the Walk of Fame, where Angélique Kidjo's star will join legends, celebrating the timeless allure of artistic dedication.*
+*A ceremonial unveiling on the Walk of Fame, where Angélique Kidjo's star will join legends, celebrating the timeless allure of artistic dedication.*
 
 ## The Path Forward: Lessons for a Forward-Looking Society
 
@@ -52,5 +52,5 @@ Of course, challenges remain. The entertainment industry must continue to balanc
 In conclusion, Angélique Kidjo’s 2026 star is more than a Hollywood fixture; it’s a beacon of what’s possible when talent meets opportunity in a free and open system. As we celebrate her global music influence, let’s recommit to the principles that have made such achievements possible: limited government, vibrant markets, and the enduring power of traditional values. Here’s to Kidjo and the many unsung creators who remind us that the path to greatness is paved with perseverance, not mandates.
 
 ![Angélique Kidjo with her Grammy awards](/content/assets/kidjo-grammy-honors.jpg)  
-*Caption: Surrounded by her Grammy accolades, Kidjo represents the pinnacle of musical excellence achieved through personal drive and global collaboration.*
+*Surrounded by her Grammy accolades, Kidjo represents the pinnacle of musical excellence achieved through personal drive and global collaboration.*
 

@@ -28,7 +28,7 @@ This technology-driven approach has gained traction in recent years, particularl
 To illustrate, consider a typical user: a working professional juggling family obligations and career pressures. Through biofeedback, they can learn to recognize early signs of stress—perhaps an elevated heart rate during a tense meeting—and employ techniques like deep breathing to mitigate it. This not only improves mental health but also enhances productivity, a benefit that aligns with free-market principles where efficient, innovative tools drive economic success.
 
 ![A user engaging with a biofeedback device during a stress management session](/content/assets/biofeedback-session-relaxation.jpg)  
-*Caption: A professional uses a biofeedback wearable to monitor heart rate variability, demonstrating how technology aids in real-time stress reduction and personal wellness.*
+*A professional uses a biofeedback wearable to monitor heart rate variability, demonstrating how technology aids in real-time stress reduction and personal wellness.*
 
 ## The Analysis: Biofeedback in the Context of Modern Challenges
 
@@ -49,7 +49,7 @@ One compelling example comes from the corporate sector, where companies are adop
 Moreover, biofeedback's accessibility is a testament to technological advancement. Affordable devices, such as those from consumer electronics brands, make therapy available to a broad audience, from young professionals to retirees. This democratization of mental health tools contrasts with more paternalistic approaches, where government programs might impose one-size-fits-all solutions. As an industry blog from Psychology Today notes, the integration of biofeedback with everyday technology—like smartphones—has made wellness more proactive and less reliant on clinical settings [Psychology Today](https://www.psychologytoday.com/us/blog/the-future-of-mental-health/202305/biofeedback-tech-trends).
 
 ![Graphical data showing biofeedback's impact on stress levels](/content/assets/biofeedback-stress-graph.jpg)  
-*Caption: A line graph illustrating reduced stress markers over time with biofeedback therapy, highlighting its practical benefits for everyday mental health management.*
+*A line graph illustrating reduced stress markers over time with biofeedback therapy, highlighting its practical benefits for everyday mental health management.*
 
 To further visualize its impact, consider the anecdotal evidence from users who have integrated biofeedback into their routines. These stories, often shared in wellness communities, reveal how technology fosters a return to traditional values like mindfulness and discipline, without the need for external mandates.
 

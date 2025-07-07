@@ -29,7 +29,7 @@ Consider the challenges faced by Thai rice farmers, who must traverse flooded fi
 To illustrate, imagine a farmer in Thailand's Isan region, where smallholder agriculture dominates. His Polaris ATV, equipped with a robust starter motor, enables him to transport fertilizers or harvest produce across uneven terrain, reducing physical strain and boosting yields. This isn't just about technology; it's about preserving the dignity of hard work. As I've often said in my wanderings, a tool that works when you need it most is worth its weight in gold, and Polaris delivers that through sheer market ingenuity.
 
 ![Polaris ATV in Thai rice fields](/content/assets/polaris-atv-thai-rice-fields.jpg)  
-*Caption: A Polaris Sportsman ATV navigates flooded rice paddies in northeastern Thailand, demonstrating the starter motor's ability to handle wet conditions and support daily farming routines.*
+*A Polaris Sportsman ATV navigates flooded rice paddies in northeastern Thailand, demonstrating the starter motor's ability to handle wet conditions and support daily farming routines.*
 
 ## Evidence from the Field: Real-World Impact and Supporting Data
 
@@ -40,7 +40,7 @@ Moreover, the economic ripple effects are noteworthy. In a free-market system, t
 Yet, balance demands acknowledgment: not every farmer can afford these vehicles upfront, and maintenance costs can add up. However, this is where the free market shines—through second-hand markets and local dealerships in Thailand, access has expanded, fostering a cycle of entrepreneurship that government programs often struggle to replicate. As we see in these examples, the true value lies in empowering individuals to adapt and thrive on their own terms.
 
 ![Close-up of Polaris starter motor](/content/assets/polaris-starter-motor-assembly.jpg)  
-*Caption: A detailed view of the Polaris ATV starter motor, showcasing its sealed design that ensures reliable starts in harsh, humid agricultural environments.*
+*A detailed view of the Polaris ATV starter motor, showcasing its sealed design that ensures reliable starts in harsh, humid agricultural environments.*
 
 ## Looking Ahead: The Broader Implications for Traditional Values and Free Markets
 
@@ -49,4 +49,4 @@ In wrapping up this tale, it's clear that the reliable starter motors in Polaris
 As global challenges like climate variability threaten agricultural stability, the private sector's role in innovation becomes even more vital. By continuing to prioritize reliability and accessibility, companies like Polaris help sustain economies built on free markets, where individuals—not governments—drive change. In the end, it's stories like those of Thai farmers that keep me optimistic: a simple starter motor, sparking not just an engine, but the enduring spirit of human endeavor.
 
 ![Thai farmer with Polaris ATV](/content/assets/thai-farmer-polaris-atv.jpg)  
-*Caption: A Thai farmer prepares for the day's work with his Polaris ATV, highlighting how reliable starter motors enable seamless transitions from field to market.*
+*A Thai farmer prepares for the day's work with his Polaris ATV, highlighting how reliable starter motors enable seamless transitions from field to market.*

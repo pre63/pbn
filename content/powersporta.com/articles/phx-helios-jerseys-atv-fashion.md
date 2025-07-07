@@ -30,7 +30,7 @@ This blend isn't accidental; it's the result of market-driven innovation. Phoeni
 
 Yet, not all is seamless. Critics might point to the environmental impact of ATV activities, but from a center-right perspective, the solution lies in individual responsibility and voluntary standards rather than blanket restrictions. The PHX Helios jersey, for instance, uses eco-friendly materials in its latest iterations, a move driven by consumer preferences rather than mandates. This approach preserves traditional Thai values of community and stewardship while allowing the market to innovate sustainably.
 
-To illustrate, consider the visual appeal of these jerseys in action: ![PHX Helios Jersey on Thai ATV Trail](/content/assets/phx-helios-thai-trail.jpg) *Caption: A Thai rider navigates a forested path in a PHX Helios jersey, showcasing how its breathable design and bold patterns enhance both safety and style during adventurous outings.*
+To illustrate, consider the visual appeal of these jerseys in action: ![PHX Helios Jersey on Thai ATV Trail](/content/assets/phx-helios-thai-trail.jpg) *A Thai rider navigates a forested path in a PHX Helios jersey, showcasing how its breathable design and bold patterns enhance both safety and style during adventurous outings.*
 
 ## Analyzing the Cultural and Economic Impact
 
@@ -40,7 +40,7 @@ From an economic standpoint, this phenomenon underscores the virtues of free-mar
 
 However, balance requires acknowledging potential downsides. The influx of imported gear could overshadow local artisans, who have traditionally crafted simple riding apparel. Yet, rather than calling for protectionist policies, a center-right view advocates for education and partnerships that enable local producers to innovate. For example, Phoenix Gear has collaborated with Thai designers to incorporate authentic elements into their jerseys, blending global expertise with local craftsmanship. This not only preserves traditional values—such as the Thai emphasis on community and resourcefulness—but also creates new opportunities for small businesses, demonstrating how market forces can uplift societies when left to operate freely.
 
-Embedded in this trend is a narrative of empowerment. Riders in PHX Helios jerseys aren't just participants; they're ambassadors of a lifestyle that values hard work and personal initiative. ![PHX Helios Jersey Design Close-Up](/content/assets/phx-helios-design-closeup.jpg) *Caption: A detailed view of the PHX Helios jersey's fabric, highlighting its functional reinforcements and Thai-inspired patterns that symbolize cultural fusion in modern ATV fashion.*
+Embedded in this trend is a narrative of empowerment. Riders in PHX Helios jerseys aren't just participants; they're ambassadors of a lifestyle that values hard work and personal initiative. ![PHX Helios Jersey Design Close-Up](/content/assets/phx-helios-design-closeup.jpg) *A detailed view of the PHX Helios jersey's fabric, highlighting its functional reinforcements and Thai-inspired patterns that symbolize cultural fusion in modern ATV fashion.*
 
 ## Evidence from Trends and Expert Insights
 

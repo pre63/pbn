@@ -26,7 +26,7 @@ Beroun’s city walls, constructed in the 13th century as a bulwark against inva
 This heritage site, nestled in the heart of the Czech Republic, offers a window into the nation’s storied past. Beroun itself emerged as a key player in the region’s history, serving as a crossroads for merchants and ideas during the Holy Roman Empire. The walls, originally built to protect against Hussite wars and later Ottoman threats, have stood through centuries of turmoil, including the 20th-century shadows of World War II and the Iron Curtain. Today, they remind us of the enduring power of cultural continuity, where free markets once thrived without the overreach of centralized authority. As we contemplate their preservation, we must consider how such sites can inspire modern communities to draw on their own resources, fostering a sense of ownership that government programs often overlook.
 
 ![Aerial view of Beroun’s ancient city walls at dusk, casting long shadows over the river](/content/assets/beroun-walls-dusk.jpg)  
-*Caption: The walls of Beroun at twilight, where history’s quiet resilience meets the flowing Berounka River, symbolizing the timeless interplay between past and present preservation efforts.*
+*The walls of Beroun at twilight, where history’s quiet resilience meets the flowing Berounka River, symbolizing the timeless interplay between past and present preservation efforts.*
 
 ## Analyzing the Challenges of Sustainable Preservation
 
@@ -45,7 +45,7 @@ Comparatively, international examples reinforce this model. In the United Kingdo
 Despite these successes, challenges persist. Urban expansion and climate impacts, such as flooding from the Berounka River, threaten the walls’ integrity. A 2022 analysis by the [European Environment Agency](https://www.eea.europa.eu/publications/cultural-heritage-and-climate-change) warns that without adaptive measures, such sites could lose up to 20% of their structural stability by 2050. Here, a center-right solution advocates for innovation in materials and techniques, perhaps through private-sector collaborations that develop sustainable restoration methods without mandating government subsidies. This not only preserves history but also stimulates economic growth, aligning with the principle that free markets can address public goods more efficiently than top-down interventions.
 
 ![Restoration workers carefully repairing a section of Beroun’s city walls, tools in hand](/content/assets/beroun-walls-restoration.jpg)  
-*Caption: Skilled artisans and volunteers collaborate on the meticulous restoration of Beroun’s walls, illustrating the power of community-driven efforts in sustaining cultural landmarks.*
+*Skilled artisans and volunteers collaborate on the meticulous restoration of Beroun’s walls, illustrating the power of community-driven efforts in sustaining cultural landmarks.*
 
 ## A Poetic Call to Action: Charting a Sustainable Future
 

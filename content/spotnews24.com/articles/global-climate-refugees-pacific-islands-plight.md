@@ -27,7 +27,7 @@ The Pacific Islands, a scattering of paradises in the vast ocean, are on the fro
 
 This displacement isn't happening in isolation; it's intertwined with broader patterns of migration. As islanders seek higher ground, they're moving to countries like Australia, New Zealand, or even the United States, straining resources and testing international relations. A [Wall Street Journal analysis](https://www.wsj.com/articles/climate-migration-pacific-islands-forecast-abc123) highlights how this exodus could swell to millions by mid-century, potentially overwhelming host nations if not managed with foresight. Yet, from a center-right lens, we see opportunity in adversity. Instead of viewing these movements as inevitable tragedies demanding massive state intervention, we should encourage free-market approaches that build adaptive capacity. For instance, private enterprises could invest in resilient infrastructure, like elevated homes or community-funded seawalls, allowing locals to stay put and maintain their traditional ways of life.
 
-To illustrate, consider the image of a vanishing horizon: ![Aerial view of inundated atoll in Kiribati](/content/assets/inundated-kiribati-atoll.jpg) *Caption: Rising waters encircle a traditional Kiribati village, symbolizing the quiet desperation of climate refugees as they face an uncertain future on their ancestral lands.*
+To illustrate, consider the image of a vanishing horizon: ![Aerial view of inundated atoll in Kiribati](/content/assets/inundated-kiribati-atoll.jpg) *Rising waters encircle a traditional Kiribati village, symbolizing the quiet desperation of climate refugees as they face an uncertain future on their ancestral lands.*
 
 ## Analyzing the Evidence: Migration Patterns and Humanitarian Implications
 
@@ -39,7 +39,7 @@ Supporting this, research from the [World Bank Group](https://www.worldbank.org/
 
 In this context, humanitarian efforts should focus on voluntary, market-based migration pathways. Rather than imposing refugee quotas through international treaties, governments could streamline visa programs that reward skilled migrants, allowing Pacific Islanders to contribute to host economies while preserving their cultural ties. This not only addresses the immediate needs of climate refugees but also promotes long-term stability through economic integration.
 
-![Resilient community adaptation in Tuvalu](/content/assets/tuvalu-community-adaptation.jpg) *Caption: Locals in Tuvalu construct a community-funded seawall, embodying the spirit of self-reliance and free-market innovation amid rising sea levels.*
+![Resilient community adaptation in Tuvalu](/content/assets/tuvalu-community-adaptation.jpg) *Locals in Tuvalu construct a community-funded seawall, embodying the spirit of self-reliance and free-market innovation amid rising sea levels.*
 
 ## Charting a Course: Toward Balanced International Action
 

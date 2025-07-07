@@ -30,7 +30,7 @@ Consider the narrative of a lone prospector turned innovator: in the 21st centur
 Yet, this transition is not without challenges. Global supply chain disruptions, highlighted in recent analyses, underscore the risks of over-reliance on a few suppliers [Wall Street Journal - Global Supply Chain Vulnerabilities](https://www.wsj.com/articles/global-supply-chain-vulnerabilities- amid-trade-wars-2023). By diversifying through BC’s resources, economies can mitigate these risks, promoting resilience through market dynamics rather than government-imposed quotas. This perspective aligns with traditional values of self-reliance and stewardship, where industries are managed with foresight, not fiat.
 
 ![Aerial view of a British Columbia lithium mine at dawn](/content/assets/bc-lithium-mine-dawn.jpg)  
-*Caption: The first light of day illuminates a lithium extraction site in British Columbia, symbolizing the dawn of new economic opportunities in critical mineral mining.*
+*The first light of day illuminates a lithium extraction site in British Columbia, symbolizing the dawn of new economic opportunities in critical mineral mining.*
 
 ## Economic Diversification Amid Trade Turbulence
 
@@ -51,7 +51,7 @@ Balancing this progress requires a pragmatic lens. While environmental considera
 In practice, this means supporting initiatives where companies invest in local training programs and sustainable extraction methods—actions that align with free-market principles by rewarding long-term thinking. As trade tensions persist, BC’s ability to adapt exemplifies the resilience of economies built on innovation and minimal intervention.
 
 ![Graph showing BC mineral exports growth from 2018-2023](/content/assets/bc-mineral-exports-graph.jpg)  
-*Caption: A line graph depicting the steady rise in British Columbia's critical mineral exports, highlighting economic diversification in the face of global trade challenges.*
+*A line graph depicting the steady rise in British Columbia's critical mineral exports, highlighting economic diversification in the face of global trade challenges.*
 
 ## A Call for Prudent Progress
 

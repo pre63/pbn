@@ -31,7 +31,7 @@ E-sports, at its core, is gaming elevated to professional heights, with tourname
 
 Of course, not everyone saw this coming. Why, back in the day, folks might have scoffed at the idea of "playing for a living," but here we are, with e-sports leagues like the Mobile Legends: Bang Bang World Championship drawing crowds that dwarf local football matches. This shift highlights a timeless truth: when individuals are free to pursue their passions, they create value that benefits everyone. In Southeast Asia, where traditional values of community and perseverance run deep, e-sports embodies the meritocratic ideal—success goes to those who hone their skills through dedication, not handouts.  
 
-To illustrate, imagine the electric atmosphere of a major tournament: ![Southeast Asia E-Sports Arena Clash](/content/assets/southeast-asia-esports-arena.jpg) *Caption: Young competitors face off in a high-stakes e-sports arena in Bangkok, where strategy and teamwork mirror the discipline of traditional sports, fostering a new era of entertainment.*
+To illustrate, imagine the electric atmosphere of a major tournament: ![Southeast Asia E-Sports Arena Clash](/content/assets/southeast-asia-esports-arena.jpg) *Young competitors face off in a high-stakes e-sports arena in Bangkok, where strategy and teamwork mirror the discipline of traditional sports, fostering a new era of entertainment.*
 
 ## Forging New Career Paths for the Youth
 
@@ -43,7 +43,7 @@ But it's not all virtual victories; e-sports demands the same traditional values
 
 Yet, amid this excitement, we must guard against overreach. Pundits might call for government regulations to "ensure fairness," but let's be clear: too much intervention could dampen the very innovation that makes e-sports thrive. Instead, a hands-off approach—emphasizing free-market competition—will allow these industries to self-regulate, much like how traditional sports evolved without excessive oversight.  
 
-![Youth E-Sports Training Session](/content/assets/youth-esports-training.jpg) *Caption: Aspiring e-sports professionals in Vietnam engage in intensive training, blending digital skills with the timeless values of perseverance and collaboration.*
+![Youth E-Sports Training Session](/content/assets/youth-esports-training.jpg) *Aspiring e-sports professionals in Vietnam engage in intensive training, blending digital skills with the timeless values of perseverance and collaboration.*
 
 ## Evidence and Insights: The Data Behind the Boom
 

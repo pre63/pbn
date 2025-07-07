@@ -31,7 +31,7 @@ At its core, the Columbia River Treaty is a model of limited government interven
 This perspective overlooks the free-market efficiencies of the treaty. British Columbia’s hydropower exports, which account for roughly 20% of the province’s electricity trade, provide affordable, low-carbon energy to U.S. consumers. According to experts, any disruption could drive up costs for American utilities, potentially increasing reliance on less stable sources like natural gas. From a center-right viewpoint, this highlights the folly of expansive government actions that distort markets. Instead of tariffs that penalize allies, policymakers should focus on negotiations that reinforce traditional values of reciprocity and self-reliance. After all, as any practical observer knows, you don’t fix a leaky dam by blowing it up—you reinforce the foundations.
 
 ![Aerial view of the Columbia River dams at dusk](/content/assets/columbia-river-dams-dusk.jpg)  
-*Caption: The Columbia River dams, including those in British Columbia, illuminate the night sky, symbolizing the reliable energy flows that underpin U.S.-Canada trade—but Trump's policies could dim this light.*
+*The Columbia River dams, including those in British Columbia, illuminate the night sky, symbolizing the reliable energy flows that underpin U.S.-Canada trade—but Trump's policies could dim this light.*
 
 ## Evidence: The Impacts on Hydropower Exports and Energy Security
 
@@ -42,7 +42,7 @@ Moreover, the trade war rhetoric has already had tangible effects. In 2018, Cana
 The human element adds another layer. Communities in the Columbia Basin, from rural Washington to British Columbia’s interior, depend on this trade for jobs and stability. Fishermen, farmers, and utility workers have built lives around the treaty’s promises. Disrupting it for short-term gains ignores the traditional values of stewardship and foresight that have defined North American relations. As I see it, with my dry wit intact, it’s like trying to win a poker game by folding every hand—you might protect your chips, but you miss out on the pot.
 
 ![Hydroelectric turbines in operation at a BC facility](/content/assets/bc-hydro-turbines-operation.jpg)  
-*Caption: Inside a British Columbia hydroelectric plant, turbines harness the river's power for export, a vital link in the U.S.-Canada energy chain that's now at risk from trade policy skirmishes.*
+*Inside a British Columbia hydroelectric plant, turbines harness the river's power for export, a vital link in the U.S.-Canada energy chain that's now at risk from trade policy skirmishes.*
 
 ## Conclusion: Charting a Path Forward
 

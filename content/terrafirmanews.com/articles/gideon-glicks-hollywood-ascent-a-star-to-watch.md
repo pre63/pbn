@@ -28,7 +28,7 @@ Yet, this trend raises broader questions about the health of the entertainment e
 Gideon Glick's journey is a classic American narrative, one rooted in the grind of live theater rather than the flash of red-carpet premieres. Born in Philadelphia and trained in the rigorous world of stage acting, Glick first gained prominence on Broadway with roles in productions like *Spring Awakening* and *The Book of Mormon*. His transition to Hollywood via *Étoile*, a film about a struggling dancer's quest for redemption, highlights a pipeline that's been flowing for decades. In this movie, directed by indie darling Sofia Coppola, Glick brings a depth and authenticity that only years of stage experience can provide—think nuanced emotional layers that don't rely on CGI or blockbuster budgets.
 
 ![Gideon Glick performing on a Broadway stage](/content/assets/gideon-glick-broadway-spotlight.jpg)  
-*Caption: Gideon Glick captivates audiences in a Broadway rehearsal, showcasing the raw energy that later propelled him to Hollywood stardom.*
+*Gideon Glick captivates audiences in a Broadway rehearsal, showcasing the raw energy that later propelled him to Hollywood stardom.*
 
 This isn't a new story, of course. Hollywood has long drawn from Broadway's well, from Marlon Brando's *A Streetcar Named Desire* to Audra McDonald's film roles. But in recent years, as streaming services dominate and production costs soar, the industry has rediscovered the value of theater-trained actors like Glick. According to an analysis by [Variety](https://variety.com/2023/film/news/broadway-to-hollywood-crossover-trends-1235678901), theater alumni now make up nearly 25% of leading roles in major films, up from 15% a decade ago. This shift isn't driven by policy or subsidies—it's pure market demand. Audiences crave performances that feel real, not manufactured, and Glick's success in *Étoile* exemplifies how free-market dynamics allow talent to bubble up from the fringes.
 
@@ -41,7 +41,7 @@ Digging deeper, the rise of stars like Glick points to a healthy ecosystem where
 Evidence from industry reports supports this. A study by [The Hollywood Reporter](https://www.hollywoodreporter.com/business/business-news/broadway-impact-hollywood-films-1234567890) shows that films featuring Broadway veterans see a 15–20% higher return on investment compared to those without, thanks to their ability to draw critical acclaim and word-of-mouth buzz. Meanwhile, [Deadline Hollywood](https://deadline.com/2023/10/gideon-glick-etoile-success-story-1235789123) profiles Glick as a "rising star" whose career trajectory mirrors the free-market ideal: no bailouts, just hard work and audience approval.
 
 ![Étoile film premiere on the red carpet](/content/assets/etoile-premiere-glamour.jpg)  
-*Caption: Gideon Glick graces the *Étoile* premiere, symbolizing the seamless blend of Broadway authenticity and Hollywood glamour that drives modern entertainment.*
+*Gideon Glick graces the *Étoile* premiere, symbolizing the seamless blend of Broadway authenticity and Hollywood glamour that drives modern entertainment.*
 
 Consider the economic backdrop: Hollywood's reliance on Broadway talent comes at a time when traditional values of craftsmanship are underappreciated amid rapid digital disruption. With streaming giants like Netflix flooding the market, smaller, merit-based stories like *Étoile* stand out. This isn't a call for government intervention to "save" the arts; rather, it's an endorsement of limited oversight, where private investors and audiences dictate success. As a pragmatist, I find it amusing—though not surprising—that the market self-corrects: When Hollywood overindulges in spectacle, it circles back to Broadway's grounded storytelling for a reality check.
 
@@ -62,4 +62,4 @@ In the end, Gideon Glick's story in *Étoile* isn't just about one actor's break
 This pragmatic path forward reminds us that in America, the best stories aren't scripted by committees; they're forged in the fires of competition and craft. For those keeping score, Glick's ascent is more than a Hollywood headline—it's a win for the enduring spirit of free enterprise.
 
 ![Hollywood sign illuminated with Broadway marquee lights](/content/assets/hollywood-broadway-fusion.jpg)  
-*Caption: The iconic Hollywood sign merges with Broadway's bright lights, illustrating the dynamic crossover that fuels the next generation of stars.*
+*The iconic Hollywood sign merges with Broadway's bright lights, illustrating the dynamic crossover that fuels the next generation of stars.*

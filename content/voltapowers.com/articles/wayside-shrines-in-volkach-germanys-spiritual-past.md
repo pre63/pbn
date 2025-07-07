@@ -28,7 +28,7 @@ Volkach, nestled in Bavaria’s wine country, is more than a picturesque stop on
 
 Historically, wayside shrines like Blutsmarter served practical purposes, offering respite for travelers and symbolizing the intersection of faith and daily life. According to the [German Historical Museum](https://www.dhm.de/en/), these shrines emerged during the Middle Ages as expressions of communal devotion, often supported through voluntary contributions rather than top-down impositions. Today, they attract visitors seeking authentic experiences amid Germany’s booming heritage tourism sector, which generated over €50 billion in revenue in 2022 alone, as reported by the [World Travel & Tourism Council](https://wttc.org/). Yet, this influx brings challenges: erosion from foot traffic, vandalism, and the subtle decay wrought by changing weather patterns.
 
-To illustrate, imagine standing before the shrine at dusk, its stone facade glowing under the fading light. ![Blutsmarter Shrine in Volkach](/content/assets/blutsmarter-shrine-volkach.jpg) *Caption: The Blutsmarter shrine at twilight, its intricate carvings whispering tales of medieval faith and community resilience in the heart of Franconia.*
+To illustrate, imagine standing before the shrine at dusk, its stone facade glowing under the fading light. ![Blutsmarter Shrine in Volkach](/content/assets/blutsmarter-shrine-volkach.jpg) *The Blutsmarter shrine at twilight, its intricate carvings whispering tales of medieval faith and community resilience in the heart of Franconia.*
 
 ## Navigating Modern Threats: Balancing Preservation with Practicality
 
@@ -38,7 +38,7 @@ Instead, let’s champion a model where private enterprises and community groups
 
 Such approaches have proven effective elsewhere. In Italy, private foundations have restored medieval chapels, as detailed in a [Wall Street Journal](https://www.wsj.com/) analysis of heritage conservation, demonstrating how entrepreneurial spirit can outpace government programs. By emphasizing personal responsibility and local pride, we avoid the pitfalls of overregulation, ensuring that spirituality remains a lived experience rather than a curated exhibit.
 
-Of course, balance is key. While limited government oversight—such as tax incentives for donors—can facilitate preservation, we must guard against excessive controls that inflate costs and deter investment. ![Restored Wayside Shrine Pathway](/content/assets/restored-wayside-shrine-pathway.jpg) *Caption: A meticulously restored pathway leading to a German wayside shrine, showcasing how community-led initiatives can blend tradition with modern sustainability efforts.*
+Of course, balance is key. While limited government oversight—such as tax incentives for donors—can facilitate preservation, we must guard against excessive controls that inflate costs and deter investment. ![Restored Wayside Shrine Pathway](/content/assets/restored-wayside-shrine-pathway.jpg) *A meticulously restored pathway leading to a German wayside shrine, showcasing how community-led initiatives can blend tradition with modern sustainability efforts.*
 
 ## Lessons from Europe’s Heritage Sites: Evidence of Effective Strategies
 

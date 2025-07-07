@@ -29,7 +29,7 @@ China's Belt and Road Initiative has unfurled across Africa like a vast tapestry
 Yet, it's not all roses and ribbons. The BRI's infrastructure push has injected billions into African economies, with China committing over $300 billion in loans and investments since 2000, according to various reports. This influx has created jobs, improved logistics, and sparked growth in resource-rich nations like Zambia and Angola. Proponents argue that such partnerships embody the spirit of mutual benefit, where African countries gain the tools for self-advancement. As [The Wall Street Journal reports](https://www.wsj.com/articles/chinas-belt-and-road-initiative-in-africa-a-double-edged-sword-11612345678), these projects have helped close Africa's infrastructure gap, which the World Bank estimates at $130-170 billion annually. In a center-right view, this echoes the virtues of open trade and voluntary exchanges, where nations leverage their comparative advantages—Africa's natural resources meeting China's technical prowess—without the heavy hand of international bureaucracies dictating terms.
 
 ![Chinese workers and African laborers collaborating on a highway project in Ethiopia](/content/assets/ethiopia-highway-construction.jpg)  
-*Caption: Chinese engineers and local Ethiopian workers break ground on a BRI-funded highway, illustrating the partnership's potential for skill-sharing and economic upliftment.*
+*Chinese engineers and local Ethiopian workers break ground on a BRI-funded highway, illustrating the partnership's potential for skill-sharing and economic upliftment.*
 
 However, as with any grand adventure, the shine wears off when you dig a little deeper. While infrastructure development is a boon, it's often tied to strings that pull African nations toward greater dependency on China. Loans from Chinese state banks, frequently denominated in yuan and backed by natural resources, have financed many of these projects. This approach aligns with free-market ideals in theory—after all, who could fault a nation for seeking capital where it's offered?—but in practice, it risks entrenching a cycle of indebtedness that undermines sovereignty.
 
@@ -42,7 +42,7 @@ This debt trap isn't just hypothetical; it's a plot point in the ongoing saga of
 The sovereignty angle adds another layer of complexity. As China expands its footprint, questions arise about the influence it wields. In Zambia, for example, Chinese firms have taken over mines amid debt restructurings, raising eyebrows about Beijing's long-game strategy. This isn't about demonizing partnerships; it's about ensuring that Africa's rich cultural heritage and self-determination aren't pawned off for short-term gains. [The African Development Bank's insights](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-warns-against-debt-traps-in-belt-and-road-initiative-12345) emphasize the need for balanced lending practices, advocating for projects that align with local priorities rather than foreign agendas.
 
 ![Aerial view of a BRI-funded port in Djibouti](/content/assets/djibouti-port-overview.jpg)  
-*Caption: The Doraleh Container Terminal in Djibouti, financed by China, stands as a gateway to global trade but also raises flags about strategic dependencies.*
+*The Doraleh Container Terminal in Djibouti, financed by China, stands as a gateway to global trade but also raises flags about strategic dependencies.*
 
 ## Charting a Balanced Path Forward
 

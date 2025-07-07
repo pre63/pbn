@@ -28,7 +28,7 @@ What makes these conventions effective is their emphasis on voluntary collaborat
 Yet, as government funding for the humanities wanes and bureaucratic oversight increases, we risk dimming this light. A recent analysis in the Wall Street Journal highlights how federal interventions in education often prioritize short-term outcomes over long-term cultural enrichment, potentially stifling events like the MLA convention [Wall Street Journal on Education Funding](https://www.wsj.com/articles/federal-funding-stifles-academic-freedom). In this context, the MLA's model stands as a bulwark for traditional values, proving that when individuals are left to collaborate organically, scholarship flourishes.
 
 ![Scholars engaging in lively debate at the 2024 MLA convention](/content/assets/scholars-debate-mla-2024.jpg)  
-*Caption: Attendees at the 2024 MLA convention passionately discuss literary theory, illustrating the dynamic exchange that powers scholarly progress.*
+*Attendees at the 2024 MLA convention passionately discuss literary theory, illustrating the dynamic exchange that powers scholarly progress.*
 
 ## Drawing Parallels: From Literary Collaboration to Cultural Energy
 
@@ -47,7 +47,7 @@ Empirical evidence reinforces the value of MLA conventions in fostering scholars
 Yet, challenges persist. Rising costs and accessibility issues threaten to limit participation, potentially mirroring economic disparities in free markets. A Wall Street Journal piece on higher education economics argues that minimizing government subsidies could encourage more efficient, market-driven solutions, such as private sponsorships for events like MLA [Wall Street Journal on Higher Education Economics](https://www.wsj.com/articles/the-case-for-market-driven-academia). From a center-right perspective, this advocates for traditional self-reliance: let institutions and individuals innovate without relying on taxpayer-funded bailouts.
 
 ![Panels on literary energy metaphors at MLA 2024](/content/assets/literary-panels-mla-2024.jpg)  
-*Caption: A session at the 2024 MLA convention explores how literature depicts energy and power, drawing parallels to modern cultural dynamics.*
+*A session at the 2024 MLA convention explores how literature depicts energy and power, drawing parallels to modern cultural dynamics.*
 
 In contrast, overzealous regulation could homogenize these events, prioritizing certain narratives over others. Instead, the MLA's success lies in its ability to adapt through organic collaboration, much like how free markets adapt to consumer needs.
 

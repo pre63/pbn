@@ -29,7 +29,7 @@ At the heart of recent market fluctuations is **Saudi Arabia**'s leadership in *
 These cuts have not occurred in isolation. They stem from a confluence of factors, including post-pandemic demand recovery, inflationary pressures, and geopolitical uncertainties such as the ongoing conflicts in the Middle East and Ukraine. By tightening the spigot, **Saudi Arabia** seeks to prevent a glut that could erode prices, thereby protecting its economy, which relies on oil revenues for about 80% of its budget. However, this strategy has amplified tensions with **Western economies**, particularly in the United States and Europe, where higher **oil prices** exacerbate inflation and strain consumers already grappling with rising costs.
 
 ![Saudi oil fields at dawn](/content/assets/saudi-oil-fields-dawn.jpg)  
-*Caption: The expansive oil fields of Saudi Arabia at dawn, symbolizing the kingdom's enduring influence over global energy supplies and the strategic decisions that shape international markets.*
+*The expansive oil fields of Saudi Arabia at dawn, symbolizing the kingdom's enduring influence over global energy supplies and the strategic decisions that shape international markets.*
 
 ## Impact on Global Energy Prices: A Double-Edged Sword
 
@@ -48,7 +48,7 @@ Evidence from recent analyses supports this view. A report from the Internationa
 In advocating for limited government intervention, I propose that **Western economies** focus on fostering domestic innovation—such as expanding natural gas infrastructure or advancing nuclear energy—through tax incentives and streamlined regulations. This approach honors free-market principles, allowing private enterprises to lead the charge toward energy security without the pitfalls of overregulation.
 
 ![OPEC price fluctuation chart](/content/assets/opec-price-trends-chart.jpg)  
-*Caption: A historical chart of OPEC-influenced oil price trends, illustrating the volatility that underscores the need for diversified energy strategies in global economies.*
+*A historical chart of OPEC-influenced oil price trends, illustrating the volatility that underscores the need for diversified energy strategies in global economies.*
 
 ## Toward a Resilient Future: Embracing Market Wisdom
 

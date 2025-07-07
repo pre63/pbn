@@ -27,7 +27,7 @@ Zlíchov’s distillery, nestled in the heart of Prague, embodies the industriou
 
 Yet, as with all echoes of the past, Zlíchov faces the inexorable march of time. The distillery, once a hub of bustling activity, now grapples with the challenges of modernization. Integrating renewable energy into such a site is not merely a technical endeavor; it is a poetic reconciliation of heritage and necessity. Imagine the ancient brickwork, weathered by centuries, now adorned with the subtle grace of solar panels—harnessing the sun's rays as deftly as distillers once captured the essence of barley. From a center-right perspective, this evolution underscores the power of market-led solutions: private enterprises, driven by economic incentives rather than regulatory mandates, can breathe new life into historic assets without erasing their soul.
 
-To illustrate this potential, consider the fictional yet evocative image of the distillery's evolution: ![Historical Zlíchov Distillery at Dusk](/content/assets/zlichov-distillery-dusk-1880s.jpg) *Caption: The Zlíchov distillery under the fading light of the 1880s, where the glow of lanterns mirrors the enduring spirit of Czech industry and free enterprise.*
+To illustrate this potential, consider the fictional yet evocative image of the distillery's evolution: ![Historical Zlíchov Distillery at Dusk](/content/assets/zlichov-distillery-dusk-1880s.jpg) *The Zlíchov distillery under the fading light of the 1880s, where the glow of lanterns mirrors the enduring spirit of Czech industry and free enterprise.*
 
 ## Analyzing Integration: Renewable Energy in Industrial Heritage
 
@@ -45,7 +45,7 @@ To ground this discussion in evidence, let us examine real-world applications th
 
 In the Czech context, Zlíchov's distillery could adopt similar strategies. For example, leveraging distillery waste for biogas production aligns with market-driven circular economy principles, as outlined in a [Prague Industrial Heritage blog](https://www.pragueheritageblog.com/czech-industry-renewables-2022). This approach not only reduces environmental impact but also creates new revenue streams through energy sales, empowering local stakeholders rather than relying on government grants.
 
-Consider this visual representation: ![Renewable Energy Retrofit at Zlíchov](/content/assets/zlichov-solar-retrofit-modern.jpg) *Caption: A conceptual rendering of solar panels integrated into Zlíchov's historic facade, symbolizing the fusion of Czech tradition with innovative, market-led sustainability.*
+Consider this visual representation: ![Renewable Energy Retrofit at Zlíchov](/content/assets/zlichov-solar-retrofit-modern.jpg) *A conceptual rendering of solar panels integrated into Zlíchov's historic facade, symbolizing the fusion of Czech tradition with innovative, market-led sustainability.*
 
 Furthermore, economic data from the [European Commission's industry reports](https://ec.europa.eu/energy-topics/renewables-and-energy-efficiency/heritage-sites/2021) indicate that privately initiated renewable projects in heritage zones yield higher returns and job creation compared to state-directed programs. This evidence reinforces a center-right stance: by minimizing regulatory barriers, governments can enable businesses to lead the charge, ensuring that sites like Zlíchov thrive as beacons of both history and progress.
 

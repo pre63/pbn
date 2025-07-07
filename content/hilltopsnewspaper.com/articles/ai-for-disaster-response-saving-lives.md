@@ -30,7 +30,7 @@ At the heart of this transformation is AI's ability to integrate disparate infor
 Yet, one cannot help but note the wit in AI's ascendancy: it outpaces the human element not by replacing it, but by augmenting it. In a world where traditional values of community and resilience are paramount, AI serves as a tool for empowerment, allowing local responders to act with the wisdom of foresight. As [IEEE Spectrum](https://spectrum.ieee.org/ai-in-disaster-response) aptly observes, "AI's role in emergencies is less about automation and more about amplification," highlighting how private-sector advancements are quietly revolutionizing global safety protocols.
 
 ![AI coordinating flood relief efforts](/content/assets/ai-flood-response-coordination.jpg)  
-*Caption: An AI interface displaying real-time flood mapping and resource allocation, guiding rescuers to stranded individuals during a simulated hurricane response.*
+*An AI interface displaying real-time flood mapping and resource allocation, guiding rescuers to stranded individuals during a simulated hurricane response.*
 
 ## Analyzing AI's Strategic Edge in Humanitarian Crises
 
@@ -43,7 +43,7 @@ Of course, no panacea is without its caveats. The sharp-tongued critic might poi
 This balanced view acknowledges challenges while celebrating triumphs, for true progress lies in harnessing technology's potential without the illusion of perfection. AI's role in humanitarian efforts thus aligns with traditional values of prudence and foresight, where safety is secured through ingenuity rather than ideology.
 
 ![Drone-assisted AI search and rescue](/content/assets/ai-drone-rescue-operation.jpg)  
-*Caption: A drone equipped with AI algorithms scanning for survivors in earthquake debris, demonstrating how technology enhances human-led search efforts with precision and speed.*
+*A drone equipped with AI algorithms scanning for survivors in earthquake debris, demonstrating how technology enhances human-led search efforts with precision and speed.*
 
 ## Evidence of Lives Saved and Lessons Learned
 

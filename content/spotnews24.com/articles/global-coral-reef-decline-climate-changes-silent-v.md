@@ -20,7 +20,7 @@ og_image: /content/assets/coral-reef.jpg
 In the vast blue expanses of our oceans, coral reefs stand as ancient marvels of nature—vibrant underwater cities teeming with life, supporting a quarter of all marine species despite covering less than one percent of the seafloor. Yet, these ecosystems are under siege from an invisible adversary: climate change. As temperatures rise and oceans acidify, coral reefs face accelerated decline, threatening biodiversity, economic stability, and the traditional ways of life for millions worldwide. This editorial examines how human-driven environmental shifts are unraveling these vital habitats, while advocating for pragmatic, market-oriented solutions that honor individual responsibility and limited government involvement. Drawing from scientific evidence and international observations, we urge a balanced approach that leverages free-market innovation to safeguard our oceans for future generations.
 
 ![Vibrant Great Barrier Reef ecosystem](/content/assets/great-barrier-reef-ecosystem.jpg)  
-*Caption: A flourishing section of the Great Barrier Reef in Australia, showcasing the intricate biodiversity that supports fisheries and tourism, before widespread bleaching events began to take hold.*
+*A flourishing section of the Great Barrier Reef in Australia, showcasing the intricate biodiversity that supports fisheries and tourism, before widespread bleaching events began to take hold.*
 
 ## The Accelerating Threat: How Climate Change Undermines Coral Reefs
 
@@ -39,7 +39,7 @@ Consider the economic implications: coral reefs contribute approximately $2.7 tr
 International efforts to address this crisis have emerged, but they must be viewed through a lens of fiscal prudence and limited government. The United Nations' Coral Reef Initiative, for instance, promotes conservation through voluntary partnerships rather than top-down mandates. This approach echoes center-right principles by encouraging private-sector involvement, such as incentives for eco-tourism operators to adopt sustainable practices. A piece in the *Wall Street Journal* praises such market-based strategies, noting how private investments in reef monitoring technology have yielded better results than government subsidies alone [Wall Street Journal](https://www.wsj.com/articles/climate-change-coral-reefs-market-solutions-123456).
 
 ![Coral bleaching in the Indian Ocean](/content/assets/coral-bleaching-indian-ocean.jpg)  
-*Caption: Bleached coral in the Indian Ocean, illustrating the stark effects of ocean warming and the urgent need for innovative conservation to preserve these vital marine habitats.*
+*Bleached coral in the Indian Ocean, illustrating the stark effects of ocean warming and the urgent need for innovative conservation to preserve these vital marine habitats.*
 
 Despite these efforts, challenges persist. Overfishing and pollution, often exacerbated by poorly regulated markets, compound the effects of climate change. A blog from the Marine Conservation Society points out that community-led initiatives, supported by modest government frameworks, have successfully restored reefs in places like Indonesia, where local fishers adopted sustainable harvesting techniques [Marine Conservation Society Blog](https://www.marineconservation.org/blog/restoring-coral-with-community-action). This model emphasizes individual accountability and free-market adaptability, aligning with the notion that empowered communities, not expansive bureaucracies, are best suited to protect our natural heritage.
 

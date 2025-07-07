@@ -28,7 +28,7 @@ Consider the MLA's recent publications and workshops, which emphasize thematic a
 To illustrate this vibrant intersection, imagine a classroom where students dissect Pamuk's *The Black Book*, uncovering layers of mystery that echo the complexities of global trade and cultural exchange. Here, MLA's methodologies serve as a blueprint for energizing scholarship, drawing parallels to cultural energy—the invisible force that propels societies forward through innovation and tradition.
 
 ![Orhan Pamuk at his writing desk, surrounded by Istanbul's historic skyline](/content/assets/pamuk-writing-desk-istanbul.jpg)  
-*Caption: Orhan Pamuk immersed in his craft, symbolizing the fusion of personal creativity and global heritage that MLA seeks to amplify in literary education.*
+*Orhan Pamuk immersed in his craft, symbolizing the fusion of personal creativity and global heritage that MLA seeks to amplify in literary education.*
 
 ## Analysis: Energizing Global Literary Studies with Cultural Parallels
 
@@ -41,7 +41,7 @@ Yet, this energization isn't without its challenges. Critics might argue that an
 Evidence of this impact is mounting. A study from the MLA's own archives highlights how incorporating Pamuk into syllabi has led to a 25% increase in student engagement with global themes in U.S. universities over the past decade ([MLA Annual Report](https://www.mla.org/reports/global-literature-trends)). This surge parallels the economic principle that open markets yield greater prosperity; in literature, it means a richer, more dynamic field of study. Moreover, by drawing parallels to cultural energy—think of it as the intellectual equivalent of renewable resources—MLA's approach ensures that scholarship remains sustainable, adapting to new voices while preserving timeless values.
 
 ![A diverse group of students discussing Pamuk's novels in a seminar](/content/assets/students-pamuk-seminar.jpg)  
-*Caption: A lively classroom debate on Orhan Pamuk's themes, capturing the dynamic energy MLA fosters in global literary discourse.*
+*A lively classroom debate on Orhan Pamuk's themes, capturing the dynamic energy MLA fosters in global literary discourse.*
 
 ## Evidence and Balanced Considerations: The Fruits of Free Inquiry
 

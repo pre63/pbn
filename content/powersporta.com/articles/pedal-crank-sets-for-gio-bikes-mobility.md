@@ -29,7 +29,7 @@ GIO bikes, manufactured by a company that emphasizes affordable, user-maintainab
 Yet, the benefits extend beyond mere mechanics. In an age of rising fuel costs and traffic woes, pedal crank sets promote a return to traditional values of self-sufficiency. Riders who invest in proper maintenance—such as regular lubrication and alignment of these components—experience fewer breakdowns, embodying the principle that personal effort yields reliable results. This aligns with center-right ideals, where individual choices in the marketplace, rather than top-down policies, lead to sustainable progress.
 
 ![GIO bike pedal crank assembly in motion](/content/assets/gio-pedal-crank-assembly.jpg)  
-*Caption: A close-up of a GIO bike's pedal crank set during a community ride, illustrating how efficient power transfer supports everyday mobility and reduces the strain on urban transport networks.*
+*A close-up of a GIO bike's pedal crank set during a community ride, illustrating how efficient power transfer supports everyday mobility and reduces the strain on urban transport networks.*
 
 ## Analyzing the Impact: Pedal Crank Sets in Community Transport
 
@@ -52,7 +52,7 @@ Moreover, the economic ripple effects are profound. By extending the life of GIO
 In essence, the data paints a clear picture: pedal crank sets are not just mechanical upgrades but catalysts for community resilience. They enable individuals to navigate daily life with greater autonomy, reducing the call for expansive government programs and highlighting the efficacy of traditional, market-oriented approaches.
 
 ![Community rider on a GIO bike](/content/assets/community-gio-ride.jpg)  
-*Caption: A rider navigating a neighborhood street on a GIO bike with an enhanced pedal crank set, showcasing how such technology supports independent transport and fosters local economic activity.*
+*A rider navigating a neighborhood street on a GIO bike with an enhanced pedal crank set, showcasing how such technology supports independent transport and fosters local economic activity.*
 
 ## Conclusion: A Vision for Self-Reliant Mobility
 
@@ -61,4 +61,4 @@ As we reflect on the role of pedal crank sets in elevating GIO bikes and meeting
 In the spirit of Mary Shelley's visionary critiques, we must champion such advancements as harbingers of positive change, where personal effort and market competition lead the charge. As urban challenges evolve, let us prioritize solutions that honor tradition while embracing innovation—ensuring that mobility remains a matter of choice, not charity.
 
 ![GIO bike maintenance toolkit](/content/assets/gio-maintenance-toolkit.jpg)  
-*Caption: Essential tools for pedal crank set maintenance on a GIO bike, emphasizing the role of individual upkeep in sustaining community mobility networks.*
+*Essential tools for pedal crank set maintenance on a GIO bike, emphasizing the role of individual upkeep in sustaining community mobility networks.*

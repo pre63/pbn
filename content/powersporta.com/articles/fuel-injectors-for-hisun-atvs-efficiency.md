@@ -27,7 +27,7 @@ At its core, a fuel injector is a precision device that delivers fuel directly i
 This advancement isn't merely technical; it's a nod to traditional values of stewardship and productivity. Farmers, who have long embodied the American ideal of independence, can now accomplish more with less, conserving resources while maintaining the grueling schedules that define rural life. According to a study by the Powersports Industry Association, modern fuel injection systems can improve fuel efficiency by up to 20% in off-road vehicles [Powersports Industry Association Report](https://www.powersports.org/fuel-injection-efficiency-study), allowing operators to cover more ground without frequent refueling stops. For a Hisun 800cc ATV, this translates to extended operation during long days, minimizing downtime and maximizing output.
 
 ![Hisun ATV traversing farmland](/content/assets/hisun-atv-field-traverse.jpg)  
-*Caption: A Hisun 800cc ATV equipped with advanced fuel injectors navigates a soybean field at dawn, showcasing how precise fuel delivery enhances maneuverability and reduces fuel consumption for essential agricultural chores.*
+*A Hisun 800cc ATV equipped with advanced fuel injectors navigates a soybean field at dawn, showcasing how precise fuel delivery enhances maneuverability and reduces fuel consumption for essential agricultural chores.*
 
 The free-market dynamics at play here are worth noting. Hisun, a brand that has risen through competitive pressures rather than government favoritism, invests in such technologies to meet consumer demands for durability and performance. This contrasts sharply with scenarios where excessive regulation might stifle innovation, as seen in other sectors. Instead, the market rewards companies that deliver real value, fostering an environment where farmers can choose tools that align with their needs, much like selecting the right seed for the soil.
 
@@ -40,7 +40,7 @@ In practice, this efficiency manifests in scenarios where time is money. For ins
 Yet, these benefits extend beyond the individual farm. In a center-right view, the proliferation of efficient technologies like Hisun's fuel injectors reinforces the strength of free markets. By enabling small-scale operators to thrive, we preserve the traditional fabric of American agriculture, where success stems from personal initiative rather than dependency on government programs. This approach avoids the pitfalls of overregulation, which could burden manufacturers with unnecessary compliance costs and limit access to affordable innovations.
 
 ![Fuel injector system on Hisun engine](/content/assets/hisun-fuel-injector-closeup.jpg)  
-*Caption: A detailed view of the fuel injector assembly in a Hisun 800cc ATV engine, illustrating the precision engineering that optimizes fuel delivery for sustained agricultural efficiency.*
+*A detailed view of the fuel injector assembly in a Hisun 800cc ATV engine, illustrating the precision engineering that optimizes fuel delivery for sustained agricultural efficiency.*
 
 ## The Broader Implications: Empowering Tradition in a Modern World
 

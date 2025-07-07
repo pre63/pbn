@@ -30,7 +30,7 @@ This approach aligns with traditional values of fiscal responsibility and indivi
 
 To visualize this shift, consider the following:  
 ![Ontario Power Grid at Dusk](/content/assets/ontario-power-grid-dusk.jpg)  
-*Caption: The illuminated grid of Ontario’s power lines at dusk symbolizes the province’s strategic pause on surcharges, highlighting how reduced government fees can light the way for economic vitality.*
+*The illuminated grid of Ontario’s power lines at dusk symbolizes the province’s strategic pause on surcharges, highlighting how reduced government fees can light the way for economic vitality.*
 
 ## Lessons for British Columbia: Trade Strategies in a Federal Context
 
@@ -42,7 +42,7 @@ Evidence from recent economic reports supports this view. A study by the Fraser 
 
 Of course, balance is key. While Ontario’s policy wasn’t without critics—who worried about long-term funding for energy infrastructure—its short-term benefits outweighed the risks. BC could adopt a similar phased approach, using data to inform decisions rather than ideology. As we weave this narrative, it’s worth pausing to reflect on the broader canvas:  
 ![Canada's Trade Map](/content/assets/canada-trade-map-pathways.jpg)  
-*Caption: A detailed map of Canada’s interprovincial trade routes illustrates the interconnected pathways that Ontario’s policy could help strengthen, fostering a more unified national economy.*
+*A detailed map of Canada’s interprovincial trade routes illustrates the interconnected pathways that Ontario’s policy could help strengthen, fostering a more unified national economy.*
 
 ## Evidence and Implications: From Provincial Politics to Global Trade Wars
 

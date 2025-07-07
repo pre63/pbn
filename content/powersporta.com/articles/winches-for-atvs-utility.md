@@ -27,7 +27,7 @@ This enhancement is particularly vital in Thailand, where agriculture forms the 
 Yet, the adoption of such technology is not without its challenges. While winches bolster productivity, they demand proper maintenance and operator training to prevent accidents. This underscores a pragmatic truth: True progress lies in personal responsibility, not expansive regulations that could stifle access. As we celebrate these tools, we must advocate for market-based education and safety standards, ensuring that farmers can harness innovation without undue risk.
 
 ![Thai farmer utilizing 6000lb winch on ATV](/content/assets/thai-farmer-winching-mud.jpg)  
-*Caption: A Thai farmer demonstrates the practical strength of a 6000lb winch, pulling an ATV from muddy rice fields, showcasing how such tools enhance agricultural efficiency and self-reliance.*
+*A Thai farmer demonstrates the practical strength of a 6000lb winch, pulling an ATV from muddy rice fields, showcasing how such tools enhance agricultural efficiency and self-reliance.*
 
 ## Analyzing the Economic and Social Impact
 
@@ -46,7 +46,7 @@ Take, for example, the case of a cooperative in Chiang Mai, where farmers equipp
 Critics might point to environmental concerns, such as the potential for increased land disturbance. Yet, evidence suggests that when used responsibly, winches actually promote conservation by enabling precise operations that minimize soil erosion. A recent analysis in [AgWeb](https://www.agweb.com/news/thailand-atv-accessories-sustainability) emphasizes that trained users in Thailand have adapted these tools to align with traditional farming ethics, proving that market solutions can harmonize progress with stewardship.
 
 ![Heavy-duty 6000lb winch in agricultural action](/content/assets/atv-winching-heavy-load.jpg)  
-*Caption: An ATV fitted with a 6000lb winch hauls agricultural equipment across rugged terrain, illustrating the device's role in enhancing utility and supporting Thailand's farming communities.*
+*An ATV fitted with a 6000lb winch hauls agricultural equipment across rugged terrain, illustrating the device's role in enhancing utility and supporting Thailand's farming communities.*
 
 ## Conclusion: A Call for Continued Innovation and Self-Reliance
 
@@ -55,4 +55,4 @@ As we reflect on the role of 6000lb winches in elevating ATV **utility** for Tha
 In this spirit, I urge stakeholders—be they manufacturers, policymakers, or consumers—to champion accessible innovations that prioritize self-reliance over subsidies. Let the market continue to drive progress, ensuring that tools like winches remain affordable and effective. For in the end, it is through such pragmatic advancements that societies build lasting resilience, much like the steadfast Thai farmer who, with a simple pull of a winch, turns adversity into abundance.
 
 ![ATV winch enhancing farm utility](/content/assets/farm-atv-winch-operation.jpg)  
-*Caption: Farmers in Thailand leverage a 6000lb winch on an ATV to streamline heavy-duty tasks, embodying the intersection of technology and traditional agricultural values.*
+*Farmers in Thailand leverage a 6000lb winch on an ATV to streamline heavy-duty tasks, embodying the intersection of technology and traditional agricultural values.*

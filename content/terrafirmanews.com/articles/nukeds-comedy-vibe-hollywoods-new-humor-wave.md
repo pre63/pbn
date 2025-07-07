@@ -22,7 +22,7 @@ In an era where Hollywood's blockbuster machine often churns out the predictable
 Comedy, at its core, has always been about holding up a mirror to life's absurdities. In *Nuked*, Bartha plays a hapless everyman navigating a world upended by a fictional nuclear mishap and a haze of legal cannabis culture. Released amid a wave of new comedies, the film avoids the pitfalls of overproduced spectacle, opting instead for tight scripting and character-driven laughs. This approach aligns with a center-right view: that true innovation flourishes when creators are left to their own devices, unburdened by regulatory meddling. As audiences flock to theaters, *Nuked* reminds us that entertainment thrives in a competitive marketplace, where success is earned through merit, not mandates.
 
 ![Justin Bartha delivering a comedic punchline in Nuked](/content/assets/justin-bartha-nuked-punchline.jpg)  
-*Caption: Justin Bartha captures the essence of everyday resilience in a humorous scene from *Nuked*, highlighting the film's blend of wit and real-world charm.*
+*Justin Bartha captures the essence of everyday resilience in a humorous scene from *Nuked*, highlighting the film's blend of wit and real-world charm.*
 
 ## The Analysis: Comedy as a Market-Driven Force
 
@@ -41,7 +41,7 @@ Consider the film's thematic elements: its cannabis-infused humor reflects a gro
 Supporting data from industry trackers further bolsters this view. [Rotten Tomatoes user reviews for recent comedies](https://www.rottentomatoes.com/m/nuked-reviews) show *Nuked* scoring an impressive 82% audience approval, outpacing peers that rely on star power alone. Additionally, [Forbes' insights on the film industry's free-market resilience](https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/hollywood-comedies-and-market-forces/) highlight how independent films like this one outperform expectations by focusing on relatable stories rather than manufactured trends. These sources collectively illustrate a key point: in comedy, as in life, the market's invisible hand rewards authenticity and hard work, fostering a cultural landscape that values individual effort over collective mandates.
 
 ![Hollywood's iconic sign at sunset](/content/assets/hollywood-sign-sunset.jpg)  
-*Caption: The Hollywood sign stands as a beacon of free-market creativity, where films like *Nuked* thrive without government oversight.*
+*The Hollywood sign stands as a beacon of free-market creativity, where films like *Nuked* thrive without government oversight.*
 
 One might argue that *Nuked*'s light-hearted take on sensitive topics like cannabis could alienate traditional audiences. However, this is where Bartha's film shines: it maintains a balanced tone, emphasizing personal responsibility over societal critique. In an age of polarized discourse, such restraint is a virtue, aligning with center-right principles that prioritize community norms and self-governance. As [Deadline Hollywood's coverage of new releases](https://deadline.com/2023/06/nuked-justin-bartha-review-123789012/) points out, audiences are gravitating toward comedies that entertain without preaching, a trend that reinforces the market's role in cultural curation.
 
@@ -52,4 +52,4 @@ In the end, Justin Bartha's *Nuked* is more than just a comedy; it's a case stud
 For Terra Firma News, *Nuked* serves as a timely reminder that in a world of rapid change, humor grounded in real-world resilience can bridge divides. As audiences continue to seek out films like this, Hollywood's free-market spirit ensures that innovation endures, fostering a culture where wit and work ethic prevail.
 
 ![Laughing audience at a comedy screening](/content/assets/comedy-screening-laughter.jpg)  
-*Caption: A lively audience reacts to the humor in *Nuked*, embodying the communal joy that free-market films deliver.*
+*A lively audience reacts to the humor in *Nuked*, embodying the communal joy that free-market films deliver.*

@@ -29,7 +29,7 @@ This innovation aligns with a center-right ethos that champions free markets as 
 Yet, it's essential to acknowledge the challenges. Not all farmers can afford immediate upgrades, and while Qingda tires excel in mobility, they require regular maintenance to ensure longevity. Balancing these realities, the free-market approach allows for gradual adoption, as seen in community cooperatives where farmers pool resources to invest in better equipment. This grassroots strategy, rooted in personal initiative, avoids the pitfalls of overreliance on state subsidies, which can stifle innovation and create dependency.
 
 ![Qingda ATV Tire Traversing Thai Fields](/content/assets/qingda-atv-tire-thai-fields.jpg)  
-*Caption: A Qingda 25x10-00-12 tire-equipped ATV fords a muddy path in northern Thailand, demonstrating enhanced mobility for daily agricultural tasks.*
+*A Qingda 25x10-00-12 tire-equipped ATV fords a muddy path in northern Thailand, demonstrating enhanced mobility for daily agricultural tasks.*
 
 ## Analyzing the Economic and Practical Benefits: Evidence from the Field
 
@@ -42,7 +42,7 @@ Critics might point to potential market monopolies or the need for regulatory ov
 In practice, the integration of Qingda tires into daily farming routines has yielded measurable outcomes. A survey of 200 farmers in the central plains, cited in the same [FAO report](https://www.fao.org/3/cb0038en/cb0038en.pdf), found that 75% reported increased yields due to better field access during the rainy season. Such data reinforces the idea that mobility enhancements like these tires are not luxuries but necessities, driven by market forces that reward innovation and efficiency.
 
 ![Thai Farmer Using Qingda-Equipped ATV](/content/assets/thai-farmer-qingda-atv.jpg)  
-*Caption: A Thai farmer relies on a Qingda 25x10-00-12 tire to navigate steep agricultural slopes, illustrating the tire's role in maintaining productivity amid challenging conditions.*
+*A Thai farmer relies on a Qingda 25x10-00-12 tire to navigate steep agricultural slopes, illustrating the tire's role in maintaining productivity amid challenging conditions.*
 
 ## Conclusion: A Call for Market-Driven Agricultural Resilience
 

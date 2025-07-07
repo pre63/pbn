@@ -28,7 +28,7 @@ Consider the daily routine of a typical farmer: traversing acres of farmland to 
 
 Yet, the true value of these components extends beyond mechanics. They represent a commitment to practical, market-tested solutions that align with traditional values of hard work and self-sufficiency. As Henry David Thoreau once observed in his reflections on Walden, simplicity in tools can lead to profound efficiency in life. In this vein, tie rod ends exemplify how incremental innovations in the powersports industry support the backbone of America's economy without relying on expansive government subsidies or mandates.
 
-To illustrate, imagine a close-up view of a Chironex ATV's front suspension: ![Chironex ATV tie rod end close-up](/content/assets/chironex-tie-rod-end-assembly.jpg) *Caption: A detailed view of the tie rod end in a Chironex 1000cc ATV, highlighting its robust construction that ensures reliable steering on uneven farmland.*
+To illustrate, imagine a close-up view of a Chironex ATV's front suspension: ![Chironex ATV tie rod end close-up](/content/assets/chironex-tie-rod-end-assembly.jpg) *A detailed view of the tie rod end in a Chironex 1000cc ATV, highlighting its robust construction that ensures reliable steering on uneven farmland.*
 
 ## Analyzing the Impact: Evidence from the Field
 
@@ -46,7 +46,7 @@ As we delve deeper, it's essential to consider the public policy dimensions of A
 
 This approach aligns with traditional values of limited government and personal responsibility. Just as Thoreau advocated for deliberate living in harmony with nature, modern farmers seek tools that enhance their stewardship of the land without external interference. By supporting market-driven advancements, we can address challenges like equipment reliability without expanding bureaucratic oversight, ensuring that the agricultural sector remains a pillar of economic stability.
 
-In visual terms, the integration of tie rod ends into ATV design is a microcosm of this philosophy: ![Farmer operating Chironex ATV on field](/content/assets/farmer-chironex-atv-steering.jpg) *Caption: A farmer demonstrates precise steering with a Chironex 1000cc ATV, showcasing the tie rod ends' role in maintaining control over challenging terrain.* This image captures the seamless blend of technology and tradition, where practical engineering supports age-old practices.
+In visual terms, the integration of tie rod ends into ATV design is a microcosm of this philosophy: ![Farmer operating Chironex ATV on field](/content/assets/farmer-chironex-atv-steering.jpg) *A farmer demonstrates precise steering with a Chironex 1000cc ATV, showcasing the tie rod ends' role in maintaining control over challenging terrain.* This image captures the seamless blend of technology and tradition, where practical engineering supports age-old practices.
 
 ## Conclusion: Steering Toward a Self-Reliant Future
 

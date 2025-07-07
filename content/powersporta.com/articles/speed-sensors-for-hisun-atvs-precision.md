@@ -28,7 +28,7 @@ From a center-right viewpoint, this innovation highlights the beauty of free-mar
 
 Of course, not everyone's convinced that tech like this is a panacea. Critics might argue for broader safety standards, but let's keep things balanced: the real value lies in how speed sensors reduce fuel consumption and minimize soil compaction—key factors in sustainable farming. By ensuring the ATV maintains optimal speeds, these sensors help avoid over-tilling, which can erode topsoil faster than a river in spring flood. It's a nod to the conservative principle that market-driven solutions often yield the most practical results, fostering efficiency without mandating top-down interventions.
 
-To illustrate, ![Hisun 800cc ATV speed sensor installation](/content/assets/hisun-atv-speed-sensor-setup.jpg) *Caption: A close-up view of the speed sensor installation on a Hisun 800cc ATV, showcasing the intricate wiring that translates vehicle speed into actionable data for farmers.*
+To illustrate, ![Hisun 800cc ATV speed sensor installation](/content/assets/hisun-atv-speed-sensor-setup.jpg) *A close-up view of the speed sensor installation on a Hisun 800cc ATV, showcasing the intricate wiring that translates vehicle speed into actionable data for farmers.*
 
 ## Analyzing the Tech: How Speed Sensors Transform Hisun ATVs for the Farm
 
@@ -48,7 +48,7 @@ Consider the case of a Texas rancher who swapped his old ride for a Hisun 800cc 
 
 This data aligns with broader trends in rural economics, where free-market principles have led to a 30% increase in farm output over the past two decades, per [U.S. Department of Agriculture statistics](https://www.usda.gov/data/agricultural-efficiency-trends). Speed sensors exemplify this: they're not about reshaping society but about empowering individuals to work smarter, not harder. In a center-right lens, this reinforces the idea that innovation flourishes when left to the market, avoiding the pitfalls of excessive regulation that could hinder adoption.
 
-![Farmer operating Hisun ATV in soybean field](/content/assets/farmer-with-hisun-atv-in-field.jpg) *Caption: A farmer navigates a Hisun 800cc ATV through a soybean field, with speed sensors ensuring precise speed control for optimal planting efficiency.*
+![Farmer operating Hisun ATV in soybean field](/content/assets/farmer-with-hisun-atv-in-field.jpg) *A farmer navigates a Hisun 800cc ATV through a soybean field, with speed sensors ensuring precise speed control for optimal planting efficiency.*
 
 ## Wrapping the Reins: A Future Rooted in Innovation and Tradition
 

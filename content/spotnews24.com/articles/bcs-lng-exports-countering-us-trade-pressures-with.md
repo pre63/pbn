@@ -22,7 +22,7 @@ og_image: /content/assets/lng-export-terminal.jpg
 In the grand theater of international trade, where fortunes rise and fall like the tides of the mighty Pacific, British Columbia emerges as a shrewd protagonist. Amidst the clamor of global energy demands and the shadows of escalating trade tensions, the province's burgeoning liquefied natural gas (LNG) exports to Asia stand as a testament to strategic foresight and free-market resilience. This editorial explores how LNG Canada, the flagship project in British Columbia, positions Canada as a pivotal energy player, deftly countering U.S. trade pressures while navigating the choppy waters of environmental scrutiny. Through a lens of balanced analysis, we shall see that embracing free-market principles—fostering innovation and limited government intervention—offers a path to sustainable growth, all while upholding traditional values of energy security and economic sovereignty.
 
 ![BC LNG Facility Aerial View](/content/assets/bc-lng-facility-aerial.jpg)  
-*Caption: The expansive LNG Canada terminal in Kitimat, British Columbia, captures the province's ambitious infrastructure drive, linking North American resources to hungry Asian markets and symbolizing a new era of trans-Pacific energy trade.*
+*The expansive LNG Canada terminal in Kitimat, British Columbia, captures the province's ambitious infrastructure drive, linking North American resources to hungry Asian markets and symbolizing a new era of trans-Pacific energy trade.*
 
 ## The Strategic Chessboard: BC's Rise as a Global Energy Force
 
@@ -41,7 +41,7 @@ From a free-market standpoint, this development exemplifies the benefits of limi
 However, the environmental lens adds complexity. Opponents point to the carbon footprint of LNG, arguing that its production contributes to global warming. Yet, a balanced view recognizes that LNG serves as a bridge fuel, offering a cleaner alternative to coal in Asia's power plants. Data from the [International Energy Agency](https://www.iea.org/reports/the-role-of-gas-in-energy-transitions) indicates that switching to natural gas could reduce CO2 emissions by up to 50% compared to coal, potentially averting millions of tonnes of pollutants. By investing in technological advancements rather than blanket bans, BC can mitigate these risks while maintaining its competitive edge.
 
 ![LNG Tanker in Pacific Waters](/content/assets/lng-tanker-pacific-waters.jpg)  
-*Caption: A modern LNG tanker navigates the Pacific, embodying the high-stakes journey of British Columbia's exports to Asia and the delicate balance between economic ambition and ecological responsibility.*
+*A modern LNG tanker navigates the Pacific, embodying the high-stakes journey of British Columbia's exports to Asia and the delicate balance between economic ambition and ecological responsibility.*
 
 ## The Evidence at Hand: Weighing Benefits Against Scrutiny
 

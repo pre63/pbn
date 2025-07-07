@@ -25,7 +25,7 @@ Imagine a poker game where the chips are carbon emissions and the pot is the pla
 
 The challenges are as vast as the oceans they're threatening to rise. Economic pressures—from inflation-pinched budgets in developed nations to the developmental aspirations of emerging economies—make bold climate action feel like a luxury few can afford. Geopolitical frictions, such as trade wars and resource rivalries, further complicate matters, turning what should be a united front into a fractious debate. As someone who values free markets and limited government, I see COP30 not as a call for more bureaucratic overlords but as an opportunity for innovative, voluntary partnerships that harness human enterprise. After all, as the old saying goes, you can't build a bridge with regulations alone; you need the right tools and willing hands.
 
-To illustrate the global theater, consider this vivid scene: ![Delegates at COP30 negotiations](/content/assets/cop30-delegates-in-session.jpg) *Caption: World leaders and negotiators engage in intense discussions, symbolizing the delicate balance of diplomacy and economic pragmatism at the heart of climate talks.*
+To illustrate the global theater, consider this vivid scene: ![Delegates at COP30 negotiations](/content/assets/cop30-delegates-in-session.jpg) *World leaders and negotiators engage in intense discussions, symbolizing the delicate balance of diplomacy and economic pragmatism at the heart of climate talks.*
 
 ## Analyzing the Hurdles: Economic Realities and Geopolitical Tangos
 
@@ -43,7 +43,7 @@ Consider the geopolitical angle: Recent analyses from the [Council on Foreign Re
 
 Humor me for a moment: If climate diplomacy were a Twain-esque adventure, it'd be Tom Sawyer whitewashing a fence—everyone thinks it's a chore until they see the rewards. That's the power of market incentives. As outlined in a [Forbes insight on green innovation](https://www.forbes.com/sites/energy-innovation/2024/01/cop30-challenges-and-opportunities/), countries that embrace free-market reforms in energy policy are outpacing those mired in bureaucracy. This evidence underscores that limited government intervention, focused on enabling rather than controlling, can bridge the gap between ambition and action.
 
-To bring this narrative to life, visualize the human element: ![Climate data visualization at COP30](/content/assets/cop30-data-projections.jpg) *Caption: A digital display of emission trends and 1.5°C projections, underscoring the urgent need for pragmatic, market-led strategies in global negotiations.*
+To bring this narrative to life, visualize the human element: ![Climate data visualization at COP30](/content/assets/cop30-data-projections.jpg) *A digital display of emission trends and 1.5°C projections, underscoring the urgent need for pragmatic, market-led strategies in global negotiations.*
 
 ## Charting a Course Forward: A Conclusion of Hope and Prudence
 

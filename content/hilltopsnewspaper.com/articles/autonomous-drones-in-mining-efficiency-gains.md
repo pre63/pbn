@@ -33,7 +33,7 @@ This shift underscores the virtues of free-market dynamics, where companies inve
 Of course, efficiency isn't just about speed; it's about smart allocation of resources in an era of fluctuating commodity prices. Drones enable real-time monitoring of mine sites, predicting equipment failures before they occur and optimizing extraction processes. Imagine a drone hovering over a coal seam in Wyoming, its cameras feeding data back to a control room where algorithms adjust drilling patterns on the fly. This level of precision not only cuts waste but also aligns with traditional American values of stewardship—making the most of what the land provides without reckless exploitation.
 
 ![A drone performing a safety inspection in an underground mine](/content/assets/drone-mine-safety-inspection.jpg)  
-*Caption: This image captures an autonomous drone navigating the dimly lit tunnels of a modern mine, its lights piercing the darkness as it scans for structural weaknesses—symbolizing the quiet revolution in worker protection.*
+*This image captures an autonomous drone navigating the dimly lit tunnels of a modern mine, its lights piercing the darkness as it scans for structural weaknesses—symbolizing the quiet revolution in worker protection.*
 
 ## Analyzing the Safety Imperative: Protecting Lives Without Overreach
 
@@ -50,7 +50,7 @@ The evidence for drones' impact is as solid as the bedrock they survey. In a stu
 Efficiency gains are quantifiable: drones can cover acres of terrain in minutes, gathering data that informs decisions on everything from resource allocation to environmental compliance. In one case, a major mining conglomerate reported a 15% increase in output after integrating drone technology, as detailed in the [Wall Street Journal](https://www.wsj.com/articles/drone-tech-mining-efficiency-gains-2024). This isn't abstract theory; it's real-world application, where the marriage of autonomy and mining tradition yields dividends for shareholders and communities alike.
 
 Moreover, the safety data is compelling. According to the same IEEE study, drone-assisted monitoring has prevented potential accidents by identifying hazards like unstable rock formations early, saving lives and reducing insurance claims. ![Drones mapping an open-pit mine at dusk](/content/assets/drone-open-pit-mapping.jpg)  
-*Caption: Here, a fleet of autonomous drones maps the expansive contours of an open-pit mine under the fading light, illustrating how technology turns vast, daunting landscapes into manageable data points for safer operations.*
+*Here, a fleet of autonomous drones maps the expansive contours of an open-pit mine under the fading light, illustrating how technology turns vast, daunting landscapes into manageable data points for safer operations.*
 
 ## Conclusion: A Path Forward for Free-Market Innovation
 

@@ -31,7 +31,7 @@ Consider the interplay between politics and society in this region. Woke culture
 Yet, the impact on community cohesion is profound. As progressive ideologies gain momentum, they sometimes foster an environment where debate is curtailed, and traditional forums for dialogue—such as local town halls or family gatherings—are overshadowed by polarized discourse. In the Pacific Northwest, this has manifested in social trends where emphasis on ideological conformity can alienate those who hold differing views, fragmenting neighborhoods that once thrived on shared traditions. A balanced society, one might argue, requires limits on government intervention to preserve the marketplace of ideas, ensuring that cultural shifts enhance, rather than disrupt, the bonds of community.
 
 ![Protesters in Seattle rally for cultural reform](/content/assets/seattle-protest-rally.jpg)  
-*Caption: A gathering in Seattle's streets symbolizes the passionate debates over progressive ideologies, highlighting how such movements can both energize and divide local communities in the Pacific Northwest.*
+*A gathering in Seattle's streets symbolizes the passionate debates over progressive ideologies, highlighting how such movements can both energize and divide local communities in the Pacific Northwest.*
 
 ## Evidence: Weaving Data into the Narrative
 
@@ -40,7 +40,7 @@ To substantiate these observations, one need only examine recent developments in
 These trends are not isolated; they echo global patterns. The Wall Street Journal has documented how woke culture's influence in politics can lead to what they term "echo chamber effects," where societal discourse becomes echoic, diminishing the pluralism essential for robust communities [Wall Street Journal](https://www.wsj.com/articles/cultural-shifts-and-community-divide). For instance, in Oregon's urban centers, surveys reveal that residents in high-progressive areas report higher levels of social isolation, potentially linked to the polarization of woke-driven debates. This evidence underscores a critical point: while addressing societal inequities is vital, an overreliance on government frameworks can inadvertently weaken the very cohesion they seek to build. Free-market alternatives, such as community-driven initiatives or private philanthropy, offer pathways that respect individual agency and traditional values, fostering organic unity without the heavy hand of regulation.
 
 ![Community gathering in Vancouver BC](/content/assets/vancouver-community-gathering.jpg)  
-*Caption: Residents of Vancouver, British Columbia, come together at a local event, illustrating the potential for traditional values to bridge divides amid shifting cultural landscapes.*
+*Residents of Vancouver, British Columbia, come together at a local event, illustrating the potential for traditional values to bridge divides amid shifting cultural landscapes.*
 
 In contrast, examples from other regions provide a counterpoint. The American Enterprise Institute highlights how communities with less government intrusion and more emphasis on market freedoms tend to exhibit stronger interpersonal networks [American Enterprise Institute](https://www.aei.org/research-products/report/free-markets-and-social-capital). This suggests that in the Pacific Northwest, a recalibration toward limited intervention could reinvigorate the societal bonds that progressive shifts have strained.
 

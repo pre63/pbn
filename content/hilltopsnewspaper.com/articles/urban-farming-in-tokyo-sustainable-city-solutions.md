@@ -27,7 +27,7 @@ Tokyo, with its 37 million inhabitants crammed into a metropolitan area roughly 
 
 What makes Tokyo's approach particularly noteworthy from a center-right perspective is its emphasis on voluntary innovation rather than mandated reforms. Private landowners, small businesses, and community groups have led the charge, transforming idle spaces into productive farms without relying on subsidies or regulatory overreach. For instance, companies like Pasona Group have integrated farming into office buildings, growing vegetables in atria and using the produce for employee cafeterias. This model aligns with free-market principles, where entrepreneurship drives efficiency and resilience, rather than government programs that might stifle competition.
 
-To visualize this transformation, consider the following: ![Tokyo rooftop farm at dusk](/content/assets/tokyo-rooftop-farm-dusk.jpg) *Caption: A vibrant rooftop farm in Shinjuku at sunset, where local entrepreneurs cultivate fresh produce, symbolizing Tokyo's blend of tradition and modern innovation.*
+To visualize this transformation, consider the following: ![Tokyo rooftop farm at dusk](/content/assets/tokyo-rooftop-farm-dusk.jpg) *A vibrant rooftop farm in Shinjuku at sunset, where local entrepreneurs cultivate fresh produce, symbolizing Tokyo's blend of tradition and modern innovation.*
 
 ## Analyzing the Benefits: Sustainability and Food Security
 
@@ -43,7 +43,7 @@ The evidence for Tokyo's urban farming success is as robust as the structures it
 
 Yet, no system is without its hurdles, and here Tokyo's experience offers a cautionary tale about overregulation. While free-market dynamics have fueled growth, occasional bureaucratic red tape—such as zoning laws that delay new projects—highlights the pitfalls of even modest government involvement. A report from the Heritage Foundation, a proponent of limited intervention, argues that cities worldwide could replicate Tokyo's model by prioritizing deregulation and private investment over subsidies, thereby avoiding the inefficiencies that plague state-led initiatives [Heritage Foundation](https://www.heritage.org/urban-farming-tokyo-report).
 
-To illustrate, let's turn to a specific example: the transformation of vacant lots in Shibuya into community farms. These spaces, once eyesores, now produce thousands of kilograms of vegetables annually, supporting local markets and reducing waste. ![Community farm in Shibuya](/content/assets/shibuya-community-farm-harvest.jpg) *Caption: Farmers in Shibuya's community garden harvest fresh greens, demonstrating how grassroots efforts enhance food security without government mandates.*
+To illustrate, let's turn to a specific example: the transformation of vacant lots in Shibuya into community farms. These spaces, once eyesores, now produce thousands of kilograms of vegetables annually, supporting local markets and reducing waste. ![Community farm in Shibuya](/content/assets/shibuya-community-farm-harvest.jpg) *Farmers in Shibuya's community garden harvest fresh greens, demonstrating how grassroots efforts enhance food security without government mandates.*
 
 Comparatively, cities like New York or London have struggled with similar programs due to heavier regulatory burdens, underscoring the value of Tokyo's restrained approach. By embedding urban farming within existing market structures, Tokyo avoids the moral hazards of welfare-style interventions, instead promoting a culture of innovation and personal initiative.
 

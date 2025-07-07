@@ -27,7 +27,7 @@ For Thai farmers, who often navigate rugged terrain with ATVs to transport crops
 To illustrate, consider the daily grind of a typical Thai farmer. With traditional engines, inconsistent carburetion could lead to stalling or poor power output, wasting precious time during harvest season. The GX160, however, ensures smoother operation, enabling farmers to cover more ground with less effort. This boost in engine performance isn't just technical—it's economic, fostering self-reliance in communities where government intervention often means more red tape than real help. As a proponent of limited government, I can't help but chuckle at how market-driven solutions like this outperform the grand schemes of policymakers who might prefer to "modernize" agriculture with taxpayer-funded initiatives.
 
 ![Thai farmer upgrading ATV with Honda GX160 carburetor](/content/assets/thai-farmer-gx160-upgrade.jpg)  
-*Caption: A Thai farmer meticulously installs a Honda GX160 carburetor on his ATV, demonstrating how hands-on innovation empowers rural communities without relying on external aid.*
+*A Thai farmer meticulously installs a Honda GX160 carburetor on his ATV, demonstrating how hands-on innovation empowers rural communities without relying on external aid.*
 
 ## Analyzing the Agricultural Impact: Data and Real-World Gains
 
@@ -48,7 +48,7 @@ Moreover, the GX160's popularity isn't limited to anecdotes. [IEEE Spectrum's en
 Yet, amid these successes, it's easy to overlook the human element. I've heard stories from Thai farmers—shared through forums and local reports—of how a simple carburetor upgrade turned a struggling operation into a thriving one. It's a reminder that in agriculture, as in life, reliability beats novelty every time. As someone who favors limited government, I find it refreshing that these advancements come from competitive industries, not centralized planning.
 
 ![ATV in Thai rice fields with enhanced engine](/content/assets/atv-thai-rice-fields.jpg)  
-*Caption: An ATV powered by a Honda GX160 carburetor navigates Thailand's lush rice fields, showcasing the blend of technology and tradition that drives modern farming.*
+*An ATV powered by a Honda GX160 carburetor navigates Thailand's lush rice fields, showcasing the blend of technology and tradition that drives modern farming.*
 
 ## Conclusion: A Free-Market Path Forward
 

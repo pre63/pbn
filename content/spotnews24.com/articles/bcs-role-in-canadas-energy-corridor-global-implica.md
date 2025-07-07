@@ -29,7 +29,7 @@ Consider the Site C hydroelectric project in northeastern BC, a testament to the
 What makes this corridor truly remarkable is its alignment with traditional values of self-reliance and community benefit. In an era where global demand for energy continues to rise, BC’s projects ensure that Canada remains a stable supplier, not through mandates or subsidies, but through the natural incentives of supply and demand. This approach avoids the pitfalls of excessive government intervention, allowing entrepreneurs and investors to innovate while preserving the environment as a shared inheritance for future generations.
 
 ![Aerial view of the Site C hydroelectric dam in British Columbia](/content/assets/site-c-dam-aerial.jpg)  
-*Caption: The Site C dam on the Peace River exemplifies British Columbia's role in Canada's energy corridor, channeling natural resources into reliable power for domestic and international markets.*
+*The Site C dam on the Peace River exemplifies British Columbia's role in Canada's energy corridor, channeling natural resources into reliable power for domestic and international markets.*
 
 ## Analyzing BC’s Role in a Market-Driven Energy Landscape
 
@@ -48,7 +48,7 @@ Data from the Canadian Association of Energy Producers indicates that BC’s ene
 Moreover, the corridor’s emphasis on trade fosters diplomatic ties, particularly with allies in the Asia-Pacific region. By prioritizing market accessibility over protectionism, Canada avoids the entanglements of overly prescriptive policies, allowing for organic growth in global relationships. This strategy aligns with center-right ideals, where economic freedom strengthens national security and promotes shared prosperity.
 
 ![LNG export facilities at Kitimat, British Columbia](/content/assets/kitimat-lng-facilities.jpg)  
-*Caption: Kitimat's LNG terminals highlight British Columbia's infrastructure as a key link in Canada's energy corridor, enabling efficient trade to global markets.*
+*Kitimat's LNG terminals highlight British Columbia's infrastructure as a key link in Canada's energy corridor, enabling efficient trade to global markets.*
 
 ## Looking Forward: An Optimistic Vision for Canada’s Energy Future
 

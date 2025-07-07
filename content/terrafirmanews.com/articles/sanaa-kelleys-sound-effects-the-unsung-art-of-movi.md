@@ -30,7 +30,7 @@ What sets Kelley apart is her pragmatic approach to sound effects, blending lyri
 Kelley's work on recent hits like *The Edge of Tomorrow* illustrates this philosophy. By layering subtle, layered effects—such as the rhythmic hum of futuristic machinery—she creates a soundscape that immerses viewers without overwhelming them. This balance is no accident; it's the result of a free-market ecosystem where talented individuals compete based on merit, fostering innovation that government subsidies might stifle. Indeed, Hollywood's golden age was built on such dynamics, where producers and artists navigated market demands with agility, rather than depending on regulatory frameworks that could dampen entrepreneurial spirit.
 
 ![Sanaa Kelley in her analog studio](/content/assets/sanaa-kelley-studio.jpg)  
-*Caption: Sanaa Kelley adjusts vintage recording equipment in her studio, where traditional methods meet modern demands to create authentic sound effects for Hollywood films.*
+*Sanaa Kelley adjusts vintage recording equipment in her studio, where traditional methods meet modern demands to create authentic sound effects for Hollywood films.*
 
 ## Analyzing the Craftsmanship Behind the Scenes
 
@@ -43,7 +43,7 @@ Yet, the broader implications of Kelley's work extend beyond individual films. A
 Evidence of Kelley's impact is plentiful. In a profile by [The Hollywood Reporter](https://www.hollywoodreporter.com/features/sanaa-kelley-sound-effects-pioneer), she discusses how her techniques have evolved with technology, yet remain rooted in the fundamentals of audio fidelity. For example, during the production of *Echoes of Empire*, Kelley spent weeks recording natural sounds in remote locations, ensuring that the film's epic battles felt visceral and real. This dedication not only elevates the final product but also exemplifies how individual initiative, unfettered by excessive regulation, drives progress in creative fields.
 
 ![A close-up of Sanaa Kelley's Foley setup](/content/assets/sanaa-kelley-foley-setup.jpg)  
-*Caption: A detailed view of Sanaa Kelley's Foley props, including everyday objects used to mimic on-screen actions, demonstrating the intricate craftsmanship that defines Hollywood's sound effects.*
+*A detailed view of Sanaa Kelley's Foley props, including everyday objects used to mimic on-screen actions, demonstrating the intricate craftsmanship that defines Hollywood's sound effects.*
 
 ## Evidence and Economic Reflections
 

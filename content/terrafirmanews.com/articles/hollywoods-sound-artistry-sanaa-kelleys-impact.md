@@ -33,7 +33,7 @@ This mastery is particularly evident in her work on films like the 2022 thriller
 Yet, Kelley's influence extends beyond technical innovation; it touches on the traditional values that sustain the industry. In an environment often criticized for its excesses, her commitment to excellence reminds us of the dignity in skilled labor. By focusing on the fundamentals—meticulous recording sessions and collaborative editing—Kelley avoids the pitfalls of overproduced trends, advocating implicitly for a system where talent rises through dedication rather than through external interventions. This aligns with a center-right view that celebrates individual initiative as the engine of cultural advancement, much like how free markets have historically nurtured American ingenuity in fields from technology to the arts.
 
 ![Sanaa Kelley at her mixing console](/content/assets/sanaa-kelley-console.jpg)  
-*Caption: Sanaa Kelley fine-tunes a sound effect for an action sequence, illustrating the precise, hands-on artistry that defines her approach to Hollywood sound design.*
+*Sanaa Kelley fine-tunes a sound effect for an action sequence, illustrating the precise, hands-on artistry that defines her approach to Hollywood sound design.*
 
 ## Evidence of Impact: Kelley's Contributions to Modern Cinema
 
@@ -44,7 +44,7 @@ Further evidence lies in Kelley's collaborations with directors who prioritize n
 Kelley's artistry also addresses broader social trends, such as the rise of home viewing, by ensuring sound effects translate seamlessly across platforms. In an analysis from [Variety's industry insights](https://variety.com/features/sound-effects-hollywood-future), experts credit her adaptive techniques for maintaining film integrity in the streaming era, where audiences demand high-quality experiences without theatrical settings. Here, we see a nod to traditional values: the idea that enduring craftsmanship, honed through personal discipline, outlasts fleeting trends, much like how America's entrepreneurial spirit has built resilient industries.
 
 ![Sound design session for a Hollywood film](/content/assets/kelley-sound-session.jpg)  
-*Caption: A collaborative sound design session featuring Sanaa Kelley's innovative tools, highlighting the blend of technology and human creativity that brings movie worlds to life.*
+*A collaborative sound design session featuring Sanaa Kelley's innovative tools, highlighting the blend of technology and human creativity that brings movie worlds to life.*
 
 ## Conclusion: Celebrating Individual Excellence in a Dynamic Industry
 
@@ -53,5 +53,5 @@ In reflecting on Sanaa Kelley's profound impact on Hollywood, we are reminded th
 As we look to the future, Kelley's work challenges the industry to prioritize substance over sensation, much as free markets encourage efficiency and excellence. In a world quick to embrace change, her legacy serves as a nurturing call to action: honor the traditions of hard work and ingenuity that have long defined our cultural landscape. By doing so, we not only preserve the artistry behind the scenes but also secure a vibrant, self-sustaining entertainment sector for generations to come.
 
 ![Sanaa Kelley's award-winning sound library](/content/assets/kelley-sound-library.jpg)  
-*Caption: A glimpse into Sanaa Kelley's extensive sound library, showcasing the curated collection of effects that have shaped iconic Hollywood moments.*
+*A glimpse into Sanaa Kelley's extensive sound library, showcasing the curated collection of effects that have shaped iconic Hollywood moments.*
 

@@ -30,7 +30,7 @@ One key advantage is the speed and flexibility of funding. Unlike state-backed m
 Yet, this innovation is not without its challenges. As P2P lending scales, concerns about default rates and investor protections arise, highlighting the need for balanced oversight. From a center-right perspective, the solution lies not in heavy-handed regulation but in fostering industry standards through voluntary associations and transparent practices. This approach ensures that the market self-corrects, much like how Thoreau advocated for individual moral accountability over societal impositions.
 
 ![Vietnamese entrepreneur reviewing loan app on smartphone](/content/assets/vietnamese-p2p-loan-app.jpg)  
-*Caption: A small business owner in Hanoi checks a P2P lending app, illustrating how digital tools are bringing financial access to everyday entrepreneurs in Vietnam's vibrant economy.*
+*A small business owner in Hanoi checks a P2P lending app, illustrating how digital tools are bringing financial access to everyday entrepreneurs in Vietnam's vibrant economy.*
 
 ## Evidence of Impact: Expanding Access and Driving Economic Growth
 
@@ -43,7 +43,7 @@ Moreover, P2P lending contributes to Vietnam's overall economic stability. As th
 Despite these successes, skeptics point to risks such as overborrowing or platform failures. A blog from the Consultative Group to Assist the Poor (CGAP) warns that without adequate digital literacy, borrowers in emerging markets like Vietnam could face exploitation [CGAP Insights on Microfinance Risks](https://www.cgap.org/microfinance-p2p-challenges). However, this perspective advocates for market education and private-sector innovations, such as user-friendly apps and credit counseling, rather than regulatory crackdowns that could stifle growth.
 
 ![Growth chart of P2P lending in Vietnam](/content/assets/vietnam-p2p-growth-chart.jpg)  
-*Caption: A line graph depicting the exponential rise in P2P loan volumes from 2018 to 2023, symbolizing the sector's role in fueling Vietnam's economic resilience and small business expansion.*
+*A line graph depicting the exponential rise in P2P loan volumes from 2018 to 2023, symbolizing the sector's role in fueling Vietnam's economic resilience and small business expansion.*
 
 ## Conclusion: Embracing Free-Market Solutions for Lasting Prosperity
 
@@ -54,5 +54,5 @@ To sustain this momentum, policymakers should resist the temptation to impose ex
 Ultimately, the story of P2P lending in Vietnam is one of hope and practicality. It reminds us that when individuals are empowered through open markets, the economy thrives without the need for artificial supports. As we look ahead, let us champion these traditions of enterprise, ensuring that the fruits of innovation reach every corner of society.
 
 ![Community meeting on financial access in Vietnam](/content/assets/vietnam-microfinance-meeting.jpg)  
-*Caption: Villagers in the Mekong Delta gather to discuss P2P lending options, highlighting the community-level impact on financial inclusion and economic empowerment.*
+*Villagers in the Mekong Delta gather to discuss P2P lending options, highlighting the community-level impact on financial inclusion and economic empowerment.*
 

@@ -26,7 +26,7 @@ Khmelnytskoho Street in Chernivtsi is more than a thoroughfare; it is a living m
 
 This architectural heritage is not merely aesthetic; it represents the enduring values of craftsmanship and community that have defined Ukrainian identity for centuries. Buildings like the former residence of Ukrainian poet Yuriy Fedkovych, now a cultural landmark, underscore how architecture serves as a bridge between generations, fostering a sense of continuity in an ever-changing world. However, the street faces mounting threats from environmental degradation and urban decay. Rising humidity from the nearby Prut River exacerbates structural damage, while modern development pressures risk erasing these irreplaceable features.
 
-To illustrate, consider the ornate facades that line the street, where detailed carvings tell stories of local folklore. ![Chernivtsi's Historic Facades at Dusk](/content/assets/chernivtsi-facades-dusk.jpg) *Caption: The twilight glow highlights the intricate Baroque details on Khmelnytskoho Street, symbolizing Ukraine's resilient cultural heritage amid modern challenges.*
+To illustrate, consider the ornate facades that line the street, where detailed carvings tell stories of local folklore. ![Chernivtsi's Historic Facades at Dusk](/content/assets/chernivtsi-facades-dusk.jpg) *The twilight glow highlights the intricate Baroque details on Khmelnytskoho Street, symbolizing Ukraine's resilient cultural heritage amid modern challenges.*
 
 According to the [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1330), sites like Chernivtsi exemplify the "wooden architecture of Eastern Europe," emphasizing their global significance. Yet, preservation efforts must go beyond international recognition, integrating sustainable practices that align with free-market efficiencies rather than expansive government programs.
 
@@ -40,7 +40,7 @@ Evidence from similar efforts elsewhere underscores the efficacy of this approac
 
 Despite these advancements, challenges persist. Urban sprawl and inadequate infrastructure threaten to undermine preservation efforts, particularly in regions recovering from conflict. Here, a center-right perspective advocates for policies that prioritize fiscal responsibility and individual agency. Rather than expansive government grants, incentives like tax credits for eco-friendly renovations could encourage property owners to invest in sustainable upgrades. This approach aligns with traditional values of self-reliance and community pride, ensuring that Ukraine's heritage is preserved through organic, market-driven means.
 
-![Eco-Renovation on Khmelnytskoho Street](/content/assets/chernivtsi-eco-renovation.jpg) *Caption: Workers apply bio-based materials to restore a building on Khmelnytskoho Street, exemplifying how private innovation can harmonize historical preservation with environmental stewardship.*
+![Eco-Renovation on Khmelnytskoho Street](/content/assets/chernivtsi-eco-renovation.jpg) *Workers apply bio-based materials to restore a building on Khmelnytskoho Street, exemplifying how private innovation can harmonize historical preservation with environmental stewardship.*
 
 ## The Path Forward: Actionable Insights for Sustainable Heritage
 

@@ -30,7 +30,7 @@ From a center-right perspective, the beauty of slow fashion lies in its alignmen
 Yet, the movement's success is not without its hurdles. The global fashion industry, valued at over $2.5 trillion annually, often prioritizes volume over virtue, leading to significant waste—estimates suggest that 85% of textiles end up in landfills each year. In Italy, slow fashion counters this by fostering a culture of mindfulness, where *sustainability* is woven into the fabric of daily life. Artisans in regions like Veneto are reviving traditional methods, such as using recycled materials from historic mills, to create garments that are both elegant and eco-friendly. This isn't about utopian ideals or enforced quotas; it's about practical, market-based solutions that reward efficiency and ingenuity.
 
 ![Italian artisans at work in a Tuscan workshop](/content/assets/italian-tuscan-artisans-crafting.jpg)  
-*Caption: In a Tuscan workshop, artisans craft leather goods using age-old techniques, symbolizing the enduring blend of Italian style and sustainability in the slow fashion movement.*
+*In a Tuscan workshop, artisans craft leather goods using age-old techniques, symbolizing the enduring blend of Italian style and sustainability in the slow fashion movement.*
 
 ## Evidence of Impact: Stories from the Heart of Italy
 
@@ -41,7 +41,7 @@ Consider the story of a family-run mill in Piedmont, where owners have adapted t
 Moreover, slow fashion's cultural resonance extends beyond economics. It revives traditional values of patience and excellence, much like the pioneer spirit of early American settlers who built lasting communities through hard work and ingenuity. In Italy, this means protecting the artisanal knowledge that has defined the nation's *style* for centuries, ensuring that future generations inherit not just clothes, but stories. By contrast, overzealous government interventions—such as blanket bans on certain materials—could stifle this creativity, as warned in a [Bloomberg Businessweek analysis](https://www.bloomberg.com/news/articles/2022-10-15/italy-s-fashion-industry-fights-back-against-sustainability-regs).
 
 ![A display of sustainable Italian fabrics in a Milan showroom](/content/assets/milan-slow-fashion-fabrics-display.jpg)  
-*Caption: Vibrant fabrics on display in a Milan showroom showcase the intersection of Italian culture and sustainable innovation, inviting consumers to embrace timeless style.*
+*Vibrant fabrics on display in a Milan showroom showcase the intersection of Italian culture and sustainable innovation, inviting consumers to embrace timeless style.*
 
 ## Looking Forward: A Balanced Path to Global Sustainability
 

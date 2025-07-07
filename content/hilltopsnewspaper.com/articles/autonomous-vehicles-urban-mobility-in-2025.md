@@ -29,7 +29,7 @@ Autonomous vehicles could revolutionize urban planning by optimizing traffic flo
 Yet, the sardonic observer in me can't help but chuckle at the irony: We've spent centuries perfecting the art of driving, only to hand the keys to a computer. Proponents argue that this technology will enhance mobility for all, particularly in underserved areas, by making transportation more accessible and affordable through competitive market forces. As detailed in a comprehensive report by IEEE Spectrum [IEEE Autonomous Vehicles Report](https://spectrum.ieee.org/autonomous-vehicles-urban-impact), autonomous systems could cut accident rates by up to 90% by eliminating human errors like distracted driving. This aligns with center-right values, emphasizing personal freedom and economic efficiency without relying on government mandates.
 
 ![Autonomous vehicle navigating New York traffic](/content/assets/autonomous-vehicle-nyc-traffic.jpg)  
-*Caption: An autonomous vehicle glides through the iconic gridlock of Manhattan, exemplifying how technology could turn urban chaos into streamlined efficiency.*
+*An autonomous vehicle glides through the iconic gridlock of Manhattan, exemplifying how technology could turn urban chaos into streamlined efficiency.*
 
 Of course, the economic implications are profound. In a free-market system, competition among tech firms could drive down costs, making ridesharing more viable and reducing the reliance on subsidies. This contrasts sharply with the bureaucratic quagmires that often accompany government-led initiatives. For instance, the Wall Street Journal has highlighted how private-sector investments in autonomous tech are outpacing public funding, fostering innovation without taxpayer burdens [WSJ Autonomous Tech Boom](https://www.wsj.com/articles/autonomous-vehicles-market-growth). Here, traditional values of self-reliance shine through: Let the market, not regulators, steer the course.
 
@@ -42,7 +42,7 @@ Economically, the shift could disrupt traditional jobs, such as taxi driving or 
 From a city planning perspective, autonomous vehicles could alleviate the strains of urbanization. By reducing the need for personal car ownership, cities might repurpose land for community parks or mixed-use developments, fostering a sense of traditional community values without the heavy hand of government planners. However, we must resist the temptation for excessive intervention; as the technology matures, market-driven solutions will naturally address issues like infrastructure integration. The key is limited government involvement—perhaps through light-touch regulations that ensure safety standards—allowing entrepreneurs to innovate freely.
 
 ![Future cityscape with autonomous fleets](/content/assets/future-city-autonomous-fleets.jpg)  
-*Caption: A conceptual rendering of a futuristic urban landscape, where fleets of autonomous vehicles seamlessly integrate with public spaces, heralding a new era of efficient mobility.*
+*A conceptual rendering of a futuristic urban landscape, where fleets of autonomous vehicles seamlessly integrate with public spaces, heralding a new era of efficient mobility.*
 
 ## Looking to the Future: A Balanced Path Forward
 

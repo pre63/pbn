@@ -26,7 +26,7 @@ British Columbia's hydropower sector stands as a testament to engineering ingenu
 Yet, the story is not without its complications. Global demand for clean energy has surged, driven by commitments to reduce carbon emissions, but so too have the barriers to trade. Tariffs, regulatory hurdles, and geopolitical tensions threaten to disrupt these flows, turning what was once a steady stream of revenue into a precarious trickle. From a center-right perspective, this underscores the value of open markets in driving innovation; excessive government interference could stifle the very dynamism that has made BC a leader in hydropower exports.
 
 ![BC Hydro Dam at Dawn](/content/assets/bc-hydro-dam-dawn.jpg)  
-*Caption: The W.A.C. Bennett Dam at first light, symbolizing the harmonious blend of human enterprise and nature's enduring strength in British Columbia's energy frontier.*
+*The W.A.C. Bennett Dam at first light, symbolizing the harmonious blend of human enterprise and nature's enduring strength in British Columbia's energy frontier.*
 
 ## Trade Challenges in a Fractured Global Market
 
@@ -45,7 +45,7 @@ From a center-right lens, the key lies in promoting traditional values of stewar
 The case of BC hydropower serves as a microcosm for broader energy policy debates. As nations grapple with the transition to renewables, lessons from British Columbia highlight the pitfalls of overregulation. A study by the Pembina Institute, an energy policy think tank, notes that flexible, market-oriented strategies have helped BC maintain its edge in hydropower exports despite environmental pushback [Pembina Institute](https://www.pembina.org/reports/bc-hydropower-sustainability-2022). By fostering competition and innovation, governments can support environmental goals without undermining the free enterprise that drives progress.
 
 ![Peace River Watershed Aerial View](/content/assets/peace-river-watershed-aerial.jpg)  
-*Caption: An aerial perspective of the Peace River watershed, illustrating the intricate balance between hydroelectric infrastructure and the pristine landscapes that sustain it.*
+*An aerial perspective of the Peace River watershed, illustrating the intricate balance between hydroelectric infrastructure and the pristine landscapes that sustain it.*
 
 ## Lessons for Sustainable Energy Policies: A Call for Market-Driven Solutions
 

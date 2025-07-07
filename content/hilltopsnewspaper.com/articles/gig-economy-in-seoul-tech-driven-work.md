@@ -26,7 +26,7 @@ Seoul's transformation into a tech powerhouse has accelerated the gig economy, t
 
 Yet, this shift isn't without its hurdles. Workers often trade stability for autonomy, facing irregular hours and unpredictable earnings. In Seoul, where the cost of living rivals that of New York or London, this can strain family budgets and traditional social structures. The gig economy's reliance on algorithms means that a bad rating or market slowdown can leave workers high and dry, underscoring the need for resilience rather than reliance on safety nets. From a center-right lens, these challenges highlight the market's natural corrective mechanisms: as demand grows, so do opportunities, rewarding those who adapt and innovate.
 
-To illustrate, consider the image of Seoul's streets at dusk: ![Gig workers navigating Seoul traffic](/content/assets/seoul-gig-delivery-drivers.jpg) *Caption: Delivery drivers on electric scooters dart through Seoul's evening rush, embodying the gig economy's blend of technology and personal grit.*
+To illustrate, consider the image of Seoul's streets at dusk: ![Gig workers navigating Seoul traffic](/content/assets/seoul-gig-delivery-drivers.jpg) *Delivery drivers on electric scooters dart through Seoul's evening rush, embodying the gig economy's blend of technology and personal grit.*
 
 ## Analyzing Opportunities and Challenges
 
@@ -44,7 +44,7 @@ Concrete evidence paints a vivid picture of Seoul's gig economy. According to a 
 
 On the flip side, data from industry analyses show that gig workers in Seoul experience higher rates of underemployment, with earnings dipping during economic downturns. A Brookings Institution study notes that without buffers like unions, workers bear the brunt of market fluctuations, yet this vulnerability fosters adaptability—a core tenet of free-market economies [Brookings Institution - Gig Work in Emerging Markets](https://www.brookings.edu/gig-economy-seoul-challenges). Balancing these findings, we see that while technology amplifies opportunities, it also demands a cultural shift toward personal accountability.
 
-Visualize this through another lens: ![Tech startup hub in Seoul](/content/assets/seoul-tech-startup-hub.jpg) *Caption: Young entrepreneurs in a Seoul co-working space brainstorm gig economy apps, highlighting innovation's role in job creation.*
+Visualize this through another lens: ![Tech startup hub in Seoul](/content/assets/seoul-tech-startup-hub.jpg) *Young entrepreneurs in a Seoul co-working space brainstorm gig economy apps, highlighting innovation's role in job creation.*
 
 ## Conclusion: Embracing Market Wisdom for the Future
 

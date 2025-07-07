@@ -30,7 +30,7 @@ The balance between these two pillars is not merely a policy choice but a market
 Amid this duality, global trade dynamics add layers of complexity. BC's LNG exports have surged in recent years, capitalizing on trade agreements that open doors to markets in Japan, South Korea, and beyond. According to data from the [Wall Street Journal](https://www.wsj.com/articles/british-columbia-lng-export-boom- amid-global-demand-123456789), BC's LNG sector contributed over $20 billion to Canada's GDP in the last five years, underscoring its role in bolstering national trade balances. Renewables, meanwhile, offer a hedge against volatility, with wind and solar projects attracting investment from private firms eager to tap into carbon pricing mechanisms. Yet, as trade tensions with the U.S. and environmental accords like the Paris Agreement exert pressure, BC must tread carefully to maintain its competitive edge.
 
 ![LNG Terminal in Kitimat at Dusk](/content/assets/lng-kitimat-terminal-dusk.jpg)  
-*Caption: The LNG Canada terminal in Kitimat illuminates the twilight, symbolizing BC's strategic push into global energy markets while highlighting the need for balanced environmental stewardship.*
+*The LNG Canada terminal in Kitimat illuminates the twilight, symbolizing BC's strategic push into global energy markets while highlighting the need for balanced environmental stewardship.*
 
 ## Analyzing Pressures: Trade, Environment, and Market Realities
 
@@ -43,7 +43,7 @@ Evidence from industry experts further illuminates this balance. A study by the 
 Yet, balance requires acknowledging risks. Over-reliance on LNG could expose BC to price volatility, as seen in recent global energy crises. Conversely, an aggressive pivot to renewables might strain infrastructure without adequate private investment. A center-right approach advocates for limited government roles—such as facilitating permitting processes or offering targeted incentives—while leaving the bulk of decision-making to market forces. This ensures that traditional values, like economic prudence and community resilience, remain at the forefront, rather than succumbing to transient trends.
 
 ![Wind Turbines Along BC Coastline](/content/assets/wind-turbines-bc-coastline.jpg)  
-*Caption: Wind turbines dot the rugged coastline of British Columbia, illustrating the province's growing embrace of renewables as a complement to LNG in securing sustainable energy futures.*
+*Wind turbines dot the rugged coastline of British Columbia, illustrating the province's growing embrace of renewables as a complement to LNG in securing sustainable energy futures.*
 
 ## Conclusion: Charting a Pragmatic Path Forward
 

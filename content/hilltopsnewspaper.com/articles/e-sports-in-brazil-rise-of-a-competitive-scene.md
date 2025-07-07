@@ -26,7 +26,7 @@ E-sports, that electrifying blend of gaming and competition, has exploded onto t
 Take, for instance, the story of João, a 19-year-old from the favelas of Rio de Janeiro. Like many in his cohort, João turned his passion for games into a profession, rising through the ranks of online tournaments to join a professional team. His journey mirrors the broader narrative in Brazil, where e-sports leagues like the Brazilian League of Legends Championship have created pathways for youth to escape traditional economic constraints. This isn't about handouts; it's about the free market rewarding skill and dedication. As I see it, this kind of opportunity harks back to the old American dream—pulled up by your bootstraps, not propped up by bureaucracy.
 
 ![Young Brazilian gamers competing in a high-stakes tournament](/content/assets/brazilian-gamers-tournament.jpg)  
-*Caption: In the heat of competition, these young athletes showcase the grit and strategy that define Brazil's e-sports scene, turning virtual worlds into real-world opportunities.*
+*In the heat of competition, these young athletes showcase the grit and strategy that define Brazil's e-sports scene, turning virtual worlds into real-world opportunities.*
 
 ## Analyzing the Economic Engine: Fostering Talent in a Free-Market Arena
 
@@ -45,7 +45,7 @@ Consider the economic ripple effects: e-sports events boost tourism, as fans flo
 Yet, we must acknowledge the social trends at play. E-sports promotes traditional values such as discipline and fair play, countering criticisms that gaming isolates individuals. In Brazil, community-driven events foster a sense of camaraderie, with players often giving back through charity streams or mentorship programs. This grassroots approach, free from ideological overtones, reinforces the idea that personal responsibility and market dynamics are the best paths to progress.
 
 ![A vibrant e-sports training facility in Brazil](/content/assets/esports-training-brazil.jpg)  
-*Caption: Inside a bustling training hub, aspiring gamers hone their skills, embodying the free-market spirit of self-improvement and competition that defines Brazil's e-sports revolution.*
+*Inside a bustling training hub, aspiring gamers hone their skills, embodying the free-market spirit of self-improvement and competition that defines Brazil's e-sports revolution.*
 
 ## Looking Ahead: A Balanced Path Forward
 

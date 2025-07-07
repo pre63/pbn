@@ -26,7 +26,7 @@ Olivia Munn's story, emerging from the bowels of *The Newsroom*'s production, pa
 
 This is not merely tabloid fodder; it underscores the precarious nature of an actor's career in Hollywood. Munn's allegations highlight how personal conflicts can escalate into professional vendettas, where a single influential figure can tip the scales. As [Variety](https://variety.com/2024/tv/news/olivia-munn-newsroom-allegations-1234567890/) reported, such incidents are far from isolated, with similar stories surfacing from other sets. Yet, in a free-market system, where success hinges on competition and personal drive, one must ask whether these dynamics are an unfortunate byproduct of ambition or a call for introspection rather than intervention.
 
-To illustrate the intensity of these environments, consider the following: ![Olivia Munn in a tense Newsroom scene](/content/assets/olivia-munn-newsroom-scene.jpg) *Caption: Olivia Munn delivers a commanding performance in The Newsroom, capturing the high-pressure atmosphere where professional slights can escalate into career threats.*
+To illustrate the intensity of these environments, consider the following: ![Olivia Munn in a tense Newsroom scene](/content/assets/olivia-munn-newsroom-scene.jpg) *Olivia Munn delivers a commanding performance in The Newsroom, capturing the high-pressure atmosphere where professional slights can escalate into career threats.*
 
 ## Navigating Hollywood's Labyrinth: Power Dynamics and Individual Resilience
 
@@ -42,7 +42,7 @@ The broader implications of Munn's claims extend far beyond a single set, reflec
 
 Consider the economic lens: Hollywood thrives on competition, with stars like Munn leveraging their brands to secure roles and endorsements. Her post-*Newsroom* career trajectory—spanning endorsements and independent projects—demonstrates how resilience can triumph over adversity. As [Forbes](https://www.forbes.com/sites/author/2024/02/hollywood-career-sabotage/1234567890/) explored in a piece on entertainment economics, actors who navigate these waters successfully often do so through personal networks and strategic self-promotion, aligning with free-market ideals of individual initiative.
 
-However, this is not to dismiss the human cost. The industry's power dynamics can erode traditional values like trust and fairness, as seen in Munn's case. ![Hollywood power brokers in discussion](/content/assets/hollywood-power-meeting.jpg) *Caption: A fictional depiction of Hollywood executives in a strategy session, symbolizing the opaque networks that influence actors' careers and highlighting the need for ethical market practices.*
+However, this is not to dismiss the human cost. The industry's power dynamics can erode traditional values like trust and fairness, as seen in Munn's case. ![Hollywood power brokers in discussion](/content/assets/hollywood-power-meeting.jpg) *A fictional depiction of Hollywood executives in a strategy session, symbolizing the opaque networks that influence actors' careers and highlighting the need for ethical market practices.*
 
 In balancing evidence, it's clear that while Hollywood's excesses warrant scrutiny, overzealous intervention could lead to unintended consequences. A center-right approach favors limited government, advocating for industry-led reforms—such as enhanced arbitration processes or voluntary ethics pacts—that preserve the free market's dynamism.
 

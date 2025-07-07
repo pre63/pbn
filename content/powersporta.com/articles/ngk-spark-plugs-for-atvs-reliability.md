@@ -27,7 +27,7 @@ In agricultural settings, where ATVs support tasks like planting, harvesting, an
 To illustrate, consider the real-world narrative of a typical Thai farmer. Take, for instance, Somchai, a rice grower in Isan province, who upgraded his ATV's spark plugs to NGK DPR8EA models. Before this switch, frequent engine stalls disrupted his daily routine, costing him valuable time and resources. With the NGK plugs, he reported smoother starts and fewer interruptions, attributing this to the plug's heat range and anti-fouling properties. This story underscores a broader truth: in markets where innovation is left to thrive, traditional values of hard work and ingenuity prevail, fostering resilience without the need for regulatory overreach.
 
 ![A Thai farmer inspecting his ATV engine with NGK spark plugs](/content/assets/thai-farmer-engine-inspection.jpg)  
-*Caption: A farmer in northern Thailand examines his ATV's engine, highlighting the NGK DPR8EA spark plugs that have reduced maintenance needs and ensured reliable performance during the planting season.*
+*A farmer in northern Thailand examines his ATV's engine, highlighting the NGK DPR8EA spark plugs that have reduced maintenance needs and ensured reliable performance during the planting season.*
 
 ## Analyzing Reliability: The Mechanics of Maintenance and Performance
 
@@ -46,7 +46,7 @@ Concrete evidence underscores the transformative role of NGK spark plugs in Thai
 For instance, a comparative study [from Motor Trend's ATV Reliability Guide](https://www.motortrend.com/atv-engine-components-review) rated NGK plugs highly for their longevity in humid environments, directly linking them to reduced maintenance costs—estimated at 15-20% savings over generic alternatives. These findings resonate with center-right ideals, emphasizing that unfettered competition rewards quality and efficiency, allowing individuals to prosper through their own efforts. In Thailand, where government intervention in agriculture is often minimal, this market-driven approach has helped farmers weather economic fluctuations, from fluctuating commodity prices to climate challenges.
 
 ![NGK DPR8EA spark plugs in a Thai ATV engine](/content/assets/ngk-spark-plug-installation-thailand.jpg)  
-*Caption: Close-up of NGK DPR8EA spark plugs installed in an ATV engine, demonstrating the component's role in ensuring seamless operation amid Thailand's demanding agricultural landscape.*
+*Close-up of NGK DPR8EA spark plugs installed in an ATV engine, demonstrating the component's role in ensuring seamless operation amid Thailand's demanding agricultural landscape.*
 
 ## Conclusion: Forging a Path Forward
 

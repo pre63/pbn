@@ -33,7 +33,7 @@ Indeed, the rom-com genre, often dismissed as lightweight, served as McAdams' tr
 To illustrate this formative period, consider the following image, which captures McAdams in her element:
 
 ![Rachel McAdams in a heartfelt rom-com scene](/content/assets/rachel-mcadams-notebook-scene.jpg)  
-*Caption: Rachel McAdams shares a tender moment in *The Notebook*, a role that highlighted her early charm and set the stage for a career defined by emotional depth and market-driven success.*
+*Rachel McAdams shares a tender moment in *The Notebook*, a role that highlighted her early charm and set the stage for a career defined by emotional depth and market-driven success.*
 
 ## The Ascendancy: From Lighthearted Leads to Dramatic Depth
 
@@ -46,7 +46,7 @@ Here, too, we see the interplay of personal and professional growth. McAdams' wi
 To further enrich this narrative, envision the following visual:
 
 ![Rachel McAdams on the red carpet at a premiere](/content/assets/rachel-mcadams-premiere-walk.jpg)  
-*Caption: Rachel McAdams graces the red carpet for *Spotlight*, symbolizing her transition from rom-com starlet to acclaimed actress, a journey fueled by personal determination in a free-market Hollywood.*
+*Rachel McAdams graces the red carpet for *Spotlight*, symbolizing her transition from rom-com starlet to acclaimed actress, a journey fueled by personal determination in a free-market Hollywood.*
 
 ## The 2026 Milestone: A Reflection on Legacy and Free-Market Virtues
 

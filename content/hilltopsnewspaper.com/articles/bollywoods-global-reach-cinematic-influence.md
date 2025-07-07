@@ -21,7 +21,7 @@ og_image: /content/assets/bollywood-set.jpg
 In the vibrant tapestry of global pop culture, Bollywood stands as a testament to the enduring power of storytelling, rhythm, and melody. Emerging from the bustling studios of Mumbai, this Indian cinematic juggernaut has transcended borders, influencing Hollywood blockbusters, international music charts, and dance floors worldwide. As a center of creativity that blends tradition with innovation, Bollywood's rise reflects the dynamism of free-market forces, where talent and enterprise flourish without the heavy hand of government intervention. Yet, as its influence grows, it prompts a pragmatic reflection on how cultural exchange can preserve timeless values amid rapid globalization. This editorial explores Bollywood's expanding footprint in global cinema, from its narrative depth to its infectious dance and music trends, drawing on historical evolution, economic drivers, and cultural impacts.
 
 ![Bollywood film set in Mumbai](/content/assets/bollywood-film-set-magic.jpg)  
-*Caption: A bustling Mumbai film set captures the collaborative energy that fuels Bollywood's market-driven success, where creativity thrives on innovation rather than subsidies.*
+*A bustling Mumbai film set captures the collaborative energy that fuels Bollywood's market-driven success, where creativity thrives on innovation rather than subsidies.*
 
 ## The Roots and Rapid Expansion of Bollywood's Global Reach
 
@@ -42,7 +42,7 @@ No discussion of Bollywood would be complete without its signature dance sequenc
 This musical migration is not merely mimicry but a testament to free-market adaptability. As [Billboard](https://www.billboard.com/articles/news/8544112/bollywood-music-global-influence/) noted in a 2020 feature, Bollywood soundtracks have generated over $100 million in streaming revenue outside India, driven by platforms that prioritize consumer choice over regulated content. Yet, amid this globalization, Bollywood maintains a commitment to traditional values, using music to celebrate community, romance, and cultural identity rather than fleeting fads. For example, the global dance challenge craze, inspired by songs like *Naatu Naatu* from *RRR*, has encouraged worldwide participation while subtly promoting themes of perseverance and joy—qualities that resonate in societies valuing individual initiative.
 
 ![Bollywood dance performance](/content/assets/bollywood-dance-performance-exuberance.jpg)  
-*Caption: Dancers in a lively Bollywood sequence exemplify the genre's ability to merge traditional Indian rhythms with global appeal, fostering cultural exchange through market dynamics.*
+*Dancers in a lively Bollywood sequence exemplify the genre's ability to merge traditional Indian rhythms with global appeal, fostering cultural exchange through market dynamics.*
 
 ## Economic and Cultural Implications: A Balanced View from a Center-Right Lens
 

@@ -28,7 +28,7 @@ The Arctic is undergoing profound transformations, from rising temperatures to i
 This adaptability underscores a key tenet of traditional values: the strength of community and family in overcoming adversity. Unlike broader calls for expansive international accords, which often lead to bureaucratic overreach, the Sami model emphasizes local decision-making. For instance, herders use age-old techniques to manage herd sizes, ensuring sustainability without the need for rigid government quotas. This approach aligns with free-market principles, where individual stewardship of resources promotes long-term viability. As the [Wall Street Journal](https://www.wsj.com/articles/sami-reindeer-herding-adapts-to-climate-change-11612345678) has noted, such practices can even generate economic opportunities, like exporting reindeer meat and hides, fostering self-sufficiency in remote regions.
 
 ![Sami herder with reindeer at dusk](/content/assets/sami-herder-dusk.jpg)  
-*Caption: A Sami herder guides his reindeer across the Arctic twilight, symbolizing the enduring bond between people and their environment in the face of modern challenges.*
+*A Sami herder guides his reindeer across the Arctic twilight, symbolizing the enduring bond between people and their environment in the face of modern challenges.*
 
 ## Evidence of Cultural Preservation Through Herding
 
@@ -39,7 +39,7 @@ Research from the [University of Tromsø's Arctic University](https://en.uit.no/
 Yet, external pressures persist. Industrial development, including mining and wind farms, encroaches on traditional grazing lands, threatening the delicate balance of Sami livelihoods. A study by the [International Work Group for Indigenous Affairs](https://www.iwgia.org/en/sámi.html) underscores the need for property rights reforms that prioritize local ownership, allowing herders to negotiate leases and partnerships on their terms. This market-oriented solution—favoring private agreements over federal mandates—could enhance economic stability while preserving cultural integrity, proving that limited government intervention enables communities to thrive.
 
 ![Reindeer migration in the Arctic wilderness](/content/assets/reindeer-migration-wilderness.jpg)  
-*Caption: A herd of reindeer traverses the vast Arctic plains during their annual migration, illustrating the dynamic interplay between Sami culture and the natural world.*
+*A herd of reindeer traverses the vast Arctic plains during their annual migration, illustrating the dynamic interplay between Sami culture and the natural world.*
 
 ## Forward-Looking Solutions and Optimistic Outlook
 

@@ -29,7 +29,7 @@ In an era where the airwaves are cluttered with fleeting trends and digital dist
 What makes *Sports Central* stand out is its unpretentious approach. In a city known for its excesses, the podcast maintains a grounded focus on achievement and hard work—values that echo the center-right ethos of rewarding individual effort in a competitive marketplace. As [The Wall Street Journal](https://www.wsj.com/articles/the-podcast-boom-how-creators-are-capitalizing-on-free-market-innovation) notes, the podcast industry has exploded thanks to low barriers to entry, allowing creators to build audiences organically without relying on government subsidies or regulatory crutches. This free-market model ensures that only the most engaging content survives, a pragmatic reality that *Sports Central* exemplifies by drawing millions of downloads through word-of-mouth and strategic partnerships, rather than taxpayer-funded grants.
 
 ![Sports Central hosts in a lively studio discussion](/content/assets/sports-central-studio-discussion.jpg)  
-*Caption: Hosts of Sports Central engage in a spirited debate on LA Dodgers' latest season, capturing the podcast's dynamic blend of sports analysis and entertainment flair.*
+*Hosts of Sports Central engage in a spirited debate on LA Dodgers' latest season, capturing the podcast's dynamic blend of sports analysis and entertainment flair.*
 
 ## Analyzing the Podcast's Role in Modern Media Dynamics
 
@@ -48,7 +48,7 @@ Supporting this, [The Hollywood Reporter](https://www.hollywoodreporter.com/busi
 Critics might argue that the podcast's focus on celebrity interviews glosses over deeper issues, like the commercialization of sports. But that's precisely the point: in a free market, audiences vote with their ears, choosing entertainment that uplifts rather than divides. *Sports Central*'s emphasis on LA's sports heritage, from Dodger Stadium's historic moments to Hollywood's tribute episodes, serves as a reminder that culture thrives when rooted in shared traditions, not imposed ideologies.
 
 ![Celebrity guest on Sports Central episode](/content/assets/sports-central-celebrity-guest.jpg)  
-*Caption: A Hollywood A-lister shares insights on the podcast, exemplifying Sports Central's seamless integration of entertainment and LA sports culture.*
+*A Hollywood A-lister shares insights on the podcast, exemplifying Sports Central's seamless integration of entertainment and LA sports culture.*
 
 ## Conclusion: A Call for Sustained Market Freedom
 

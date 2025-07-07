@@ -36,7 +36,7 @@ Data from field trials, as reported in a comprehensive study by the IEEE Spectru
 Yet, this technological edge must be viewed through a center-right lens, one that champions free-market solutions over expansive government programs. Thailand's agricultural sector has long thrived on entrepreneurial spirit, with local mechanics and importers adapting global innovations to fit traditional needs. Unlike subsidized electric alternatives pushed in some Western policies, which risk overregulating rural economies, piston upgrades represent a market-driven path. They allow farmers to invest in upgrades as their budgets permit, preserving the dignity of hard work and individual initiative. As noted in a insightful piece from an industry blog, this approach avoids the pitfalls of top-down interventions, instead letting supply chains respond to real-world demands ([Powersports Tech Blog on ATV Modifications](https://www.powersportstech.com/thai-atv-upgrades-2024)).
 
 ![Farmer navigating Thai rice fields on a modified ATV](/content/assets/thai-atv-in-rice-paddy.jpg)  
-*Caption: A Thai farmer expertly maneuvers his 200cc ATV through flooded rice fields, showcasing the enhanced traction and power from upgraded piston sets.*
+*A Thai farmer expertly maneuvers his 200cc ATV through flooded rice fields, showcasing the enhanced traction and power from upgraded piston sets.*
 
 Of course, challenges persist. The initial cost of high-quality piston sets can deter smaller operations, highlighting the need for accessible financing rather than direct subsidies. Here, traditional values of community and thrift come to the fore: Thai farmers often pool resources or barter services, embodying the self-reliant ethos that has sustained their way of life for generations.
 
@@ -47,7 +47,7 @@ Empirical evidence from Thai agricultural hubs paints a vivid picture of piston 
 From an economic standpoint, these enhancements align with center-right principles of limited government and free-market dynamics. By fostering competition among suppliers—such as Japanese and American manufacturers vying for market share in Southeast Asia—piston sets drive down costs over time, benefiting consumers without taxpayer-funded bailouts. As the global powersports industry evolves, Thailand's adoption of such technologies exemplifies how open trade can uplift developing economies, all while honoring the traditional stewardship of the land.
 
 ![Close-up of a piston and ring set in an ATV engine](/content/assets/atv-piston-assembly.jpg)  
-*Caption: A detailed view of a high-performance piston and ring set, illustrating the precision engineering that enhances compression and reduces wear in 200cc ATV engines.*
+*A detailed view of a high-performance piston and ring set, illustrating the precision engineering that enhances compression and reduces wear in 200cc ATV engines.*
 
 However, we must guard against overenthusiasm. Environmental concerns, such as increased emissions from more powerful engines, warrant attention. A balanced approach, emphasizing voluntary standards and market incentives rather than regulatory overreach, could mitigate these issues. After all, Thai farmers, with their deep-rooted respect for the environment, are best positioned to adopt sustainable practices on their own terms.
 
@@ -58,4 +58,4 @@ As the sun sets on Thailand's emerald fields, the hum of ATVs equipped with supe
 In conclusion, the story of piston and ring sets in 200cc ATVs is one of triumph over terrain, a narrative that underscores the virtues of limited government and individual initiative. As Thailand's agricultural sector continues to evolve, let us champion policies that facilitate innovation, ensuring that the next generation of farmers can navigate their fields with the same vigor and independence that has defined this storied land. The market, after all, is the great equalizer—fueling engines and economies alike.
 
 ![Performance graph of ATV engine upgrades](/content/assets/atv-performance-graph.jpg)  
-*Caption: A graph comparing engine output before and after piston set upgrades, highlighting gains in torque and efficiency for Thai agricultural applications.*
+*A graph comparing engine output before and after piston set upgrades, highlighting gains in torque and efficiency for Thai agricultural applications.*

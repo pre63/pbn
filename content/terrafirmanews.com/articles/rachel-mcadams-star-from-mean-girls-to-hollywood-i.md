@@ -24,7 +24,7 @@ In an era where celebrity culture often blurs the lines between fleeting fame an
 This editorial explores McAdams’ career trajectory, weaving together her evolution from a fresh-faced ingenue to a versatile leading lady. In doing so, it highlights the virtues of perseverance and self-reliance, underscoring how Hollywood’s competitive landscape rewards those who navigate it with discipline and innovation. As we delve into this story, we’ll draw on evidence from her filmography, box office performance, and critical reception, all while reflecting a center-right lens that celebrates free-market dynamics and traditional values of personal responsibility over external interventions.
 
 ![Rachel McAdams as Regina George in Mean Girls](/content/assets/rachel-mcads-regina-george-scene.jpg)  
-*Caption: Rachel McAdams delivers a commanding performance as the sharp-tongued Regina George in *Mean Girls*, capturing the film's blend of humor and high school drama that launched her career in 2004.*
+*Rachel McAdams delivers a commanding performance as the sharp-tongued Regina George in *Mean Girls*, capturing the film's blend of humor and high school drama that launched her career in 2004.*
 
 ## The Journey Begins: From Small Beginnings to Breakout Stardom
 
@@ -42,7 +42,7 @@ This period of her career highlights the free-market benefits of Hollywood’s s
 Yet, McAdams’ journey hasn’t been without challenges, including periods of selective roles and time away from the spotlight to prioritize family—a choice that aligns with traditional values of work-life balance. This discretion, rather than a retreat, allowed her to return stronger, as seen in her 2023 thriller *Are You There God? It’s Me, Margaret*, where she delivered a nuanced performance that resonated with audiences seeking authentic storytelling [IMDb](https://www.imdb.com/title/tt1234567/). In an industry often criticized for its volatility, her steady path exemplifies how personal responsibility and long-term vision can yield rewards, advocating for a society that values self-governance over external mandates.
 
 ![Rachel McAdams on the red carpet at a premiere](/content/assets/rachel-mcads-red-carpet-premiere.jpg)  
-*Caption: Rachel McAdams graces the red carpet for the 2023 premiere of *Are You There God? It’s Me, Margaret*, showcasing her timeless elegance and the poise that has defined her ascent in Hollywood.*
+*Rachel McAdams graces the red carpet for the 2023 premiere of *Are You There God? It’s Me, Margaret*, showcasing her timeless elegance and the poise that has defined her ascent in Hollywood.*
 
 ## Evidence of Success: Metrics and Milestones
 
@@ -53,7 +53,7 @@ Critics have lauded McAdams for her authenticity, with reviews from [Rotten Toma
 Moreover, McAdams’ 2026 induction serves as empirical evidence of Hollywood’s self-regulating system. The Walk of Fame, managed by the Hollywood Chamber of Commerce, is a private initiative that honors individuals based on public and industry vote—mirroring democratic, market-based selection rather than bureaucratic appointment. This process, as detailed in [The Hollywood Reporter](https://www.hollywoodreporter.com/business/business-news/hollywood-walk-of-fame-selection-process-1235987654/), ensures that stars like McAdams are recognized for their contributions, promoting a culture of aspiration and hard work.
 
 ![Rachel McAdams receiving her Walk of Fame star](/content/assets/rachel-mcads-walk-of-fame-ceremony.jpg)  
-*Caption: A fictional depiction of Rachel McAdams at her 2026 Walk of Fame ceremony, symbolizing the culmination of her career and the rewards of dedication in the entertainment industry.*
+*A fictional depiction of Rachel McAdams at her 2026 Walk of Fame ceremony, symbolizing the culmination of her career and the rewards of dedication in the entertainment industry.*
 
 ## Conclusion
 

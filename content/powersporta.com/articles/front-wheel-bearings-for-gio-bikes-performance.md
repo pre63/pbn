@@ -28,7 +28,7 @@ Consider the performance implications: A well-maintained bearing set can reduce 
 
 This hands-on approach echoes traditional values of self-sufficiency. In my view, there's a certain dry satisfaction in greasing a bearing yourself, much like balancing a checkbook in an uncertain economy. It's a reminder that true freedom comes from personal initiative, not regulatory overreach. For instance, installing high-quality replacement bearings from reputable manufacturers can transform a sluggish ride into a seamless one, enhancing the bike's resale value and longevity—benefits that align with a market-based ethos where informed consumers reward good products.
 
-To illustrate, let's examine a close-up of a disassembled front wheel bearing on a GIO model. ![Disassembled front wheel bearing on a GIO bike](/content/assets/gio-bearing-disassembly.jpg) *Caption: This image reveals the intricate assembly of a front wheel bearing, highlighting the precision engineering that keeps GIO bikes performing smoothly under daily stress.*
+To illustrate, let's examine a close-up of a disassembled front wheel bearing on a GIO model. ![Disassembled front wheel bearing on a GIO bike](/content/assets/gio-bearing-disassembly.jpg) *This image reveals the intricate assembly of a front wheel bearing, highlighting the precision engineering that keeps GIO bikes performing smoothly under daily stress.*
 
 ## Evidence on the Road: The Real Impact of Proper Maintenance
 
@@ -38,7 +38,7 @@ Moreover, economic analyses from sources like the Wall Street Journal highlight 
 
 Balancing this, it's worth acknowledging potential downsides: High-quality bearings can be pricier upfront, and improper installation might exacerbate issues if not handled by knowledgeable individuals. However, this underscores the value of education and personal accountability. Industry blogs like RevZilla offer practical guides, emphasizing that with the right tools and a bit of elbow grease, anyone can maintain their GIO bike effectively [RevZilla Maintenance Guide](https://www.revzilla.com/guides/wheel-bearings-gio-bikes). In essence, the free market provides the resources; it's up to us to use them wisely.
 
-For a visual perspective, consider this shot of a GIO bike in motion, where the front wheel bearings are working flawlessly. ![GIO bike wheel in motion](/content/assets/gio-wheel-motion.jpg) *Caption: This dynamic image captures a GIO bike's front wheel gliding effortlessly, demonstrating the seamless performance enabled by well-maintained bearings.*
+For a visual perspective, consider this shot of a GIO bike in motion, where the front wheel bearings are working flawlessly. ![GIO bike wheel in motion](/content/assets/gio-wheel-motion.jpg) *This dynamic image captures a GIO bike's front wheel gliding effortlessly, demonstrating the seamless performance enabled by well-maintained bearings.*
 
 ## The Larger Lesson: Personal Responsibility on Two Wheels
 

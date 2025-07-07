@@ -32,7 +32,7 @@ One key aspect is the way multilingualism enhances critical thinking. As scholar
 To illustrate, imagine a seminar on bilingual poetry, where participants dissect works by authors like Julia Alvarez or Junot Díaz. Such sessions, inspired by the 2022 theme, demonstrate how literature scholarship can evolve dynamically, much like a free enterprise system where ideas are traded and refined through open dialogue.
 
 ![Diverse scholars discussing multilingual texts in a sunlit library](/content/assets/diverse-scholars-discussion.jpg)  
-*Caption: Scholars engage in a lively debate over multilingual literary works, symbolizing the intellectual exchange that the MLA's 2022 theme promotes.*
+*Scholars engage in a lively debate over multilingual literary works, symbolizing the intellectual exchange that the MLA's 2022 theme promotes.*
 
 ## Parallels to Cultural and Intellectual Vitality: A Balanced View
 
@@ -45,7 +45,7 @@ However, balance is crucial. While the MLA's emphasis on multilingualism is comm
 Evidence from recent studies supports this view. Data from the MLA's own proceedings show that sessions on multilingual themes in 2022 led to a 25% increase in collaborative projects among scholars, demonstrating how such initiatives spark intellectual energy ([MLA Convention 2022 Report](https://www.mla.org/Convention/MLA-2022-Report)). Moreover, economic analyses reveal that multilingual education correlates with higher workforce productivity, reinforcing the idea that cultural investment pays dividends in a competitive global landscape ([Education Next, "The Business Case for Multilingualism"](https://www.educationnext.org/the-business-case-for-multilingualism)).
 
 ![A collection of multilingual books on a wooden shelf](/content/assets/multilingual-bookshelf.jpg)  
-*Caption: A curated bookshelf featuring literary works in Spanish, Chinese, and English, representing the cultural depth that multilingual scholarship uncovers.*
+*A curated bookshelf featuring literary works in Spanish, Chinese, and English, representing the cultural depth that multilingual scholarship uncovers.*
 
 ## Evidence and Implications: Grounding Vision in Reason
 

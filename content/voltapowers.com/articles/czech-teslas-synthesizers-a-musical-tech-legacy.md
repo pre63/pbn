@@ -30,7 +30,7 @@ At HAMU, established in 1949 as a hub for performing arts, artifacts of this era
 This historical narrative underscores a center-right principle: that free markets reward bold individuals who pursue their passions. Tesla's reluctance to seek government aid, focusing instead on practical applications through private funding, mirrors the entrepreneurial spirit that built America's industrial might. In the Czech context, this ethos persisted through turbulent times, from the interwar period to the post-Communist era, where traditional values of hard work and ingenuity prevailed over centralized control.
 
 ![Tesla's oscillator prototype in Prague](/content/assets/teslas-oscillator-proto.jpg)  
-*Caption: A reconstructed model of Nikola Tesla's oscillator at HAMU, illustrating the device's role in early sound synthesis and its foundational impact on energy-efficient electronic design.*
+*A reconstructed model of Nikola Tesla's oscillator at HAMU, illustrating the device's role in early sound synthesis and its foundational impact on energy-efficient electronic design.*
 
 ## Analysis: Bridging Music and Energy-Efficient Technology
 
@@ -43,7 +43,7 @@ From a center-right perspective, this progression highlights the benefits of lim
 Yet, balance demands acknowledgment: not all innovation stems from pure market forces. Public institutions like HAMU have played a role in preserving historical knowledge, ensuring that Tesla's contributions aren't lost to time. Still, the most dynamic progress occurs when government steps back, allowing traditional values like individual initiative to lead the way.
 
 ![HAMU synthesizer exhibit](/content/assets/hamu-synthesizer-exhibit.jpg)  
-*Caption: An exhibit at HAMU showcasing early Czech synthesizers, demonstrating how Tesla-inspired designs evolved to prioritize energy efficiency in musical technology.*
+*An exhibit at HAMU showcasing early Czech synthesizers, demonstrating how Tesla-inspired designs evolved to prioritize energy efficiency in musical technology.*
 
 ## Evidence and Current Applications: A Legacy in Action
 

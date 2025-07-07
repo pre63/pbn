@@ -32,7 +32,7 @@ The story begins with the WNBL's establishment in 1981, but it's only recently t
 In this narrative, youth play a starring role. Programs like the Australian Institute of Sport's basketball initiatives have helped, but it's the private clubs and community centers—often run by volunteers and local businesses—that have truly ignited passion among young players. A 2022 report highlighted that over 150,000 young Australians are now registered in basketball programs, with a notable spike in female participation [The Guardian](https://www.theguardian.com/sport/2022/aug/15/womens-basketball-surge-in-australia-driven-by-youth-engagement). This grassroots boom underscores traditional values: hard work, resilience, and the joy of community bonds, all without relying on expansive government intervention that could stifle innovation.
 
 ![Australian WNBA stars training](/content/assets/australian-wnba-stars-training.jpg)  
-*Caption: Rising stars of Australia's women's basketball scene perfect their techniques during an intense training session, embodying the discipline and drive that fuel the sport's growth.*
+*Rising stars of Australia's women's basketball scene perfect their techniques during an intense training session, embodying the discipline and drive that fuel the sport's growth.*
 
 ## Analyzing the Empowerment: Athletes and Fans in the Spotlight
 
@@ -45,7 +45,7 @@ Equality, in this context, means equal access to opportunities shaped by effort 
 Yet, it's worth noting the challenges. Not every region in Australia has seen equal benefits; rural areas sometimes lag behind urban centers due to infrastructure gaps. Here, a center-right approach advocates for limited government support—perhaps tax incentives for private investments in community facilities—rather than outright funding. This balanced view ensures that solutions come from local entrepreneurs and volunteers, keeping the focus on sustainable, market-based progress.
 
 ![Fans cheering at a WNBL game](/content/assets/fans-cheering-wnbl-game.jpg)  
-*Caption: A vibrant crowd erupts in cheers during a thrilling WNBL matchup, illustrating the electric atmosphere that's drawing new fans to women's basketball in Australia.*
+*A vibrant crowd erupts in cheers during a thrilling WNBL matchup, illustrating the electric atmosphere that's drawing new fans to women's basketball in Australia.*
 
 ## Evidence and Implications: The Data Behind the Dream
 
@@ -62,5 +62,5 @@ As we close this chapter, it's clear that the rise of women’s basketball in Au
 In the end, folks, let's cheer for a future where sports like women's basketball continue to thrive on their own merits. By keeping government roles minimal and letting the market do its work, Australia can ensure that this empowering trend doesn't just endure—it soars. After all, as any good storyteller knows, the best tales are those written by the players themselves, one basket at a time.
 
 ![Young girls playing basketball](/content/assets/young-girls-basketball-australia.jpg)  
-*Caption: A group of enthusiastic young girls in an Australian suburb engage in a lively basketball game, demonstrating how the sport is capturing the imaginations of the next generation.* 
+*A group of enthusiastic young girls in an Australian suburb engage in a lively basketball game, demonstrating how the sport is capturing the imaginations of the next generation.* 
 

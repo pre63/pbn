@@ -31,7 +31,7 @@ At Smíchov Station, for instance, the integration of solar panels on its expans
 This model aligns with traditional values of stewardship and self-reliance, drawing on the Czech Republic's history of innovation during times of scarcity. As [Wall Street Journal](https://www.wsj.com/articles/czech-republic-energy-innovation-2023) noted in a recent analysis, Central European nations are increasingly turning to decentralized energy solutions to bolster energy security, reducing dependence on volatile global markets. Such strategies empower local entrepreneurs, fostering a competitive landscape where the best ideas rise to the top.
 
 ![Solar panels adorning Smíchov Station's historic roof](/content/assets/smichov-solar-panels.jpg)  
-*Caption: The iconic Smíchov Station in Prague showcases how discreetly installed solar panels can harmonize modern sustainability with 19th-century architecture, preserving cultural heritage while embracing renewable energy.*
+*The iconic Smíchov Station in Prague showcases how discreetly installed solar panels can harmonize modern sustainability with 19th-century architecture, preserving cultural heritage while embracing renewable energy.*
 
 ## Analyzing the Challenges and Opportunities
 
@@ -50,7 +50,7 @@ Real-world examples underscore the potential of this approach. Consider the rest
 One compelling case is the adaptation of wind power near rural Czech castles. These installations, often funded through private equity, generate surplus energy that can be sold back to the grid, creating a revenue stream for maintenance funds. A study referenced in [Wall Street Journal](https://www.wsj.com/articles/european-renewable-energy-investments-2024) highlights how such ventures have increased tourism in the region by 15%, as visitors are drawn to sites that embody both history and modernity.
 
 ![Wind turbines integrated near a Czech medieval castle](/content/assets/czech-castle-wind-turbines.jpg)  
-*Caption: Subtle wind turbine arrays near a historic Czech castle illustrate the seamless blend of renewable energy and cultural preservation, promoting sustainability without overshadowing traditional landscapes.*
+*Subtle wind turbine arrays near a historic Czech castle illustrate the seamless blend of renewable energy and cultural preservation, promoting sustainability without overshadowing traditional landscapes.*
 
 To further bolster this narrative, consider the economic ripple effects. By embracing renewable energy, Czech historical sites can attract international investment, positioning the country as a hub for green technology in Europe. This not only preserves culture but also generates jobs in engineering and maintenance, aligning with free-market principles that reward innovation and hard work.
 

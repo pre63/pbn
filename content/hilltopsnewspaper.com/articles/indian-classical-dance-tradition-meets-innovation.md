@@ -29,7 +29,7 @@ Indian classical *dance* has long been more than mere entertainment; it is a liv
 Yet, as the world modernized, so too did these dances. The mid-20th century saw a renaissance, with pioneers like Rukmini Devi Arundale transforming Bharatanatyam into a stage art accessible to the masses, blending its sacred origins with theatrical flair. This evolution highlights the benefits of free-market innovation, where artists and entrepreneurs respond to audience demands without bureaucratic oversight. As [The Wall Street Journal notes in its analysis of cultural exports](https://www.wsj.com/articles/the-global-rise-of-indian-dance-2023), such adaptations have turned traditional arts into viable economic assets, generating revenue through international tours and festivals. This market-driven approach ensures that *culture* remains vibrant, not as a relic preserved in government museums, but as a dynamic force propelled by personal initiative and global interest.
 
 ![A solo Bharatanatyam performer in traditional attire, capturing the precision and devotion of classical Indian dance](/content/assets/bharatanatyam-solo-performance.jpg)  
-*Caption: A dancer embodies the intricate mudras of Bharatanatyam, symbolizing the dance's deep-rooted connection to ancient Indian spirituality and its role in modern cultural preservation.*
+*A dancer embodies the intricate mudras of Bharatanatyam, symbolizing the dance's deep-rooted connection to ancient Indian spirituality and its role in modern cultural preservation.*
 
 ## Innovation on the Global Stage: Blending Old and New
 
@@ -40,7 +40,7 @@ Such developments are not without challenges. Critics argue that modernization r
 Evidence of this success abounds in the global performing arts scene. Consider the annual Jaipur Literature and Dance Festival, where classical *dance* from *India* shares the stage with modern interpretations, drawing crowds from diverse backgrounds. Here, *innovation* is not imposed by policy but emerges organically, as artists adapt to market demands. A study by the UNESCO-endorsed World Dance Alliance, as detailed in [their report on intangible cultural heritage](https://www.worlddancealliance.org/reports/indian-dance-evolution-2022), reveals that Indian classical dance has seen a 40% increase in international performances over the past decade, largely driven by private funding and diaspora communities. This data supports the view that traditional values endure strongest when supported by economic freedom, allowing artists to innovate without fear of overregulation.
 
 ![Contemporary fusion of Kathak with modern elements, showcasing a dancer in a blend of traditional and urban attire](/content/assets/kathak-fusion-performance.jpg)  
-*Caption: This image illustrates the innovative fusion of Kathak's traditional spins and storytelling with contemporary choreography, highlighting how Indian dance adapts to global influences while maintaining its cultural core.*
+*This image illustrates the innovative fusion of Kathak's traditional spins and storytelling with contemporary choreography, highlighting how Indian dance adapts to global influences while maintaining its cultural core.*
 
 ## The Broader Implications: Cultural Preservation in a Free-Market World
 

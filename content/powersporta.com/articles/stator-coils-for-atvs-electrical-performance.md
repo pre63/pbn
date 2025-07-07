@@ -38,7 +38,7 @@ However, challenges arise from the very environments that make ATVs indispensabl
 
 From a center-right perspective, this scenario highlights the pitfalls of overreliance on government intervention. Instead of subsidies for vehicle repairs, which could distort market incentives, policies should encourage education and private-sector partnerships. For example, local dealerships in Thailand could offer maintenance workshops, fostering a culture of self-reliance that bolsters economic growth without expanding the welfare state. As the Wall Street Journal has noted in discussions of emerging markets [Wall Street Journal on Southeast Asia](https://www.wsj.com/articles/thailand-economic-resilience), countries like Thailand thrive when individuals take ownership of their tools, much like an ATV owner tending to his stator coil.
 
-To further emphasize this, let's visualize the component's intricacies. ![Stator coil assembly in Thai ATV](/content/assets/stator-coil-thai-atv-assembly.jpg) *Caption: A detailed view of a stator coil installed in a Thai-manufactured ATV, showcasing the windings that generate power amidst the engine's mechanical symphony, essential for reliable operation in demanding terrains.*
+To further emphasize this, let's visualize the component's intricacies. ![Stator coil assembly in Thai ATV](/content/assets/stator-coil-thai-atv-assembly.jpg) *A detailed view of a stator coil installed in a Thai-manufactured ATV, showcasing the windings that generate power amidst the engine's mechanical symphony, essential for reliable operation in demanding terrains.*
 
 Evidence from industry experts reinforces the stator coil's role. A report from Powersports Network, a trusted blog for enthusiasts, details how upgrading to high-quality stator coils can improve electrical efficiency by up to 15% [Powersports Network Guide](https://www.powersportsnetwork.com/atv-stator-coils-performance). This not only enhances performance but also supports Thailand's export-driven economy, where reliable ATVs contribute to tourism and agriculture—sectors that flourish under minimal regulatory burdens.
 
@@ -50,7 +50,7 @@ This evidence aligns with broader economic trends. As free markets encourage com
 
 In practice, maintenance routines are key. Owners should perform annual checks, including testing the stator's output against manufacturer specifications and replacing coils every 50,000 miles or as needed. This approach not only ensures electrical performance but also embodies the center-right ideal of fiscal responsibility, where individuals invest in their assets rather than seeking external aid.
 
-![Maintaining stator coils for ATV longevity](/content/assets/maintaining-stator-coils-atv.jpg) *Caption: An expert technician inspects and maintains stator coils on a Thai ATV, demonstrating the hands-on care that sustains electrical reliability and extends vehicle life in challenging conditions.*
+![Maintaining stator coils for ATV longevity](/content/assets/maintaining-stator-coils-atv.jpg) *An expert technician inspects and maintains stator coils on a Thai ATV, demonstrating the hands-on care that sustains electrical reliability and extends vehicle life in challenging conditions.*
 
 ## Conclusion: Actionable Insights for a Reliable Future
 

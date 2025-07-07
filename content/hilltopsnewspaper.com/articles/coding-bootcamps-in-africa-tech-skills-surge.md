@@ -31,7 +31,7 @@ This surge aligns seamlessly with center-right principles, where free markets fo
 Yet, the success of these programs is not without challenges. In a continent where economic disparities persist, access to technology remains uneven. Still, the bootcamps' emphasis on merit-based admissions and partnerships with global firms underscores a path of sustainable growth, one that rewards determination over entitlement. Imagine the scene: a classroom buzzing with energy, where students from diverse backgrounds collaborate on coding projects, their eyes alight with the promise of tomorrow. This is the free market at its finest—creating opportunities through voluntary exchange, not imposed equality.
 
 ![Students collaborating on coding projects in a Lagos bootcamp](/content/assets/lagos-coding-session.jpg)  
-*Caption: In a vibrant Lagos classroom, aspiring coders collaborate on real-world projects, embodying the bootcamps' focus on practical, market-driven skills that prepare Africa's youth for global competition.*
+*In a vibrant Lagos classroom, aspiring coders collaborate on real-world projects, embodying the bootcamps' focus on practical, market-driven skills that prepare Africa's youth for global competition.*
 
 ## Analyzing the Impact: Economic Mobility Through Tech Skills
 
@@ -44,7 +44,7 @@ Evidence abounds of tangible outcomes. A study by the African Development Bank, 
 However, skeptics might point to infrastructure gaps—erratic power supplies or limited internet access—as barriers. Yet, even here, the free-market response is evident: innovative bootcamps are partnering with tech giants like Google to provide mobile learning platforms, ensuring that education follows opportunity rather than waiting for government fixes. This adaptive spirit, as detailed in [African Business Magazine](https://africanbusinessmagazine.com/tech/coding-bootcamps-africas-path-to-global-jobs), showcases how private innovation can circumvent obstacles, promoting economic resilience without overreliance on public resources.
 
 ![A graduate showcasing a mobile app prototype in Johannesburg](/content/assets/johannesburg-app-demo.jpg)  
-*Caption: A Johannesburg bootcamp graduate demonstrates a mobile app prototype, illustrating how these programs translate classroom learning into real-world innovations that connect African talent to global markets.*
+*A Johannesburg bootcamp graduate demonstrates a mobile app prototype, illustrating how these programs translate classroom learning into real-world innovations that connect African talent to global markets.*
 
 ## Evidence and Broader Implications: A Path to Global Integration
 
@@ -55,7 +55,7 @@ These figures are more than numbers; they tell stories of human triumph. Take th
 In contrast, overzealous government interventions—such as heavily subsidized tech programs—risk distorting these markets, potentially leading to inefficiencies and dependency. The evidence from [TechCrunch](https://techcrunch.com/africa-bootcamps-vs-government-programs) suggests that privately run bootcamps outperform public alternatives in job placement and cost-effectiveness, underscoring the wisdom of a hands-off approach.
 
 ![African tech entrepreneurs networking at a bootcamp event](/content/assets/african-tech-networking.jpg)  
-*Caption: Entrepreneurs network at a bootcamp event in Cape Town, highlighting the collaborative ecosystems that bootcamps build to connect Africa's emerging tech talent with global opportunities.*
+*Entrepreneurs network at a bootcamp event in Cape Town, highlighting the collaborative ecosystems that bootcamps build to connect Africa's emerging tech talent with global opportunities.*
 
 ## Conclusion: Embracing the Future with Steadfast Resolve
 

@@ -23,7 +23,7 @@ In an era where the pace of life shows no signs of slowing, the quiet struggles 
 As a center-right observer, I see this as a testament to what happens when innovation flourishes without undue interference. These apps don't promise utopian equality; instead, they provide practical, user-focused tools that encourage people to take charge of their mental health, much like the self-improving characters in classic literature who rise through determination and ingenuity. Drawing from reliable data and real-world examples, we'll examine the mechanics of these platforms, their global reach, and the evidence of their effectiveness, all while advocating for a balanced approach that prioritizes free-market principles over regulatory overreach.
 
 ![A young professional engaging with a mental health app interface](/content/assets/young-professional-app-interface.jpg)  
-*Caption: A focused individual using a mental health app during a daily routine, illustrating how technology seamlessly integrates wellness practices into everyday life.*
+*A focused individual using a mental health app during a daily routine, illustrating how technology seamlessly integrates wellness practices into everyday life.*
 
 ## The Power of Technology in Mental Health and Wellness
 
@@ -42,7 +42,7 @@ Take, for example, the app 7 Cups, which connects users with trained listeners f
 However, a balanced view requires acknowledging potential pitfalls. Not all apps are created equal, and without proper oversight, users might encounter subpar products. Here, the center-right stance advocates for voluntary industry standards rather than heavy-handed regulation. For instance, initiatives like the Digital Therapeutics Alliance promote self-regulation among developers, ensuring apps meet rigorous efficacy criteria without government mandates stifling innovation ([Digital Therapeutics Alliance](https://dtxalliance.org/mental-health-app-standards)). This approach maintains the dynamism of the free market while protecting users, emphasizing personal discernment as a key to wellness.
 
 ![Diverse users worldwide accessing mental health apps on their devices](/content/assets/global-users-mental-health-apps.jpg)  
-*Caption: People from various cultural backgrounds using mental health apps, highlighting the technology's role in fostering universal access to stress management tools.*
+*People from various cultural backgrounds using mental health apps, highlighting the technology's role in fostering universal access to stress management tools.*
 
 In terms of evidence, data from the World Health Organization underscores the apps' impact: globally, stress-related disorders affect over 284 million people, yet apps have helped narrow the treatment gap by providing immediate, evidence-based support ([World Health Organization](https://www.who.int/mental-health-data)). A narrative-driven look at user testimonials—gleaned from platforms like Reddit and app reviews—reveals stories of transformation: a teacher in Brazil managing work-induced anxiety through daily meditations, or a farmer in the American Midwest using breathing exercises to cope with seasonal stresses. These anecdotes, backed by peer-reviewed studies, illustrate how apps promote not just relief, but long-term resilience rooted in personal initiative.
 

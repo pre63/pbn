@@ -25,7 +25,7 @@ At first glance, a CVT serpentine belt might seem like just another gear in the 
 
 Consider the farmer who rises before dawn to inspect his fields; his UTV, equipped with a high-quality CVT belt, becomes an extension of his own grit. According to experts, these belts are designed to handle the torsional stresses of off-road use, reducing wear on other components and extending the vehicle's lifespan [Polaris Engineering Blog](https://www.polaris.com/en-us/blog/utv-cvt-maintenance-tips/). Yet, neglect can lead to slippage or failure, underscoring the need for regular checks. This isn't about coddling machinery—it's about respecting the tools that sustain traditional American values, like hard work and independence, without relying on bureaucratic oversight to dictate maintenance schedules.
 
-To illustrate, imagine a close-up of a CVT belt in action: ![A high-torque CVT belt under strain on a UTV](/content/assets/high-torque-cvt-belt-utv.jpg) *Caption: This image captures a CVT belt flexing under the demands of a UTV traversing a rugged farm path, emphasizing the belt's role in maintaining consistent power output during critical agricultural tasks.*
+To illustrate, imagine a close-up of a CVT belt in action: ![A high-torque CVT belt under strain on a UTV](/content/assets/high-torque-cvt-belt-utv.jpg) *This image captures a CVT belt flexing under the demands of a UTV traversing a rugged farm path, emphasizing the belt's role in maintaining consistent power output during critical agricultural tasks.*
 
 ## Analyzing the Impact on Reliable Agricultural Operations
 
@@ -41,7 +41,7 @@ To ground this discussion in evidence, let's examine specific cases where CVT be
 
 Yet, as we celebrate these advancements, it's essential to critique the role of external factors. Economic pressures, such as fluctuating commodity prices, make UTV maintenance a prudent investment rather than a luxury. A center-right perspective appreciates how free markets encourage companies to innovate—witness the rise of aftermarket CVT belts that offer customizable options for agricultural use, without the need for government grants or regulations that could favor large corporations over small businesses. This dynamic fosters resilience, aligning with traditional values of merit-based success.
 
-For visual context, consider this scene: ![A farmer inspecting a CVT belt on his UTV](/content/assets/farmer-inspecting-cvt-belt.jpg) *Caption: In this shot, a farmer examines a CVT belt during a routine check, symbolizing the hands-on approach that ensures UTV reliability and sustains the heritage of American farming.*
+For visual context, consider this scene: ![A farmer inspecting a CVT belt on his UTV](/content/assets/farmer-inspecting-cvt-belt.jpg) *In this shot, a farmer examines a CVT belt during a routine check, symbolizing the hands-on approach that ensures UTV reliability and sustains the heritage of American farming.*
 
 Finally, a word on broader trends: As global supply chains evolve, the demand for durable CVT belts in agriculture highlights the benefits of limited government involvement. Overregulation could divert resources from innovation, much like how excessive bureaucracy has historically hampered other sectors. Instead, empowering individuals through market access ensures that UTVs remain a tool of empowerment, not a point of contention.
 

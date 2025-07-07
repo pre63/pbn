@@ -27,7 +27,7 @@ Gideon Glick's journey from Broadway's hallowed halls to Hollywood's soundstages
 
 This isn't mere happenstance; it's the market at work. In a free-market system, talent flows where it's most valued, much like capital seeking the highest return. Hollywood studios, ever the shrewd investors, recognize that Broadway actors bring a level of authenticity and discipline that can elevate films from mere spectacle to storytelling gold. As [Variety](https://variety.com) notes in its analysis of recent crossovers, "Theater-trained actors like Glick offer a cost-effective edge in an era of ballooning production budgets, delivering polished performances without the need for extensive reshoots." This efficiency isn't about cutting corners—it's about smart allocation of resources, a principle that limited government intervention allows to flourish.
 
-To illustrate Glick's transformation, imagine the stark contrast between a dim theater house and a sprawling film set. ![Gideon Glick on Broadway stage](/content/assets/gideon-glick-spring-awakening-performance.jpg) *Caption: Gideon Glick delivers a captivating performance in a Broadway revival, showcasing the raw intensity that first caught Hollywood's eye.*
+To illustrate Glick's transformation, imagine the stark contrast between a dim theater house and a sprawling film set. ![Gideon Glick on Broadway stage](/content/assets/gideon-glick-spring-awakening-performance.jpg) *Gideon Glick delivers a captivating performance in a Broadway revival, showcasing the raw intensity that first caught Hollywood's eye.*
 
 ## Analyzing the Talent Pipeline: Broadway's Gift to Hollywood
 
@@ -45,7 +45,7 @@ The evidence for Hollywood's Broadway infatuation is as plentiful as scripts in 
 
 Glick's own path adds weight to this trend. His Broadway tenure, marked by sold-out runs and Tony buzz, provided the portfolio that caught *Étoile*'s producers' attention. In an exclusive profile, [Entertainment Weekly](https://ew.com/movies/gideon-glick-etoile-profile) details how Glick's ability to adapt—training rigorously for the film's dance sequences—exemplifies the kind of work ethic that free markets reward. "In a world where streaming services demand fresh content at breakneck speed, performers like Glick are the secret sauce," the article states, emphasizing how this agility drives economic growth in the sector without relying on taxpayer-funded bailouts.
 
-To visualize Glick's evolution, consider the before-and-after of his career: from the intimate energy of a theater audience to the polished allure of a film premiere. ![Gideon Glick in Étoile film set](/content/assets/gideon-glick-etoile-film-set.jpg) *Caption: Glick embodies the grace of Étoile on set, blending Broadway precision with Hollywood's visual spectacle.*
+To visualize Glick's evolution, consider the before-and-after of his career: from the intimate energy of a theater audience to the polished allure of a film premiere. ![Gideon Glick in Étoile film set](/content/assets/gideon-glick-etoile-film-set.jpg) *Glick embodies the grace of Étoile on set, blending Broadway precision with Hollywood's visual spectacle.*
 
 Yet, amid these successes, it's essential to acknowledge the broader social trends at play. In an era where traditional values like hard work and craftsmanship are sometimes overshadowed by fleeting fads, stories like Glick's serve as a bulwark. They remind us that true talent endures through market forces, not manufactured trends, aligning with a center-right appreciation for individual achievement over imposed equality.
 

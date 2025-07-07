@@ -29,7 +29,7 @@ Consider the basic function: when a rider pulls the clutch lever, it disengages 
 To illustrate, imagine a farmer in Chiang Mai adjusting his ATV's clutch lever before dawn, ensuring it responds seamlessly to the demands of the day. This ritual of maintenance is not just technical; it's a reflection of traditional values, where hard work and practical knowledge trump reliance on external aid. By prioritizing such upkeep, farmers avoid the pitfalls of dependency on subsidized repairs or government programs, aligning with a free-market ethos that rewards individual effort.
 
 ![Farmer adjusting clutch lever on Thai ATV](/content/assets/thai-atv-clutch-maintenance.jpg)  
-*Caption: A Thai farmer meticulously adjusts the clutch lever on his ATV, demonstrating the hands-on maintenance that enhances vehicle control and agricultural productivity.*
+*A Thai farmer meticulously adjusts the clutch lever on his ATV, demonstrating the hands-on maintenance that enhances vehicle control and agricultural productivity.*
 
 ## Evidence from the Field: Real-World Benefits and Supporting Data
 
@@ -40,7 +40,7 @@ This evidence underscores the economic rationale for maintenance. For instance, 
 Yet, the broader social trends reveal a center-right perspective: in an age of expanding government oversight, from environmental regulations to agricultural subsidies, the focus on individual maintenance of ATVs exemplifies limited government intervention. Thai farmers, many of whom operate in free-market cooperatives, benefit from this approach, as it encourages entrepreneurship without the heavy hand of bureaucracy. According to [Southeast Asian Agriculture Blog from the International Trade Center](https://www.intracen.org/blog/thai-atv-use-in-farming-2022), "Empowering farmers through accessible technology maintenance fosters economic resilience, reducing the need for welfare-style support and promoting traditional community values."
 
 ![ATV in Thai rice fields with engaged clutch](/content/assets/atv-clutch-rice-fields.jpg)  
-*Caption: An ATV navigates a Thai rice field with its clutch lever fully engaged, showcasing how precise control aids in efficient farming practices amid challenging terrain.*
+*An ATV navigates a Thai rice field with its clutch lever fully engaged, showcasing how precise control aids in efficient farming practices amid challenging terrain.*
 
 ## Broader Implications: Self-Reliance in a Global Economy
 

@@ -30,7 +30,7 @@ This technological leap is not the product of heavy-handed government mandates b
 Yet, as we celebrate these developments, we must acknowledge the challenges. The rapid adoption of AR raises questions about accessibility and the potential for digital divides, but from a center-right perspective, the solution lies in empowering individuals through market-driven affordability rather than expansive government programs. As technology becomes more widespread, its benefits—such as global access to cultural treasures—will naturally extend to more people, upholding the principle that innovation, not intervention, is the true equalizer.
 
 ![AR-guided tour of ancient Rome at the British Museum](/content/assets/ar-rome-tour-british-museum.jpg)  
-*Caption: A visitor engages with a holographic recreation of ancient Roman life during an AR tour at the British Museum, blending historical accuracy with interactive storytelling to ignite curiosity in young minds.*
+*A visitor engages with a holographic recreation of ancient Roman life during an AR tour at the British Museum, blending historical accuracy with interactive storytelling to ignite curiosity in young minds.*
 
 ## Analyzing the Impact: AR as a Tool for Interactive Education
 
@@ -49,7 +49,7 @@ Globally, institutions are adopting AR to reach wider audiences. In Europe, the 
 Consider the data: A recent survey by a leading industry analyst found that 70% of museums plan to integrate AR within the next five years, citing its ability to enhance cultural education without altering core exhibits [Forbes Technology Council on AR Trends](https://www.forbes.com/sites/techcouncil/2023/05/ar-in-museums-global-trends/). These figures underscore the technology's potential to make history interactive and inclusive, not through ideological mandates, but through practical, market-tested applications that respect individual choice and fiscal responsibility.
 
 ![Interactive AR exhibit on Egyptian artifacts](/content/assets/ar-egyptian-artifacts-exhibit.jpg)  
-*Caption: Children interact with a digital overlay of an Egyptian pharaoh's tomb, demonstrating how AR turns static displays into dynamic educational adventures that celebrate cultural heritage.*
+*Children interact with a digital overlay of an Egyptian pharaoh's tomb, demonstrating how AR turns static displays into dynamic educational adventures that celebrate cultural heritage.*
 
 ## Conclusion: A Vision of Progress Through Innovation
 

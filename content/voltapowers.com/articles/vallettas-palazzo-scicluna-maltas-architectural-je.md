@@ -30,7 +30,7 @@ The palazzo’s architecture is a symphony of heritage, blending Baroque influen
 Yet, as with all historic structures, time exacts its toll. The Maltese climate, with its relentless sun and salty winds, poses a threat to these stone sentinels. Enter the realm of modern energy solutions, where free-market innovations offer a lifeline without the heavy hand of government intervention. Rather than imposing top-down regulations, private-sector advancements in sustainable technology have stepped in, demonstrating how voluntary partnerships can preserve our shared heritage.
 
 ![Palazzo Scicluna facade at dusk](/content/assets/palazzo-scicluna-dusk.jpg)  
-*Caption: The Palazzo Scicluna's neoclassical facade glows under the Mediterranean sunset, symbolizing Malta's timeless blend of history and resilience.*
+*The Palazzo Scicluna's neoclassical facade glows under the Mediterranean sunset, symbolizing Malta's timeless blend of history and resilience.*
 
 ## Analysis: Weaving Tradition with Technological Ingenuity
 
@@ -41,7 +41,7 @@ Consider the palazzo’s recent upgrades, which have incorporated solar photovol
 Critics might argue for increased public funding, but such interventions often lead to inefficiency and dependency. Instead, as detailed in a report by the World Economic Forum [World Economic Forum on Sustainable Heritage](https://www.weforum.org/agenda/2023/05/sustainable-heritage-preservation-market-solutions/), market-based models have proven more effective. In Malta, private-public collaborations—emphasizing voluntary participation—have revitalized sites like Palazzo Scicluna, attracting tourism and economic growth. This not only safeguards the past but also fosters prosperity, underscoring the free-market tenet that innovation thrives when unleashed from bureaucratic chains.
 
 ![Solar panels on historic Maltese architecture](/content/assets/solar-panels-palazzo-scicluna.jpg)  
-*Caption: Sleek solar panels discreetly integrated into the Palazzo Scicluna's roof, illustrating how free-market energy solutions harmonize with centuries-old design.*
+*Sleek solar panels discreetly integrated into the Palazzo Scicluna's roof, illustrating how free-market energy solutions harmonize with centuries-old design.*
 
 ## Evidence: The Facts of Preservation and Progress
 
@@ -58,4 +58,4 @@ As we bid farewell to the storied halls of Palazzo Scicluna, let us reflect on t
 In the spirit of Alexandre Dumas, I urge policymakers and citizens alike to embrace this path: let enterprise illuminate our heritage, not edicts from on high. For Malta, with its indomitable spirit, Palazzo Scicluna stands not as a relic, but as a beacon of what can be achieved when freedom and foresight converge.
 
 ![Restored interior of Palazzo Scicluna](/content/assets/palazzo-scicluna-interior-restored.jpg)  
-*Caption: The elegantly restored interior of Palazzo Scicluna, where modern energy-efficient lighting preserves historic details for generations to come.*
+*The elegantly restored interior of Palazzo Scicluna, where modern energy-efficient lighting preserves historic details for generations to come.*

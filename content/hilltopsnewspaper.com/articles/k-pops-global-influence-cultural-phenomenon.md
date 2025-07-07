@@ -28,7 +28,7 @@ At its core, K-Pop is more than catchy melodies; it's a meticulously engineered 
 Yet, this phenomenon raises questions about sustainability in an era of rapid globalization. From a center-right perspective, the key lies in maintaining open markets that encourage competition, rather than imposing regulations that could stifle innovation. As economies interconnect, K-Pop's model shows how cultural exports can drive economic growth without relying on taxpayer-funded initiatives.
 
 ![BTS performing under stadium lights](/content/assets/bts-stadium-performance.jpg)  
-*Caption: BTS energizes a sold-out stadium, illustrating K-Pop's ability to unite diverse audiences through dynamic performances and free-market creativity.*
+*BTS energizes a sold-out stadium, illustrating K-Pop's ability to unite diverse audiences through dynamic performances and free-market creativity.*
 
 ## Fan Communities and the Fabric of Global Connection
 
@@ -49,7 +49,7 @@ Economically, K-Pop has bolstered South Korea's soft power, contributing to a $5
 Yet, for all its benefits, K-Pop's rapid expansion invites scrutiny. Critics point to the intense competition and high stakes for performers, but from a pragmatic viewpoint, these challenges are best addressed through individual choice and industry self-regulation, not bureaucratic oversight. As [The Guardian](https://www.theguardian.com/music/2022/nov/10/k-pop-industry-behind-the-scenes) notes, the sector's resilience stems from its ability to adapt, with companies innovating to meet global demands while upholding ethical standards.
 
 ![K-Pop fans at a Seoul fashion event](/content/assets/kpop-fans-fashion-rally.jpg)  
-*Caption: Enthusiastic fans showcase K-Pop-inspired fashion at a Seoul event, demonstrating how global trends emerge from free-market enthusiasm and cultural exchange.*
+*Enthusiastic fans showcase K-Pop-inspired fashion at a Seoul event, demonstrating how global trends emerge from free-market enthusiasm and cultural exchange.*
 
 ## Conclusion: Embracing K-Pop's Legacy in a Free-Market Future
 

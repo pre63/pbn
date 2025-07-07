@@ -27,7 +27,7 @@ At its core, blockchain is a decentralized digital ledger that records transacti
 
 The technology's appeal lies in its ability to foster transparency without relying on centralized authorities. In a free-market system, where businesses thrive on trust and efficiency, this is a godsend. Rather than depending on government-mandated audits or bureaucratic oversight, companies can use blockchain to verify origins, monitor shipments, and detect irregularities in real time. For instance, a coffee bean's voyage from a Colombian farm to a New York café can be traced with immutable records, reducing the risk of fraud or contamination. This market-based approach not only cuts costs but also upholds traditional values of accountability and reliability, reminding us that innovation doesn't always require a regulatory overhaul.
 
-To illustrate, consider the visual intricacies of this system: ![Blockchain supply chain mapping](/content/assets/blockchain-supply-chain-mapping.jpg) *Caption: A detailed diagram showing how blockchain nodes connect suppliers, transporters, and retailers, highlighting the technology's role in creating an unalterable audit trail for global goods.*
+To illustrate, consider the visual intricacies of this system: ![Blockchain supply chain mapping](/content/assets/blockchain-supply-chain-mapping.jpg) *A detailed diagram showing how blockchain nodes connect suppliers, transporters, and retailers, highlighting the technology's role in creating an unalterable audit trail for global goods.*
 
 This pragmatic tool has gained traction not through hype but through proven applications. According to [IEEE Spectrum](https://spectrum.ieee.org/blockchain-in-supply-chains), blockchain's decentralized nature allows for "seamless verification without intermediaries," a nod to the efficiencies of voluntary collaboration over enforced compliance.
 
@@ -39,7 +39,7 @@ Take the food industry, for example, where recalls can cost billions and erode c
 
 Of course, critics might argue that such transparency could invite overreach, perhaps from governments eager to monitor every transaction. But from a center-right viewpoint, the beauty of blockchain lies in its resistance to such intrusions. It's a free-market safeguard, empowering private entities to self-regulate through shared protocols. As [Supply Chain Dive](https://www.supplychaindive.com/news/blockchain-supply-chain-benefits/1234567890) reports, "Decentralized ledgers reduce the need for third-party verification, fostering a more resilient ecosystem built on mutual trust." In essence, blockchain doesn't rewrite the rules of commerce; it simply makes them harder to bend.
 
-Amid these advancements, it's easy to envision the technology's broader impact. ![Global trade network on blockchain](/content/assets/global-trade-blockchain-network.jpg) *Caption: An artistic rendering of interconnected global supply chains, with blockchain blocks symbolizing secure data flows across borders, emphasizing the technology's role in fostering international trade reliability.*
+Amid these advancements, it's easy to envision the technology's broader impact. ![Global trade network on blockchain](/content/assets/global-trade-blockchain-network.jpg) *An artistic rendering of interconnected global supply chains, with blockchain blocks symbolizing secure data flows across borders, emphasizing the technology's role in fostering international trade reliability.*
 
 ## Evidence of Efficiency Gains in Global Operations
 

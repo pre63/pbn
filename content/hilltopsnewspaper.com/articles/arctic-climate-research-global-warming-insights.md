@@ -29,7 +29,7 @@ This research isn't just about ice caps; it's about the broader implications for
 
 To visualize this, imagine the stark beauty of a fractured ice sheet:  
 ![Melting Arctic ice floe at dawn](/content/assets/melting-arctic-ice-floe.jpg)  
-*Caption: A dramatic image of a melting Arctic ice floe, capturing the subtle yet profound changes in the region's ecosystem and serving as a visual testament to global warming's accelerating pace.*
+*A dramatic image of a melting Arctic ice floe, capturing the subtle yet profound changes in the region's ecosystem and serving as a visual testament to global warming's accelerating pace.*
 
 What makes this research cutting-edge is its integration of advanced technologies, such as satellite imagery and AI-driven modeling, which allow for real-time monitoring without relying on heavy-handed government mandates. This approach aligns with a center-right ethos, emphasizing private-sector innovation over bureaucratic control. Institutions like IEEE have been instrumental in advancing these tools, with their reports on sensor networks providing actionable data for businesses and policymakers alike [IEEE Spectrum on Arctic Monitoring Tech](https://spectrum.ieee.org/arctic-climate-tech-innovations).
 
@@ -43,7 +43,7 @@ Yet, we must balance this optimism with a no-nonsense assessment of the risks. G
 
 Consider this visual aid to contextualize the data:  
 ![Graph of Arctic temperature trends over decades](/content/assets/arctic-temperature-trends-graph.jpg)  
-*Caption: A detailed graph illustrating rising Arctic temperatures since 1980, emphasizing the correlation between environmental data and global warming's broader implications for policy and innovation.*
+*A detailed graph illustrating rising Arctic temperatures since 1980, emphasizing the correlation between environmental data and global warming's broader implications for policy and innovation.*
 
 ## Charting a Path Forward: Free-Market Solutions and Responsible Stewardship
 

@@ -43,12 +43,12 @@ Empirical evidence reinforces the critical role of wrist pins in Hisun ATV engin
 For instance, a case study from a Thai agricultural cooperative, as reported in the [Wall Street Journal](https://www.wsj.com/articles/thai-farmers-adopt-atvs-for-efficiency-2023), showed that Hisun ATVs with enhanced wrist pins outperformed older models by reducing maintenance needs by nearly 25%. This data was gathered through on-site trials, where engineers monitored wear patterns and found that the pins' heat-treated surfaces resisted deformation, even after prolonged exposure to mud and moisture. Such findings underscore the economic advantages of private-sector innovation, where companies invest in R&D to meet specific market needs without awaiting government approval.
 
 ![Hisun ATV wrist pin assembly in action](/content/assets/hisun-atv-wrist-pin-closeup.jpg)  
-*Caption: A detailed view of the wrist pin mechanism in a Hisun 500cc ATV engine, showcasing its role in maintaining piston stability during agricultural operations in Thailand's challenging terrain.*
+*A detailed view of the wrist pin mechanism in a Hisun 500cc ATV engine, showcasing its role in maintaining piston stability during agricultural operations in Thailand's challenging terrain.*
 
 Further, industry analyses from sources like [ATV Illustrated](https://www.atvillustrated.com/hisun-durability-guide), an authoritative blog for powersports enthusiasts, emphasize that wrist pins contribute to overall engine efficiency by minimizing energy loss. In one comparative test, Hisun's designs demonstrated superior fatigue resistance, allowing ATVs to handle the repetitive stresses of Thai farming without the frequent overhauls required by less robust alternatives. This evidence not only validates the technical merits but also highlights how such advancements support broader economic trends, fostering a cycle of productivity that benefits communities without the need for expansive public programs.
 
 ![Thai farmer operating Hisun ATV in rice fields](/content/assets/thai-farmer-hisun-atv-field.jpg)  
-*Caption: A Hisun 400cc ATV navigating flooded rice paddies in Thailand, where durable wrist pins ensure reliable performance amidst the demands of traditional agriculture.*
+*A Hisun 400cc ATV navigating flooded rice paddies in Thailand, where durable wrist pins ensure reliable performance amidst the demands of traditional agriculture.*
 
 ## Conclusion: Forging a Path of Self-Reliant Progress
 

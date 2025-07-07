@@ -25,7 +25,7 @@ In an era where the entertainment industry often feels like a labyrinth of fleet
 Glick's journey is more than a personal triumph; it's a narrative that underscores the dynamic interplay between Broadway's intimate stages and Hollywood's glittering screens. Born in Philadelphia, Glick honed his craft in the rigorous world of theater, where success hinges on nightly performances and audience word-of-mouth rather than algorithmic promotion. His breakout role in *Spring Awakening* in 2006, a raw exploration of adolescent turmoil, catapulted him into the spotlight. Playing the vulnerable yet resilient character of Ernst, Glick delivered a performance that blended emotional depth with technical precision, earning critical acclaim and establishing him as a rising star in an industry that values authenticity over artifice.
 
 ![Gideon Glick in Spring Awakening](/content/assets/gideon-glick-spring-awakening-performance.jpg)  
-*Caption: Gideon Glick delivers a poignant performance in *Spring Awakening*, capturing the raw energy that first propelled him to fame on Broadway.*
+*Gideon Glick delivers a poignant performance in *Spring Awakening*, capturing the raw energy that first propelled him to fame on Broadway.*
 
 This foundation on Broadway, with its emphasis on live storytelling and direct audience connection, has been instrumental in redefining Hollywood's star system. Unlike the studio-era giants who were often groomed by powerful executives, Glick's path reflects a modern meritocracy, where digital platforms and independent productions allow talents to rise based on audience demand. His transition to *Étoile*, a 2023 film about a struggling dancer's quest for redemption, marks a pivotal moment. Directed by indie filmmaker Lila Marsden, the movie grossed over $50 million worldwide on a modest budget, proving that compelling narratives can still captivate without blockbuster budgets or government subsidies [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-features/gideon-glick-etoile-breakthrough-123456789/). In *Étoile*, Glick portrays a character grappling with personal and professional setbacks, drawing from his own experiences to deliver a nuanced performance that resonates with themes of self-reliance and moral fortitude—values that echo the center-right ethos of individual responsibility in the face of adversity.
 
@@ -44,7 +44,7 @@ To appreciate Glick's impact, consider the broader trends in entertainment. Box 
 Furthermore, industry reports highlight how Broadway alumni are reshaping Hollywood. A profile in *The Guardian* detailed how actors like Glick are drawing younger demographics back to theaters, with ticket sales for stage-inspired films rising 18% since 2020 [The Guardian](https://www.theguardian.com/film/2023/rising-stars-broadway-hollywood-connection-445566778/). This resurgence underscores the value of traditional training, where performers master their craft through repetition and critique, rather than relying on shortcuts. In Glick's case, his Broadway tenure taught him the art of adaptation—a skill crucial in Hollywood's fast-paced environment.
 
 ![Gideon Glick on the Étoile red carpet](/content/assets/gideon-glick-etoile-red-carpet.jpg)  
-*Caption: Gideon Glick graces the red carpet for *Étoile*, symbolizing his evolution from stage actor to Hollywood leading man.*
+*Gideon Glick graces the red carpet for *Étoile*, symbolizing his evolution from stage actor to Hollywood leading man.*
 
 ## Conclusion: Embracing Merit in a Changing Landscape
 
@@ -55,4 +55,4 @@ Yet, for this system to endure, stakeholders must commit to supporting independe
 *Jonah Stynebeck is a contributing editor at Terra Firma News, offering practical insights into American culture and enterprise.* 
 
 ![Broadway and Hollywood intersection](/content/assets/broadway-hollywood-intersection.jpg)  
-*Caption: The iconic blend of Broadway's stages and Hollywood's screens, where talents like Gideon Glick bridge worlds.*
+*The iconic blend of Broadway's stages and Hollywood's screens, where talents like Gideon Glick bridge worlds.*

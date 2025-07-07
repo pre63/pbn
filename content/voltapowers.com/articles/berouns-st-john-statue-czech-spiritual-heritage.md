@@ -26,7 +26,7 @@ Beroun, a quaint town nestled along the Berounka River, serves as a microcosm of
 Yet, the statue's significance extends beyond its aesthetic appeal. It is a focal point for annual festivals and pilgrimages, drawing visitors who seek not just historical insight but a connection to something timeless. As [The Wall Street Journal](https://www.wsj.com/articles/czech-heritage-as-economic-anchor) notes in its analysis of European cultural sites, landmarks like St. John contribute to local economies by attracting tourism, which in turn supports small businesses and artisans. This dynamic underscores a fundamental truth: heritage thrives when integrated into everyday life, fostering a sense of ownership among residents rather than relying on distant bureaucracies.
 
 ![The St. John statue in Beroun at dawn](/content/assets/st-john-beroun-dawn.jpg)  
-*Caption: The St. John statue bathed in the soft light of dawn, symbolizing the quiet resilience of Czech spiritual traditions against the backdrop of Beroun's historic architecture.*
+*The St. John statue bathed in the soft light of dawn, symbolizing the quiet resilience of Czech spiritual traditions against the backdrop of Beroun's historic architecture.*
 
 ## Analyzing the Challenges: Spirituality and Heritage in a Modern Context
 
@@ -45,7 +45,7 @@ One actionable idea is to establish a heritage trust fund for Czech spiritual la
 Moreover, integrating digital tools offers a low-intervention way to enhance accessibility. Virtual reality experiences of the St. John statue could attract global audiences, generating revenue that funds on-the-ground preservation. As [National Geographic](https://www.nationalgeographic.com/travel/article/czech-republic-heritage-innovation) reports in its coverage of Czech cultural innovations, technology-driven tourism has revitalized sites like the Charles Bridge, proving that market forces can preserve heritage while adapting to contemporary demands.
 
 ![Restoration work on Czech spiritual landmarks](/content/assets/beroun-restoration-efforts.jpg)  
-*Caption: Artisans meticulously restore elements of Beroun's St. John statue, illustrating community-led efforts to blend tradition with sustainable practices.*
+*Artisans meticulously restore elements of Beroun's St. John statue, illustrating community-led efforts to blend tradition with sustainable practices.*
 
 ## Conclusion: Honoring Heritage Through Responsibility and Vision
 

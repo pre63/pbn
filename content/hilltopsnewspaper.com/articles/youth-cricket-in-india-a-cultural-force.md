@@ -30,7 +30,7 @@ This grassroots phenomenon has deep roots in India's diverse landscape. In urban
 But it's not just about swingin' a bat; it's about buildin' bonds. Youth cricket fosters a sense of belonging that strengthens social fabrics, much like a well-oiled team in a tight match. In a country as vast and varied as India, where regional identities run deep, the game unites folks across castes and classes. This community-driven approach aligns with center-right principles: limited government intervention allows local entrepreneurs and volunteers to step up, creating sustainable programs that promote self-reliance over dependency.
 
 ![Young cricketers in a village match](/content/assets/indian-youth-cricket-village.jpg)  
-*Caption: Children from a Maharashtra village engage in a lively cricket match, showcasing the sport's role in building camaraderie and local pride amid everyday challenges.*
+*Children from a Maharashtra village engage in a lively cricket match, showcasing the sport's role in building camaraderie and local pride amid everyday challenges.*
 
 ## Analyzing the Impact: Shaping Stars and Societies
 
@@ -51,7 +51,7 @@ Dig a bit further, and you'll find compelling data on community pride. A survey 
 Humor me for a moment—imagine a young bowler, all elbows and determination, facing off against a batsman twice his size. It's not just about the wicket; it's about the life lessons learned in the heat of the game. These anecdotes, backed by sources like [Sportstar](https://sportstar.thehindu.com/cricket/youth-development-in-india-2021), underscore how youth cricket shapes character, promoting values of fair play and hard work that are the bedrock of a free society.
 
 ![Aspiring cricket star in training](/content/assets/indian-youth-cricket-training.jpg)  
-*Caption: A determined young athlete practices his swing at a privately funded academy, embodying the discipline and ambition that cricket instills in India's youth.*
+*A determined young athlete practices his swing at a privately funded academy, embodying the discipline and ambition that cricket instills in India's youth.*
 
 ## Wrapping Up the Innings: A Vision for the Future
 

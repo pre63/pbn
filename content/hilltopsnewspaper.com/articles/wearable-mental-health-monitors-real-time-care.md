@@ -30,7 +30,7 @@ Consider the narrative of a busy professional, juggling career demands and famil
 However, this technological leap is not without its challenges. Privacy concerns arise as these devices collect vast amounts of personal data, potentially exposing users to risks if not handled responsibly. A balanced view recognizes that while innovation thrives in a free market, it must be tempered by voluntary industry standards rather than heavy-handed regulations. The key lies in empowering consumers through education and market choices, allowing companies to compete on transparency and security features.
 
 ![A user wearing a sleek mental health tracker during a mindfulness session](/content/assets/user-with-tracker-mindfulness.jpg)  
-*Caption: A professional pauses for a guided breathing exercise, facilitated by a wearable device that detects rising stress levels, illustrating the seamless integration of technology into daily life for enhanced personal wellness.*
+*A professional pauses for a guided breathing exercise, facilitated by a wearable device that detects rising stress levels, illustrating the seamless integration of technology into daily life for enhanced personal wellness.*
 
 ## Analyzing the Impact: Benefits, Risks, and Free-Market Solutions
 
@@ -51,7 +51,7 @@ Real-world applications abound. In corporate settings, companies are adopting we
 Counterpoints exist, of course. Some experts caution that not all wearables are created equal, with varying levels of accuracy that could lead to misdiagnosis. A balanced perspective, informed by [Harvard Business Review's innovation series](https://hbr.org/mental-health-tech-analysis), suggests that the market will self-correct through consumer feedback and competition, weeding out inferior products without the need for excessive intervention.
 
 ![Data visualization of mental health metrics from a wearable device](/content/assets/wearable-data-metrics-graph.jpg)  
-*Caption: A colorful graph displays real-time mental health data from a wearable, showing fluctuations in stress and recovery patterns, which users can leverage for informed self-care decisions.*
+*A colorful graph displays real-time mental health data from a wearable, showing fluctuations in stress and recovery patterns, which users can leverage for informed self-care decisions.*
 
 ## Conclusion: Charting a Path Forward with Caution and Optimism
 

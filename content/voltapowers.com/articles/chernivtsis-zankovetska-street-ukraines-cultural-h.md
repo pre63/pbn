@@ -28,7 +28,7 @@ At its core, Zankovetska reflects traditional values that many of us hold dear�
 To understand this, consider the historical context. Zankovetska’s buildings, many dating back to the late 1800s, feature elements like wrought-iron balconies and stucco ornamentation that highlight Ukraine’s architectural evolution ([UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1330), which recognizes nearby sites like the Chernivtsi University as emblematic of this heritage). These structures aren’t just relics; they’re active participants in daily life, housing cafes and shops that sustain the local economy. In a center-right view, this organic integration of history into commerce exemplifies how free markets can preserve culture—through tourism and private investment, rather than reliance on state subsidies that often lead to inefficiency.
 
 ![Ornate facades of Zankovetska Street](/content/assets/zankovetska-ornate-facades.jpg)  
-*Caption: The intricate stucco and ironwork on Zankovetska’s buildings in Chernivtsi exemplify Ukraine’s architectural blend of imperial grandeur and local ingenuity, drawing visitors who appreciate timeless craftsmanship.*
+*The intricate stucco and ironwork on Zankovetska’s buildings in Chernivtsi exemplify Ukraine’s architectural blend of imperial grandeur and local ingenuity, drawing visitors who appreciate timeless craftsmanship.*
 
 ## Analyzing the Challenges: Balancing Preservation with Progress
 
@@ -47,10 +47,10 @@ One practical idea is to establish a heritage trust fund, modeled after successf
 Another angle involves urban planning that incorporates green spaces. Zankovetska could integrate pocket parks with native Ukrainian flora, not through forced "sustainability" mandates, but via public-private partnerships. A blog from the [National Trust for Historic Preservation](https://www.savingplaces.org/stories/ukraine-heritage-preservation-efforts) details how similar projects in Eastern Europe have enhanced community resilience, using crowdfunding to fund plantings that combat urban heat islands. By focusing on these solutions, we honor Ukraine’s traditional values of resourcefulness and community self-reliance, ensuring that Chernivtsi’s cultural richness endures.
 
 ![Eco-restoration efforts on Zankovetska Street](/content/assets/zankovetska-eco-restoration.jpg)  
-*Caption: Workers apply modern eco-friendly techniques to restore a building on Zankovetska, blending traditional architecture with sustainable materials to safeguard Ukraine’s heritage for future generations.*
+*Workers apply modern eco-friendly techniques to restore a building on Zankovetska, blending traditional architecture with sustainable materials to safeguard Ukraine’s heritage for future generations.*
 
 ![Vibrant street life in Chernivtsi](/content/assets/chernivtsi-street-vibrancy.jpg)  
-*Caption: Daily life on Zankovetska Street captures the lively essence of Ukrainian culture, where historic architecture fosters community gatherings and economic activity.*
+*Daily life on Zankovetska Street captures the lively essence of Ukrainian culture, where historic architecture fosters community gatherings and economic activity.*
 
 ## A Path Forward: Preserving Legacy Through Prudent Innovation
 

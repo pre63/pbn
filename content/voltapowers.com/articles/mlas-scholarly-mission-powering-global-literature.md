@@ -30,7 +30,7 @@ What makes MLA's work so vital is its emphasis on accessibility and collaboratio
 
 Here, we see parallels to cultural energy—much like how fossil fuels or renewable sources power economies, literary scholarship fuels the mind. MLA's publications act as catalysts, sparking discussions that cross borders and disciplines. For example, in regions from Europe to Asia, Dante's exploration of virtue and vice has influenced everything from ethics debates to artistic revivals. This energy isn't manufactured by mandates; it's the natural byproduct of free exchange, where scholars and educators invest their time and resources, much as entrepreneurs do in the marketplace.
 
-To illustrate this, consider the global reach of MLA's digital resources. ![Dante's Inferno Manuscript](/content/assets/dantes-inferno-manuscript.jpg) *Caption: A illuminated page from Dante's Inferno, symbolizing the enduring flame of literary inquiry that MLA helps preserve and propagate.*
+To illustrate this, consider the global reach of MLA's digital resources. ![Dante's Inferno Manuscript](/content/assets/dantes-inferno-manuscript.jpg) *A illuminated page from Dante's Inferno, symbolizing the enduring flame of literary inquiry that MLA helps preserve and propagate.*
 
 ## Drawing Parallels to Cultural Energy
 
@@ -42,7 +42,7 @@ Yet, balance is key. While global literature expands horizons, it must not erode
 
 Comparatively, if we think of cultural energy as the spark that powers societal advancement, MLA's role is akin to that of a reliable generator. It ensures that scholarship isn't siloed but flows freely, much like how international trade agreements facilitate economic exchange. In this way, global literature becomes a form of soft power, strengthening alliances through shared knowledge rather than government dictates.
 
-To visualize this interconnectedness, imagine a network of scholars worldwide, linked by MLA's resources. ![Global Literary Network Map](/content/assets/global-literary-map.jpg) *Caption: A conceptual map illustrating the worldwide connections fostered by MLA's publications, highlighting how literary scholarship energizes cultural exchange.*
+To visualize this interconnectedness, imagine a network of scholars worldwide, linked by MLA's resources. ![Global Literary Network Map](/content/assets/global-literary-map.jpg) *A conceptual map illustrating the worldwide connections fostered by MLA's publications, highlighting how literary scholarship energizes cultural exchange.*
 
 ## Evidence and Impact
 
@@ -52,7 +52,7 @@ For deeper insight, consider a study from the [MLA's official resources](https:/
 
 Yet, we must acknowledge challenges. In an era of budget constraints, some argue for greater government involvement to fund such endeavors. From a center-right lens, however, this risks inefficiency and bias. Instead, as [Forbes' education insights](https://www.forbes.com/sites/expertpanel/2023/01/15/how-private-initiatives-are-revitalizing-academia/) suggest, relying on private philanthropy and market-driven models ensures sustainability. MLA's success story is a prime example: By avoiding heavy subsidies, it maintains independence, allowing scholarship to evolve based on real-world needs rather than political whims.
 
-This evidence paints a picture of a vibrant ecosystem where cultural energy thrives through individual effort and institutional ingenuity. ![Dante in Modern Context](/content/assets/dante-modern-art.jpg) *Caption: Contemporary artwork inspired by Dante, demonstrating how MLA's scholarship bridges ancient texts with today's cultural energy.*
+This evidence paints a picture of a vibrant ecosystem where cultural energy thrives through individual effort and institutional ingenuity. ![Dante in Modern Context](/content/assets/dante-modern-art.jpg) *Contemporary artwork inspired by Dante, demonstrating how MLA's scholarship bridges ancient texts with today's cultural energy.*
 
 ## Conclusion
 

@@ -26,7 +26,7 @@ Smíchov Station, opened in 1868 as a pivotal node in the burgeoning rail networ
 Yet, Smíchov’s significance extends beyond aesthetics. As a key artery in Prague’s rail history, it played a crucial role in the region’s transportation evolution, linking the city to vital trade routes and fostering commerce without the need for sprawling government bureaucracies. Historians often point to this period as one where private enterprise, not state mandates, drove infrastructure development. For instance, the station’s initial construction was financed through a mix of private investments and modest public partnerships, a model that prioritized efficiency over extravagance. This approach, as detailed in a comprehensive analysis by the [Wall Street Journal](https://www.wsj.com/articles/the-rise-of-european-rail-in-the-19th-century), highlights how limited government involvement allowed for rapid innovation, contrasting sharply with today’s debates over overregulated public works.
 
 ![Smíchov Station Facade at Dusk](/content/assets/smichov-station-dusk.jpg)  
-*Caption: The illuminated facade of Smíchov Station at dusk captures its neo-Renaissance elegance, a silent witness to Prague's rail history and a nod to the enduring value of preserving architectural heritage through practical innovation.*
+*The illuminated facade of Smíchov Station at dusk captures its neo-Renaissance elegance, a silent witness to Prague's rail history and a nod to the enduring value of preserving architectural heritage through practical innovation.*
 
 ## Blending Tradition with Modern Rail and Energy Innovations
 
@@ -37,7 +37,7 @@ At its core, Smíchov’s modernization underscores the benefits of free-market 
 However, this progress is not without challenges. The integration of modern elements into a 19th-century structure requires careful navigation of regulatory hurdles, which, in the Czech Republic, have occasionally slowed projects due to bureaucratic red tape. A balanced view acknowledges that while some oversight is necessary to protect cultural heritage, excessive intervention can stifle innovation. Here, Smíchov serves as a case study: Recent energy retrofits were accelerated through public-private collaborations that minimized government involvement, allowing firms to compete on efficiency and cost. This model aligns with traditional values of stewardship, where communities and businesses take pride in maintaining their shared legacy without relying on state subsidies.
 
 ![Modern Rail Innovations at Smíchov](/content/assets/smichov-modern-rail.jpg)  
-*Caption: A high-speed train departing from Smíchov Station showcases the seamless fusion of historic architecture with contemporary rail technology, highlighting how market-driven upgrades enhance connectivity without erasing the past.*
+*A high-speed train departing from Smíchov Station showcases the seamless fusion of historic architecture with contemporary rail technology, highlighting how market-driven upgrades enhance connectivity without erasing the past.*
 
 ## Evidence of a Sustainable Legacy
 

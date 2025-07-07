@@ -20,7 +20,7 @@ og_image: /content/assets/kelp-forest-diver.jpg
 In the vast expanse of our oceans, kelp forests stand as ancient sentinels, weaving intricate ecosystems that sustain marine biodiversity and shield coastal communities from the relentless forces of nature. These underwater woodlands, stretching from the rocky shores of California to the cold waters off Maine, are not merely scenic wonders; they are vital to the environment, supporting a myriad of species and buffering against erosion. Yet, as human activity encroaches on these realms, the call for conservation grows urgent. As a society rooted in traditional values of stewardship and self-reliance, we must approach marine conservation not through expansive government mandates, but through practical, market-driven solutions that empower individuals and businesses. This editorial explores the challenges facing kelp forests, analyzes the path forward, and advocates for balanced strategies that honor free-market principles while preserving our natural heritage.
 
 ![Vibrant kelp forest ecosystem](/content/assets/vibrant-kelp-forest.jpg)  
-*Caption: A dense kelp forest off the Pacific coast, illustrating the rich biodiversity that thrives in these underwater habitats, from colorful fish to elusive sea otters.*
+*A dense kelp forest off the Pacific coast, illustrating the rich biodiversity that thrives in these underwater habitats, from colorful fish to elusive sea otters.*
 
 ## The Imperative of Kelp Forest Conservation
 
@@ -39,7 +39,7 @@ Yet, a center-right analysis reveals that excessive government intervention ofte
 Consider the success of private initiatives in other environmental arenas. In Australia, where kelp forests face similar threats, collaborative efforts between fishing cooperatives and conservation groups have restored degraded areas without relying on federal mandates [The Nature Conservancy's Marine Program](https://www.nature.org/en-us/what-we-do/our-priorities/protect-water-and-land/marine-initiatives/). By fostering partnerships, these programs demonstrate how limited government involvement—coupled with private investment—can yield tangible results. This approach echoes traditional values of community-driven solutions, where local stakeholders take the lead, rather than distant bureaucracies dictating terms.
 
 ![Restoration of kelp beds](/content/assets/kelp-restoration-efforts.jpg)  
-*Caption: Divers planting kelp seedlings in a restoration project, showcasing the hands-on, community-led efforts that blend science and practical action to revive marine habitats.*
+*Divers planting kelp seedlings in a restoration project, showcasing the hands-on, community-led efforts that blend science and practical action to revive marine habitats.*
 
 ## Evidence and Pathways Forward: Market-Driven Solutions in Action
 

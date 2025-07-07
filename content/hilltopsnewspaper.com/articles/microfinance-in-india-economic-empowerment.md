@@ -31,7 +31,7 @@ At its core, microfinance operates on the premise that individuals, when given a
 Yet, the success of microfinance in India is not without its challenges. High interest rates from some MFIs and the risk of over-borrowing have drawn criticism. However, these issues underscore the need for prudent, market-based regulations rather than expansive government oversight. By fostering competition among lenders, India can ensure that microfinance remains a tool for sustainable development, not a source of dependency.
 
 ![Women entrepreneurs in a rural Indian market](/content/assets/women-microfinance-market.jpg)  
-*Caption: Women in a vibrant rural market in Uttar Pradesh, India, using microfinance loans to stock their stalls with fresh produce, illustrating the grassroots economic activity fueled by accessible credit.*
+*Women in a vibrant rural market in Uttar Pradesh, India, using microfinance loans to stock their stalls with fresh produce, illustrating the grassroots economic activity fueled by accessible credit.*
 
 ## Analyzing the Impact: Growth, Innovation, and Traditional Values
 
@@ -52,7 +52,7 @@ In terms of empowerment, surveys show that microfinance borrowers in India exper
 Critics on the left sometimes argue for more government involvement to address inequalities, but a center-right view counters that such interventions often stifle innovation. Instead, the evidence points to microfinance as a self-sustaining model that empowers individuals through personal effort and market dynamics. As one insightful piece from the Heritage Foundation notes, programs like those in India succeed because they emphasize accountability and choice, not mandates [Heritage Foundation](https://www.heritage.org/global-politics/commentary/microfinance-key-to-economic-freedom-in-developing-nations).
 
 ![Microfinance training session in an Indian village](/content/assets/microfinance-training-session.jpg)  
-*Caption: Participants in a microfinance training program in a Kerala village, learning financial management skills that enable them to build sustainable businesses and uphold community traditions.*
+*Participants in a microfinance training program in a Kerala village, learning financial management skills that enable them to build sustainable businesses and uphold community traditions.*
 
 ## Conclusion: A Path Forward for Sustainable Empowerment
 

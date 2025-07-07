@@ -30,7 +30,7 @@ This ranking challenges the notion that Hollywood is adrift in a sea of formulai
 Yet, the poll also exposes evolving industry trends, particularly the rise of streaming platforms and global markets. Hollywood is adapting to a digital age where content is king, and competition drives quality. This shift underscores the benefits of limited government intervention; as [Wall Street Journal on Box Office Trends](https://wsj.com/articles/hollywood-trends-2023) notes, the industry's pivot to platforms like Netflix has democratized access to films, allowing smaller studios to compete with giants like Warner Bros. or Disney. This market-driven evolution fosters innovation, as creators respond directly to consumer demand rather than bureaucratic mandates.
 
 ![Top Voted Film Scene](/content/assets/inception-dream-sequence.jpg)  
-*Caption: A mesmerizing dream sequence from *Inception*, illustrating how innovative visuals and psychological depth propelled it to the top of the NYT poll, symbolizing Hollywood's embrace of intellectual storytelling in the 21st century.*
+*A mesmerizing dream sequence from *Inception*, illustrating how innovative visuals and psychological depth propelled it to the top of the NYT poll, symbolizing Hollywood's embrace of intellectual storytelling in the 21st century.*
 
 ## Evidence of Cultural Shifts and Market Dynamics
 
@@ -43,7 +43,7 @@ From a center-right viewpoint, this evidence reinforces the idea that Hollywood'
 The poll also touches on cultural implications, revealing how Hollywood influences global perceptions of American identity. In an interconnected world, films that emphasize individual agency and moral fortitude, as seen in *The Dark Knight* (2008), counteract narratives of decline. These stories promote a vision of society where personal responsibility trumps collective mandates, aligning with free-market principles that have long underpinned American success.
 
 ![Hollywood Sign at Dusk](/content/assets/hollywood-sign-dusk.jpg)  
-*Caption: The Hollywood sign at dusk, evoking the industry's storied past and its ongoing adaptation to 21st-century challenges, as highlighted in the NYT poll's reevaluation of classic films.*
+*The Hollywood sign at dusk, evoking the industry's storied past and its ongoing adaptation to 21st-century challenges, as highlighted in the NYT poll's reevaluation of classic films.*
 
 ## Conclusion: Embracing Market Wisdom for Hollywood's Future
 
@@ -54,4 +54,4 @@ Yet, for Hollywood to maintain its global leadership, policymakers must resist t
 In the end, this poll is more than a list; it's a call to preserve the free-market spirit that has always defined the best of Hollywood. Let the stories speak for themselves, unencumbered and alive.
 
 ![Film Reel and Modern Tech](/content/assets/film-reel-modern-tech.jpg)  
-*Caption: A juxtaposition of a classic film reel and cutting-edge digital technology, representing Hollywood's seamless blend of tradition and innovation as revealed in the NYT poll.*
+*A juxtaposition of a classic film reel and cutting-edge digital technology, representing Hollywood's seamless blend of tradition and innovation as revealed in the NYT poll.*

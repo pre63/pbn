@@ -32,7 +32,7 @@ From a center-right perspective, the rise of VR underscores the virtues of free-
 Of course, challenges abound. Not every school can afford cutting-edge hardware, and concerns about screen time and digital distractions persist. Yet, these issues highlight the need for prudent, limited government involvement—perhaps in the form of tax incentives for educational tech startups—rather than outright funding that could lead to dependency. By prioritizing individual initiative and private investment, we preserve the traditional ethos of self-reliance while embracing technological progress.
 
 ![Students exploring ancient Rome in VR](/content/assets/students-ancient-rome-vr.jpg)  
-*Caption: Young learners traverse the Forum in ancient Rome, bringing history to life through virtual reality and fostering a deeper appreciation for cultural heritage.*
+*Young learners traverse the Forum in ancient Rome, bringing history to life through virtual reality and fostering a deeper appreciation for cultural heritage.*
 
 ## Analyzing the Global Impact: Evidence from the Field
 
@@ -43,7 +43,7 @@ Internationally, VR's influence is even more pronounced. In developing nations s
 Critics, often from more interventionist quarters, worry about equity—arguing that VR could exacerbate divides between affluent and underprivileged schools. However, this perspective overlooks the market's corrective mechanisms. Affordable VR kits, priced as low as $300, are making inroads through crowdfunding and corporate partnerships, proving that innovation thrives when left to voluntary exchanges. Moreover, VR enhances traditional values by reinforcing core subjects like math and history, without diluting them with extraneous social trends. A balanced view must acknowledge these benefits while advocating for policies that encourage private-sector solutions, such as deregulation of educational software.
 
 ![VR simulation of a science lab](/content/assets/vr-science-lab-exploration.jpg)  
-*Caption: In a virtual science lab, students conduct experiments safely and interactively, highlighting how technology can make learning more accessible and engaging for global audiences.*
+*In a virtual science lab, students conduct experiments safely and interactively, highlighting how technology can make learning more accessible and engaging for global audiences.*
 
 ## The Evidence: Data, Success Stories, and Cautious Optimism
 

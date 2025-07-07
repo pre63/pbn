@@ -29,7 +29,7 @@ From a center-right perspective, this development is a win for free-market princ
 
 To illustrate, consider the image of Bollywood's bustling production sets, where efficiency and cultural authenticity intersect:  
 ![Bollywood film set during Sitaare Zameen Par shoot](/content/assets/bollywood-set-sitaare-zameen-par.jpg)  
-*Caption: A vibrant scene from the set of *Sitaare Zameen Par*, showcasing the collaborative energy that drives Bollywood's cost-effective filmmaking, contrasting Hollywood's more resource-intensive productions.*
+*A vibrant scene from the set of *Sitaare Zameen Par*, showcasing the collaborative energy that drives Bollywood's cost-effective filmmaking, contrasting Hollywood's more resource-intensive productions.*
 
 ## Analyzing Bollywood's Edge in the Streaming Era
 
@@ -49,7 +49,7 @@ Economically, this challenges Hollywood's model, which has historically depended
 
 Visualize this transformation through the lens of data-driven insights:  
 ![Global streaming market trends for Bollywood vs. Hollywood](/content/assets/bollywood-hollywood-streaming-trends.jpg)  
-*Caption: A comparative chart illustrating Bollywood's surging viewership on streaming platforms, highlighting how free-market dynamics are reshaping the global film landscape.*
+*A comparative chart illustrating Bollywood's surging viewership on streaming platforms, highlighting how free-market dynamics are reshaping the global film landscape.*
 
 Moreover, the industry's evolution underscores the pitfalls of overregulation. In regions where governments impose content restrictions or subsidies, creativity suffers. Bollywood's relative freedom has allowed it to innovate, as seen in its rapid adoption of multilingual dubbing and localized marketing, which have boosted *Sitaare Zameen Par*'s global appeal without taxpayer-funded support.
 

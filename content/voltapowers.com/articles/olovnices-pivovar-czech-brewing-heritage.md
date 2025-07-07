@@ -23,7 +23,7 @@ In the rolling hills of the Czech Republic, where history simmers like a well-ag
 The Czech Republic's brewing legacy is as old as its cobblestone streets, with Olovnice at the heart of it all. Founded in the 19th century in the village of Olovnice, this pivovar (the Czech word for brewery) has produced beers that capture the essence of the nation's soul—robust, reliable, and rooted in community. Unlike fleeting trends that come and go, Czech brewing heritage represents a blend of craftsmanship and communal pride, where families gather around tables to share not just a drink, but stories passed down through generations. In an era where global markets often dilute local identities, preserving such traditions isn't just nostalgic; it's a pragmatic investment in cultural capital that bolsters tourism and local economies.
 
 ![The historic facade of Olovnice Pivovar](/content/assets/olovnice-pivovar-facade.jpg)  
-*Caption: The enduring stone arches of Olovnice Pivovar, where centuries of Czech brewing innovation meet the quiet resilience of rural life.*
+*The enduring stone arches of Olovnice Pivovar, where centuries of Czech brewing innovation meet the quiet resilience of rural life.*
 
 ## The Cultural Backbone of Olovnice: More Than Just Beer
 
@@ -44,7 +44,7 @@ Evidence from other regions underscores this point. In Germany, a neighbor with 
 Of course, challenges persist. Skeptics might argue that retrofitting historic sites like Olovnice could alter their charm, but that's where pragmatic design comes in. Modern solar installations can be discreet, blending seamlessly with traditional architecture. As [Craft Brewing Business](https://www.craftbrewingbusiness.com/sustainable-practices-czech-republic-2024) reports, many Czech brewers are already experimenting with such integrations, proving that sustainability enhances rather than erodes heritage. This market-led evolution respects traditional values—hard work, ingenuity, and community—without succumbing to overreach.
 
 ![Sustainable energy integration at Olovnice](/content/assets/olovnice-solar-and-biomass-setup.jpg)  
-*Caption: A modern view of Olovnice Pivovar's biomass boiler and solar array, illustrating how sustainable energy quietly supports age-old brewing techniques.*
+*A modern view of Olovnice Pivovar's biomass boiler and solar array, illustrating how sustainable energy quietly supports age-old brewing techniques.*
 
 ## The Road Ahead: A Pragmatic Path for Preservation
 

@@ -26,7 +26,7 @@ Yet, as we celebrate Moore's revival, let us pause to consider the larger tapest
 Demi Moore's career, much like a well-crafted screenplay, has unfolded with dramatic twists that would make even the most seasoned storyteller envious. Emerging in the 1980s as a symbol of bold femininity and unapologetic ambition, Moore shattered box-office records and redefined the leading lady archetype. But as the new millennium dawned, the industry shifted—blockbusters gave way to franchises, and personal challenges, including high-profile divorces and shifting public tastes, dimmed her spotlight. Fast-forward to today, and Moore stands on the cusp of a glorious encore, with reports of her starring in bold new roles that blend her signature intensity with fresh narratives [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/). Her inclusion in the 2026 Hollywood Walk of Fame class is not just an honor; it's a validation of the free market's meritocratic essence, where audience demand and personal reinvention, rather than government subsidies or mandated diversity quotas, pave the way for success.
 
 ![Demi Moore at 2026 Walk of Fame Ceremony](/content/assets/demi-moore-walk-of-fame-2026.jpg)  
-*Caption: Demi Moore beaming amidst a crowd of admirers at the 2026 Hollywood Walk of Fame induction, symbolizing the timeless allure of perseverance in the face of adversity.*
+*Demi Moore beaming amidst a crowd of admirers at the 2026 Hollywood Walk of Fame induction, symbolizing the timeless allure of perseverance in the face of adversity.*
 
 What makes Moore's story particularly compelling is her embrace of traditional values in an industry often criticized for its excesses. She has spoken of her comeback as a product of disciplined self-reflection and strategic career choices, aligning herself with projects that resonate with audiences seeking substance over spectacle. This approach echoes the center-right ethos that champions individual agency over collective mandates. In Hollywood, where the market dictates winners and losers based on ticket sales and streaming metrics, Moore's revival highlights how limited government involvement allows creativity to flourish. Imagine if bureaucratic oversight had stifled her opportunities—would we have these triumphant new roles? No, the free market's invisible hand ensures that talent like Moore's can resurface, driven by consumer choice rather than regulatory fiat.
 
@@ -39,7 +39,7 @@ Contrast this with the occasional calls for government intervention in the arts�
 Evidence abounds in the annals of cinema. Research from industry analysts shows that comebacks often correlate with economic freedom indices, where less regulated markets foster greater cultural innovation [Wall Street Journal](https://www.wsj.com/articles/hollywood-comebacks-free-market-dynamics-2026-1234567890/). Moore's story aligns with this trend: Her new ventures, backed by independent producers rather than bloated studio conglomerates, exemplify how smaller, agile entities in a free-market ecosystem can outmaneuver larger players. This is the essence of limited government at work—allowing the private sector to self-regulate and reward merit.
 
 ![Demi Moore in a Scene from Her 2026 Film](/content/assets/demi-moore-2026-film-scene.jpg)  
-*Caption: A gripping moment from Demi Moore's anticipated 2026 thriller, capturing her commanding presence and the raw energy that has fueled her career resurgence.*
+*A gripping moment from Demi Moore's anticipated 2026 thriller, capturing her commanding presence and the raw energy that has fueled her career resurgence.*
 
 ## Lessons from the Limelight: Evidence of Enduring Values
 
@@ -48,7 +48,7 @@ To substantiate Moore's comeback as more than an isolated anecdote, consider the
 This perspective extends beyond Tinseltown. In a broader social context, celebrity comebacks mirror the American dream's core tenets—rags to riches through self-reliance. Moore's journey underscores how free-market principles enable second acts, encouraging individuals to overcome setbacks without relying on external crutches. Critics might decry the industry's volatility, but from a center-right lens, this volatility is a feature, not a flaw; it promotes innovation and discourages complacency.
 
 ![Hollywood Walk of Fame Star for Demi Moore](/content/assets/hollywood-walk-of-fame-demi-moore-star.jpg)  
-*Caption: The freshly unveiled star for Demi Moore on the Hollywood Walk of Fame in 2026, a shining emblem of her lasting impact and the rewards of perseverance in a dynamic industry.*
+*The freshly unveiled star for Demi Moore on the Hollywood Walk of Fame in 2026, a shining emblem of her lasting impact and the rewards of perseverance in a dynamic industry.*
 
 ## A Finale of Fortitude: The Timeless Appeal of Comebacks
 

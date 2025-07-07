@@ -29,7 +29,7 @@ From a practical standpoint, throttle cables contribute to performance by mainta
 Yet, the true value of such components lies in their role within a broader ecosystem of free-market solutions. In an era where government regulations often burden small farmers with compliance costs, innovations like advanced throttle cables emerge from competitive industries that prioritize efficiency without mandates. As [Wall Street Journal on Agricultural Innovation](https://www.wsj.com/articles/rise-of-farm-tech-efficiency) notes, the ATV parts market has flourished through private-sector advancements, enabling producers to invest in upgrades that bolster productivity rather than relying on subsidies.
 
 ![Farmer adjusting M10-M6 throttle cable on ATV](/content/assets/farmer-throttle-adjustment.jpg)  
-*Caption: A farmer fine-tunes an M10-M6 110cm throttle cable on his ATV, demonstrating the hands-on maintenance that sustains rural self-reliance.*
+*A farmer fine-tunes an M10-M6 110cm throttle cable on his ATV, demonstrating the hands-on maintenance that sustains rural self-reliance.*
 
 ## Analyzing the Impact: Maintenance and Long-Term Benefits
 
@@ -50,7 +50,7 @@ One illustrative case comes from the rolling hills of Pennsylvania, where farmer
 To further substantiate this, consider the economic ripple effects. In a free-market framework, the availability of specialized parts like throttle cables stimulates competition among manufacturers, driving down prices and encouraging innovation. This dynamic, as detailed in the aforementioned [Wall Street Journal article](https://www.wsj.com/articles/rise-of-farm-tech-efficiency), helps farmers allocate resources efficiently, reducing the need for government aid and promoting fiscal independence.
 
 ![ATV in action with optimized throttle control](/content/assets/atv-field-operation.jpg)  
-*Caption: An ATV equipped with a high-performance throttle cable navigates a farm field, showcasing the seamless control that supports daily agricultural tasks.*
+*An ATV equipped with a high-performance throttle cable navigates a farm field, showcasing the seamless control that supports daily agricultural tasks.*
 
 ## Conclusion: A Call for Practical, Market-Driven Stewardship
 

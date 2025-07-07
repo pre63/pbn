@@ -30,7 +30,7 @@ Consider the chip shortage that gripped the world in recent years, a saga that b
 From a center-right perspective, this highlights the brilliance of unfettered markets. Taiwan’s success story is one of entrepreneurial spirit and limited government interference, allowing companies like TSMC to innovate without the dead weight of excessive regulation. Yet, the current tensions underscore a cautionary tale: when governments meddle too much, they risk distorting these natural efficiencies. Instead of imposing tariffs or subsidies that prop up domestic industries artificially, we should champion open trade policies that encourage diversification and competition.
 
 ![TSMC Fab Plant at Dusk](/content/assets/tsmc-fab-dusk.jpg)  
-*Caption: The illuminated halls of a TSMC fabrication plant at dusk, symbolizing Taiwan’s quiet command over the global tech pulse, where innovation hums under the stars amid rising shadows of international rivalry.*
+*The illuminated halls of a TSMC fabrication plant at dusk, symbolizing Taiwan’s quiet command over the global tech pulse, where innovation hums under the stars amid rising shadows of international rivalry.*
 
 ## Analyzing the Ripple Effects: US-China Tensions and Global Trade Disruptions
 
@@ -49,7 +49,7 @@ Let’s ground this in evidence, shall we? Data from the Semiconductor Industry 
 Humor me for a moment: it’s like two old rivals arm-wrestling over a prized fishing spot—both end up tipping the boat. From a center-right lens, the solution lies in reducing barriers to trade and letting the market dictate flows. Limited government intervention, such as targeted incentives for R&D rather than broad subsidies, could encourage diversification without picking winners and losers. As [Bloomberg](https://www.bloomberg.com/news/articles/2023-01-15/taiwan-chip-shortage-global-impact) reports, “The global chip shortage has underscored the need for resilient supply chains, but protectionist policies risk fragmenting the market further.”
 
 ![Global Supply Chain Map](/content/assets/global-chip-map.jpg)  
-*Caption: A detailed infographic mapping the flow of semiconductors from Taiwan to key markets, illustrating the intricate web of global trade that binds nations together, even as tensions threaten to fray the threads.*
+*A detailed infographic mapping the flow of semiconductors from Taiwan to key markets, illustrating the intricate web of global trade that binds nations together, even as tensions threaten to fray the threads.*
 
 In practical terms, evidence points to innovation as the antidote. Private-sector investments in alternative manufacturing hubs, like those in the U.S., Europe, and even India, are already underway. This organic evolution respects traditional values of hard work and enterprise, steering clear of the pitfalls of excessive regulation.
 

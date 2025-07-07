@@ -27,7 +27,7 @@ Valletta's defenses are more than mere stone and mortar; they are a narrative of
 
 In this context, preservation efforts must honor these roots by avoiding overly prescriptive government interventions. Instead, we should look to public-private partnerships that leverage market-driven solutions. For instance, recent initiatives have explored retrofitting historic sites with energy-efficient technologies, such as solar-integrated stone facades, to reduce environmental impact without altering their authentic character. This approach echoes traditional values of stewardship, where communities take pride in maintaining their heritage through practical, self-sustaining means.
 
-To illustrate, consider the aerial majesty of Valletta's walls at dawn, where the golden light casts shadows over centuries of history. ![Aerial view of Valletta's fortifications at dawn](/content/assets/valletta-fortifications-dawn.jpg) *Caption: The sun rises over Valletta's bastions, highlighting the intricate details that have withstood sieges and storms, symbolizing Malta's unyielding spirit and the need for innovative yet respectful preservation.*
+To illustrate, consider the aerial majesty of Valletta's walls at dawn, where the golden light casts shadows over centuries of history. ![Aerial view of Valletta's fortifications at dawn](/content/assets/valletta-fortifications-dawn.jpg) *The sun rises over Valletta's bastions, highlighting the intricate details that have withstood sieges and storms, symbolizing Malta's unyielding spirit and the need for innovative yet respectful preservation.*
 
 ## Modern Energy-Efficient Strategies: A Path Forward
 
@@ -37,7 +37,7 @@ Evidence from similar projects underscores the efficacy of this market-oriented 
 
 This evidence points to a broader truth: Limited government intervention, coupled with incentives for private innovation, fosters resilience. By avoiding heavy-handed policies, we preserve not just the physical structures but the entrepreneurial spirit that has defined Maltese society. Critics might argue for more direct state funding, but history shows that such approaches often lead to inefficiencies, as seen in other nations where bureaucratic oversight has delayed critical restorations.
 
-Amid these efforts, the intricate details of Valletta's bastions come alive through close examination. ![Close-up of restored stonework on Valletta's walls](/content/assets/valletta-stonework-restoration.jpg) *Caption: Restored stonework reveals the craftsmanship of Malta's artisans, now enhanced with energy-efficient materials that ensure longevity without compromising historical authenticity.*
+Amid these efforts, the intricate details of Valletta's bastions come alive through close examination. ![Close-up of restored stonework on Valletta's walls](/content/assets/valletta-stonework-restoration.jpg) *Restored stonework reveals the craftsmanship of Malta's artisans, now enhanced with energy-efficient materials that ensure longevity without compromising historical authenticity.*
 
 ## Conclusion: Charting a Sustainable Course for Maltese Heritage
 

@@ -29,7 +29,7 @@ From a center-right perspective, such developments underscore the virtues of fre
 Yet, this narrative of progress is incomplete without acknowledging the broader economic ripple effects. Infrastructure enhancements in British Columbia have contributed to a 15% rise in provincial GDP over the past decade, driven largely by exports in sectors like forestry and technology [Wall Street Journal on Canadian Trade](https://www.wsj.com/articles/canada-trade-boom-2023). Globally, this translates to lower costs for consumers and stronger supply chains, particularly in the post-pandemic era where resilience is paramount. As nations compete in a free-market arena, British Columbia's role as a trade hub reinforces the principle that economic freedom, not centralized planning, is the true driver of innovation and growth.
 
 ![Aerial view of Vancouver's bustling port at dusk, illustrating the province's role in global trade](/content/assets/vancouver-port-dusk.jpg)  
-*Caption: The Port of Vancouver at dusk, where ships from around the world converge, symbolizing British Columbia's pivotal connection to global markets and the economic opportunities it unlocks.*
+*The Port of Vancouver at dusk, where ships from around the world converge, symbolizing British Columbia's pivotal connection to global markets and the economic opportunities it unlocks.*
 
 ## Analyzing the Economic Imperatives: Growth Amid Challenges
 
@@ -46,7 +46,7 @@ In this context, Indigenous priorities emerge as a critical factor. While some v
 To substantiate these points, let's examine key data and external insights. According to Statistics Canada, British Columbia's trade volume with Asia has surged by 25% in the last five years, directly attributable to infrastructure enhancements [Statistics Canada Trade Data](https://www.statcan.gc.ca/economy-trade-bc-2022). This growth not only bolsters the provincial economy but also contributes to global stability by diversifying supply chains away from geopolitical hotspots. Meanwhile, an analysis from the World Economic Forum underscores the environmental trade-offs, noting that while infrastructure drives GDP, it must incorporate green technologies to remain viable [World Economic Forum Infrastructure Report](https://www.weforum.org/infrastructure-sustainability-2023).
 
 ![Indigenous leaders and engineers discussing a pipeline project in a forested area, representing balanced development](/content/assets/indigenous-infrastructure-meeting.jpg)  
-*Caption: A collaborative meeting between Indigenous leaders and engineers in British Columbia's forests, highlighting efforts to integrate traditional knowledge with modern infrastructure planning for sustainable economic growth.*
+*A collaborative meeting between Indigenous leaders and engineers in British Columbia's forests, highlighting efforts to integrate traditional knowledge with modern infrastructure planning for sustainable economic growth.*
 
 Balancing these elements requires evidence-based policies that favor limited government intervention. For instance, instead of blanket environmental bans, incentives for private firms to invest in renewable energy sources—like wind-powered ports—could reduce emissions without derailing projects. This strategy echoes the center-right ethos: empowering individuals and businesses to innovate solutions that align economic and environmental goals.
 

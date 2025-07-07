@@ -27,7 +27,7 @@ What fuels this drive is a blend of national pride and strategic foresight. Chin
 
 To illustrate, consider the image of China's lunar rover traversing the moon's rugged terrain:  
 ![China's Chang'e 5 lunar sample return in action](content/assets/chang-e-5-sample-return.jpg)  
-*Caption: The Chang'e 5 probe retrieving lunar samples, symbolizing China's leap in space technology and its role in sparking global competition.*
+*The Chang'e 5 probe retrieving lunar samples, symbolizing China's leap in space technology and its role in sparking global competition.*
 
 ## Analysis: The Broader Space Race and Technological Implications
 
@@ -45,7 +45,7 @@ One telling example is the development of advanced propulsion systems. China's L
 
 Visualizing this global interplay, another image captures the collaborative spirit of international efforts:  
 ![NASA's Artemis lunar gateway concept](content/assets/artemis-gateway-concept.jpg)  
-*Caption: An artist's rendering of the Artemis Gateway orbiting the moon, highlighting U.S.-led partnerships that blend public and private innovation in the face of rising competition.*
+*An artist's rendering of the Artemis Gateway orbiting the moon, highlighting U.S.-led partnerships that blend public and private innovation in the face of rising competition.*
 
 In contrast, the private sector's role offers a pragmatic path forward. Companies like Japan's ispace and Luxembourg's SES are investing in lunar resource extraction, driven by profit motives rather than state directives. This market-oriented approach not only democratizes space access but also aligns with center-right values of individual initiative and economic liberty, potentially outpacing government programs through efficiency and adaptability.
 

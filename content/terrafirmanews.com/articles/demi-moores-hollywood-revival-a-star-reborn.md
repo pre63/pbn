@@ -34,7 +34,7 @@ Consider the economic underpinnings: The film industry's resilience amid digital
 Yet, balance demands acknowledgment of the risks. Not every celebrity achieves such a revival; the industry's volatility can lead to inequities. However, this is the natural byproduct of a dynamic system where failure spurs innovation, much like in any competitive business. Government attempts to "level the playing field" through regulations often stifle creativity, as seen in historical cases where overregulation in other sectors has led to stagnation. Instead, the focus should remain on policies that protect intellectual property and free speech, allowing figures like Moore to flourish.
 
 ![Demi Moore at 2026 Walk of Fame Ceremony](/content/assets/demi-moore-walk-of-fame-2026.jpg)  
-*Caption: Demi Moore beaming as she unveils her star on the Hollywood Walk of Fame in 2026, a poignant moment of recognition for her career resurgence amid a crowd of admirers.*
+*Demi Moore beaming as she unveils her star on the Hollywood Walk of Fame in 2026, a poignant moment of recognition for her career resurgence amid a crowd of admirers.*
 
 ## Evidence: Moore's Path and the Broader Trends in Hollywood
 
@@ -45,7 +45,7 @@ Data from industry trackers supports this narrative. According to [The Numbers](
 Comparatively, Moore's trajectory mirrors that of other industry veterans who have staged comebacks through sheer determination. For instance, actors like Robert Downey Jr. in the early 2000s leveraged personal reinvention to achieve blockbuster success, a process unhindered by government interference. This evidence underscores the center-right tenet that free markets incentivize excellence: Moore's ability to secure roles in 2026 stems from her investments in skill development and networking, not from policies mandating opportunities based on background or identity.
 
 ![Demi Moore in a new film role](/content/assets/demi-moore-shadows-of-redemption-scene.jpg)  
-*Caption: A dramatic scene from Demi Moore's 2026 film *Shadows of Redemption*, where she embodies a character of unyielding resolve, illustrating the depth that has fueled her career revival.*
+*A dramatic scene from Demi Moore's 2026 film *Shadows of Redemption*, where she embodies a character of unyielding resolve, illustrating the depth that has fueled her career revival.*
 
 Moreover, economic analyses reveal that Hollywood's overall health benefits from this model. A [Forbes](https://www.forbes.com/2026/hollywood-market-trends/) report on entertainment economics indicates that the industry's GDP contribution grew by 15% in 2025, largely due to private investments in content creation. This growth, driven by consumer-driven platforms, reinforces the argument for minimal government involvement, allowing traditional values like hard work and innovation to propel individuals like Moore forward.
 

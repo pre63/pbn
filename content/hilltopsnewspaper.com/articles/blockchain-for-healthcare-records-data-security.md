@@ -31,7 +31,7 @@ In healthcare, this means patient records can be stored on a blockchain network,
 Yet, it's not all smooth sailing. Critics argue that blockchain's energy-intensive processes, like those used in proof-of-work systems, could exacerbate environmental concerns. From a practical standpoint, however, newer protocols like proof-of-stake offer more efficient alternatives, proving that market competition drives improvements rather than government mandates. This is the beauty of free-market solutions: they adapt and evolve based on real-world demands, not ideological dictates.
 
 ![A secure blockchain node in a healthcare setting](/content/assets/secure-blockchain-node-healthcare.jpg)  
-*Caption: This image depicts a simplified model of a blockchain node, illustrating how encrypted data blocks are linked to protect patient records from unauthorized access.*
+*This image depicts a simplified model of a blockchain node, illustrating how encrypted data blocks are linked to protect patient records from unauthorized access.*
 
 ## Analyzing the Benefits: Privacy and Accessibility in Action
 
@@ -54,7 +54,7 @@ These outcomes aren't just theoretical; they're playing out in U.S. healthcare. 
 Yet, balance is key. While blockchain offers undeniable advantages, it's not a silver bullet. Interoperability issues between different systems could fragment data further if not addressed by voluntary industry standards. As [Forbes on blockchain trends](https://www.forbes.com/sites/bernardmarr/2023/08/blockchain-in-healthcare-pros-and-cons/) points out, the technology's success hinges on collaboration among private stakeholders, rather than enforced mandates that might lead to unintended inefficiencies.
 
 ![Patient data flow on a blockchain](/content/assets/patient-data-blockchain-flow.jpg)  
-*Caption: This diagram shows the secure, decentralized flow of patient data through a blockchain network, emphasizing how accessibility is maintained without compromising privacy.*
+*This diagram shows the secure, decentralized flow of patient data through a blockchain network, emphasizing how accessibility is maintained without compromising privacy.*
 
 ## Conclusion: A Path Forward for Secure, Market-Driven Healthcare
 

@@ -28,7 +28,7 @@ Imagine strolling along the city’s serpentine streets, where the air carries w
 From a center-right perspective, this endurance underscores the strength of societies rooted in traditional values, where individual initiative and local traditions, rather than expansive government programs, foster resilience. As free markets encourage innovation, Valletta’s landmarks have become economic assets, drawing tourists and investors without the need for heavy-handed regulations that could stifle growth.
 
 ![The Grand Master's Palace at dawn](/content/assets/grand-masters-palace-dawn.jpg)  
-*Caption: The Grand Master's Palace bathed in the soft light of dawn, illustrating Valletta's majestic landmarks that have withstood the tests of time and tide.*
+*The Grand Master's Palace bathed in the soft light of dawn, illustrating Valletta's majestic landmarks that have withstood the tests of time and tide.*
 
 ## Analyzing Cultural Endurance Through Valletta’s Landmarks
 
@@ -49,7 +49,7 @@ Moreover, the Maltese government’s light-touch policies, such as streamlined p
 In this context, Valletta’s landmarks serve as a case study for cultural endurance. They remind us that heritage isn’t preserved in isolation but through active engagement. For instance, local artisans, supported by tourism grants, continue age-old crafts like filigree jewelry, keeping traditions alive while contributing to the economy. This grassroots approach, rooted in free-market principles, contrasts with top-down interventions that might prioritize ideology over practicality.
 
 ![Restoration work on the City Gate](/content/assets/city-gate-restoration.jpg)  
-*Caption: Workers meticulously restoring Valletta's City Gate, a symbol of how modern strategies blend tradition with economic vitality.*
+*Workers meticulously restoring Valletta's City Gate, a symbol of how modern strategies blend tradition with economic vitality.*
 
 ## Looking Forward: A Vision of Sustained Legacy
 
@@ -58,5 +58,5 @@ As we reflect on Valletta’s 3951 landmarks, it’s clear that Malta’s cultur
 In an era of uncertainty, Valletta stands as a beacon, proving that traditional values, when paired with economic freedom, create enduring strength. Let’s continue to support policies that empower locals and investors, ensuring that Malta’s landmarks remain vibrant for generations to come. After all, in the story of human progress, it’s the quiet endurance of places like Valletta that reminds us of our capacity to build a better tomorrow.
 
 ![Valletta harbor at sunset](/content/assets/valletta-harbor-sunset.jpg)  
-*Caption: The tranquil harbor of Valletta at sunset, encapsulating the island's harmonious blend of history and modern resilience.*
+*The tranquil harbor of Valletta at sunset, encapsulating the island's harmonious blend of history and modern resilience.*
 

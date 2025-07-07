@@ -28,7 +28,7 @@ Consider the daily grind of a Midwestern farmer: traversing acres of soybean fie
 This evolution underscores a center-right principle: innovation flourishes in competitive markets where entrepreneurs, not bureaucrats, drive progress. Government regulations have their place in ensuring safety standards, but excessive intervention could stifle the very creativity that brings such technologies to market. Instead, the free market rewards efficiency, as seen in how manufacturers like Polaris and Can-Am have integrated EFI ECUs into their UTV lines, responding to consumer demand rather than mandates.
 
 ![Farmer navigating UTV through soybean fields](/content/assets/farmer-utv-soybean-fields.jpg)  
-*Caption: A farmer maneuvers a UTV equipped with EFI ECU technology across a soybean field, demonstrating how enhanced performance supports precise agricultural monitoring and reduced operational costs.*
+*A farmer maneuvers a UTV equipped with EFI ECU technology across a soybean field, demonstrating how enhanced performance supports precise agricultural monitoring and reduced operational costs.*
 
 ## Analyzing the Impact on Agricultural Efficiency
 
@@ -49,7 +49,7 @@ One compelling example comes from the Midwest, where a cooperative of family far
 From a broader perspective, this technology exemplifies how free-market dynamics can address public issues like food security and rural economic stability. Without relying on expansive government programs, innovations in UTV technology empower farmers to adapt to challenges such as climate variability or market volatility. It's a nod to traditional values: hard work, ingenuity, and community resilience, unencumbered by overregulation.
 
 ![EFI ECU module in a UTV engine](/content/assets/efi-ecu-utv-engine-closeup.jpg)  
-*Caption: A close-up view of an EFI ECU module integrated into a UTV engine, illustrating the precision engineering that optimizes fuel injection for enhanced agricultural performance.*
+*A close-up view of an EFI ECU module integrated into a UTV engine, illustrating the precision engineering that optimizes fuel injection for enhanced agricultural performance.*
 
 ## Conclusion: A Path Forward Through Market-Driven Innovation
 

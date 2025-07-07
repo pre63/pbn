@@ -21,7 +21,7 @@ In the verdant expanses of Thailand's rural heartlands, where the sun rises like
 This editorial explores the intricate dance between technology and tradition, focusing on how kick start levers enhance ATV reliability and support agricultural tasks. In an era where global supply chains and market forces shape rural economies, understanding such mechanics is not just practical—it's a nod to the free-market ethos that empowers individuals to thrive without undue reliance on state subsidies. Drawing from expert analyses and real-world evidence, we shall navigate the gears of this essential technology, revealing its role in fostering economic resilience.
 
 ![A Thai farmer kick-starting his ATV at dawn](/content/assets/thai-farmer-atv-dawn.jpg)  
-*Caption: A determined Thai farmer ignites his 50cc ATV with a precise kick start, embodying the self-reliant spirit that drives rural productivity.*
+*A determined Thai farmer ignites his 50cc ATV with a precise kick start, embodying the self-reliant spirit that drives rural productivity.*
 
 ## The Vital Role of ATVs in Thai Agriculture: A Foundation of Free-Market Endeavor
 
@@ -40,7 +40,7 @@ Maintenance of these levers is straightforward, emphasizing their appeal in reso
 The reliability of kick start levers shines in agricultural applications, where ATVs must endure heavy loads and rough terrain. For instance, in Thailand's Isan region, farmers use these vehicles to transport harvests over uneven paths, where electronic systems might fail due to exposure to water or extreme heat. A study from the industry-focused blog [ATV Rider Magazine](https://www.atvridermag.com/thai-agriculture-atv-maintenance-insights) underscores that vehicles equipped with kick starts experience up to 30% fewer starting failures compared to battery-dependent models, based on user surveys from Southeast Asian farms. This data not only affirms the lever's dependability but also illustrates how maintenance routines—such as periodic cleaning and adjustment—prolong ATV lifespan, reducing costs and enhancing economic sustainability.
 
 ![Inspecting a kick start lever on a 150cc ATV](/content/assets/atv-kick-start-inspection.jpg)  
-*Caption: Close-up of a farmer meticulously inspecting the kick start lever on his 150cc ATV, a ritual that safeguards reliability and upholds traditions of hands-on craftsmanship.*
+*Close-up of a farmer meticulously inspecting the kick start lever on his 150cc ATV, a ritual that safeguards reliability and upholds traditions of hands-on craftsmanship.*
 
 ## Evidence from the Field: Real-World Impacts and Supporting Data
 

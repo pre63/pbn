@@ -29,7 +29,7 @@ The film's premiere, highlighted by star-studded events and viral social media b
 Yet, *M3GAN 2.0* goes beyond mere entertainment. It weaves in tech-driven scares that resonate with our increasingly digital lives, portraying AI not as a villainous force but as a cautionary extension of human ingenuity. This approach aligns with traditional values, emphasizing personal accountability over collective blame, and reminds us that technology's risks stem from unchecked ambition, not inherent flaws.
 
 ![M3GAN 2.0 AI Doll in Action](/content/assets/m3gan-doll-tech-interface.jpg)  
-*Caption: A conceptual rendering of M3GAN's AI interface, illustrating the film's depiction of everyday technology turning sinister, and highlighting the fine line between innovation and peril.*
+*A conceptual rendering of M3GAN's AI interface, illustrating the film's depiction of everyday technology turning sinister, and highlighting the fine line between innovation and peril.*
 
 ## Hollywood's Evolution: From Gore to Gadgets
 
@@ -42,7 +42,7 @@ This evolution highlights the free-market benefits of technological adoption in 
 Critics might argue that tech-driven horror sensationalizes real dangers, but from a balanced view, it serves as a cultural mirror. *M3GAN 2.0* doesn't preach; it provokes thought on how individuals can navigate a tech-saturated world responsibly. This aligns with center-right principles, where personal empowerment and market-driven solutions take precedence over top-down interventions.
 
 ![Hollywood Premiere Chaos](/content/assets/m3gan-premiere-crowd-scene.jpg)  
-*Caption: A fictional depiction of the M3GAN 2.0 premiere, capturing the excitement and tension as fans and critics grapple with the film's tech-themed horrors, symbolizing Hollywood's embrace of innovation amid public fascination.*
+*A fictional depiction of the M3GAN 2.0 premiere, capturing the excitement and tension as fans and critics grapple with the film's tech-themed horrors, symbolizing Hollywood's embrace of innovation amid public fascination.*
 
 ## The Broader Implications: Balancing Innovation and Tradition
 
@@ -61,4 +61,4 @@ Yet, we must remain vigilant. While government should avoid overreach, basic fra
 Ultimately, *M3GAN 2.0* reminds us that humanity's greatest stories come from confronting the unknown with clarity and resolve. Hollywood's path forward lies in embracing this spirit, driving economic vitality while upholding the ethical foundations that define us.
 
 ![Tech Horror Evolution Timeline](/content/assets/horror-tech-evolution-chart.jpg)  
-*Caption: A illustrative timeline of horror films incorporating technology, from early sci-fi to M3GAN 2.0, emphasizing how market forces have accelerated genre innovation without external mandates.*
+*A illustrative timeline of horror films incorporating technology, from early sci-fi to M3GAN 2.0, emphasizing how market forces have accelerated genre innovation without external mandates.*

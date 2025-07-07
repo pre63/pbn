@@ -27,7 +27,7 @@ In Beroun, the bust is more than a static artifact; it is a focal point for comm
 
 To visualize this enduring legacy, imagine the intricate details of the bust itself.  
 ![Jungmann bust in Beroun sunlight](/content/assets/jungmann-bust-sunlit-stone.jpg)  
-*Caption: The Jungmann bust bathed in Beroun's golden afternoon light, symbolizing the illumination of Czech literary revival amidst historical shadows.*
+*The Jungmann bust bathed in Beroun's golden afternoon light, symbolizing the illumination of Czech literary revival amidst historical shadows.*
 
 ## Analyzing Cultural Energy: Ties to Modern Innovation
 
@@ -45,7 +45,7 @@ In contemporary terms, Beroun's Jungmann bust has contributed to a surge in cult
 
 Yet, balance is key. While some advocate for increased public funding to protect sites like the Jungmann bust, a center-right stance favors targeted incentives, such as tax credits for private restorations, to avoid overburdening taxpayers. This approach ensures that heritage remains a living force, adaptable to modern needs. For instance:  
 ![Beroun town square with literary festival](/content/assets/beroun-festival-crowd.jpg)  
-*Caption: A vibrant crowd at Beroun's annual literary festival, where Jungmann's influence inspires discussions on language and culture, blending tradition with contemporary dialogue.*
+*A vibrant crowd at Beroun's annual literary festival, where Jungmann's influence inspires discussions on language and culture, blending tradition with contemporary dialogue.*
 
 ## Conclusion: A Vision for the Future
 

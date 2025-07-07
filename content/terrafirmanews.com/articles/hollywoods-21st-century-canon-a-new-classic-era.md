@@ -31,7 +31,7 @@ At its core, Hollywood operates as a free-market powerhouse, where studios compe
 However, this market-driven model faces challenges. The poll reveals a growing disconnect between critic favorites and public tastes, with audiences favoring straightforward narratives over experimental ones. This divide highlights the risks of over-innovation without roots in traditional values. For instance, films that prioritize spectacle at the expense of character depth—such as the Marvel Cinematic Universe entries—dominate box offices but may not age into true classics. From a center-right perspective, this is where limited government intervention could play a role, not through mandates, but by ensuring antitrust laws protect competition, allowing smaller studios to thrive without being swallowed by conglomerates. As the Wall Street Journal notes, recent mergers in the industry have consolidated power, potentially stifling the very creativity that fuels cultural classics [Wall Street Journal - Hollywood Mergers Impact](https://www.wsj.com/articles/hollywood-mergers-cultural-impact-2023-1234567890/).
 
 ![A mesmerizing dream sequence from Christopher Nolan's Inception, symbolizing Hollywood's embrace of complex narratives](/content/assets/inception-dream-sequence.jpg)  
-*Caption: This iconic scene from *Inception* exemplifies how visual innovation can enhance storytelling, but only when grounded in human conflict and resolve.*
+*This iconic scene from *Inception* exemplifies how visual innovation can enhance storytelling, but only when grounded in human conflict and resolve.*
 
 ## Evidence from the Front Lines: What Defines a Classic?
 
@@ -42,7 +42,7 @@ This aligns with broader industry trends, where economic forces shape content. A
 Yet, balance demands we acknowledge counterpoints. Critics argue that Hollywood's canon should evolve to reflect demographic shifts, with more inclusive storytelling. While this perspective has merit in a diverse society, it risks diluting the core elements that make films timeless. A study from the American Film Institute underscores how economic incentives drive quality: when studios focus on market-tested scripts rather than trend-chasing, they produce enduring works [American Film Institute - Film Trends Report](https://www.afi.com/reports/21st-century-film-trends-2023/). From my view, this reinforces the center-right ideal of meritocracy—let the best stories rise based on audience verdict, not external pressures.
 
 ![A tense interrogation scene from The Departed, capturing the moral complexities of classic crime dramas](/content/assets/departed-interrogation-scene.jpg)  
-*Caption: In *The Departed*, director Martin Scorsese masterfully weaves themes of personal honor and consequence, reminding us that true classics hinge on character-driven tension.*
+*In *The Departed*, director Martin Scorsese masterfully weaves themes of personal honor and consequence, reminding us that true classics hinge on character-driven tension.*
 
 ## The Debate: Free Markets and the Future of Culture
 

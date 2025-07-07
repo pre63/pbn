@@ -31,7 +31,7 @@ This ritual, far from an esoteric oddity, reflects a broader cultural ethos in J
 Yet, the tea ceremony's significance extends beyond its origins. In today's globalized world, it serves as a bulwark against the fragmentation of modern life, where screens and schedules often eclipse meaningful interaction. Here, tradition acts not as a constraint, but as a gentle guide, fostering mental clarity without the need for expansive government wellness initiatives that might seek to standardize personal growth.
 
 ![Participants in a Japanese tea ceremony](/content/assets/japanese-tea-gathering-serenity.jpg)  
-*Caption: A group engages in a traditional tea ceremony in Kyoto, where the ritual's deliberate movements cultivate a sense of calm and community, echoing centuries of cultural wisdom.*
+*A group engages in a traditional tea ceremony in Kyoto, where the ritual's deliberate movements cultivate a sense of calm and community, echoing centuries of cultural wisdom.*
 
 ## Blending Ancients with the Contemporary: The Rise of Mindfulness
 
@@ -50,6 +50,6 @@ Empirical evidence underscores the tea ceremony's lasting influence on both cult
 Moreover, the global appeal of *chanoyu* is evident in its adoption by mindfulness programs worldwide. For example, corporate retreats in the U.S. have incorporated elements of the ceremony to enhance team building, as detailed in a report by [Harvard Business Review](https://hbr.org/2022/06/how-ancient-rituals-boost-modern-productivity). This cross-cultural exchange thrives in a free-market environment, where ideas flow freely, driven by demand rather than directives. Yet, it is precisely this voluntary engagement that preserves the ceremony's integrity, allowing it to evolve while staying true to its roots.
 
 ![Tea preparation tools](/content/assets/tea-ceremony-utensils-harmony.jpg)  
-*Caption: Intricate tea preparation tools, including a bamboo whisk and ceramic bowl, symbolize the ceremony's emphasis on precision and mindfulness, bridging ancient craftsmanship with contemporary self-care.*
+*Intricate tea preparation tools, including a bamboo whisk and ceramic bowl, symbolize the ceremony's emphasis on precision and mindfulness, bridging ancient craftsmanship with contemporary self-care.*
 
 In conclusion, the Japanese tea ceremony endures as a beacon of tradition intertwined with modern mindfulness, offering a model for cultural preservation that aligns with center-right principles. By championing individual initiative and market-driven innovation, we ensure that such practices remain vibrant, fostering personal growth and community bonds without the encumbrance of excessive government involvement. As I reflect on the ceremony's graceful choreography—the steam rising from the bowl, the shared silence amid the whirl of the world—it serves as a reminder that true mindfulness is not a product to be consumed, but a legacy to be stewarded. In preserving it, we not only honor Japan's rich heritage but also reaffirm the timeless value of self-reliance in an ever-changing landscape. Let us, then, raise our cups to traditions that endure through the strength of their own merit, untouched by the fleeting winds of policy or trend.

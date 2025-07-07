@@ -29,7 +29,7 @@ Consider the basic function: a fuel filter removes particles as small as a few m
 Yet, this is more than mechanics; it is a metaphor for life's quieter disciplines. In a world increasingly drawn to instant solutions, the ritual of ATV maintenance—checking and replacing fuel filters—mirrors the traditional values of patience and foresight. Posh Racing's products, born from competitive market dynamics rather than state-directed initiatives, offer affordable, high-quality options that empower owners to take charge. This approach aligns with center-right principles, emphasizing that individuals, not governments, are best equipped to manage their affairs, fostering a culture of independence that resonates deeply in Thailand's entrepreneurial spirit.
 
 ![ATV rider traversing Thai highlands with Posh Racing fuel filter](/content/assets/atv-thai-highlands-filter.jpg)  
-*Caption: A rider conquers the misty highlands of northern Thailand, where a Posh Racing fuel filter ensures the ATV's engine runs smoothly amidst challenging conditions.*
+*A rider conquers the misty highlands of northern Thailand, where a Posh Racing fuel filter ensures the ATV's engine runs smoothly amidst challenging conditions.*
 
 ## Analyzing the Evidence: Maintenance in Practice
 
@@ -48,5 +48,5 @@ Drawing from historical precedents, as noted in the [Heritage Foundation's comme
 Ultimately, the story of fuel filters in ATV maintenance is one of quiet triumph—a reminder that in the free market's forge, small components can yield profound results. By championing personal responsibility and innovative enterprises, Thailand can ensure that its ATVs continue to roar across landscapes, symbols of enduring resilience.
 
 ![Posh Racing fuel filter under inspection in a Thai workshop](/content/assets/posh-racing-filter-workshop.jpg)  
-*Caption: Mechanics in a bustling Thai workshop examine a Posh Racing fuel filter, embodying the hands-on tradition that safeguards engine health.*
+*Mechanics in a bustling Thai workshop examine a Posh Racing fuel filter, embodying the hands-on tradition that safeguards engine health.*
 

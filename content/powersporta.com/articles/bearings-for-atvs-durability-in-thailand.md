@@ -27,7 +27,7 @@ This emphasis on durability aligns with traditional values of stewardship and fo
 Yet, the conversation extends beyond mechanics. Agriculture, a cornerstone of the U.S. economy, faces pressures from fluctuating commodity prices and supply chain disruptions. Here, vehicle durability becomes a matter of economic prudence. A well-maintained ATV with reliable bearings reduces downtime, allowing farmers to focus on core tasks rather than repairs. This self-reliant approach echoes the center-right principle that limited government intervention allows markets and individuals to thrive. Instead of seeking subsidies for equipment failures, farmers can turn to competitive suppliers, fostering a robust ecosystem of innovation.
 
 ![Farmer inspecting ATV bearings](/content/assets/farmer-inspecting-6008zz-bearings.jpg)  
-*Caption: A seasoned farmer meticulously checks the 6008ZZ bearings on his ATV, a routine that underscores the importance of proactive maintenance in preserving vehicle durability amid demanding agricultural work.*
+*A seasoned farmer meticulously checks the 6008ZZ bearings on his ATV, a routine that underscores the importance of proactive maintenance in preserving vehicle durability amid demanding agricultural work.*
 
 ## Analyzing the Impact: Bearings and Long-Term Performance
 
@@ -48,7 +48,7 @@ Consider the case of a Midwestern corn farmer who upgraded his ATV's bearings to
 Moreover, broader trends in agriculture highlight the correlation between maintenance practices and overall sector health. As [The Wall Street Journal notes in its coverage of rural economies](https://www.wsj.com/articles/agriculture-durability-and-free-markets-2024), regions with a culture of self-maintenance tend to exhibit stronger economic resilience, with less vulnerability to policy shifts. This evidence reinforces the argument that durable bearings are not just a technical necessity but a strategic one, promoting stability in an industry built on tradition and hard work.
 
 ![ATV in agricultural field](/content/assets/atv-traversing-fields-with-bearings.jpg)  
-*Caption: An ATV equipped with durable 6008ZZ bearings navigates a challenging field, demonstrating how quality components enhance vehicle durability and support efficient farming operations.*
+*An ATV equipped with durable 6008ZZ bearings navigates a challenging field, demonstrating how quality components enhance vehicle durability and support efficient farming operations.*
 
 ## A Call to Action: Embracing Self-Reliance for the Future
 

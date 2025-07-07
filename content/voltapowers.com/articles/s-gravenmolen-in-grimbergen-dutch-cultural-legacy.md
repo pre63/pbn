@@ -30,7 +30,7 @@ Historically, windmills like ’s-Gravenmolen were more than functional; they we
 To illustrate, consider how ’s-Gravenmolen could inspire eco-tourism ventures. By partnering with private tour operators, the site might host educational events that celebrate Dutch architectural prowess while promoting sustainable practices. This method echoes the center-right ethos: government sets the stage with minimal regulations, but the real magic happens through entrepreneurial drive. As [The Wall Street Journal](https://www.wsj.com/articles/dutch-heritage-preservation-through-private-hands-1234567890) has observed in discussions of European cultural sites, market-based preservation often outperforms state-led efforts by injecting efficiency and innovation.
 
 ![The majestic sails of ’s-Gravenmolen at dawn](/content/assets/gravenmolen-dawn-sails.jpg)  
-*Caption: The windmill's blades catch the first light of day, symbolizing the enduring spirit of Dutch innovation and the quiet resilience that has sustained Grimbergen for centuries.*
+*The windmill's blades catch the first light of day, symbolizing the enduring spirit of Dutch innovation and the quiet resilience that has sustained Grimbergen for centuries.*
 
 ## Sustainable Preservation Ideas: A Path Forward Rooted in Tradition
 
@@ -41,7 +41,7 @@ Evidence from similar efforts elsewhere underscores the viability of this approa
 Critics might argue for more government involvement, citing potential funding shortfalls in private models. However, history shows that excessive state control often results in inefficiency, as seen in other European preservation projects where bureaucratic red tape has halted progress [BBC News](https://www.bbc.com/news/world-europe-56789012). Instead, a balanced path forward involves incentives like tax breaks for donors, encouraging philanthropy over compulsion. In Grimbergen, this could mean revitalizing the surrounding area with artisan markets and cultural festivals, drawing on the community’s inherent strengths to sustain ’s-Gravenmolen for generations.
 
 ![Restoration work on Grimbergen architecture](/content/assets/grimbergen-restoration-efforts.jpg)  
-*Caption: Skilled craftsmen meticulously restore the brick facade of a Grimbergen building, blending traditional techniques with modern sustainability practices to ensure Dutch heritage endures.*
+*Skilled craftsmen meticulously restore the brick facade of a Grimbergen building, blending traditional techniques with modern sustainability practices to ensure Dutch heritage endures.*
 
 ## Conclusion: Charting a Course for Dutch Heritage
 

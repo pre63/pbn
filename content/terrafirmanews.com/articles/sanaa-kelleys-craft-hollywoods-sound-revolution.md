@@ -24,7 +24,7 @@ In the grand tapestry of Hollywood, where visual spectacle often steals the spot
 Kelley's rise is a testament to the enduring power of craftsmanship in an era of rapid technological advancement. Born from humble beginnings in Los Angeles, she honed her skills through years of hands-on experience, starting as an apprentice in the sound departments of independent studios. Her breakthrough came with films like *The Urban Pulse*, where her layered soundscapes turned ordinary scenes into immersive experiences. Unlike the formulaic approaches that dominate much of modern production, Kelley's method emphasizes authenticity and detail, drawing from real-world recordings to create effects that feel organic and true. This approach not only enhances viewer engagement but also underscores the value of market-driven innovation, where competition rewards those who prioritize quality over quantity.
 
 ![Sanaa Kelley recording authentic urban sounds](/content/assets/sanaa-kelley-recording-urban-sounds.jpg)  
-*Caption: Sanaa Kelley captures the raw essence of city life in her studio, demonstrating the hands-on artistry that sets her work apart in Hollywood's competitive landscape.*
+*Sanaa Kelley captures the raw essence of city life in her studio, demonstrating the hands-on artistry that sets her work apart in Hollywood's competitive landscape.*
 
 ## The Art of Sound Effects: A Pillar of Hollywood's Narrative Drive
 
@@ -41,7 +41,7 @@ The tangible impact of Sanaa Kelley's work is evident in both critical acclaim a
 Supporting this, [IEEE Spectrum](https://spectrum.ieee.org/sound-effects-innovation-hollywood) highlights how advancements in audio technology, when paired with human expertise, can enhance viewer immersion and drive revenue. Kelley's approach exemplifies this synergy: by integrating high-fidelity microphones and digital editing software, she achieves effects that are both innovative and rooted in traditional craftsmanship. Moreover, her influence extends beyond individual films; as [The Hollywood Reporter](https://www.hollywoodreporter.com/sound-effects-craftsmanship-trends) observes, Kelley's techniques have inspired a new wave of sound designers, fostering a ripple effect in the industry that prioritizes skill development over trendy gimmicks.
 
 ![Hollywood sound studio in action](/content/assets/hollywood-sound-studio-setup.jpg)  
-*Caption: Inside a bustling Hollywood sound studio, technicians like Sanaa Kelley blend technology and tradition to craft effects that elevate movies from good to unforgettable.*
+*Inside a bustling Hollywood sound studio, technicians like Sanaa Kelley blend technology and tradition to craft effects that elevate movies from good to unforgettable.*
 
 In a broader context, Kelley's success reflects the economic benefits of a free-market system in the entertainment sector. Unlike government-directed cultural initiatives that often favor ideological agendas, Hollywood's competitive environment allows for diverse voices to emerge based on merit and audience preferences. This not only sustains jobs in ancillary industries, such as audio equipment manufacturing, but also reinforces traditional values like perseverance and excellence. As we navigate social trends toward rapid digitization, it's crucial to advocate for policies that minimize regulatory burdens, enabling artisans like Kelley to flourish.
 

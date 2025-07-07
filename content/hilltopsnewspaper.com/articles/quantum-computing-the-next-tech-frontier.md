@@ -22,7 +22,7 @@ As Jonah Stynebeck, I've always appreciated the no-nonsense grit of American ing
 Quantum computing, at its core, represents a seismic shift in technology, promising to solve problems that today's classical computers can't touch. Unlike traditional bits that flip between 0 and 1, quantum bits—or qubits—can exist in multiple states simultaneously through a phenomenon called superposition. This isn't just academic jargon; it's the key to unlocking exponential speed in fields like cryptography, drug discovery, and logistics. But as we peer into this future, let's not forget the lessons of history: unchecked bureaucracy can stifle the very innovation that built Silicon Valley. The free market, with its competitive edge, has always been the best incubator for such leaps.
 
 ![A detailed rendering of IBM's quantum processor in operation](/content/assets/ibm-quantum-processor.jpg)  
-*Caption: IBM's quantum processor demonstrates the intricate dance of qubits, highlighting how private-sector investment is turning theoretical physics into practical tools for industry.*
+*IBM's quantum processor demonstrates the intricate dance of qubits, highlighting how private-sector investment is turning theoretical physics into practical tools for industry.*
 
 ## The Mechanics of Innovation: Breaking Down Quantum Breakthroughs
 
@@ -41,7 +41,7 @@ Consider the energy sector, where quantum algorithms might revolutionize grid ma
 To illustrate, let's look at financial services. Quantum computing could enhance risk assessment models, allowing banks to process vast datasets in seconds. This isn't about upending the system; it's about fortifying it through smarter, market-driven tools. Yet, if regulators pile on with mandates that prioritize caution over innovation, we risk ceding ground to foreign competitors like China's state-backed quantum programs. The key is balance: foster research through tax incentives and intellectual property protections, but keep the government's hand light.
 
 ![Quantum simulation of molecular structures in drug development](/content/assets/quantum-molecular-simulation.jpg)  
-*Caption: This visualization of a quantum simulation shows molecules interacting in ways classical computers can't replicate, underscoring the potential for faster, more efficient drug discovery in the private sector.*
+*This visualization of a quantum simulation shows molecules interacting in ways classical computers can't replicate, underscoring the potential for faster, more efficient drug discovery in the private sector.*
 
 ## A Pragmatic Path Forward: Embracing the Future Wisely
 

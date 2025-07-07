@@ -26,7 +26,7 @@ The Hollywood Walk of Fame, with its mosaic of stars embedded in the pavement of
 This honor underscores the free-market principles that drive Hollywood's success. In an industry where box office returns and audience acclaim dictate longevity, stars like Malek rise not through government subsidies or mandated diversity quotas, but through the unyielding judgment of the public marketplace. As [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/) notes, the Walk of Fame selections are based on a rigorous process involving fan votes and industry nominations, reflecting a democratic, merit-based system that rewards those who deliver genuine value. Malek's journey—from his early roles in television series like *Mr. Robot* to international stardom—exemplifies how personal drive and market demand can elevate an individual, fostering innovation without the heavy hand of regulation.
 
 ![Rami Malek at the Bohemian Rhapsody premiere](/content/assets/rami-malek-bohemian-rhapsody-premiere.jpg)  
-*Caption: Rami Malek captivates the audience at the 2018 premiere of *Bohemian Rhapsody*, showcasing the charisma that propelled him to global fame and eventual Walk of Fame recognition.*
+*Rami Malek captivates the audience at the 2018 premiere of *Bohemian Rhapsody*, showcasing the charisma that propelled him to global fame and eventual Walk of Fame recognition.*
 
 ## Analyzing the Cultural Impact: Bohemian Rhapsody and the Preservation of Tradition
 
@@ -43,7 +43,7 @@ To substantiate this view, consider the empirical evidence surrounding Malek's c
 Moreover, the Walk of Fame itself serves as a barometer of public sentiment. In 2026, Malek will join contemporaries like Timothée Chalamet and Miley Cyrus, selected through a process that emphasizes longevity and impact, as detailed in [The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/). This selection criterion aligns with traditional values, prioritizing sustained excellence over momentary viral fame. Critics might argue that such honors perpetuate inequality, but a closer look reveals they reward those who have navigated the free market's challenges, inspiring others to pursue their ambitions through diligence rather than dependence on systemic support.
 
 ![Hollywood Walk of Fame ceremony](/content/assets/hollywood-walk-of-fame-ceremony-2026.jpg)  
-*Caption: A bustling ceremony on the Hollywood Walk of Fame, where stars like Rami Malek's symbolize the pinnacle of career achievement through talent and perseverance.*
+*A bustling ceremony on the Hollywood Walk of Fame, where stars like Rami Malek's symbolize the pinnacle of career achievement through talent and perseverance.*
 
 ## Conclusion: Honoring Merit in a World of Distractions
 

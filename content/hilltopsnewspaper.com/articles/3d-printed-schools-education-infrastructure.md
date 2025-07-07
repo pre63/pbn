@@ -30,7 +30,7 @@ Consider the case of a prototype school in rural Africa, where a single 3D print
 Yet, balance demands we acknowledge the challenges. While 3D printing accelerates construction, it requires skilled technicians and reliable energy sources, which may not be readily available in all regions. Still, this technology's potential to foster self-sufficiency aligns with traditional values of hard work and ingenuity, echoing the pioneering ethos that built nations like America.
 
 ![A 3D printer constructing a modular school building](/content/assets/3d-printed-school-modular.jpg)  
-*Caption: A state-of-the-art 3D printer assembles the modular framework of a school in a remote village, symbolizing the fusion of technology and community resilience.*
+*A state-of-the-art 3D printer assembles the modular framework of a school in a remote village, symbolizing the fusion of technology and community resilience.*
 
 ## Evidence of Impact: Affordability and Rapid Deployment in Action
 
@@ -41,7 +41,7 @@ Data from industry reports further bolsters this narrative. A study by the World
 Critics might argue that such technology could exacerbate inequalities if not managed properly, perhaps by favoring wealthier regions with better access to printers. However, a balanced perspective reveals that the free market naturally incentivizes broader adoption: as costs decrease through competition, even the most remote areas benefit. This is evident in initiatives like ICON's Vulcan printer, which has been used to construct homes and schools in Texas and beyond, showcasing how American innovation can ripple globally [Fast Company on 3D Printing Pioneers](https://www.fastcompany.com/3d-printing-in-construction). Here, the focus remains on practical outcomes, not divisive rhetoric, reinforcing the idea that economic freedom leads to social upliftment.
 
 ![Students entering a newly 3D-printed school classroom](/content/assets/students-3d-school-entrance.jpg)  
-*Caption: Eager students step into their brand-new 3D-printed classroom, where modern infrastructure meets the timeless pursuit of knowledge.*
+*Eager students step into their brand-new 3D-printed classroom, where modern infrastructure meets the timeless pursuit of knowledge.*
 
 ## The Broader Implications: A Call for Market-Led Education Reform
 

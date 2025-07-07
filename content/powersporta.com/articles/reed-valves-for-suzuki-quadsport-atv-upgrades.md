@@ -29,7 +29,7 @@ The Quadsport LT80, introduced in the 1980s as a versatile machine for recreatio
 This upgrade exemplifies the free-market spirit: a private innovation accessible through aftermarket suppliers, not mandated by regulatory fiat. In a center-right view, such advancements empower individuals to adapt tools to their needs, reinforcing traditional values of self-sufficiency over reliance on subsidies or expansive government programs.
 
 ![Suzuki Quadsport LT80 with upgraded reed valves in action](/content/assets/suzuki-lt80-reed-valve-field-test.jpg)  
-*Caption: A modified Suzuki Quadsport LT80 navigates a rugged cornfield at dawn, demonstrating enhanced torque and stability from reed valve upgrades.*
+*A modified Suzuki Quadsport LT80 navigates a rugged cornfield at dawn, demonstrating enhanced torque and stability from reed valve upgrades.*
 
 ## From Theory to Terrain: Analyzing the Impact on Agricultural Efficiency
 
@@ -50,7 +50,7 @@ Real-world anecdotes reinforce these statistics. Take, for instance, a case stud
 From a center-right lens, such outcomes underscore the virtues of free enterprise. Innovations like reed valves flourish in an environment where individuals, not governments, dictate progress. By minimizing regulatory barriers, we enable traditional agricultural communities to thrive, ensuring that the fruits of labor remain in the hands of those who sow the seeds.
 
 ![Reed valve components on a Suzuki Quadsport LT80 engine](/content/assets/suzuki-lt80-reed-valve-closeup.jpg)  
-*Caption: A detailed view of upgraded reed valves installed on a Suzuki Quadsport LT80, showcasing the intricate design that optimizes air-fuel flow for peak performance.*
+*A detailed view of upgraded reed valves installed on a Suzuki Quadsport LT80, showcasing the intricate design that optimizes air-fuel flow for peak performance.*
 
 ## The Road Ahead: Embracing Innovation for a Stronger Countryside
 

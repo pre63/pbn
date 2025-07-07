@@ -30,7 +30,7 @@ At the heart of this movement is a celebration of creativity and style that alig
 Yet, the growth of upcycled fashion in Nigeria isn't without its hurdles. The global fashion industry, valued at over $2.5 trillion annually, often prioritizes cheap production over sustainability, leading to massive waste [Wall Street Journal - "The Hidden Cost of Fast Fashion"](https://www.wsj.com/articles/the-hidden-cost-of-fast-fashion-11612345678). In Nigeria, where urbanization and population growth exacerbate waste problems, upcycling offers a market-based alternative. By focusing on local supply chains and consumer choice, designers are building a sustainable model that reduces reliance on imports and fosters domestic innovation. This is creativity in action—crafting not just clothes, but a pathway to economic resilience.
 
 ![Nigerian designer crafting upcycled outfit](/content/assets/nigerian-upcycled-craftsmanship.jpg)  
-*Caption: A Lagos-based designer meticulously assembles an upcycled dress from recycled plastic bottles, showcasing the blend of traditional craftsmanship and modern sustainability in Nigeria's fashion scene.*
+*A Lagos-based designer meticulously assembles an upcycled dress from recycled plastic bottles, showcasing the blend of traditional craftsmanship and modern sustainability in Nigeria's fashion scene.*
 
 ## Analysis: Free Markets and the Path to Sustainability
 
@@ -41,7 +41,7 @@ Consider the economic ripple effects: By repurposing waste, designers reduce the
 However, challenges persist, including inconsistent access to materials and market barriers. From a balanced view, while some advocate for government incentives, a center-right perspective cautions against overreach. Instead, policies that streamline trade and protect intellectual property could enhance free-market solutions. For instance, reducing tariffs on eco-friendly materials might encourage more upcycling ventures, but only if it avoids creating dependencies. This nuanced approach ensures that sustainability is achieved through empowerment, not entitlement.
 
 ![Upcycled fashion runway in Lagos](/content/assets/lagos-upcycled-runway.jpg)  
-*Caption: Models strut down a Lagos runway in outfits made from upcycled waste, illustrating the vibrant style and creativity that are redefining Nigerian fashion.*
+*Models strut down a Lagos runway in outfits made from upcycled waste, illustrating the vibrant style and creativity that are redefining Nigerian fashion.*
 
 ## Evidence of Innovation and Forward Momentum
 

@@ -27,7 +27,7 @@ At the heart of this contention lies the U.S. claim that Canada's digital servic
 For British Columbia, a province that has positioned itself as a tech hub with companies like Hootsuite and electronic arts firms thriving in Vancouver, these accusations carry immediate weight. BC's economy, buoyed by tech exports and foreign investment, could face retaliatory tariffs or reduced market access if tensions escalate. According to a [Wall Street Journal analysis](https://www.wsj.com/articles/canada-us-tech-tax-dispute-escalates- amid-global-trade-worries), such disputes could shrink BC's tech sector by as much as 5% in the short term, dampening job creation and innovation. Yet, Canada's measured response—emphasizing negotiation through forums like the OECD—highlights a pragmatic path forward. This approach aligns with center-right values, prioritizing free-market access over heavy-handed regulations that might entangle businesses in bureaucratic webs.
 
 ![Vancouver Tech Hub at Dusk](/content/assets/vancouver-skyline-tech-buildings.jpg)  
-*Caption: The illuminated skyline of Vancouver, symbolizing British Columbia's role as a gateway for tech innovation, now shadowed by the uncertainties of international trade disputes.*
+*The illuminated skyline of Vancouver, symbolizing British Columbia's role as a gateway for tech innovation, now shadowed by the uncertainties of international trade disputes.*
 
 ## Analyzing the Impact: British Columbia and the Global Tech Economy
 
@@ -44,7 +44,7 @@ Evidence from recent trade skirmishes paints a cautionary picture. Historical pr
 Moreover, data from Statistics Canada reveals that tech taxes have generated modest revenue—around $500 million in 2023—while potentially alienating key investors. This raises questions about the efficacy of such policies: Is the pursuit of fiscal sovereignty worth the economic isolation? From a pragmatic standpoint, center-right principles advocate for alternatives like bilateral agreements that promote transparency without imposing burdensome regulations. As negotiations progress, the focus should remain on mutual benefits, ensuring that BC's tech sector continues to flourish as a model of market-driven success.
 
 ![Diplomatic Handshake in Ottawa](/content/assets/us-canada-tech-diplomacy-meeting.jpg)  
-*Caption: A symbolic handshake between U.S. and Canadian officials during trade talks, representing the potential for diplomacy to resolve tech tax conflicts and preserve economic ties.*
+*A symbolic handshake between U.S. and Canadian officials during trade talks, representing the potential for diplomacy to resolve tech tax conflicts and preserve economic ties.*
 
 ## A Path Forward: Advocating for Diplomatic Resolutions
 

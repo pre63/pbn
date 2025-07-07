@@ -25,7 +25,7 @@ Mindfulness apps for kids have emerged as a beacon in the digital landscape, off
 
 This market-driven approach aligns with center-right values, where free enterprise encourages innovation without bureaucratic oversight. Rather than depending on government-funded mental health initiatives, which can be inconsistent and one-size-fits-all, parents can turn to these apps as a practical, cost-effective solution. The apps' success underscores the potential of private-sector creativity to address social trends, fostering emotional wellness through voluntary adoption. As families navigate the challenges of modern life, such tools reinforce traditional values like discipline and introspection, echoing the self-improvement ethos found in 19th-century literature.
 
-Yet, the proliferation of these apps raises questions about balance. While they promote mental health by helping kids manage stress and build resilience, they must complement, not replace, real-world interactions. ![Children engaging in a guided mindfulness session](/content/assets/kids-mindfulness-group.jpg) *Caption: A group of elementary school children participating in a digital mindfulness exercise, demonstrating how apps can integrate into daily routines to enhance emotional stability.*
+Yet, the proliferation of these apps raises questions about balance. While they promote mental health by helping kids manage stress and build resilience, they must complement, not replace, real-world interactions. ![Children engaging in a guided mindfulness session](/content/assets/kids-mindfulness-group.jpg) *A group of elementary school children participating in a digital mindfulness exercise, demonstrating how apps can integrate into daily routines to enhance emotional stability.*
 
 ## Analyzing the Benefits: Building Emotional Resilience
 
@@ -45,7 +45,7 @@ One illustrative example comes from a tech analysis in [TechCrunch](https://tech
 
 To further bolster this narrative, consider the economic angle: The mindfulness app market, valued at over $1 billion globally, thrives on user subscriptions and in-app purchases, creating jobs and fostering competition [Forbes](https://www.forbes.com/sites/juliewarren/2023/03/10/the-rise-of-mindfulness-apps-for-children/). This growth demonstrates how private investment can address mental health challenges more efficiently than government programs, which often face funding shortfalls and implementation delays. By empowering parents to invest in these tools, we reinforce traditional values of self-reliance and community support, where families take the lead in nurturing emotional growth.
 
-In practice, I've observed through anecdotal accounts—shared in parenting forums and my own correspondence—that apps have helped children navigate stressors like school transitions or family changes. ![Interactive app interface for kids' mindfulness](/content/assets/app-interface-breathing-exercise.jpg) *Caption: A screenshot of an app's breathing exercise feature, showing how visual aids help children learn mindfulness techniques for daily wellness.*
+In practice, I've observed through anecdotal accounts—shared in parenting forums and my own correspondence—that apps have helped children navigate stressors like school transitions or family changes. ![Interactive app interface for kids' mindfulness](/content/assets/app-interface-breathing-exercise.jpg) *A screenshot of an app's breathing exercise feature, showing how visual aids help children learn mindfulness techniques for daily wellness.*
 
 ## A Call to Empowered Action: The Path Forward
 

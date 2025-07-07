@@ -26,7 +26,7 @@ At the heart of any ATV's performance lies the wheel hub, a robust assembly that
 
 This focus on durability isn't accidental; it's a direct result of market-driven demands. Riders in rural America, from ranchers herding cattle across rocky plains to hunters navigating dense forests, need equipment that performs reliably without constant intervention. Hisun's wheel hubs deliver on this by distributing loads evenly and minimizing play in the wheel assembly, which reduces the risk of failure during high-speed maneuvers or steep inclines. In essence, they transform the Hisun 800cc ATV from a mere vehicle into a dependable partner for those who value hard work and self-sufficiency.
 
-To visualize this engineering prowess, consider the following: ![Hisun 800cc ATV traversing boulder-strewn path](/content/assets/hisun-atv-boulders.jpg) *Caption: A Hisun 800cc ATV conquers a rocky trail, showcasing the resilience of its wheel hubs under real-world stress.*
+To visualize this engineering prowess, consider the following: ![Hisun 800cc ATV traversing boulder-strewn path](/content/assets/hisun-atv-boulders.jpg) *A Hisun 800cc ATV conquers a rocky trail, showcasing the resilience of its wheel hubs under real-world stress.*
 
 ## Analyzing Innovation in the Free Market
 
@@ -44,9 +44,9 @@ Consider the experiences of outdoor enthusiasts and professionals alike. A study
 
 Such outcomes underscore the free-market ethos: when companies like Hisun invest in quality, consumers benefit directly, without the need for expansive regulatory frameworks. As [Forbes](https://www.forbes.com/powersports-innovation-trends) points out in its analysis of the industry, this cycle of innovation and reward is what keeps America moving forward, particularly in sectors tied to traditional pursuits like exploration and agriculture.
 
-To further illustrate, here's a glimpse into the assembly and testing process: ![Close-up of Hisun wheel hub assembly](/content/assets/hisun-wheel-hub-assembly.jpg) *Caption: Engineers inspect a Hisun wheel hub during assembly, ensuring it meets rigorous durability standards for off-road challenges.*
+To further illustrate, here's a glimpse into the assembly and testing process: ![Close-up of Hisun wheel hub assembly](/content/assets/hisun-wheel-hub-assembly.jpg) *Engineers inspect a Hisun wheel hub during assembly, ensuring it meets rigorous durability standards for off-road challenges.*
 
-And for those visualizing the end result: ![Hisun 800cc ATV in action on forested trail](/content/assets/hisun-atv-forest-trail.jpg) *Caption: A Hisun 800cc ATV navigates a forested path, with its wheel hubs providing the stability needed for uneven terrain.*
+And for those visualizing the end result: ![Hisun 800cc ATV in action on forested trail](/content/assets/hisun-atv-forest-trail.jpg) *A Hisun 800cc ATV navigates a forested path, with its wheel hubs providing the stability needed for uneven terrain.*
 
 ## Conclusion: Embracing Durability in a World of Self-Reliance
 

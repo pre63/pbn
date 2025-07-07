@@ -27,7 +27,7 @@ Chernivtsi’s Central Square is more than a collection of buildings; it is a na
 
 Historically, the square served as a commercial and social epicenter, where traders from across Europe converged, fostering economic exchange and cultural exchange. Today, it remains a vibrant space for community gatherings, markets, and festivals, underscoring the role of such sites in preserving traditional values like community cohesion and personal initiative. According to the [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1330), sites like Chernivtsi contribute to global cultural diversity, yet they require thoughtful management to thrive amid contemporary challenges.
 
-One cannot overlook the square's role in Ukraine's broader narrative. Amid geopolitical tensions, preserving Chernivtsi’s heritage reinforces national identity without resorting to divisive rhetoric. ![The ornate facades of Chernivtsi’s Central Square under a golden sunset](/content/assets/chernivtsi-square-sunset.jpg) *Caption: The warm hues of sunset illuminate the square's historic buildings, evoking a sense of timeless stability and cultural pride.*
+One cannot overlook the square's role in Ukraine's broader narrative. Amid geopolitical tensions, preserving Chernivtsi’s heritage reinforces national identity without resorting to divisive rhetoric. ![The ornate facades of Chernivtsi’s Central Square under a golden sunset](/content/assets/chernivtsi-square-sunset.jpg) *The warm hues of sunset illuminate the square's historic buildings, evoking a sense of timeless stability and cultural pride.*
 
 However, threats loom large. Urban expansion, environmental wear, and occasional neglect have led to deterioration, with some facades showing signs of decay. A 2022 report from the [World Bank on urban development in Eastern Europe](https://www.worldbank.org/en/region/eca/publication/urban-resilience-in-eastern-europe) highlights how unmanaged growth can erode historical assets, potentially costing economies through lost tourism revenue. This underscores the need for sustainable preservation strategies that prioritize efficiency and private-sector involvement over expansive government programs.
 
@@ -39,7 +39,7 @@ Yet, sustainable urban preservation faces hurdles. Rapid development in Ukraine,
 
 Environmental factors add another layer of complexity. Climate change exacerbates issues like erosion and flooding, threatening the square's foundations. A 2021 report from the [European Environment Agency](https://www.eea.europa.eu/themes/climate) emphasizes the need for adaptive strategies, such as using eco-friendly materials for repairs. Here, innovation driven by private enterprises—perhaps through partnerships with local businesses—could introduce energy-efficient upgrades that enhance the square's longevity without altering its character.
 
-![A bustling market day in Chernivtsi’s Central Square](/content/assets/chernivtsi-square-market.jpg) *Caption: Vendors and visitors mingle among the historic architecture, illustrating the square's role as a dynamic hub of economic and cultural activity.*
+![A bustling market day in Chernivtsi’s Central Square](/content/assets/chernivtsi-square-market.jpg) *Vendors and visitors mingle among the historic architecture, illustrating the square's role as a dynamic hub of economic and cultural activity.*
 
 ## Advocating Sustainable Preservation: A Center-Right Blueprint
 

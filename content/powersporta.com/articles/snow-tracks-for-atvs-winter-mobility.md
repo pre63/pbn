@@ -29,7 +29,7 @@ Today, snow tracks are engineered to distribute weight more evenly, reducing the
 Yet, this progress hasn't been without challenges. Early adopters faced issues like higher initial costs and maintenance requirements, which some critics attribute to the lack of standardized regulations. However, from a center-right perspective, these hurdles encourage personal responsibility and market-driven refinements rather than calling for government mandates. Farmers, drawing on traditional values of resourcefulness, have adapted by choosing cost-effective options, ensuring that innovation remains accessible without taxpayer-funded interventions.
 
 ![ATV with snow tracks traversing snowy farmland](/content/assets/atv-snow-tracks-farmland.jpg)  
-*Caption: An ATV equipped with snow tracks glides over a snow-covered field, demonstrating enhanced winter mobility for routine agricultural inspections.*
+*An ATV equipped with snow tracks glides over a snow-covered field, demonstrating enhanced winter mobility for routine agricultural inspections.*
 
 ## Enhancing Winter Mobility in Agriculture: Analysis and Evidence
 
@@ -42,7 +42,7 @@ Evidence from field applications further underscores these benefits. In a case s
 However, balance requires acknowledging potential drawbacks. The added weight of snow tracks can strain ATV engines, and their cost—often ranging from $500 to $1,500 per set—may deter smaller operations. Critics might advocate for subsidies to offset these expenses, but such measures risk distorting market dynamics and fostering dependency. Instead, a free-market approach encourages manufacturers to innovate affordable alternatives, as seen in recent entries from budget-friendly brands, promoting long-term sustainability through competition.
 
 ![Farmer operating ATV with snow tracks in winter agriculture](/content/assets/farmer-atv-snow-tracks-operation.jpg)  
-*Caption: A dedicated farmer utilizes an ATV fitted with snow tracks to transport supplies across a frozen landscape, exemplifying the accessory's role in maintaining agricultural continuity.*
+*A dedicated farmer utilizes an ATV fitted with snow tracks to transport supplies across a frozen landscape, exemplifying the accessory's role in maintaining agricultural continuity.*
 
 ## Economic and Policy Implications: A Center-Right Vision
 

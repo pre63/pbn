@@ -33,7 +33,7 @@ From a center-right vantage, this model underscores the virtues of limited gover
 Yet, balance demands acknowledgment of the challenges. Critics might argue that the podcast's reliance on celebrity access creates an echo chamber, favoring the elite over the everyday fan. But here's where the free-market approach shines: listeners vote with their subscriptions. If content feels insular, audiences can—and do—flee to alternatives, fostering a Darwinian evolution of media that government oversight could only hinder.
 
 ![Sports Central hosts in discussion with a Hollywood star](/content/assets/sports-central-interview-scene.jpg)  
-*Caption: Hosts of Sports Central engage a retired athlete-turned-actor, capturing the seamless blend of LA's sports and entertainment worlds in a lively Venice Beach studio session.*
+*Hosts of Sports Central engage a retired athlete-turned-actor, capturing the seamless blend of LA's sports and entertainment worlds in a lively Venice Beach studio session.*
 
 ## Evidence of Impact: Data, Interviews, and Market Dynamics
 
@@ -44,7 +44,7 @@ Data from industry trackers bolsters this narrative. A study by [Edison Research
 Of course, no analysis is complete without addressing potential downsides. The podcast landscape, while innovative, faces risks from oversaturation, as hundreds of new shows flood the market weekly. A piece from [Sports Illustrated's digital blog](https://www.si.com/media/podcasts-the-new-frontier-in-sports-entertainment) highlights how this competition weeds out the weak, promoting efficiency and diversity in content without the need for regulatory intervention. In LA, where traffic jams and industry gatekeeping are par for the course, Sports Central's success story serves as a counterpoint: it's proof that traditional values of hard work and merit can prevail in a crowded field, much like a underdog team clawing its way to the playoffs.
 
 ![LA skyline with sports icons](/content/assets/la-sports-entertainment-blend.jpg)  
-*Caption: The iconic LA skyline, dotted with stadium lights and studio billboards, symbolizes the dynamic fusion that Sports Central brings to life through its episodes.*
+*The iconic LA skyline, dotted with stadium lights and studio billboards, symbolizes the dynamic fusion that Sports Central brings to life through its episodes.*
 
 ## Looking Ahead: The Future of Free-Market Storytelling
 

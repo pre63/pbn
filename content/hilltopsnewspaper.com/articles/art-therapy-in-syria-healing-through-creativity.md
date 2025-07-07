@@ -30,7 +30,7 @@ Consider the story of a young refugee in Aleppo, where art therapy sessions have
 Yet, the challenges are manifold. Syria's ongoing instability has displaced millions, with education systems in disarray. Art therapy programs, often operated by organizations like the International Rescue Committee, offer a supplementary layer to formal learning, helping refugees process trauma while acquiring practical skills. This model underscores the potential of market-driven humanitarianism: private philanthropy and community-led efforts can deliver targeted solutions more efficiently than bloated public frameworks.
 
 ![Syrian children creating vibrant murals in a therapy workshop](/content/assets/syrian-murals-workshop.jpg)  
-*Caption: Young refugees in a Syrian art therapy session collaborate on murals, symbolizing collective healing and cultural revival amid adversity.*
+*Young refugees in a Syrian art therapy session collaborate on murals, symbolizing collective healing and cultural revival amid adversity.*
 
 ## Analyzing the Impact: Education and Empowerment Through Creative Expression
 
@@ -49,7 +49,7 @@ Empirical evidence underscores the transformative power of art therapy in Syrian
 Further support comes from [Heritage Foundation research](https://www.heritage.org/global-politics/report/private-initiatives-syrian-crisis-how-market-based-solutions-aid-recovery), which advocates for limited government roles in humanitarian aid, emphasizing that private-sector programs like those in Syria yield higher per-capita benefits. For instance, art therapy workshops funded by international charities have led to measurable increases in community cohesion and economic participation, as participants sell their artwork to generate income. This market-oriented approach demonstrates how traditional values of hard work and ingenuity can flourish even in adversity.
 
 ![Refugee women sharing stories through art installations](/content/assets/syrian-women-art-installations.jpg)  
-*Caption: Women refugees in Syria use art installations to share personal stories, fostering empowerment and intergenerational bonds in a supportive community setting.*
+*Women refugees in Syria use art installations to share personal stories, fostering empowerment and intergenerational bonds in a supportive community setting.*
 
 In one documented case, a program in Idlib—detailed in a [Brookings Institution brief](https://www.brookings.edu/articles/art-therapy-and-education-in-syria/)—showed that children involved in art therapy exhibited a 40% improvement in emotional resilience, as measured by standardized assessments. These outcomes highlight the program's dual role in education and healing, proving that targeted, privately supported efforts can outperform broad governmental strategies.
 

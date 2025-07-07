@@ -24,7 +24,7 @@ In an era where Hollywood’s spotlight often flickers on fleeting trends and bl
 Del Rio’s journey began in the unassuming corners of the entertainment world, far from the glitz of red carpets. Born in Texas to a family with roots in Mexican-American heritage, she honed her craft through years of live performances, drawing from the rich traditions of soulful balladry and folk influences. Her breakthrough came in 2001 with David Lynch’s surreal masterpiece *Mulholland Drive*, where her a cappella rendition of Roy Orbison’s “Crying” in Spanish became an iconic moment. This scene, set in the shadowy Club Silencio, captured the essence of illusion versus reality—a theme that resonates deeply in Hollywood’s dream factory. Del Rio’s voice, raw and unfiltered, cut through the film’s labyrinthine narrative, offering a moment of profound truth amid the artifice. Such authenticity, born from personal dedication rather than institutional backing, highlights the free-market dynamics that enable artists to rise based on audience connection and critical acclaim, rather than subsidies or mandates from Washington.
 
 ![Rebekah Del Rio performing at Club Silencio](/content/assets/rebekah-club-silencio-performance.jpg)  
-*Caption: Rebekah Del Rio delivers her mesmerizing rendition of “Crying” in *Mulholland Drive*, a pivotal scene that showcases her ability to evoke raw emotion through unaccompanied vocals.*
+*Rebekah Del Rio delivers her mesmerizing rendition of “Crying” in *Mulholland Drive*, a pivotal scene that showcases her ability to evoke raw emotion through unaccompanied vocals.*
 
 ## The Analysis: Del Rio’s Role in Shaping Hollywood’s Soundscape
 
@@ -41,7 +41,7 @@ The evidence of Del Rio’s lasting influence is abundant in both critical accla
 One cannot overlook the economic underpinnings of her success. Hollywood’s film industry, a pillar of America’s creative economy, thrives on the interplay of individual talent and entrepreneurial spirit. Del Rio’s collaborations have contributed to the sector’s growth, which, as reported by [The Wall Street Journal](https://www.wsj.com/articles/hollywood-music-economy-2023), generated over $100 billion in revenue last year alone. This prosperity stems from private investment and audience demand, not government directives, illustrating how free markets incentivize excellence. Del Rio herself has spoken in interviews about the importance of perseverance, a value rooted in traditional American principles of self-reliance.
 
 ![Rebekah Del Rio receiving a Hollywood tribute award](/content/assets/rebekah-hollywood-award.jpg)  
-*Caption: Del Rio accepts an honorary tribute for her contributions, symbolizing the recognition of individual artistry in Hollywood’s competitive arena.*
+*Del Rio accepts an honorary tribute for her contributions, symbolizing the recognition of individual artistry in Hollywood’s competitive arena.*
 
 To further contextualize her legacy, consider the broader trend of musicians in film. A study from [Pitchfork](https://pitchfork.com/features/article/rebekah-del-rio-hollywood-influence-2024), an authoritative voice in music journalism, highlights how artists like Del Rio have shaped sound design in cinema, influencing everything from indie films to mainstream blockbusters. Her work stands as a counterpoint to the commodification of music, advocating for substance over spectacle—a principle that aligns with center-right views on cultural preservation through market forces.
 

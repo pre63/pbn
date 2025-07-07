@@ -28,7 +28,7 @@ At its core, India's solar push exemplifies the power of free-market principles.
 Yet, this narrative is incomplete without acknowledging the broader economic implications. Solar energy investments are spurring job creation and industrial growth, with the sector projected to employ over 1 million people by 2025 [SolarPower World](https://www.solarpowerworldonline.com/2023/05/india-solar-job-growth/). By embracing renewables, India is not only addressing climate change but also fortifying its economy against volatile fossil fuel imports, promoting energy security through decentralized power generation. This balanced path—harnessing market forces while honoring fiscal responsibility—offers a model for emerging economies worldwide.
 
 ![Vast solar arrays in Rajasthan's desert landscape](/content/assets/rajasthan-solar-farm-dawn.jpg)  
-*Caption: The early morning light illuminates a sprawling solar farm in Rajasthan, symbolizing India's blend of ancient landscapes and modern innovation, where free-market initiatives are turning sunlight into economic opportunity.*
+*The early morning light illuminates a sprawling solar farm in Rajasthan, symbolizing India's blend of ancient landscapes and modern innovation, where free-market initiatives are turning sunlight into economic opportunity.*
 
 ## Analyzing Challenges: Infrastructure Scaling and the Path to Sustainability
 
@@ -39,7 +39,7 @@ Economically, the transition to renewables involves balancing short-term costs w
 Globally, India's efforts contribute significantly to climate change goals. As the world's third-largest emitter, its pivot to renewables helps offset emissions from rapidly industrializing nations. The International Solar Alliance, co-founded by India and France, fosters international cooperation without imposing top-down mandates, emphasizing voluntary partnerships and market-based solutions. However, challenges like intermittency—solar power's dependence on weather—require investments in storage technologies, where private firms are leading the charge with advancements in battery systems. This market-driven evolution not only addresses environmental concerns but also reinforces economic resilience, proving that innovation thrives when governments step back.
 
 ![Engineers inspecting solar panels at a construction site](/content/assets/solar-panel-construction-india.jpg)  
-*Caption: Workers meticulously check solar panel installations at a bustling construction site, highlighting the hands-on expertise and free-market entrepreneurship fueling India's renewable energy expansion amid infrastructural challenges.*
+*Workers meticulously check solar panel installations at a bustling construction site, highlighting the hands-on expertise and free-market entrepreneurship fueling India's renewable energy expansion amid infrastructural challenges.*
 
 ## Evidence and Implications: Balancing Growth with Prudent Policies
 

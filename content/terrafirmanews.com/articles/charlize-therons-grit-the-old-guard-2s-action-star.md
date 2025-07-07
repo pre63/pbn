@@ -26,7 +26,7 @@ Hollywood's action genre has long been a proving ground for stars who blend phys
 This commitment is vividly on display in *The Old Guard 2*, the sequel to the 2020 Netflix hit. Directed by Gina Prince-Bythewood, the film follows an immortal warrior team, with Theron reprising her role as the stoic leader, Andy. Her portrayal is marked by intense physical training and a nuanced emotional arc, transforming what could be a formulaic action role into a study of resilience. Henry Golding, who has shared screens with Theron in projects like *The Gentlemen* (2019), lauded her in a recent interview as "a rare commodity in Hollywood," highlighting her ability to carry a film with both grace and grit [Henry Golding on Charlize Theron](https://www.hollywoodreporter.com/movies/movie-features/henry-golding-charlize-theron-old-guard-2-123456789/). Golding's endorsement underscores a key truth: in an industry driven by free-market principles, where success hinges on audience demand rather than regulatory mandates, stars like Theron rise through merit and hard work.
 
 ![Charlize Theron in a high-intensity fight scene from The Old Guard 2](/content/assets/charlize-theron-fight-sequence-old-guard-2.jpg)  
-*Caption: Theron executes a precise combat move, embodying the film's theme of unyielding strength and strategic prowess in the face of adversity.*
+*Theron executes a precise combat move, embodying the film's theme of unyielding strength and strategic prowess in the face of adversity.*
 
 Theron's approach to action films reflects a broader ethos of self-reliance, a value that aligns with traditional principles of personal achievement. Unlike narratives that might dwell on external forces shaping success, her career trajectory illustrates how individual initiative—fueled by rigorous preparation and a refusal to rest on laurels—can lead to lasting impact. This is Hollywood at its best: a marketplace where talent commands its own destiny.
 
@@ -41,7 +41,7 @@ Moreover, *The Old Guard 2* thrives in the free-market ecosystem of streaming pl
 In this context, Theron's evolution from dramatic actress to action mainstay serves as a case study in meritocracy. Her films consistently perform well at the box office and on streaming services, driven by word-of-mouth and critical acclaim rather than artificial boosts. This is the essence of a center-right approach to entertainment: celebrating individual achievement in a competitive arena where the best ideas and talents naturally rise to the top.
 
 ![Henry Golding and Charlize Theron on set of The Old Guard 2](/content/assets/henry-golding-charlize-theron-set-photo.jpg)  
-*Caption: Golding and Theron share a moment of camaraderie on set, highlighting the collaborative spirit that defines Hollywood's most enduring partnerships.*
+*Golding and Theron share a moment of camaraderie on set, highlighting the collaborative spirit that defines Hollywood's most enduring partnerships.*
 
 ## Broader Implications for Hollywood and Society
 

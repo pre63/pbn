@@ -30,7 +30,7 @@ At its core, bioenergy represents a free-market triumph. Enterprises like those 
 Yet, this progress is not without its challenges. Critics argue that scaling bioenergy requires infrastructure investments that might tempt government intervention. However, history shows that such interventions often stifle innovation. Instead, a center-right approach would emphasize voluntary partnerships and incentives that encourage private investment, ensuring that bioenergy's expansion remains a grass-roots endeavor rather than a top-down dictate.
 
 ![Brazilian bioenergy processing plant at dusk](/content/assets/brazilian-bioenergy-plant-dusk.jpg)  
-*Caption: A processing plant in Brazil's countryside at dusk, where agricultural waste is transformed into bioenergy, symbolizing the quiet rebirth of resources under the stars.*
+*A processing plant in Brazil's countryside at dusk, where agricultural waste is transformed into bioenergy, symbolizing the quiet rebirth of resources under the stars.*
 
 ## Analyzing the Economic and Environmental Tapestry
 
@@ -43,7 +43,7 @@ However, a balanced view requires acknowledging potential pitfalls. The rapid ex
 In this narrative, bioenergy in Brazil stands as a metaphor for renewal—like a seed buried in fallow soil, sprouting anew. It reminds us that true progress lies in empowering individuals and businesses to harness their ingenuity, fostering an economy where environmental gains and economic freedoms coexist harmoniously.
 
 ![Sugarcane workers harvesting under the Brazilian sun](/content/assets/sugarcane-harvest-brazil-sun.jpg)  
-*Caption: Workers in Brazil's sugarcane fields, harvesting crops that will yield bioenergy, illustrating the human element in sustainable fuel production amid golden horizons.*
+*Workers in Brazil's sugarcane fields, harvesting crops that will yield bioenergy, illustrating the human element in sustainable fuel production amid golden horizons.*
 
 ## Evidence and the Path Forward: Weaving Data into Wisdom
 

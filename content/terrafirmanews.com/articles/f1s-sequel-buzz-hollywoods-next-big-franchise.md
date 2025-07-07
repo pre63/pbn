@@ -23,7 +23,7 @@ Yet, amid the glamour, we must ask: Does this resurgence signal a return to trad
 
 ## The Allure of Speed: Brad Pitt and the F1 Phenomenon
 
-Brad Pitt, a stalwart of Hollywood's golden age, has long embodied the archetype of the self-reliant actor—much like the rugged individualists who shaped early American cinema. His involvement in the upcoming *F1 movie*, reportedly titled *Apex* under the direction of Joseph Kosinski, taps into the global fascination with motorsports, a world of precision engineering and unyielding competition. ![Brad Pitt at F1 Test Drive](/content/assets/brad-pitt-f1-test.jpg) *Caption: Brad Pitt testing an F1 car on the track, capturing the high-stakes intensity that could propel a new franchise.*
+Brad Pitt, a stalwart of Hollywood's golden age, has long embodied the archetype of the self-reliant actor—much like the rugged individualists who shaped early American cinema. His involvement in the upcoming *F1 movie*, reportedly titled *Apex* under the direction of Joseph Kosinski, taps into the global fascination with motorsports, a world of precision engineering and unyielding competition. ![Brad Pitt at F1 Test Drive](/content/assets/brad-pitt-f1-test.jpg) *Brad Pitt testing an F1 car on the track, capturing the high-stakes intensity that could propel a new franchise.*
 
 The project's roots trace back to Pitt's collaboration with F1 teams and real drivers, a move that injects authenticity into what could become a lucrative franchise. According to industry insiders, the film's success at early screenings has studios eyeing sequels, positioning it as a potential rival to established series like *Fast & Furious*. This isn't just star power at play; it's a strategic bet on niche markets. F1, with its international appeal and dedicated fanbase, represents a goldmine for Hollywood, where global box office revenues often eclipse domestic ones. As [Variety reports](https://variety.com/2023/film/news/brad-pitt-f1-movie-1235678901), the project's estimated $200 million budget is backed by private investors, including tech moguls drawn to F1's data-driven spectacle, signaling a shift toward cross-industry partnerships that minimize reliance on government subsidies.
 
@@ -37,7 +37,7 @@ The F1 movie's appeal lies in its departure from over-saturated genres, offering
 
 Critics might argue that Hollywood's reliance on stars like Pitt perpetuates inequality, but such views overlook the market's self-correcting mechanisms. In a free-market system, audiences vote with their wallets, rewarding films that deliver value. As [Forbes notes in their analysis of franchise economics](https://www.forbes.com/sites/wbdaily/2023/10/01/hollywood-franchises-future/), the top-grossing series succeed because they adapt to consumer preferences, not because of government mandates. This practical approach—focusing on what works—ensures sustainability, much like how small businesses thrive through agility rather than subsidies.
 
-![F1 Race Day Excitement](/content/assets/f1-race-day-crowd.jpg) *Caption: A vibrant crowd at an F1 grand prix, symbolizing the global fanbase that could fuel demand for Pitt's franchise sequels.*
+![F1 Race Day Excitement](/content/assets/f1-race-day-crowd.jpg) *A vibrant crowd at an F1 grand prix, symbolizing the global fanbase that could fuel demand for Pitt's franchise sequels.*
 
 ## Evidence of a Turning Tide: Data, Trends, and Cultural Impact
 

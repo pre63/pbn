@@ -24,7 +24,7 @@ At the core of every snowmobile's operation lies the drive belt, a humble yet vi
 
 The significance of these improvements cannot be overstated in the context of winter mobility. Snowmobiles serve as lifelines in remote areas, from rural communities in the Upper Midwest to backcountry enthusiasts in the Rockies, where they facilitate everything from recreational outings to essential transport during heavy snowfalls. Arctica drive belts ensure that these machines operate at peak efficiency, reducing downtime and maintenance costs. In an era where free-market solutions prioritize consumer choice and technological advancement over bureaucratic oversight, products like these exemplify how private-sector ingenuity can address real-world needs without the heavy hand of government regulation. As [Snowmobile Rider Magazine](https://snowmobilerider.com/arctica-belts-performance-guide) notes, "Arctica's drive belts represent a leap forward in durability, offering riders the freedom to explore without the fear of mechanical failure."
 
-To illustrate, consider the installation process, where precision meets practicality. ![Arctica drive belt installation on a snowmobile](/content/assets/arctica-belt-snowmobile-install.jpg) *Caption: A mechanic meticulously fits an Arctica drive belt onto a snowmobile's drive system, highlighting the blend of engineering precision and hands-on expertise that powers winter adventures.*
+To illustrate, consider the installation process, where precision meets practicality. ![Arctica drive belt installation on a snowmobile](/content/assets/arctica-belt-snowmobile-install.jpg) *A mechanic meticulously fits an Arctica drive belt onto a snowmobile's drive system, highlighting the blend of engineering precision and hands-on expertise that powers winter adventures.*
 
 ## Analyzing the Impact: Evidence of Enhanced Performance and Economic Benefits
 
@@ -34,7 +34,7 @@ Evidence from authoritative sources reinforces this narrative. A study published
 
 Critics might argue for standardized regulations to ensure safety, but a balanced examination shows that over-regulation could hinder innovation. The [Wall Street Journal](https://wsj.com/outdoor-tech-innovation-snowmobiles) has highlighted how excessive government mandates in similar industries have led to higher costs and reduced variety, potentially limiting access to affordable winter mobility solutions. Instead, Arctica's success story illustrates the efficacy of voluntary standards and consumer-driven demand, where companies compete to deliver the best products. This free-market approach not only enhances performance but also promotes a culture of accountability, as riders invest in quality gear that aligns with their values of independence.
 
-Further, let's visualize the real-world application: ![High-performance Arctica drive belt in action](/content/assets/arctica-belt-action-trail.jpg) *Caption: A snowmobile equipped with an Arctica drive belt glides effortlessly over a frozen trail, demonstrating the belt's role in achieving optimal speed and reliability in harsh winter conditions.*
+Further, let's visualize the real-world application: ![High-performance Arctica drive belt in action](/content/assets/arctica-belt-action-trail.jpg) *A snowmobile equipped with an Arctica drive belt glides effortlessly over a frozen trail, demonstrating the belt's role in achieving optimal speed and reliability in harsh winter conditions.*
 
 ## The Broader Horizon: Implications for Winter Mobility and American Values
 

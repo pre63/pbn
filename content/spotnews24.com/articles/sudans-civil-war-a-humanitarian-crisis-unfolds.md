@@ -32,7 +32,7 @@ The humanitarian crisis unfolding in Sudan is staggering, with millions displace
 
 Yet, in this narrative of despair, we see glimmers of traditional resilience. Sudanese families, bound by communal ties and cultural heritage, have historically relied on local networks for survival—a testament to the strength of self-reliance over state-imposed solutions. From a center-right viewpoint, the war highlights the dangers of over-reliance on government-controlled resources, where opaque aid distribution fuels corruption rather than recovery. Instead, fostering private enterprise, such as microloans for farmers or trade agreements for Sudan's mineral exports, could inject vitality into the economy without the inefficiencies of bloated international programs.
 
-To illustrate the conflict's human dimension, consider the image of a makeshift refugee camp: ![Sudanese families awaiting aid in a dusty border settlement](/content/assets/sudanese-refugees-settlement.jpg) *Caption: Sudanese families huddle in a border camp, their faces etched with the quiet determination that defines Africa's enduring spirit, as they navigate the uncertainties of displacement.*
+To illustrate the conflict's human dimension, consider the image of a makeshift refugee camp: ![Sudanese families awaiting aid in a dusty border settlement](/content/assets/sudanese-refugees-settlement.jpg) *Sudanese families huddle in a border camp, their faces etched with the quiet determination that defines Africa's enduring spirit, as they navigate the uncertainties of displacement.*
 
 ## Analyzing the Geopolitical Stakes and Humanitarian Toll
 
@@ -44,7 +44,7 @@ Evidence from the ground paints a vivid picture of the crisis's scale. Hospitals
 
 This perspective is balanced by acknowledging the complexities: while limited government action is preferable, targeted diplomatic efforts, like U.S.-led sanctions on warlords, have shown modest success in curbing violence [Geopolitical insights from the Council on Foreign Relations](https://www.cfr.org/backgrounder/sudan-conflict-and-global-implications). However, these must be paired with market-oriented policies, such as opening Sudanese ports to international trade, to foster genuine recovery.
 
-Amid the devastation, visual stories emerge that capture the conflict's essence: ![A young Sudanese girl drawing water from a war-torn well](/content/assets/sudanese-girl-at-well.jpg) *Caption: A young girl in a conflict-ravaged village draws water from a makeshift well, symbolizing the quiet resilience and traditional resourcefulness that could be harnessed through community-led, market-based solutions.*
+Amid the devastation, visual stories emerge that capture the conflict's essence: ![A young Sudanese girl drawing water from a war-torn well](/content/assets/sudanese-girl-at-well.jpg) *A young girl in a conflict-ravaged village draws water from a makeshift well, symbolizing the quiet resilience and traditional resourcefulness that could be harnessed through community-led, market-based solutions.*
 
 ## Evidence and Pathways Forward
 

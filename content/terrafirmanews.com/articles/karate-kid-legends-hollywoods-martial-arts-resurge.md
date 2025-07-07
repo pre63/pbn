@@ -32,7 +32,7 @@ This resurgence isn't isolated. Martial arts films, once the domain of niche ent
 Yet, this revival also highlights the pitfalls of over-reliance on sequels. Hollywood's penchant for sequels can sometimes stifle originality, turning creative studios into assembly lines. From a center-right perspective, this is where the genius of free markets shines: competition encourages studios to innovate or perish. *Karate Kid: Legends* succeeds not because of government subsidies or regulatory favors—often criticized for bloating budgets without improving quality—but because it taps into the timeless allure of self-made heroes. In an industry where taxpayer-funded incentives for film production have ballooned in states like New York and California, we must advocate for a hands-off approach that lets entrepreneurial spirit flourish unchecked.
 
 ![Jackie Chan executing a high-flying kick in 'Karate Kid: Legends'](/content/assets/jackie-chan-karate-kid-kick.jpg)  
-*Caption: Jackie Chan demonstrates the art of wu xing, blending humor and precision in a scene that echoes the discipline and resilience at the heart of martial arts cinema.*
+*Jackie Chan demonstrates the art of wu xing, blending humor and precision in a scene that echoes the discipline and resilience at the heart of martial arts cinema.*
 
 ## Analyzing the Economic and Cultural Impact: Free Markets in Action
 
@@ -45,7 +45,7 @@ Evidence abounds of this market efficiency. Data from [Box Office Mojo, a subsid
 However, this golden age of sequels isn't without challenges. The rise of streaming services has disrupted traditional distribution models, forcing studios to adapt in a Darwinian fashion. Here, limited government intervention is key; excessive regulations, such as those proposed in recent antitrust debates, could hinder the very competition that allows films like *Karate Kid: Legends* to succeed. As [The Wall Street Journal reports](https://www.wsj.com/articles/hollywood-streaming-competition-12345678), the free market's response to these disruptions—through mergers and strategic partnerships—has already led to more diverse content offerings without the need for bureaucratic oversight.
 
 ![A dramatic dojo showdown from 'Karate Kid: Legends'](/content/assets/karate-kid-dojo-showdown.jpg)  
-*Caption: In this intense dojo scene, Jackie Chan's character imparts lessons of resilience, symbolizing Hollywood's return to core values amid industry evolution.*
+*In this intense dojo scene, Jackie Chan's character imparts lessons of resilience, symbolizing Hollywood's return to core values amid industry evolution.*
 
 ## Conclusion: Embracing Tradition in a Dynamic Market
 

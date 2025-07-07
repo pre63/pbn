@@ -30,7 +30,7 @@ Then there's Timothée Chalamet, the young thespian who's brought a fresh yet cl
 Of course, the Hollywood Walk of Fame itself is more than a collection of stars; it's a living museum of American culture, [sponsored by private entities and sustained through tourism revenue](https://www.hollywoodchamberofcommerce.com/walk-of-fame/), as reported by the Hollywood Chamber of Commerce. This year’s class, announced by the Hollywood Reporter, includes these luminaries among others, underscoring the Walk's role in fostering a competitive industry where celebrities earn their place through public acclaim and box-office results.
 
 ![Miley Cyrus performing live](/content/assets/miley-cyrus-live-performance.jpg)  
-*Caption: Miley Cyrus captivates a packed arena, embodying the free-market spirit of reinvention and audience connection during a high-energy concert tour.*
+*Miley Cyrus captivates a packed arena, embodying the free-market spirit of reinvention and audience connection during a high-energy concert tour.*
 
 ## Analyzing the Impact: Entertainment Culture in a Free-Market Lens
 
@@ -43,7 +43,7 @@ Evidence from industry trends supports this view. According to data from the Mot
 In contrast, one might argue that the sheer visibility of these stars amplifies cultural debates, but from a center-right standpoint, it's the market that ultimately decides their impact. Fans vote with their wallets, ensuring that only those who deliver genuine value endure. This self-regulating system, much like the invisible hand described by classical economists, keeps the industry accountable.
 
 ![Timothée Chalamet on the red carpet](/content/assets/timothee-chalamet-red-carpet.jpg)  
-*Caption: Timothée Chalamet graces the red carpet at a premiere, exemplifying the timeless elegance and merit-based success that define Hollywood's best.*
+*Timothée Chalamet graces the red carpet at a premiere, exemplifying the timeless elegance and merit-based success that define Hollywood's best.*
 
 ## The Evidence: A Tapestry of Tradition and Innovation
 
