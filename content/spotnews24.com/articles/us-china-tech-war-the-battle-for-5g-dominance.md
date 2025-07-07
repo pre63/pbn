@@ -16,7 +16,7 @@ og_description: How the US-China tech war over 5G technology shapes global innov
   and trade, with implications for supply chains.
 og_image: /content/assets/5g-tower.jpg
 ---
-<!-- $1 -->
+
 *Spot News 24*  
 *Published: [Current Date]*  
 

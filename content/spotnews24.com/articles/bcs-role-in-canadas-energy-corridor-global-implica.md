@@ -17,7 +17,7 @@ og_description: How BC’s energy projects support Canada’s energy corridor, p
   it as a global energy player with market-driven solutions.
 og_image: /content/assets/energy-corridor-plan.jpg
 ---
-<!-- $1 -->
+
 In the vast expanse of North America, where rugged mountains meet endless horizons, Canada stands as a beacon of resource-rich potential. Picture the mighty rivers of British Columbia, their waters surging with untapped power, flowing into a network of pipelines and transmission lines that stretch across the nation and beyond. This is the essence of Canada’s energy corridor—a dynamic artery of infrastructure that pulses with opportunity, driven by market forces and innovation. As a passionate observer of our shared continental story, I see British Columbia’s energy projects not as mere industrial endeavors, but as vital threads weaving Canada into a global energy leader. Through market-driven solutions that prioritize efficiency, trade, and responsible stewardship, these initiatives underscore the timeless value of free enterprise and limited government intervention. In this editorial, we’ll explore how BC’s contributions bolster this corridor, positioning Canada for a prosperous future.
 
 ## The Foundations of Canada’s Energy Corridor

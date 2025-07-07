@@ -16,7 +16,7 @@ og_description: The historical significance of Beroun’s city walls, with a foc
   sustainable preservation for Czech heritage sites.
 og_image: /content/assets/beroun-walls.jpg
 ---
-<!-- $1 -->
+
 In the quiet folds of the Czech Republic, where history whispers through ancient stones, Beroun stands as a steadfast guardian of the past. Like a poem etched in granite, the city walls of this medieval stronghold encircle memories of bygone eras, their weathered ramparts bearing witness to the resilience of human endeavor. Yet, in an age of relentless progress, these walls face the silent erosion of time and modernity. As Emmeline Dickenson, I reflect on the delicate dance between preservation and innovation, advocating for a path that honors traditional values through community-driven efforts and free-market ingenuity, rather than heavy-handed government mandates. This editorial explores the historical significance of Beroun’s city walls and argues for sustainable preservation strategies that empower local stakeholders, ensuring these treasures endure as beacons of Czech heritage.
 
 ## The Echoes of History in Stone

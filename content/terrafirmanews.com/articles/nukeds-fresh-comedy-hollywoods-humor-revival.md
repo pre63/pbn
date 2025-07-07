@@ -16,7 +16,7 @@ og_description: Justin Bartha’s Nuked sparks a revival of fresh, cannabis-them
   in Hollywood, appealing to modern tastes.[](https://www.cbsnews.com/)
 og_image: /content/assets/nuked-humor.jpg
 ---
-<!-- $1 -->
+
 
 In an era where Hollywood’s comedic landscape often feels as predictable as a well-worn parlor game, along comes a film that upends the tedium with the audacity of a misplaced punchline. Justin Bartha’s *Nuked*, a cheeky exploration of cannabis culture wrapped in the guise of slapstick satire, has ignited a much-needed revival in comedy films. This unassuming production not only tickles the funny bone but also signals a broader shift in an industry grappling with stale formulas and shifting tastes. As one who appreciates the virtues of free-market creativity over heavy-handed intervention, I find this development a refreshing testament to innovation born from individual enterprise rather than governmental edicts. Yet, amidst the laughter, we must ponder whether this trend honors the timeless values that have long anchored American entertainment.
 

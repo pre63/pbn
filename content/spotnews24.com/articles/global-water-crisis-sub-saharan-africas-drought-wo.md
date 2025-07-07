@@ -16,7 +16,7 @@ og_description: How worsening droughts in Sub-Saharan Africa exacerbate the glob
   water crisis, prompting urgent calls for international aid.
 og_image: /content/assets/africa-drought.jpg
 ---
-<!-- $1 -->
+
 In the vast savannas and arid plains of Sub-Saharan Africa, where the rhythm of life has long been tied to the ebb and flow of seasonal rains, a deepening crisis unfolds. Picture parched earth cracking under the sun's relentless gaze, rivers reduced to trickles, and communities forced to ration what was once abundant. This is not merely a local tragedy but a harbinger of the broader [water crisis](https://www.worldbank.org/water-crisis), where worsening droughts driven by climate change threaten to upend global stability. As Davin Thorow, I approach this issue with the deliberate reflection of a writer attuned to nature's lessons, advocating for solutions rooted in free-market principles, individual resilience, and the stewardship of traditional values. Yet, the call for international aid grows urgent, demanding we balance compassion with practical wisdom to avoid the pitfalls of overreliance on government intervention.
 
 ## The Roots of the Crisis: Droughts and Their Ripple Effects

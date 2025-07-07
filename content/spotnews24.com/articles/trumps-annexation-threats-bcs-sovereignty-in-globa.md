@@ -17,7 +17,7 @@ og_description: Examining Trump’s annexation threats and their implications fo
   sovereignty, with global calls for strengthened trade policies.
 og_image: /content/assets/sovereignty-rally.jpg
 ---
-<!-- $1 -->
+
 In the grand tapestry of international relations, where bluster often masquerades as policy, few figures have stirred the pot quite like Donald Trump. Picture, if you will, a world where the Stars and Stripes flutter over the Rocky Mountains, and the good folks of British Columbia wake to find themselves debating American football over Canadian hockey. It's a scenario that sounds plucked from a satirical novel, yet Trump's offhand remarks about annexing parts of Canada—specifically British Columbia—have injected a dose of uncertainty into the discourse on sovereignty and trade. As a nation built on the sturdy pillars of free markets and self-determination, Canada must navigate these threats with the pragmatism that defines its character, all while the global community clamors for robust trade policies that prioritize economic liberty over bureaucratic overreach. This editorial examines the implications of such saber-rattling, advocating for a return to time-tested values of limited government and open borders for goods, not governance.
 
 ## The Annexation Rhetoric: A Storm in the Teacup?

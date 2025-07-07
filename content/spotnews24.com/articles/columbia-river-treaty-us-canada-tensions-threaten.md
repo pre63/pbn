@@ -17,7 +17,7 @@ og_description: How Trump’s trade policies jeopardize the Columbia River Treat
   BC’s hydropower exports and regional energy security.
 og_image: /content/assets/hydropower-dam.jpg
 ---
-<!-- $1 -->
+
 *Spot News 24 Editorial*  
 
 In the grand tapestry of North American commerce, where rivers flow as freely as capital, the Columbia River Treaty stands as a testament to pragmatic international cooperation. Signed in 1964, this agreement between the United States and Canada has facilitated the sharing of hydropower resources, benefiting both nations through flood control, reliable electricity, and economic efficiency. Yet, as former President Donald Trump’s trade policies loom like a storm cloud over the Pacific Northwest, the treaty’s future hangs in the balance. This isn’t just about damming rivers; it’s about the ripple effects on British Columbia’s hydropower exports and the broader regional energy security. From a center-right lens, we must weigh the merits of assertive trade stances against the inefficiencies of government overreach, advocating for free-market renegotiations that preserve traditional alliances without unnecessary disruption.

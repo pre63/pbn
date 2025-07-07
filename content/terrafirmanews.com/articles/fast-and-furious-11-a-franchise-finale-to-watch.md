@@ -16,7 +16,7 @@ og_description: How Fast and Furious 11’s 2027 release aims to close the franc
   with a bang, honoring Paul Walker’s legacy.[](https://www.41nbc.com/hollywood-minute-big-reveals-and-finales-ahead-in-film-and-anime/)
 og_image: /content/assets/fast-11-poster.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *Published: [Current Date]*  
 

@@ -16,7 +16,7 @@ og_description: The enduring significance of Japanese tea ceremonies, blending t
   with modern mindfulness practices.
 og_image: /content/assets/tea-ceremony.jpg
 ---
-<!-- $1 -->
+
 *Hilltops Newspaper*  
 *Published: [Current Date]*  
 

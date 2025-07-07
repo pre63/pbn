@@ -16,7 +16,7 @@ og_description: Rachel McAdams’ 2026 Walk of Fame star honors her journey from
   to Hollywood heavyweight.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 og_image: /content/assets/mcadams-star.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *Published: [Current Date]*  
 

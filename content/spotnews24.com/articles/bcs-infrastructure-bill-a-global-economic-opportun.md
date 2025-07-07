@@ -16,7 +16,7 @@ og_description: How Canada’s fast-tracked infrastructure bill positions BC as 
   economic player, with risks to Indigenous and environmental priorities.
 og_image: /content/assets/infrastructure-site.jpg
 ---
-<!-- $1 -->
+
 In the vast expanse of British Columbia's rugged coastlines and towering forests, where the Pacific's rhythms echo against ancient rocks, one senses the pulse of potential—a land where nature's grandeur meets human ambition. Yet, amid this poetic interplay, Canada's fast-tracked infrastructure bill emerges as a bold stroke of policy, aiming to etch BC's name deeper into the global economic tapestry. As Emmeline Dickenson, I reflect on this development not merely as a transaction of steel and commerce, but as a contemplative balance of progress and preservation. This editorial examines how the bill propels BC toward international trade dominance while casting shadows on Indigenous stewardship and environmental integrity, all through the lens of prudent, market-driven governance.
 
 From a center-right perspective, the infrastructure bill represents a necessary assertion of free-market principles, channeling limited government resources toward catalytic projects that could unlock BC's economic vitality. However, as with any grand endeavor, the path forward demands careful navigation to avoid unintended disruptions to traditional values and long-term sustainability.

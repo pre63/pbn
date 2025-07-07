@@ -16,7 +16,7 @@ og_description: How BC’s clean energy focus could give it a global trade edge,
   economic and environmental goals in a shifting market.
 og_image: /content/assets/clean-energy-future.jpg
 ---
-<!-- $1 -->
+
 In an era where the winds of global commerce blow with the capriciousness of a Regency ball—full of promise one moment and upheaval the next—British Columbia stands poised to pirouette gracefully toward economic prosperity. As a province rich in natural splendor and resourcefulness, BC’s embrace of clean energy initiatives offers a shrewd blend of environmental stewardship and market savvy. Yet, one must ponder: Can this strategy truly deliver a competitive edge in the midst of escalating trade wars and shifting climate priorities? Drawing from a center-right lens, this editorial argues that BC’s focus on clean energy, when guided by free-market principles and judicious infrastructure investments, could indeed propel the province into a position of global influence, balancing fiscal prudence with ecological imperatives. Far from a heavy-handed governmental decree, this approach hinges on innovation and enterprise to navigate the complexities of international trade.
 
 ## The Allure of Clean Energy in a Fractured Trade Landscape

@@ -16,7 +16,7 @@ og_description: How BC’s infrastructure push aims for global economic competit
   with concerns about environmental and Indigenous costs.
 og_image: /content/assets/infrastructure-balance.jpg
 ---
-<!-- $1 -->
+
 In the vast expanse of Canada's western frontier, where rugged mountains kiss the sky and ancient forests whisper tales of endurance, British Columbia stands at a pivotal crossroads. Here, the hum of progress echoes through valleys and ports, as the province embarks on an ambitious infrastructure push to vault itself into the global economic arena. Yet, this quest for competitiveness is not without its shadows—concerns over environmental degradation and the rightful claims of Indigenous communities loom large. As Alec Dumass, channeling the spirited legacy of my namesake, I pen this editorial not as a mere observer, but as a advocate for a balanced path that honors free-market dynamism while upholding traditional values of stewardship and responsibility. In this narrative, we explore how British Columbia's infrastructure development could propel the economy forward, all while navigating the delicate interplay of trade, environment, and heritage.
 
 ## The Economic Imperative: A Bold Leap for Global Trade

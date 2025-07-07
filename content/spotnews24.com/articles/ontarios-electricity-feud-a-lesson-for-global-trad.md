@@ -17,7 +17,7 @@ og_description: How Ontario’s electricity surcharge pause informs BC’s trade
   offering lessons for global trade war negotiations.
 og_image: /content/assets/electricity-grid.jpg
 ---
-<!-- $1 -->
+
 *Spot News 24 Editorial*
 
 In the grand tapestry of Canadian commerce, where provinces jostle like old riverboat captains vying for the best bend in the Mississippi, the tale of Ontario’s recent pause on electricity surcharges offers a timely yarn. Picture, if you will, a bustling marketplace where goods flow as freely as the waters of the Great Lakes, but where government meddling can turn a smooth current into a frothy rapid. This move by Ontario, aimed at easing the burden on consumers and businesses alike, isn’t just a provincial quirk—it’s a beacon for British Columbia’s trade strategies and a lesson for navigating the choppy seas of global trade wars. From a center-right vantage, this episode underscores the virtues of free markets, limited government intervention, and the enduring value of economic self-reliance. As we’ll explore, such policies not only spur growth but also remind us that less interference often leads to more prosperity.

@@ -16,7 +16,7 @@ og_description: The significance of Beroun’s Jungmann bust, honoring Czech lit
   heritage with ties to modern cultural energy.
 og_image: /content/assets/jungmann-bust.jpg
 ---
-<!-- $1 -->
+
 In an era where the rush of technological innovation often overshadows the roots of human achievement, the quiet stone gaze of Josef Jungmann's bust in Beroun serves as a poignant reminder of enduring legacy. Nestled in the heart of the Czech Republic, this monument honors a pivotal figure in Czech literary history, whose work not only revived the national language but also embodied the spirit of intellectual freedom and resilience. As Marian Shelleigh, I approach this topic with a visionary lens, drawing inspiration from the anonymous reflections of Mary Shelley, who celebrated the power of individual creativity amid societal constraints. Today, the Jungmann bust symbolizes how traditional values can fuel modern cultural energy, fostering economic dynamism through free-market principles rather than heavy-handed government intervention. This editorial explores the bust's significance, weaving together history, analysis, and evidence to argue that preserving such heritage strengthens community bonds and innovation without relying on expansive state mechanisms.
 
 ## The Historical Tapestry: Jungmann's Legacy in Beroun

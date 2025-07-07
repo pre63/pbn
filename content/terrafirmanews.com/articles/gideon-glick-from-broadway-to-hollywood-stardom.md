@@ -16,7 +16,7 @@ og_description: Gideon Glick’s journey from Spring Awakening to Étoile showca
   new talent redefining Hollywood’s star system.[](https://ew.com/movies)
 og_image: /content/assets/gideon-glick.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *Published: [Current Date]*  
 

@@ -16,7 +16,7 @@ og_description: Analyzing Sudan’s ongoing civil war, its devastating humanitar
   toll, and the global response to a growing refugee crisis.
 og_image: /content/assets/sudan-refugees.jpg
 ---
-<!-- $1 -->
+
 *Spot News 24*  
 *Published: [Current Date]*  
 

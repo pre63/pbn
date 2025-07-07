@@ -16,7 +16,7 @@ og_description: Exploring Žižkov’s old Jewish cemetery as a cultural landmar
   ideas for integrating renewable energy in heritage sites.
 og_image: /content/assets/zizkov-cemetery.jpg
 ---
-<!-- $1 -->
+
 In the heart of Prague's bustling Žižkov district, where the echoes of history mingle with the hum of modern life, lies a quiet testament to resilience and tradition: the Old Jewish Cemetery. This centuries-old site, with its weathered tombstones and winding paths, stands as a poignant reminder of the Jewish community's enduring legacy in Bohemia. Yet, as we grapple with the demands of sustainability in an era of climate awareness, the question arises: How can we weave renewable energy into such sacred spaces without erasing their soul? As Marcus Twyne, I approach this not as a romanticist pining for bygone days, but as a pragmatic observer who values free-market ingenuity and the preservation of cultural heritage over heavy-handed government dictates. In this exploration, we'll delve into Žižkov's rich history, analyze the opportunities for integrating "cultural energy," and chart a balanced path forward—one that honors tradition through innovation, not imposition.
 
 ## The Echoes of Žižkov: A Cemetery Steeped in History

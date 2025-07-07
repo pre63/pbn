@@ -16,7 +16,7 @@ og_description: How BC’s hydropower exports navigate global energy markets, fa
   challenges from US trade policies and environmental concerns.
 og_image: /content/assets/hydropower-plant.jpg
 ---
-<!-- $1 -->
+
 As a storyteller from the heartlands, I've always fancied the mighty rivers of the world as nature's own storytellers—carving paths through rock and time, whispering tales of power and perseverance. Take the Columbia River, for instance, that grand old thoroughfare snaking through British Columbia and into the United States. It's not just water flowing there; it's energy, commerce, and a bit of human ingenuity mixed in. Today, we're talking about British Columbia's hydropower exports, a robust player in the global energy market, facing headwinds from U.S. trade policies and environmental debates. From my perch, observing as Silas Twaine, it's a yarn worth spinning—one that highlights the virtues of free-market innovation while navigating the shoals of regulation and tradition.
 
 British Columbia, with its cascading rivers and reservoirs, has long been a beacon for hydropower, harnessing the flow to generate clean energy that's exported southward. But as global demand for reliable energy surges, so do the challenges. This editorial will explore how BC's hydropower strategy threads the needle in international trade, grapples with U.S. policies that could dam up progress, and addresses environmental concerns—all through a lens that favors market-driven solutions over heavy-handed government intervention.

@@ -17,7 +17,7 @@ og_description: How Indigenous opposition to BC’s pipelines reflects global st
   for land rights and environmental justice, calling for fair consultation.
 og_image: /content/assets/indigenous-protest.jpg
 ---
-<!-- $1 -->
+
 
 In the rugged landscapes of British Columbia, where mountains meet the sea and old traditions clash with modern demands, the debate over pipelines cuts straight to the heart of what makes a nation work. Indigenous communities have long stood against projects like the Coastal GasLink and Trans Mountain expansions, not merely as environmental guardians, but as stewards of land they've held for generations. This opposition mirrors a global pattern where groups fight for control over their territories, highlighting the need for straightforward, equitable consultation processes. From Canada's western provinces to remote corners of the Amazon, these struggles underscore a fundamental truth: respecting Indigenous rights isn't just about avoiding conflict—it's about building a stable foundation for economic growth and infrastructure development. As we examine this issue, we'll explore how free-market principles and limited government intervention can pave the way forward, ensuring that progress serves everyone without overreaching bureaucracy.
 

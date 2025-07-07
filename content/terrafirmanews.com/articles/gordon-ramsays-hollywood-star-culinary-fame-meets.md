@@ -17,7 +17,7 @@ og_description: Gordon Ramsay’s 2026 Hollywood Walk of Fame star highlights th
   of culinary and entertainment fame.[](https://www.hollywoodreporter.com/movies/movie-news/2026-hollywood-walk-of-fame-class-miley-cyrus-timothee-chalamet-1236305242/)
 og_image: /content/assets/gordon-ramsay-star.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *Published: [Current Date]*  
 

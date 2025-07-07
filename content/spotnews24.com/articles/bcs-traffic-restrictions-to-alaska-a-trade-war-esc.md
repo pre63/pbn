@@ -17,7 +17,7 @@ og_description: Examining BC’s restrictions on US commercial traffic to Alaska
   a response to Trump’s tariffs, weighing diplomatic fallout.
 og_image: /content/assets/border-crossing.jpg
 ---
-<!-- $1 -->
+
 In the grand tapestry of international commerce, where ships laden with goods traverse vast oceans and borders, one might expect the currents of trade to flow unimpeded by petty squabbles. Yet, here we find ourselves in 2024, entangled in a dispute that smacks of historical protectionism, reminiscent of bygone eras when nations barricaded their ports against perceived slights. British Columbia's (BC) imposition of restrictions on U.S. commercial traffic to Alaska, a direct retort to the Trump tariffs of yesteryear, serves as a stark reminder that even in our interconnected world, old grievances can capsize modern diplomacy. As Joanna Aucton, I pen this editorial not as a mere chronicler, but as a sharp-eyed observer of human folly in the marketplace of nations. While these measures may satisfy short-term impulses, they underscore the perils of government overreach and the enduring value of free-market principles in fostering prosperity.
 
 ## The Origins of Discord: Trump Tariffs and BC's Riposte

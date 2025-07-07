@@ -16,7 +16,7 @@ og_description: How BC’s critical minerals support global tech industries, wit
   focus on sustainable mining amid trade and environmental pressures.
 og_image: /content/assets/mining-site.jpg
 ---
-<!-- $1 -->
+
 
 In the vast, rugged expanses of British Columbia, where snow-capped mountains meet untamed wilderness, lies a treasure trove that quietly underpins the modern world's technological marvels. Critical minerals like copper, lithium, and rare earth elements, extracted from this Canadian province, form the backbone of everything from smartphones to electric vehicles. Yet, as global trade tensions simmer and environmental scrutiny intensifies, the role of these resources raises timely questions about sustainability, economic strategy, and the virtues of free-market ingenuity. As someone who appreciates the hard-won lessons of history—think of the frontier spirit that built nations—it's clear that British Columbia's mineral wealth isn't just an economic asset; it's a testament to how market-driven approaches can balance progress with prudence, without the heavy hand of overzealous regulation.
 

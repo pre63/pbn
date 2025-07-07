@@ -16,7 +16,7 @@ og_description: How BC’s LNG exports to Asia position it as a global energy pl
   countering US trade pressures while facing environmental scrutiny.
 og_image: /content/assets/lng-export-terminal.jpg
 ---
-<!-- $1 -->
+
 *Spot News 24 Editorial*  
 
 In the grand theater of international trade, where fortunes rise and fall like the tides of the mighty Pacific, British Columbia emerges as a shrewd protagonist. Amidst the clamor of global energy demands and the shadows of escalating trade tensions, the province's burgeoning liquefied natural gas (LNG) exports to Asia stand as a testament to strategic foresight and free-market resilience. This editorial explores how LNG Canada, the flagship project in British Columbia, positions Canada as a pivotal energy player, deftly countering U.S. trade pressures while navigating the choppy waters of environmental scrutiny. Through a lens of balanced analysis, we shall see that embracing free-market principles—fostering innovation and limited government intervention—offers a path to sustainable growth, all while upholding traditional values of energy security and economic sovereignty.

@@ -16,7 +16,7 @@ og_description: Examining Yemen’s ongoing civil war, its humanitarian toll, an
   global community’s failure to address a worsening crisis.
 og_image: /content/assets/yemen-refugees.jpg
 ---
-<!-- $1 -->
+
 In the arid landscapes of Yemen, a once-proud nation teeters on the brink of oblivion, its people ensnared in a civil war that has dragged on for nearly a decade. As bombs fall and aid trucks falter, the world watches with a detached gaze, more preoccupied with fleeting headlines than the slow unraveling of a society. This conflict, rooted in local grievances and amplified by Middle East geopolitics, has morphed into a humanitarian crisis of staggering proportions. Yet, as Marian Shelleigh, I argue that the path forward lies not in boundless government intervention but in fostering free-market mechanisms, limited international engagement, and a return to traditional values of self-reliance and strategic diplomacy. This editorial examines Yemen's civil war, its devastating toll, and the global community's failure to act decisively, urging a balanced approach that prioritizes sustainable stability over reactive aid.
 
 ## The Roots of Yemen's Civil War: A Geopolitical Powder Keg

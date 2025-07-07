@@ -16,7 +16,7 @@ og_description: How microfinance is driving economic empowerment for small entre
   in India.
 og_image: /content/assets/microfinance-group.jpg
 ---
-<!-- $1 -->
+
 *Hilltops Newspaper*  
 *Published: [Current Date]*  
 

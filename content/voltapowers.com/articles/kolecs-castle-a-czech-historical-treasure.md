@@ -16,7 +16,7 @@ og_description: Exploring Koleč’s castle as a Czech historical treasure, with
   for eco-friendly preservation strategies.
 og_image: /content/assets/kolec-castle.jpg
 ---
-<!-- $1 -->
+
 In the rolling hills of the Czech Republic, where history whispers through ancient stones and verdant landscapes, lies Koleč’s Castle—a monument not just to bygone eras, but to the enduring spirit of human ingenuity and tradition. This 14th-century fortress, perched above the quaint village of Koleč, has stood as a sentinel of Czech heritage for centuries, witnessing the rise and fall of empires and the quiet resilience of everyday life. Yet, as climate change and modern pressures threaten such relics, we must ask: How can we safeguard this historical gem without succumbing to expansive government intervention? Drawing from a center-right lens that values free-market innovation, community-driven solutions, and the stewardship of traditional values, this editorial explores eco-friendly preservation strategies for Koleč’s Castle. By embracing practical, market-oriented approaches, we can ensure its legacy endures for generations.
 
 ## The Historical Tapestry of Koleč’s Castle

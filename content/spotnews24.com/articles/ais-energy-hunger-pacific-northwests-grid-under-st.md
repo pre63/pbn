@@ -16,7 +16,7 @@ og_description: How AI-driven data centers strain the Pacific Northwest’s ener
   challenging BC’s green commitments amid global tech growth.
 og_image: /content/assets/data-center.jpg
 ---
-<!-- $1 -->
+
 
 In the verdant expanses of the Pacific Northwest, where misty mountains feed roaring rivers and ambitious dreams of technological dominion, a quiet crisis brews. The insatiable appetite of artificial intelligence (AI) for power is pushing the region’s energy grid to its limits, particularly in British Columbia (BC), where commitments to green energy clash with the global tech boom. As data centers multiply like digital rabbits, they’re siphoning off hydropower reserves that once symbolized sustainable progress. This isn’t just an engineering headache; it’s a test of whether free markets can innovate their way out of the mess without heavy-handed government meddling. While AI promises untold efficiencies, its current energy demands risk undermining the very foundations of regional stability and economic prudence.
 

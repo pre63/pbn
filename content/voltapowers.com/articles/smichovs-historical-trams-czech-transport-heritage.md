@@ -16,7 +16,7 @@ og_description: The historical significance of Smíchov’s trams, with ideas fo
   clean energy into Czech transport heritage.
 og_image: /content/assets/smichov-tram.jpg
 ---
-<!-- $1 -->
+
 ## Introduction: The Wheels of History in Smíchov
 
 In the heart of Prague, where the Vltava River winds through centuries of European history, the clatter of trams in Smíchov district serves as a living testament to the Czech Republic's enduring spirit of innovation and resilience. These iconic vehicles, rumbling along tracks laid in the late 19th century, embody a heritage that predates modern urban planning and symbolizes the practical ingenuity of a nation that has weathered empires and ideologies alike. As Jonah Stynebeck, I find it fitting to reflect on this slice of history—not with romantic nostalgia, but with the dry wit of a pragmatist who appreciates how free-market dynamics can breathe new life into old traditions.

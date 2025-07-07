@@ -16,7 +16,7 @@ og_description: Exploring India’s ambitious solar energy projects, their role 
   climate goals, and challenges in scaling infrastructure.
 og_image: /content/assets/india-solar-farm.jpg
 ---
-<!-- $1 -->
+
 In the golden haze of a Rajasthan dawn, where the arid landscape stretches endlessly under a vast sky, rows of gleaming solar panels rise like sentinels of progress. Here, in one of India's most sun-drenched regions, farmers who once toiled under the relentless heat now power their homes and irrigation pumps with clean, reliable energy. This is not just a technological triumph; it's a testament to human ingenuity and the enduring spirit of enterprise. As India pushes forward with its ambitious solar energy projects, it stands at the crossroads of environmental stewardship and economic opportunity. Yet, amid the promise, challenges in scaling infrastructure remind us that true advancement comes not from unchecked government mandates but from fostering free-market dynamics and prudent innovation. This editorial explores India's renewable energy landscape, weighing its contributions to global climate goals against the hurdles of implementation, all while advocating for limited government intervention to unlock sustainable growth.
 
 ## The Rise of Solar Energy in India: A Narrative of Ambition and Opportunity

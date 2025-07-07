@@ -16,7 +16,7 @@ og_description: The New York Times’ poll redefines Hollywood’s 21st-century 
   sparking debate on what makes a classic.[](https://nytimes.com/section/movies)
 og_image: /content/assets/hollywood-canon.jpg
 ---
-<!-- $1 -->
+
 
 In the dim glow of a crowded theater, where the scent of popcorn mingles with the electric hum of anticipation, the magic of cinema has always been about escape and reflection—stories that capture the human spirit in its raw, unfiltered form. Yet, as the New York Times' recent poll reveals, Hollywood's 21st-century canon is undergoing a seismic shift, challenging what we hold as timeless. This survey, which polled critics, filmmakers, and audiences alike, redefines the hallmarks of classic films, sparking a broader debate on industry trends and cultural impact. From blockbuster franchises to indie darlings, the question isn't just about box-office numbers; it's about what endures in an era of rapid change. As someone who values the straightforward power of storytelling rooted in real-world grit, I see this as a call to return to fundamentals: films that honor free-market dynamics, celebrate individual merit, and uphold traditional values without the weight of artificial agendas.
 

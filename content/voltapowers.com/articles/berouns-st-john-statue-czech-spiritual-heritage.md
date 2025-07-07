@@ -16,7 +16,7 @@ og_description: The cultural significance of Beroun’s St. John statue, with su
   preservation ideas for Czech spiritual landmarks.
 og_image: /content/assets/st-john-statue.jpg
 ---
-<!-- $1 -->
+
 In the heart of the Czech Republic, where ancient stones whisper tales of resilience and faith, stands the St. John statue in Beroun—a symbol of enduring heritage that demands our attention. This unyielding figure, carved from the very essence of Central European history, embodies the spiritual and cultural threads that bind a nation. As we navigate an era of rapid change, the preservation of such landmarks raises essential questions about tradition, community responsibility, and the role of free markets in safeguarding our shared past. Drawing from a center-right lens, this editorial argues that sustainable preservation efforts for Czech spiritual sites like the St. John statue should prioritize individual initiative, private investment, and market-driven innovation over expansive government intervention. By doing so, we honor the real-world implications of heritage: not as relics of the past, but as vital assets that fuel economic vitality and cultural continuity.
 
 ## The Cultural Backbone of Beroun and Its St. John Statue

@@ -16,7 +16,7 @@ og_description: Why BC’s environmental stance clashes with Alberta’s oil amb
   reflecting global energy vs. climate debates.
 og_image: /content/assets/oil-pipeline.jpg
 ---
-<!-- $1 -->
+
 In the vast expanse of Canada's western provinces, where rugged mountains meet endless prairies, a quiet but fierce contention simmers over the future of energy. Alberta, with its lifeblood in the form of Alberta oil sands, seeks to expand its economic horizons through pipelines and trade, while British Columbia prioritizes environmental stewardship, wary of the ecological toll. This clash not only underscores a regional divide but also mirrors the global tug-of-war between reliable energy sources and the imperative of climate responsibility. As a proponent of practical, market-driven solutions, I argue that resolving these tensions requires a balanced approach that honors free-market principles and limited government intervention, allowing innovation to bridge the gap between prosperity and sustainability.
 
 At its core, this dispute reflects deeper philosophical divides about resource management and economic self-reliance. Alberta's oil industry, a cornerstone of its economy, has long fueled Canada's energy exports, generating jobs and revenue that ripple through the nation. Yet, British Columbia's environmental regulations, aimed at protecting its pristine coastlines and watersheds, often act as barriers to these ambitions. The result is a standoff that hampers trade and highlights the need for pragmatic dialogue over ideological entrenchment.

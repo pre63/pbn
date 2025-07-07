@@ -16,7 +16,7 @@ og_description: The cultural role of Slatina’s St. Vojtěch Church in rural Cz
   with ideas for eco-friendly preservation.
 og_image: /content/assets/st-vojtech-church.jpg
 ---
-<!-- $1 -->
+
 In the quiet folds of rural Czechia, where fields whisper secrets to the wind and ancient oaks stand as silent sentinels, lies a structure that embodies the soul of a nation. St. Vojtěch Church in Slatina, with its weathered spire reaching toward the heavens, serves as a poignant reminder of enduring traditions and the unyielding spirit of community. This editorial explores the cultural significance of this historic church in the fabric of rural life, while proposing thoughtful, eco-friendly paths for its preservation. Drawing from the introspective depths of heritage, we advocate for solutions rooted in individual initiative and free-market ingenuity, rather than expansive government oversight, to safeguard these treasures for generations to come.
 
 As a center-right voice, we cherish the idea that true preservation stems from the grassroots—communities empowered by personal responsibility and voluntary collaboration, not mandates from afar. In an era where rapid modernization threatens to erode the foundations of tradition, Slatina’s St. Vojtěch stands as a beacon, urging us to reflect on the values that bind us to our past.

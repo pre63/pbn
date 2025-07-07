@@ -16,7 +16,7 @@ og_description: 'How Karate Kid: Legends, starring Jackie Chan, proves the endur
   appeal of martial arts films in Hollywood.[](https://www.firstpost.com/category/entertainment/)'
 og_image: /content/assets/karate-kid-set.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *Published: [Current Date]*  
 

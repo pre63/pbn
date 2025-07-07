@@ -17,7 +17,7 @@ og_description: 'Karate Kid: Legends, starring Jackie Chan, fuels Hollywood’s 
   arts resurgence with dynamic action.[](https://www.firstpost.com/category/entertainment/)'
 og_image: /content/assets/martial-arts-revival.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *September 15, 2023*
 

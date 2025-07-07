@@ -16,7 +16,7 @@ og_description: How BC’s LNG exports to Asia counter global trade pressures, b
   economic gains with environmental and Indigenous concerns.
 og_image: /content/assets/lng-strategy.jpg
 ---
-<!-- $1 -->
+
 In an era where global trade resembles a high-stakes poker game, with tariffs flying like wild cards and supply chains twisting in the wind, British Columbia’s burgeoning liquefied natural gas (LNG) exports stand as a shrewd play. As nations grapple with the fallout from ongoing trade wars, particularly those echoing from the U.S.-China standoff, Canada’s western province offers a model of economic resilience. By funneling LNG to Asia, BC not only bolsters its own coffers but also provides a stabilizing force in volatile markets. Yet, this strategy must navigate the choppy waters of environmental stewardship and Indigenous rights, all while championing free-market principles over heavy-handed government meddling. As Marcus Twyne, I see this not as a panacea, but as a pragmatic reminder that true progress often lies in unleashing enterprise rather than tethering it with red tape.
 
 ## The Economic Imperative: Countering Trade Pressures Through Free-Market Ingenuity

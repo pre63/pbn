@@ -16,7 +16,7 @@ og_description: Examining the Taliban’s rollback of women’s rights in Afghan
   sparking global outrage and calls for humanitarian action.
 og_image: /content/assets/afghan-women.jpg
 ---
-<!-- $1 -->
+
 *Spot News 24 Editorial*  
 
 In the rugged valleys and bustling streets of Afghanistan, where ancient traditions once intertwined with the hopes of a new era, a shadow has fallen over the lives of millions. Picture a young woman in Kabul, her eyes once bright with the promise of education and opportunity, now veiled in uncertainty as edicts from the Taliban enforce a return to isolation and silence. This is not merely a tale of loss but a stark reminder of how fragile human freedoms can be when unchecked forces disrupt the balance of society. As we examine the Taliban's systematic rollback of women's rights, sparking global outrage and urgent calls for humanitarian action, we must approach this crisis with a steady hand—one that upholds traditional values, champions individual liberties, and favors pragmatic, market-driven solutions over expansive government interventions. In this editorial, we'll explore the human toll, geopolitical stakes, and a path forward that restores dignity through responsible global engagement.

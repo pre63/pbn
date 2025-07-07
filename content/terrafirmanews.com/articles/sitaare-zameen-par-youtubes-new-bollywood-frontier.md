@@ -16,7 +16,7 @@ og_description: Aamir Khan’s Sitaare Zameen Par on YouTube signals a shift in 
   Bollywood reaches global audiences, challenging Hollywood’s streaming giants.[](https://www.firstpost.com/category/entertainment/)
 og_image: /content/assets/youtube-premiere.jpg
 ---
-<!-- $1 -->
+
 In an era where digital platforms have democratized storytelling, the release of Aamir Khan's *Sitaare Zameen Par* on YouTube marks a pivotal moment for global entertainment. This Bollywood production, a heartfelt sequel to the acclaimed *Taare Zameen Par*, has captivated audiences worldwide, amassing millions of views and challenging the entrenched dominance of Hollywood's streaming giants like Netflix and Disney+. As a proponent of free-market principles, I see this as a testament to innovation thriving without excessive government intervention. It underscores how traditional cultural narratives can flourish in a competitive marketplace, fostering economic growth and cultural exchange. Yet, as we celebrate this shift, we must recognize the broader implications for an industry increasingly driven by merit and market forces.
 
 ## The Global Appeal of Bollywood's Digital Leap

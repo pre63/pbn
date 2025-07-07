@@ -16,7 +16,7 @@ og_description: How China’s lunar exploration program fuels a new global space
   with implications for technological and geopolitical dominance.
 og_image: /content/assets/lunar-mission.jpg
 ---
-<!-- $1 -->
+
 In the vast expanse of the cosmos, where humanity's dreams have long collided with the limits of our ingenuity, a new era of competition is unfolding. China's bold strides in lunar exploration, exemplified by its Chang'e program, are not merely scientific endeavors but catalysts for a renewed global space race. This resurgence echoes the mid-20th-century rivalry between superpowers, yet it carries fresh stakes in technology and geopolitics. As nations vie for dominance on the moon, we must weigh the opportunities for innovation against the risks of escalating tensions. From a center-right lens, this competition underscores the virtues of free-market dynamics and limited government intervention, where private enterprise and national resolve can drive progress without overreaching state control. However, unchecked ambitions could entrench divisions, reminding us of the need for pragmatic, market-oriented strategies to maintain global stability.
 
 ## The Spark of China's Lunar Mission

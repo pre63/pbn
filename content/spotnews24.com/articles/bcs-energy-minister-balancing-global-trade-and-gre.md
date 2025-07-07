@@ -17,7 +17,7 @@ og_description: Analyzing BC Energy Minister Adrian Dix’s approach to balancin
   trade demands with environmental priorities in energy policy.
 og_image: /content/assets/minister-speech.jpg
 ---
-<!-- $1 -->
+
 
 In the rugged landscapes of British Columbia, where towering mountains meet vast forests and shimmering coastlines, the pulse of energy policy beats with the rhythm of both opportunity and responsibility. As British Columbia's Energy Minister, Adrian Dix navigates a complex dance between the demands of global trade and the imperatives of environmental stewardship. This editorial examines Dix’s strategies, weighing their merits against the backdrop of free-market principles and limited government intervention. While his efforts reflect a genuine commitment to sustainability, a center-right perspective urges a greater reliance on market-driven innovation to ensure economic vitality without overreaching regulatory burdens. Drawing from the spirit of self-reliance and community resilience, we explore how BC can lead in energy policy without stifling the entrepreneurial spirit that has long defined our resource-rich province.
 

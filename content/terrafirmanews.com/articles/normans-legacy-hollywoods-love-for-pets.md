@@ -16,7 +16,7 @@ og_description: Oliver’s tribute to his cat Norman reflects Hollywood’s deep
   to pets and their emotional impact.
 og_image: /content/assets/pet-legacy.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 
 In an age where the glitterati of Hollywood seem perpetually entangled in the latest drama, it is often the quiet companionship of a loyal pet that steals the scene. Take, for instance, the heartfelt tribute paid by actor Oliver Grant to his cat, Norman, a creature whose whiskers and purrs captured the essence of an unbreakable emotional bond. Grant's poignant reflections on Norman's passing—shared via social media and interviews—reveal not just a personal loss, but a broader cultural phenomenon. Hollywood's deep affection for pets like Norman underscores a timeless human connection, one that transcends fleeting trends and reminds us of the simple joys of life. Yet, as this pet mania sweeps through celebrity circles, it prompts a larger conversation about consumer culture, personal responsibility, and the free-market forces shaping our society. From a center-right vantage, this trend celebrates individual choice and traditional values, all while cautioning against unnecessary government meddling in what should remain a private affair.

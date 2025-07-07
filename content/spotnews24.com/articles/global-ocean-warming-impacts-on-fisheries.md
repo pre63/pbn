@@ -16,7 +16,7 @@ og_description: How global ocean warming threatens fisheries, disrupting food se
   and prompting international efforts to protect marine ecosystems.
 og_image: /content/assets/ocean-fisheries.jpg
 ---
-<!-- $1 -->
+
 In the vast, shimmering expanse of the world's oceans, where generations of fishermen have cast their nets under open skies, a silent transformation is underway. Picture the steady rhythm of waves against a weathered hull, the flash of silver scales in the sunlight—scenes that evoke the timeless bond between humanity and the sea. Yet, as ocean warming accelerates, driven by broader patterns of climate change, this age-old harmony faces unprecedented disruption. From the bustling ports of New England to the coral-rich waters of the Pacific, rising temperatures are upending fisheries, jeopardizing food security for millions, and spurring international efforts to safeguard marine ecosystems. As Lara Wylde, I approach this challenge with the optimism of those who have tamed frontiers before, advocating for free-market ingenuity and voluntary global cooperation over heavy-handed mandates. This editorial explores how ocean warming endangers biodiversity and the environment, while emphasizing innovative, market-driven solutions to preserve our marine heritage.
 
 ## The Warming Depths: Understanding the Threat to Fisheries

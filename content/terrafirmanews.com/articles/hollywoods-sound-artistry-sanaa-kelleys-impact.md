@@ -16,7 +16,7 @@ og_description: How Sanaa Kelley’s sound effects work elevates Hollywood films
   the craft behind the scenes.[](https://www.cbsnews.com/)
 og_image: /content/assets/sound-effects.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *Published: [Current Date]*  
 

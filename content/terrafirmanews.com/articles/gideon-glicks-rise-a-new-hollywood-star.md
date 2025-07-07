@@ -16,7 +16,7 @@ og_description: Gideon Glick’s transition to Étoile highlights Hollywood’s 
   for versatile new talent from Broadway.[](https://ew.com/movies)
 og_image: /content/assets/gideon-etoile.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 
 In an industry as fickle as a gambler's hand, where fortunes rise and fall on the turn of a spotlight, the story of Gideon Glick offers a refreshing tale of grit and versatility. Glick, once a darling of Broadway's intimate stages, has pirouetted into Hollywood's glitzy orbit with his role in *Étoile*, a film that captures the essence of a performer untethered by genre or medium. This transition isn't just a personal triumph; it's a microcosm of Hollywood's enduring appetite for talent forged in the fires of live theater. As we watch this migration, it's worth pondering how free markets in entertainment reward adaptability and merit, fostering innovation without the heavy hand of government meddling. But let's not get ahead of ourselves—first, the stage, then the screen.

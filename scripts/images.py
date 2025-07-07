@@ -78,7 +78,7 @@ class Extraction:
     for caption, filename in img_matches:
       caption = caption.strip() or os.path.basename(filename).replace(".jpg", "").replace("_", " ")
       pairs.append((caption, os.path.basename(filename), content))
-    og_image = front_matter.get("og:image")
+    og_image = front_matter.get("og_image")
     title = front_matter.get("title", "")
     if og_image and og_image.endswith(".jpg"):
       caption = title.strip() or os.path.basename(og_image).replace(".jpg", "").replace("_", " ")

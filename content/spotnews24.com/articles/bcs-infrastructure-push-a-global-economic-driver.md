@@ -16,7 +16,7 @@ og_description: How BC’s infrastructure push drives global economic growth, wi
   about balancing environmental and Indigenous priorities.
 og_image: /content/assets/infrastructure-costs.jpg
 ---
-<!-- $1 -->
+
 
 In the vast expanse of Canada's western frontier, where rugged mountains kiss the Pacific's edge, British Columbia stands as a testament to human ingenuity and natural splendor. Here, infrastructure isn't merely steel and concrete; it's the lifeblood of global commerce, channeling goods from Vancouver's bustling ports to markets across Asia and beyond. Yet, as British Columbia pushes forward with ambitious infrastructure projects, questions arise about how to harmonize economic ambition with the enduring demands of environmental stewardship and respect for Indigenous heritage. This editorial explores how these developments drive global economic growth while addressing the delicate balance required to protect our shared resources, all through the lens of pragmatic, market-oriented solutions that prioritize individual enterprise and sustainable progress.
 

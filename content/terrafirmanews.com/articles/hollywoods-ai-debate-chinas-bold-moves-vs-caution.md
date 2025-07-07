@@ -16,7 +16,7 @@ og_description: Contrasting China’s AI-driven film remasters with Hollywood’
   approach, exploring the future of cinema tech.[](https://www.latimes.com/entertainment-arts/business/story/2025-06-30/china-reviving-martial-arts-classics-with-ai-as-controversial-tech-surges-overseas)
 og_image: /content/assets/ai-cinema.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 June 30, 2025  
 

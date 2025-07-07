@@ -16,7 +16,7 @@ og_description: How BC’s 500 kV power line to Terrace supports global critical
   demand, facing First Nations and budget challenges.
 og_image: /content/assets/power-line-construction.jpg
 ---
-<!-- $1 -->
+
 In an era where the world’s appetite for technological marvels outpaces the steady hand of progress, one might liken British Columbia’s ambitious 500 kV power line to Terrace to a well-mannered suitor—promising, persistent, yet beleaguered by the inevitable complications of courtship. As a keen observer of societal machinations, I, Joanna Aucton, find it fitting to examine this infrastructure endeavor not merely as a feat of engineering, but as a testament to the enduring spirit of free-market ingenuity in the face of budgetary prudence and traditional community concerns. This project, threading through the rugged landscapes of Canada’s western frontier, stands as a linchpin in meeting global demands for critical minerals, even as it navigates the rocky terrain of fiscal constraints and local stakeholder dynamics. Yet, in true center-right fashion, we must advocate for its advancement through sensible, market-driven solutions rather than unchecked governmental expansion.
 
 ## The Backbone of Economic Vitality: Why the Power Line Matters

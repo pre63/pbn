@@ -16,7 +16,7 @@ og_description: Justin Bartha’s Nuked brings a fresh, cannabis-infused comedy 
   to Hollywood, appealing to modern audiences.[](https://www.cbsnews.com/)
 og_image: /content/assets/nuked-comedy.jpg
 ---
-<!-- $1 -->
+
 In an era where Hollywood's blockbuster machine often churns out the predictable, Justin Bartha's latest film, *Nuked*, emerges as a raw, unfiltered shot of energy. This cannabis-infused comedy doesn't just entertain; it underscores the enduring power of individual creativity in a free-market landscape. Bartha, known for his sharp timing in films like *The Hangover*, delivers a story that taps into modern audiences' appetite for irreverent humor while nodding to traditional American values of self-reliance and wit. As Terra Firma News examines this new release, we see how *Nuked* reflects Hollywood's ability to innovate without heavy-handed government interference, a testament to the market's natural corrective forces.
 
 Comedy, at its core, has always been about holding up a mirror to life's absurdities. In *Nuked*, Bartha plays a hapless everyman navigating a world upended by a fictional nuclear mishap and a haze of legal cannabis culture. Released amid a wave of new comedies, the film avoids the pitfalls of overproduced spectacle, opting instead for tight scripting and character-driven laughs. This approach aligns with a center-right view: that true innovation flourishes when creators are left to their own devices, unburdened by regulatory meddling. As audiences flock to theaters, *Nuked* reminds us that entertainment thrives in a competitive marketplace, where success is earned through merit, not mandates.

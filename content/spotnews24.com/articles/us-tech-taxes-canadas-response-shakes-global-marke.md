@@ -16,7 +16,7 @@ og_description: How Canada’s response to US tech tax accusations impacts BC an
   tech markets, advocating for diplomatic resolutions.
 og_image: /content/assets/tech-trade.jpg
 ---
-<!-- $1 -->
+
 
 In the intricate dance of international commerce, where digital innovations forge the backbone of modern economies, the shadows of discord often loom large. Picture the sun-kissed harbors of Vancouver, British Columbia, alive with the hum of tech startups and data centers, now caught in the crosswinds of a brewing storm between Ottawa and Washington. As the United States accuses Canada of imposing unfair tech taxes, the ripple effects threaten not only the vibrant economy of BC but also the fragile equilibrium of global tech markets. This editorial advocates for diplomatic resolutions over confrontation, emphasizing free-market principles and limited government intervention to foster innovation and stability. Through measured dialogue, nations can preserve the open exchange that has long driven prosperity, rather than entrenching barriers that stifle growth.
 

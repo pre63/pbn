@@ -16,7 +16,7 @@ og_description: Evaluating the economic and environmental impacts of BC Hydro’
   C dam, questioning its role in Canada’s energy strategy.
 og_image: /content/assets/site-c-dam.jpg
 ---
-<!-- $1 -->
+
 In the vast wilderness of British Columbia, where untamed rivers carve through ancient landscapes, the hum of industry echoes like a symphony of human ambition. Picture, if you will, the relentless surge of the Peace River, now harnessed by the colossal Site C dam—a testament to mankind's unyielding quest for energy dominance. As Alec Dumass, channeling the spirited legacy of Alexandre Dumas, I delve into this grand endeavor, weighing its economic vitality against environmental costs. BC Hydro's Site C project, a cornerstone of Canada's infrastructure push, raises profound questions: Does this government-led initiative truly serve the nation's energy needs, or does it exemplify the pitfalls of excessive state intervention? In this editorial for Spot News 24, we shall explore the economic and environmental impacts of the Site C dam, advocating for a measured approach that honors free-market principles and traditional values of stewardship and innovation.
 
 ![Aerial view of Site C Dam construction](/content/assets/site-c-dam-aerial-view.jpg)  

@@ -16,7 +16,7 @@ og_description: How BC’s ports serve as strategic lifelines in global trade wa
   advocating for private-sector-led expansion to boost resilience.
 og_image: /content/assets/port-assets.jpg
 ---
-<!-- $1 -->
+
 In an era defined by escalating trade wars and shifting economic alliances, British Columbia's ports stand as vital arteries in the global trade network. As tensions between major powers like the United States and China continue to reshape supply chains, the ports of Vancouver and Prince Rupert have emerged as indispensable hubs for North American commerce. This editorial argues for a private-sector-led approach to expanding these facilities, emphasizing how market-driven innovation can enhance resilience without overburdening taxpayers or government resources. By fostering free-market principles, British Columbia can solidify its role in the global economy, ensuring long-term stability and prosperity.
 
 The strategic importance of these ports cannot be overstated. Serving as gateways for goods flowing from Asia to the rest of Canada and the U.S., they handle millions of tonnes of cargo annually, from raw materials to finished products. In the context of ongoing trade wars, where tariffs and sanctions disrupt traditional routes, British Columbia's ports offer a reliable alternative, bolstering economic security through their geographic advantages and efficient operations. Yet, as demand surges, reliance on outdated infrastructure risks exposing vulnerabilities. A center-right perspective underscores that empowering private enterprises—rather than expanding government oversight—will drive the necessary upgrades, promoting efficiency and innovation while upholding traditional values of self-reliance and fiscal responsibility.

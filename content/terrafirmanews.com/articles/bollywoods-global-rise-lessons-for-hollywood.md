@@ -16,7 +16,7 @@ og_description: How Bollywood’s global success, led by stars like Deepika Padu
   challenges Hollywood to rethink its market approach.[](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-to-receive-hollywood-walk-of-fame-star-in-2026-deets-inside/articleshow/122216004.cms)
 og_image: /content/assets/bollywood-global.jpg
 ---
-<!-- $1 -->
+
 *Terra Firma News*  
 *Published: [Current Date]*  
 
