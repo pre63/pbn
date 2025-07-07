@@ -16,7 +16,6 @@ og_description: São Paulo’s graffiti scene as a vibrant expression of urban i
   and creativity.
 og_image: /content/assets/sao-paulo-graffiti.jpg
 ---
-# The Vibrant Canvases of São Paulo: Street Art as a Pillar of Urban Innovation
 
 In the bustling metropolis of São Paulo, where skyscrapers pierce the sky and traffic hums like a perpetual symphony, the walls tell stories that official histories often overlook. Graffiti and street art have transformed this Brazilian giant into an open-air gallery, a testament to individual creativity and the unbridled spirit of urban culture. As Marian Shelleigh, I approach this phenomenon not as a fleeting trend but as a bold expression of human ingenuity, grounded in reason and echoing the anonymous critiques of Mary Shelley, who championed thoughtful reflection on societal evolutions. Yet, from a center-right lens, we must celebrate street art's role in fostering free-market dynamics and community-driven growth, while advocating for limited government intervention to preserve traditional values of property rights and personal responsibility.
 

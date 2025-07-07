@@ -16,9 +16,7 @@ og_description: How rugby shapes New Zealand’s national identity and fosters c
   spirit.
 og_image: /content/assets/rugby-match.jpg
 ---
-# How Rugby Forges the Soul of New Zealand
 
-By Silas Twaine  
 *Hilltops Newspaper Editorial*
 
 Ah, friends, let me spin you a yarn about a game that's more than just mud-caked jerseys and thunderous tackles. Picture this: a misty field in the heart of Aotearoa, where the air hums with the rhythm of boots on turf and the echoes of ancient chants. Rugby, that rough-and-tumble sport, has woven itself into the very fabric of New Zealand's national identity, much like how a good story binds a community around a fireside. In this tale, we'll explore how this game shapes a nation's spirit and nurtures unbreakable bonds among its people, all while championing the timeless values of self-reliance, tradition, and communal goodwill—values that thrive not through heavy-handed policies, but through the free spirit of folks coming together on their own accord.

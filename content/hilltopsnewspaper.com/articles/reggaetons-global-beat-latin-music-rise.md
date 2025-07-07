@@ -16,7 +16,6 @@ og_description: The global rise of reggaeton, blending Latin rhythms with worldw
   cultural influence.
 og_image: /content/assets/reggaeton-concert.jpg
 ---
-# The Rhythmic Ascendancy of Reggaeton: A Global Cultural Phenomenon
 
 ## Introduction
 

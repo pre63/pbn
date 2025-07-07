@@ -17,7 +17,7 @@ og_description: Mark Lee’s health scare sparks Hollywood’s support, showcasi
 og_image: /content/assets/mark-lee-support.jpg
 ---
 
-*Terra Firma News*  
+
 
 In the glittering facade of Hollywood, where fame often outshines frailty, a recent health scare involving actor Mark Lee has peeled back the curtain to reveal a more grounded reality. Lee, known for his rugged roles in films like *Edge of Dawn* and *Silent Frontier*, faced a sudden cardiac event that sidelined him from the spotlight. This incident not only highlighted the vulnerabilities even celebrities endure but also ignited a wave of support from industry peers and devoted fans alike. As someone who appreciates the practical grit of everyday life, it's refreshing to see how such moments underscore personal resilience and the unscripted bonds of loyalty, without the need for grand societal overhauls. Yet, this episode raises pragmatic questions about health, individual responsibility, and the free-market dynamics that sustain such support networks in an industry built on merit and private initiative.
 

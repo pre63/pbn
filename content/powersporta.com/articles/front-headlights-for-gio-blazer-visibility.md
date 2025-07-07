@@ -50,4 +50,3 @@ Looking ahead, the potential for further enhancements in ATV lighting is vast. A
 
 In closing, let us celebrate these quiet victories of technology and tradition, ensuring that the open roads and trails remain places of wonder, not worry. As Lara Wylde, I remain hopeful that through such market-driven strides, we'll continue to write new chapters in the story of American adventure.
 
-*(Word count: 1,025)*

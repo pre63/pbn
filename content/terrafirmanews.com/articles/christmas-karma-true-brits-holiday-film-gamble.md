@@ -17,7 +17,7 @@ og_description: True Brit Entertainment’s Christmas Karma bets on heartfelt ho
 og_image: /content/assets/christmas-karma.jpg
 ---
 
-*Terra Firma News*  
+
 
 Why, folks, if there's one thing that warms the cockles of my heart more than a crackling fireplace on a snowy eve, it's a good old yarn spun from the heart of independent filmmaking. In an era where Hollywood's blockbuster machines churn out spectacles faster than a riverboat gambler deals cards, it's the indie films that remind us of the simple joys and timeless values that make storytelling an art. Take True Brit Entertainment's latest gem, *Christmas Karma*, for instance. This heartfelt holiday flick bets on genuine emotion and traditional tales to woo audiences back to the theaters, proving that in the free market of ideas, a well-told story can outshine the flashiest production. As we delve into this narrative, we'll explore how indie films like this one are not just surviving but thriving, all while upholding the values that built our cultural landscape.
 

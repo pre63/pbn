@@ -17,7 +17,7 @@ og_description: How Bollywood’s streaming success, like Sitaare Zameen Par, ch
 og_image: /content/assets/bollywood-rise.jpg
 ---
 
-*Terra Firma News*  
+
 
 In an era where storytelling transcends borders, the global film industry is witnessing a seismic shift. Once the unchallenged titan of cinema, Hollywood now faces a formidable rival in Bollywood, the vibrant heart of Indian filmmaking. Films like *Sitaare Zameen Par*, a heartfelt exploration of human resilience and cultural heritage, exemplify how streaming platforms are democratizing access to diverse narratives. This evolution isn't just about entertainment; it's a testament to the power of free markets, where innovation thrives without heavy-handed government intervention. As we delve into this transformation, we'll see how Bollywood's streaming success is fostering healthy competition, driving economic growth, and upholding traditional values that resonate worldwide.
 

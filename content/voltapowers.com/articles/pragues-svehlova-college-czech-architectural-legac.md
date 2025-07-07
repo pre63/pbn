@@ -47,4 +47,3 @@ Policy-wise, a center-right approach advocates for incentives over impositions. 
 
 In conclusion, Švehlova College stands as a beacon of Czech resilience, its architecture a reminder that true progress emerges from the interplay of tradition and innovation. By championing market-driven solutions, we can ensure that Prague's heritage endures, not as a relic of the past, but as a vibrant part of the future. Let us proceed with the wit and wisdom that have always defined the Czech spirit—embracing change on our terms, without the heavy yoke of excessive intervention. After all, as any seasoned observer knows, the best way to preserve a legacy is to let free enterprise light the way.
 
-*(Word count: 1,025)*

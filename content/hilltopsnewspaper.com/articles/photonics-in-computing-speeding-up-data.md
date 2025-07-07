@@ -16,7 +16,6 @@ og_description: The role of photonics in revolutionizing computing with faster, 
   efficient data processing.
 og_image: /content/assets/photonics-lab.jpg
 ---
-# Photonics: Illuminating the Path to Faster Computing
 
 In an era where data flows like a digital river, overwhelming our servers and straining our economies, the advent of photonics promises a beacon of efficiency. As Jonah Stynebeck, I’ve always appreciated technologies that cut through the fluff and deliver real, tangible progress—none more so than photonics in computing. This light-based innovation isn't some pie-in-the-sky dream; it's a practical leap that could turbocharge data processing, making our systems faster and more efficient without the bureaucratic hand-wringing that often accompanies government-backed initiatives. Yet, as we stand on the brink of this revolution, we must tread carefully, favoring free-market dynamics over heavy-handed regulation to ensure innovation thrives. Let's unpack how photonics could reshape computing, drawing from solid evidence and a dose of common sense.
 

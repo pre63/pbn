@@ -17,7 +17,7 @@ og_description: Alex Ross Perry’s documentary on video stores taps into Hollyw
 og_image: /content/assets/video-store-culture.jpg
 ---
 
-*Terra Firma News*  
+
 
 In an era where the flicker of a screen is more likely to come from a pocket-sized device than a family living room projector, there's a quiet rebellion brewing in the dim aisles of video stores. Remind you of anything? Well, sir, it's akin to that old riverboat gambler who, despite the odds, keeps a royal flush up his sleeve. Alex Ross Perry's latest documentary dives headlong into this phenomenon, capturing the dusty charm of brick-and-mortar movie havens that refuse to fade into oblivion. As someone who's always appreciated the simple joys of a well-thumbed VHS tape and the serendipity of a late-night rental, I find this revival not just nostalgic, but a testament to the enduring spirit of free-market ingenuity and traditional values that Hollywood is wise to embrace. Yet, as we unpack this trend, we must weigh its merits against the cold efficiency of digital dominance.
 

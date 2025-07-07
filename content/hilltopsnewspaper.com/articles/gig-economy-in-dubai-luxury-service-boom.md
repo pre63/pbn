@@ -16,7 +16,6 @@ og_description: How Dubai’s gig economy is fueling a boom in luxury services, 
   chauffeurs to personal shoppers.
 og_image: /content/assets/dubai-gig-worker.jpg
 ---
-# Dubai’s Gig Economy: Fueling a Boom in Luxury and Innovation
 
 ## Introduction
 

@@ -54,4 +54,3 @@ In conclusion, Angélique Kidjo’s 2026 star is more than a Hollywood fixture; 
 ![Angélique Kidjo with her Grammy awards](/content/assets/kidjo-grammy-honors.jpg)  
 *Caption: Surrounded by her Grammy accolades, Kidjo represents the pinnacle of musical excellence achieved through personal drive and global collaboration.*
 
-*(Word count: 1,025)*

@@ -55,4 +55,3 @@ Imagine a world where governments facilitate, rather than dictate, responses—w
 
 In the end, the digital age demands we adapt, not retreat. Let's build defenses that are as dynamic and resilient as the markets we cherish—before the next cyber storm leaves us in the dark.
 
-*(Word count: 1,025)*

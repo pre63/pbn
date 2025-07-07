@@ -16,7 +16,6 @@ og_description: How peer-to-peer lending in Vietnam is expanding financial acces
   for small businesses.
 og_image: /content/assets/p2p-lending-group.jpg
 ---
-# The Rise of Peer-to-Peer Lending in Vietnam: A Pathway to Economic Empowerment
 
 In the bustling markets of Hanoi and the riverine villages of the Mekong Delta, a quiet revolution is unfolding—one that echoes the self-reliant spirit of individual enterprise over expansive government programs. As Davin Thorow, I reflect on how peer-to-peer (P2P) lending, a cornerstone of modern microfinance, is democratizing financial access for small businesses in Vietnam. This market-driven innovation not only fuels economic growth but also underscores the virtues of free markets in fostering personal initiative and community resilience. Far from relying on bloated bureaucratic interventions, P2P platforms are proving that when individuals connect directly, prosperity follows naturally, much like Thoreau's contemplative walks in the woods revealed the wisdom in simplicity and self-sufficiency.
 

@@ -55,4 +55,3 @@ As the dust settles on the moon's surface from China's advancing missions, the n
 
 To navigate this landscape, policymakers should prioritize incentives for private investment, such as tax credits for space ventures, rather than expansive public programs. As [The Heritage Foundation](https://www.heritage.org/space-exploration/report/new-space-race-implications-free-markets) argues, such measures could enhance global competitiveness while safeguarding fiscal prudence. Ultimately, by embracing competition with clear-eyed pragmatism, we can transform this celestial rivalry into a beacon of human achievement, ensuring that the stars remain a shared frontier rather than a battleground.
 
-In word count, this editorial spans approximately 1,050 words, adhering to the specified guidelines while weaving a narrative that is engaging, balanced, and rooted in authoritative insights.

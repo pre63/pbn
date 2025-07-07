@@ -60,4 +60,3 @@ In an era of uncertainty, Valletta stands as a beacon, proving that traditional 
 ![Valletta harbor at sunset](/content/assets/valletta-harbor-sunset.jpg)  
 *Caption: The tranquil harbor of Valletta at sunset, encapsulating the island's harmonious blend of history and modern resilience.*
 
-This editorial draws on a wealth of sources, including [UNESCO World Heritage List](https://whc.unesco.org/en/list/132), [The Wall Street Journal on Maltese Tourism](https://www.wsj.com/articles/maltas-tourism-boom-economic-resilience-2023), [Heritage Malta Insights Blog](https://heritagemalta.org/insights/valletta-waterfront-restoration-2022), and [European Heritage Hub Report](https://europeanheritagehub.eu/reports/malta-preservation-success-2023), to provide a balanced, evidence-based perspective. Word count: 1,025.

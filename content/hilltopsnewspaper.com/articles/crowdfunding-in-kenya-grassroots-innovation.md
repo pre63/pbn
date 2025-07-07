@@ -16,7 +16,6 @@ og_description: How crowdfunding platforms in Kenya are empowering small-scale e
   to thrive.
 og_image: /content/assets/crowdfunding-workshop.jpg
 ---
-# Empowering Kenya's Entrepreneurs: The Rise of Crowdfunding in Microfinance
 
 ## Introduction: A Beacon of Self-Reliance in Africa's Heart
 

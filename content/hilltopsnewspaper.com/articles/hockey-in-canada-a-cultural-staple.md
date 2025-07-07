@@ -16,10 +16,8 @@ og_description: How hockey remains a cornerstone of Canadian culture, uniting co
   nationwide.
 og_image: /content/assets/hockey-game.jpg
 ---
-# Hockey: The Heartbeat of Canadian Culture
 
-By Silas Twaine  
-*Hilltops Newspaper*  
+
 
 In the crisp winter air of a Canadian small town, where the snow blankets the landscape like a cozy quilt, there's a ritual as old as the maple leaf itself. Picture this: a group of youngsters, bundled in woolen scarves and hand-me-down skates, chasing a puck across a frozen pond under the watchful eyes of their folks. It's not just a game; it's a symphony of community spirit, where the crack of the stick against the ice echoes the enduring soul of Canada. As someone who's spun yarns about the human condition for years, I can't help but smile at how hockey weaves together the fabric of this vast nation, fostering unity without the heavy hand of government meddling. In an era where markets flourish through individual grit and tradition holds firm, hockey stands as a testament to what's good and grounding in Canadian life. But let's lace up our skates and dive deeper into this frosty tale.
 

@@ -17,7 +17,7 @@ og_description: Angélique Kidjo’s 2026 Walk of Fame star bridges music and ci
 og_image: /content/assets/angelique-kidjo.jpg
 ---
 
-*Terra Firma News*  
+
 
 Ah, Hollywood—the glittering dream factory where the flicker of stage lights can turn a humble tune into a symphony of stardom. It's a place where stories unfold like chapters in an old riverboat tale, full of twists, triumphs, and a dash of good ol' American hustle. Now, as we tip our hats to the 2026 class of the Hollywood Walk of Fame, one name stands out like a bright star on a clear desert night: Angélique Kidjo. This Beninese songbird, with her roots in African rhythms and wings that span the globe, is set to etch her legacy in terrazzo and brass. Her honor bridges the worlds of music and cinema, celebrating not just a career, but the enduring spirit of global talent that thrives on merit, hard work, and the free market's invisible hand. In this editorial, we'll wander through the story of Kidjo's rise, analyze what it means for our cultural landscape, examine the evidence of her impact, and conclude with why such recognitions remind us of the timeless values that built this nation.
 

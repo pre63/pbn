@@ -17,8 +17,8 @@ og_description: How Bollywood’s global success, led by stars like Deepika Padu
 og_image: /content/assets/bollywood-global.jpg
 ---
 
-*Terra Firma News*  
-*Published: [Current Date]*  
+
+
 
 In an era where stories transcend borders faster than ever, the shimmering lights of Bollywood are casting a long shadow over Hollywood's once-unassailable throne. Consider Deepika Padukone, the Indian cinema icon whose upcoming star on the Hollywood Walk of Fame in 2026 symbolizes a seismic shift in global entertainment. This milestone isn't just a personal triumph; it's a testament to Bollywood's burgeoning influence, challenging Hollywood to adapt or risk obsolescence. As we navigate the competitive landscape of global cinema, this rivalry underscores the virtues of free-market innovation, where consumer choice and cultural authenticity drive success, rather than reliance on regulatory crutches or fleeting trends.
 

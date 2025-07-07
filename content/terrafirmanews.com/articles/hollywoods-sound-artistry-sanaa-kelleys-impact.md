@@ -17,8 +17,8 @@ og_description: How Sanaa Kelley’s sound effects work elevates Hollywood films
 og_image: /content/assets/sound-effects.jpg
 ---
 
-*Terra Firma News*  
-*Published: [Current Date]*  
+
+
 
 In an era where visual spectacle often steals the spotlight, the unsung heroes of Hollywood remind us that true storytelling lies in the details. Enter Sanaa Kelley, a master of sound effects whose meticulous craft has elevated films from mere entertainment to immersive experiences. Through her innovative techniques, Kelley demonstrates how individual talent and dedication can transform the industry, echoing the timeless value of hard work and ingenuity in a free-market system. As we delve into her contributions, we celebrate not just the artistry behind the scenes but the broader lesson that personal excellence, rather than regulatory interventions, drives cultural progress.
 
@@ -55,4 +55,3 @@ As we look to the future, Kelley's work challenges the industry to prioritize su
 ![Sanaa Kelley's award-winning sound library](/content/assets/kelley-sound-library.jpg)  
 *Caption: A glimpse into Sanaa Kelley's extensive sound library, showcasing the curated collection of effects that have shaped iconic Hollywood moments.*
 
-*(Word count: 1,025)*

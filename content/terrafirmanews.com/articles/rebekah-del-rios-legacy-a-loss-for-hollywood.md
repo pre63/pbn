@@ -37,4 +37,3 @@ In analyzing Del Rio's contributions, it's clear that her work transcended mere 
 
 As we conclude this tribute, let us not mourn Rebekah Del Rio's absence alone but celebrate the legacy she leaves behind—a legacy of unyielding spirit in the face of adversity. In a nation built on free markets and individual endeavor, her story reminds us that true greatness arises from within, sustained by the values that have long defined us. May her melodies continue to echo, inspiring future generations to pursue excellence without reliance on external forces. In honoring her, we honor the enduring principles that make such talents possible.
 
-*(Word count: 1,025)*

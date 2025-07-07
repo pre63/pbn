@@ -16,7 +16,6 @@ og_description: How microgrants in Colombia are funding community projects, driv
   local development.
 og_image: /content/assets/colombia-microgrant.jpg
 ---
-# Empowering Communities: Microgrants and Local Development in Colombia
 
 ## Introduction: Seeds of Self-Reliance in the Andes
 

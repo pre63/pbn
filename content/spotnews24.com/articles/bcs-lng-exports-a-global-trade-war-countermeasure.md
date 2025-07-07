@@ -17,7 +17,7 @@ og_description: How BC’s LNG exports counter global trade war pressures, posit
 og_image: /content/assets/lng-exports.jpg
 ---
 
-*Spot News 24 Editorial*  
+
 
 In an era of escalating global trade tensions, where tariffs and sanctions threaten to upend supply chains, British Columbia emerges as a beacon of stability in the energy sector. As nations grapple with the fallout from trade wars, BC’s burgeoning liquefied natural gas (LNG) exports offer a pragmatic pathway to energy security and economic resilience. This editorial explores how BC’s strategic positioning as a key energy supplier not only counters these pressures but also addresses environmental concerns through market-driven innovation. Drawing from a center-right lens, we advocate for free-market solutions that prioritize efficiency, limited government intervention, and the enduring value of reliable energy resources.
 

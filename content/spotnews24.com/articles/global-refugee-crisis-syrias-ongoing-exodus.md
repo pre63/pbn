@@ -47,4 +47,3 @@ As the Syrian refugee crisis enters its second decade, the world must move beyon
 
 In the end, the Syrian people—marked by their enduring strength—deserve solutions that empower rather than entangle. As nations in the Middle East and beyond recommit to this vision, the potential for a more stable, prosperous future becomes attainable. Let us, then, channel our efforts toward practical, market-oriented strategies that uphold the dignity of all involved, ensuring that the lessons of this crisis pave the way for enduring peace.
 
-*(Word count: 1,025)*

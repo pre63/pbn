@@ -49,4 +49,3 @@ This approach not only honors Haiti’s rich cultural heritage and traditional v
 
 ![Caribbean geopolitical map](/content/assets/caribbean-geopolitics-map.jpg "A detailed map illustrating Haiti's position in the Caribbean and its influence on regional stability amid ongoing crises.")
 
-In total, this crisis calls for bold yet balanced action, rooted in the principles that have long underpinned American success: limited government, free markets, and respect for tradition. Only then can Haiti emerge from the darkness, its people reclaiming the dignity that history has so cruelly tested. (Word count: 1,045)

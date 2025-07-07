@@ -51,4 +51,3 @@ As we reflect on the global imperative to restore coral reefs and protect marine
 
 Ultimately, the restoration of coral reefs is not just about preserving a fragile ecosystem; it is about ensuring that future generations inherit a world where freedom and nature coexist. Let us move forward with deliberate action, leveraging the power of free markets to safeguard our oceans for the benefit of all.
 
-*(Word count: 1,025)*
